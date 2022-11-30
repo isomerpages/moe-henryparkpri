@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
-  - title: Contact Us
+  - title: About Us
     url: /contact-us/
-  - title: Example Page
+  - title: HPPS Experience
     url: /example-page/
-  - title: Example Folder
+  - title: Departments
+    collection: example-folder
+  - title: Circulars and Forms
+    collection: example-folder
+  - title: School Info
     collection: example-folder
