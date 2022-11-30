@@ -11,13 +11,13 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: News and Announcements
-          description: Important highlight A is important
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Calendar of Events
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: Useful Links
+          description: ""
           url: /privacy/
   - infobar:
       title: Infobar title
