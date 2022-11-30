@@ -10,7 +10,7 @@ sections:
       background: /images/VotedBanner_1.png
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
+        - title: News and Announcements
           description: Important highlight A is important
           url: https://google.com
         - title: Highlight B
