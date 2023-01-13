@@ -1,12 +1,23 @@
 logo: /images/sch badge.png
 links:
-  - title: About Us
-    url: /contact-us/
-  - title: HPPS Experience
-    url: /example-page/
-  - title: Departments
-    collection: example-folder
-  - title: Circulars and Forms
-    collection: example-folder
-  - title: School Info
-    collection: example-folder
+  - title: "About Us "
+    url: /permalink
+    sublinks:
+      - title: Principal's Message
+        url: /permalink
+      - title: School History
+        url: /permalink
+      - title: School Vision and Mission
+        url: /permalink
+      - title: School Motto and Values
+        url: /permalink
+      - title: School Crest and School Song
+        url: /permalink
+      - title: Staff
+        url: /permalink
+      - title: Contact Us
+        url: /permalink
+      - title: FAQ
+        url: /permalink
+      - title: Privacy Policy
+        url: /permalink
