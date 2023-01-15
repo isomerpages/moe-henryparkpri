@@ -2,6 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - English/.keep
-      - English/subfolder-page.md
+      - Mother Tongue/.keep
+      - Mother Tongue/subfolder-page.md
       - Science.md
