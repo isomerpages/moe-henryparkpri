@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SHINE.png
+      background: /images/hearfromstudents.png
       url: /contact-us/
       key_highlights:
         - title: News and Announcements
