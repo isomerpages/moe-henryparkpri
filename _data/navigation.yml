@@ -32,3 +32,18 @@ links:
         url: /permalink
       - title: CCAs
         url: /permalink
+  - title: Departments
+    url: /permalink
+    sublinks:
+      - title: English
+        url: /permalink
+      - title: Mathematics
+        url: /permalink
+      - title: Science
+        url: /permalink
+      - title: Mother Tongue
+        url: /permalink
+      - title: Gifted Education Programme
+        url: /permalink
+  - title: Departments
+    collection: example-folder
