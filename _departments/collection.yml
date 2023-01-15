@@ -1,5 +1,5 @@
 collections:
-  science:
+  departments:
     output: true
     order:
       - Useful Links.md
