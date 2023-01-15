@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  science:
     output: true
     order:
       - folder-page.md
