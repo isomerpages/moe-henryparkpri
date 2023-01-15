@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Henry Park Primary School-resized.jpg
+      background: /images/Henry Park Primary School Bldg1.png
       url: /contact-us/
       key_highlights:
         - title: News and Announcements
