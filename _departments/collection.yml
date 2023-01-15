@@ -2,6 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - English/.keep
+      - English/subfolder-page.md
       - Science.md
