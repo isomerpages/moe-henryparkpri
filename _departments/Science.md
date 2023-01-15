@@ -265,5 +265,3 @@ Science environmental blog
 --------------------------
 
 You may access our Science blog through this link. [hpps-science-environment.simplesite.com](http://www.hpps-science-environment.simplesite.com/)
-		
-		
