@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/.keep
       - Staff/.keep
       - Staff/School Leaders.md
       - Staff/Key Personnel.md
