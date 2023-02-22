@@ -2,6 +2,7 @@ collections:
   circulars-and-forms:
     output: true
     order:
+      - P5 Term Letters and Briefing Notes.md
       - P4 Term Letters and Briefing Notes.md
       - P3 Term Letters and Briefing Notes.md
       - P2 Term Letters and Briefing Slides.md
