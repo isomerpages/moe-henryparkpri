@@ -2,5 +2,6 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Applied Learning Programme/Green School.md
       - Applied Learning Programme/Applied Learning Programme.md
       - Applied Learning Programme/.keep
