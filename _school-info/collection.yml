@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - Updating of Student's Address.md
       - Leave of Absence (Online Application Form).md
       - School Wait List (Application Form).md
       - Financial Assistance.md
