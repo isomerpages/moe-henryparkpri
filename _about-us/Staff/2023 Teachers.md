@@ -578,3 +578,107 @@ third_nav_title: Staff
 </table>
 
 <h3>GEP</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fy9d{background-color:#FFF;color:#241102;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-bbr4{background-color:#FFF;color:#241102;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fy9d">Teachers</th>
+    <th class="tg-fy9d">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mrs Irene Tan</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">irene_tan_seng_chew@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mrs Norah Idil</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">shariffah_norah_abdul_kadir@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mr Ng Eng Peng</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">ng_eng_peng@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Ms Tai Siew Ngee</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">tai_siew_ngee@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mdm Yang Lan</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">yang_lan@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Ms Yuan Wenjing</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">yuan_wenjing@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mdm Rosaidah Ghazali</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">rosaidah_ghazali@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mr Collin Sebastian</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">collin_keith_sebastian@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mrs Seow Jian Jian</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">chin_jian_jian@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Miss Shahana Shereene</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">shahana_shereene@moe.edu.sg</span><br></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mr Yip Yew Fei</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">yip_yew_fei@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Ms Siti Sharah</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">siti_sharah_amat_sam@moe.edu.sg</span></td>
+  </tr>
+</tbody>
+</table>
+
+<h3>Allied Educators</h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4jzy{color:#241102;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-r14f{color:#241102;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-4jzy">Teachers</th>
+    <th class="tg-4jzy">Appointment</th>
+    <th class="tg-4jzy">Email Address</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-r14f"><span style="font-weight:400;color:#241102">Ms Chong Pei Shan</span></td>
+    <td class="tg-r14f"><span style="font-weight:400;color:#241102">AED/Counsellor</span></td>
+    <td class="tg-r14f"><span style="font-weight:400;color:#241102">chong_pei_shan@moe.edu.sg</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"> Ms Nurain Ismail</td>
+    <td class="tg-nrix"> AED/LBS</td>
+    <td class="tg-nrix">nurain_ismail@moe.edu.sg </td>
+  </tr>
+</tbody>
+</table>
+
+
