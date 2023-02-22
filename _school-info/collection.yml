@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - School Dental Service.md
       - School Bus Service.md
       - School Safety and Security.md
       - School Rules and Regulations (Updated on 9 Feb 2021).md
