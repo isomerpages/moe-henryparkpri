@@ -1,4 +1,5 @@
 collections:
   school-info:
     output: true
-    order: []
+    order:
+      - MOE Student Details Form Online Portal.md
