@@ -1,5 +1,5 @@
 collections:
-  hpps-experience:
+  distinctive-programmes:
     output: true
     order:
       - Applied Learning Programme.md
