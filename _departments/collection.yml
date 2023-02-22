@@ -1,9 +1,0 @@
-collections:
-  departments:
-    output: true
-    order:
-      - Mathematics.md
-      - English.md
-      - Mother Tongue/.keep
-      - Mother Tongue/Chinese.md
-      - Science.md
