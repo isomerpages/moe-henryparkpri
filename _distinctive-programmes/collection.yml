@@ -2,4 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Applied Learning Programme/Applied Learning Programme.md
       - Applied Learning Programme/.keep
