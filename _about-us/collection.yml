@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contact Us/Feedback and Enquiries.md
       - Contact Us/School Contact and Location.md
       - Contact Us/.keep
       - Staff/.keep
