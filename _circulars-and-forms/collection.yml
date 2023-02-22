@@ -1,4 +1,5 @@
 collections:
   circulars-and-forms:
     output: true
-    order: []
+    order:
+      - Principal Letter to Parents.md
