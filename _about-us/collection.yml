@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - School Vision and Mission.md
       - Principal's Message.md
