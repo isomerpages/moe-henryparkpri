@@ -2,5 +2,6 @@ collections:
   partnerships:
     output: true
     order:
+      - HPPA.md
       - SAC.md
       - Alumni.md
