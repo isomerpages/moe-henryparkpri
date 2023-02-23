@@ -2,6 +2,7 @@ collections:
   hpps-experience:
     output: true
     order:
+      - CCAs/CCA Registration 2023.md
       - CCAs/CCA Announcements 2023.md
       - CCAs/2023 List of CCAs.md
       - CCAs/2023 CCA Schedule.md
