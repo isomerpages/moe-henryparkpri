@@ -2,6 +2,7 @@ collections:
   partnerships:
     output: true
     order:
+      - Parent Volunteer Scheme.md
       - Family Matters@School.md
       - HPPA.md
       - SAC.md
