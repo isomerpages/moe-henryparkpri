@@ -2,5 +2,6 @@ collections:
   hpps-experience:
     output: true
     order:
+      - CCAs/2023 List of CCAs.md
       - CCAs/2023 CCA Schedule.md
       - CCAs/.keep
