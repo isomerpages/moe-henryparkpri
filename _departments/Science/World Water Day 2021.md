@@ -4,9 +4,8 @@ permalink: /departments/science/world-water-day-2021/
 description: ""
 third_nav_title: Science
 ---
-  
-World Water Day 2021
-=======================
+### World Water Day 2021
+
 
 World Water Day is held on 22 March, a day designated by the United Nations to highlight the importance of water sustainability. It reminds us of the water challenges that people face around the world, and that water is an essential resource that we should cherish and protect.
 
