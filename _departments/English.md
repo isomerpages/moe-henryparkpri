@@ -49,3 +49,10 @@ To spark the joy of reading, students in Primary 1 and 2 dress up as their favou
      style="width:70%">
 <img src="/images/EL%205.png" 
      style="width:70%">
+		 
+##### ENGLISH ORATORICAL CLUB
+
+This Co-Curricular Activity aims to develop the confidence and persuasive skills in the oral communication skills of the verbally talented students. It also aims to develop research and critical thinking skills through the rigour of preparation involved in formal debating. Selected students are given training and opportunities to participate in competitions.
+
+<img src="/images/EL%206.png" 
+     style="width:70%">
