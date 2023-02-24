@@ -20,3 +20,13 @@ The Primary 3 and 4 pupils were given the option of creating either a poster or 
      style="width:65%">
 <img src="/images/P3-7.png" 
      style="width:65%">
+		 
+
+<img src="/images/P4-1.png" 
+     style="width:65%">
+<img src="/images/P4-2.png" 
+     style="width:65%">
+<img src="/images/P4-3.png" 
+     style="width:65%">
+<img src="/images/P4-4.png" 
+     style="width:65%">
