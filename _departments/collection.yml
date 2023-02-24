@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Science/Primary 3 & 4.md
       - Science/Primary 1 & 2.md
       - Science/World Water Day 2021.md
       - Science/Useful Links.md
