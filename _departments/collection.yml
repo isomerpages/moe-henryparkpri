@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Gifted Education Programme/GEP VIA.md
       - Gifted Education Programme/GEP CEP.md
       - Gifted Education Programme/GEP IvP.md
       - Gifted Education Programme/GEP IRS.md
