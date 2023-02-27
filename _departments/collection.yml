@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Gifted Education Programme/GEP Chinese.md
       - Gifted Education Programme/GEP Science.md
       - Gifted Education Programme/GEP Mathematics.md
       - Gifted Education Programme/GEP English.md
