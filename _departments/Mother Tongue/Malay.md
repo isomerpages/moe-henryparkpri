@@ -19,3 +19,7 @@ third_nav_title: Mother Tongue
 
 
 Students are encouraged to read books to lay a strong foundation in their Malay language learning and to build up their vocabulary. Activities conducted include a Creative Reading Competition for all levels. That apart, they are encouraged to share their stories with their classmates and this has helped them to be more confident in using the Malay language.
+
+
+<img src="/images/ml1.png" 
+     style="width:25%">
