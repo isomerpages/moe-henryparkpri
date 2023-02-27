@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Gifted Education Programme/Gifted Education Programme.md
       - Gifted Education Programme/.keep
       - Mother Tongue/.keep
       - Mother Tongue/Chinese.md
