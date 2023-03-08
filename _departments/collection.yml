@@ -2,6 +2,20 @@ collections:
   departments:
     output: true
     order:
+      - English.md
+      - Mathematics.md
+      - Science/.keep
+      - Science/Primary 5 & 6.md
+      - Science/Primary 3 & 4.md
+      - Science/Primary 1 & 2.md
+      - Science/World Water Day 2021.md
+      - Science/Useful Links.md
+      - Science/Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Chinese.md
+      - Mother Tongue/Malay.md
+      - Mother Tongue/Tamil.md
+      - Gifted Education Programme/.keep
       - Gifted Education Programme/GEP Events.md
       - Gifted Education Programme/GEP VIA.md
       - Gifted Education Programme/GEP CEP.md
@@ -14,17 +28,3 @@ collections:
       - Gifted Education Programme/GEP English.md
       - Gifted Education Programme/GEP Schedule.md
       - Gifted Education Programme/Gifted Education Programme.md
-      - Gifted Education Programme/.keep
-      - Mother Tongue/.keep
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/Malay.md
-      - Mother Tongue/Tamil.md
-      - Science/Primary 5 & 6.md
-      - Science/Primary 3 & 4.md
-      - Science/Primary 1 & 2.md
-      - Science/World Water Day 2021.md
-      - Science/Useful Links.md
-      - Science/Science.md
-      - Science/.keep
-      - Mathematics.md
-      - English.md
