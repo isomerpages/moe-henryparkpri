@@ -2,13 +2,13 @@ collections:
   hpps-experience:
     output: true
     order:
-      - Students' Suggestions Scheme.md
-      - Students Achievements/Student Achievements 2023.md
-      - Students Achievements/.keep
-      - Events/Walk For Joy 2022.md
-      - Events/.keep
       - CCAs/.keep
       - CCAs/2023 CCA Schedule.md
       - CCAs/2023 List of CCAs.md
       - CCAs/CCA Announcements 2023.md
       - CCAs/CCA Registration 2023.md
+      - Events/.keep
+      - Events/Walk For Joy 2022.md
+      - Students Achievements/.keep
+      - Students Achievements/Student Achievements 2023.md
+      - Students' Suggestions Scheme.md
