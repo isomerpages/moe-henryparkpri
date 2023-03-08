@@ -11,8 +11,7 @@ third_nav_title: ICT
   
 The ICT Department seeks to empower teachers and pupils as effective ICT users and to provide a distinctive educational experience through ICT. In support of 21st century competencies, the department also leverages on ICT to create an innovative and vibrant teaching and learning environment where our students are empowered with self-directed learning and collaborative skills, which underpin the goals of the ICT department.
 
-<img src="/images/ICT%20Framework.png" 
-     style="width:70%">
+<img style="width:70%" src="/images/ICT%20Framework.png">
 
 ### ICT Programmes
 
@@ -38,8 +37,7 @@ As peer leaders and role models, the Cyber Heroes gain the respect of their peer
 
 Henry Park Primary School Media Resource Library has built up a series of MRL interactive activities for students to participate in so that this will attract more students to come into the library and read more books. Such activities include speed reading in both MT and EL languages, blind date with a book, green screen activities, peek-a-boo activity, etc. We also have new MRL facilities such as colourful mats and MRL TV for students' comfort in reading and students to get more information on library activities. These activities have successfully attracted students to come and participate more in MRL activities as well as encouraged students to borrow more books to read.
 
-<img src="/images/ICT%202.png" 
-     style="width:70%">
+<img style="width:70%" src="/images/ICT%202.png">
 		 
 ### Events
 
@@ -50,3 +48,5 @@ The Cyber Heroes, facilitated by the Cyber Wellness Coordinators, organised the 
 The theme for Cyber Wellness Bazaar 2019 is ‘Building Safe and Meaningful Cyber Relationships’. Grounded in the Cyber Wellness Framework’s three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’, a wide variety of activities were carried out such as sharing sessions during morning assembly, activity booths during recess, classroom discussions during Cyber Wellness lessons.
 
 This annual Cyber Wellness event aims to spread positive Cyber Wellness messages and equip the student community with the knowledge and skills in navigating the cyberspace and be safe and responsible digital citizens.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJG0Dt5KeCPc6HBl5xAf86kPkkH1cRoHY9AT6LGmxFEyIHepuClTw4f4a36XjplguHiS6x4FryfD5U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
