@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - ICT/Cyber Wellness.md
-      - ICT/Information and Communication Technology.md
       - ICT/.keep
+      - ICT/Information and Communication Technology.md
+      - ICT/Cyber Wellness.md
       - English.md
       - Mathematics.md
       - Science/.keep
