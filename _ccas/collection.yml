@@ -1,4 +1,5 @@
 collections:
   ccas:
     output: true
-    order: []
+    order:
+      - 2023 CCA Schedule.md
