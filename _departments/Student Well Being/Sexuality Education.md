@@ -48,3 +48,101 @@ b.       Character and Citizenship Education (CCE)
 7.  Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
  **At Henry Park Primary School, the following lessons from the Growing Years Programme will be taught in 2023:**
+ 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-bbr4{background-color:#FFF;color:#241102;text-align:center;vertical-align:top}
+.tg .tg-u9ea{background-color:#D9D9D9;color:#241102;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-udiq{background-color:#FFF;color:#241102;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Primary 5</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u9ea"><span style="color:black">CCE(FTGP) THEME</span></td>
+    <td class="tg-u9ea"><span style="color:black">LESSON TITLE / DURATION</span></td>
+    <td class="tg-u9ea"><span style="color:black">LESSON OVERVIEW</span></td>
+    <td class="tg-u9ea"><span style="color:black">TIME PERIOD</span><br><span style="color:black">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4" rowspan="3">Growing Years</td>
+    <td class="tg-bbr4">The Changes in Me<br>(60 min)</td>
+    <td class="tg-udiq">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-bbr4">Term 1</td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4"> Did You Know?<br>(60 min)<br> </td>
+    <td class="tg-udiq">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-bbr4">Term 2</td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4">Keeping Myself Safe<br>(60 min)<br> </td>
+    <td class="tg-udiq">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-bbr4">Term 3</td>
+  </tr>
+</tbody>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-bbr4{background-color:#FFF;color:#241102;text-align:center;vertical-align:top}
+.tg .tg-u9ea{background-color:#D9D9D9;color:#241102;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-udiq{background-color:#FFF;color:#241102;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh" colspan="4"><span style="font-weight:bold">Primary 6</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-u9ea"><span style="color:black">CCE(FTGP) THEME</span></td>
+    <td class="tg-u9ea"><span style="color:black">LESSON TITLE / DURATION</span></td>
+    <td class="tg-u9ea"><span style="color:black">LESSON OVERVIEW</span></td>
+    <td class="tg-u9ea"><span style="color:black">TIME PERIOD</span><br><span style="color:black">(e.g. Term 1 Week 2)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4" rowspan="3">Growing Years</td>
+    <td class="tg-bbr4">Are We More than Friends?<br>Lesson 1<br>(60 min)</td>
+    <td class="tg-udiq">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+    <td class="tg-bbr4">Term 1</td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4">Are We More than Friends?<br>Lesson 2<br>(60 min)</td>
+    <td class="tg-udiq">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
+    <td class="tg-bbr4">Term 2</td>
+  </tr>
+  <tr>
+    <td class="tg-bbr4">Did You Know? *<br>(60 min)<br> <br> </td>
+    <td class="tg-udiq">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’.<br> <br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
+    <td class="tg-bbr4">Term 3</td>
+  </tr>
+</tbody>
+</table>
+
+##### Please Note:
+
+**For 2023, the Primary 5 lesson “_Did You Know_?” will also be conducted for the Primary 6 cohort.** 
+
+**Information for Parents**
+
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
+
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form is downloadable [here](/files/Parents%20Opt%20Out%20Form.pdf). The completed opt-out form is to be submitted by 15/02/2023.
+
+10. Parents can contact the school at [hpps@moe.edu.sg](mailto:hpps@moe.edu.sg) or 64663600 for discussion or to seek clarification about the school’s Sexuality Education programme.
