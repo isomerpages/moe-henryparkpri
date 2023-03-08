@@ -119,3 +119,8 @@ To complement the Cyber Wellness curriculum in HPPS, we encourage parents to:
 
  
 For more information and the latest update of Cyber Wellness issues and parental tips, please refer to the following resources.
+
+<img src="/images/cw1.png" 
+     style="width:60%">
+<img src="/images/cw%202.png" 
+     style="width:60%">
