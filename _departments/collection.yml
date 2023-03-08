@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Innovation and Data Management.md
       - Character and Citizenship Education.md
       - PE, Aesthetics and CCA/Aesthetics.md
       - PE, Aesthetics and CCA/PE.md
