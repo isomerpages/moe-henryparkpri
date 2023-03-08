@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - PE, Aesthetics and CCA/.keep
       - Student Well Being/.keep
       - Student Well Being/Student Well–Being.md
       - Student Well Being/Sexuality Education.md
