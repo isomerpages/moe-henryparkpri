@@ -4,9 +4,8 @@ permalink: /about-us/principals-message/
 description: ""
 image: ""
 ---
-
 <img src="/images/Mr%20Charles%20Chan.png" 
-     style="width:40%">
+     style="width:30%">
 		 
 I am honoured and proud to be part of a school which has such an illustrious history. I look forward to build on the good work and achievements that have been made possible by the hard work and effort of our school staff and previous school leaders. I hope that you and your child will feel the same pride of being in this school as you journey with us on to best support your child’s education pathway.
 
