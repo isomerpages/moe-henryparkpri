@@ -1,30 +1,7 @@
 logo: /images/sch badge.png
 links:
-  - title: "About Us "
-    url: /permalink
-    sublinks:
-      - title: Principal's Message
-        url: /principalsmessage/
-      - title: Vision & Mission
-        url: /permalink
-      - title: Motto and Values
-        url: /permalink
-      - title: School Crest and School Song
-        url: /permalink
-      - title: School Leaders
-        url: /permalink
-      - title: Key Personnel
-        url: /permalink
-      - title: 2023 Teachers
-        url: /permalink
-      - title: School Admin Team
-        url: /permalink
-      - title: Privacy Policy
-        url: /permalink
-      - title: Contact Us
-        url: /permalink
-      - title: FAQ
-        url: /permalink
+  - title: About Us
+    collection: about-us
   - title: HPPS Experience
     url: /hpps-experience/distinctive-programmes/applied-learning-programme/
     sublinks:
