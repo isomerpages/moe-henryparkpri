@@ -22,7 +22,7 @@ The Aesthetics Enrichment Exposure Programme (AEEP) aims to provide pupils with 
 
 During the first two years, students are introduced to the fundamental essentials of music making. They will be exposed to simple note playing with the Erhu. Students will be engaged in music and movement lessons to build up their sense of rhythm. In Art, students are introduced to Elements of Arts via drawing with oil pastels and poster painting.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8YAoLuT-P1X6gztFaAPWhqLbE4w-BomtybLuxR1Zu6LWYBdhbqPxsnaq6TARH7qQtKDovMyiIaI9p/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8YAoLuT-P1X6gztFaAPWhqLbE4w-BomtybLuxR1Zu6LWYBdhbqPxsnaq6TARH7qQtKDovMyiIaI9p/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 
 **PRIMARY 3 AND 4**
 
@@ -34,8 +34,14 @@ Students proceed from music theory knowledge to music composition and music perf
 
 During art lessons, students participate in art making with creative art mediums.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTnwz1o7h6zXIGQKHd8VMHhT7qV85x-wkSCE7a25KUVC5YXZ7RQWaHOTX_Acs_6w189m9GsxMC4SP1d/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTnwz1o7h6zXIGQKHd8VMHhT7qV85x-wkSCE7a25KUVC5YXZ7RQWaHOTX_Acs_6w189m9GsxMC4SP1d/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### EVENTS
 
 **Music Busking**
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEvpUU3x4py82_NkxJZ0eprZC7po3787BoqNloRBsDhJfTJSYhf6Erntg_2nUlUoFBJ_tjJni-YomT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+
+**Art Exhibitions**
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUXm_Pk7f0WKZ39_jSQTAmGl8aXMdgcAVDKH0AC7VrezDOGZm1hGgvXrzGhpSv8mRG0dmtU8PgiRJ7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
