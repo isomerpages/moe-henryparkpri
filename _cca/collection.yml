@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - English Oratorical Club.md
       - Chess Club.md
       - Art Club.md
       - CCA.md
