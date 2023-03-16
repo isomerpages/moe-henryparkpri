@@ -2,18 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Innovation and Data Management.md
-      - Character and Citizenship Education.md
-      - PE, Aesthetics and CCA/Aesthetics.md
-      - PE, Aesthetics and CCA/PE.md
-      - PE, Aesthetics and CCA/PE, Aesthetics and CCA.md
-      - PE, Aesthetics and CCA/.keep
-      - Student Well Being/.keep
-      - Student Well Being/Student Well–Being.md
-      - Student Well Being/Sexuality Education.md
-      - ICT/.keep
-      - ICT/Information and Communication Technology.md
-      - ICT/Cyber Wellness.md
       - English.md
       - Mathematics.md
       - Science/.keep
@@ -40,3 +28,15 @@ collections:
       - Gifted Education Programme/GEP English.md
       - Gifted Education Programme/GEP Schedule.md
       - Gifted Education Programme/Gifted Education Programme.md
+      - ICT/.keep
+      - ICT/Information and Communication Technology.md
+      - ICT/Cyber Wellness.md
+      - Student Well Being/.keep
+      - Student Well Being/Student Well–Being.md
+      - Student Well Being/Sexuality Education.md
+      - PE, Aesthetics and CCA/.keep
+      - PE, Aesthetics and CCA/Aesthetics.md
+      - PE, Aesthetics and CCA/PE.md
+      - PE, Aesthetics and CCA/PE, Aesthetics and CCA.md
+      - Character and Citizenship Education.md
+      - Innovation and Data Management.md
