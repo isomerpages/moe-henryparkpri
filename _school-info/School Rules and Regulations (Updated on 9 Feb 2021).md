@@ -3,7 +3,6 @@ title: School Rules and Regulations (Updated on 9 Feb 2021)
 permalink: /school-info/school-rules-and-regulations-updated-on-9-feb-2021/
 description: ""
 ---
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -25,10 +24,10 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-udiq" rowspan="2">2.</td>
-    <td class="tg-jxof">Uniform And Attire<br><span style="background-color:transparent">Students are to wear the prescribed school uniform and modification to the uniforms is not allowed.</span><br><span style="background-color:transparent">School shoes must be white in colour. Request for alternative footwear must be accompanied by a doctor’s letter.</span><br>Students are expected to be in full school attire before the flag raising ceremony.<br><img src="/images/school%20uniform.jpg" alt="schooluniform.jpg"><br><br></td>
+		<td class="tg-jxof"><b>Uniform And Attire</b><br><span style="background-color:transparent">Students are to wear the prescribed school uniform and modification to the uniforms is not allowed.</span><br><span style="background-color:transparent">School shoes must be white in colour. Request for alternative footwear must be accompanied by a doctor’s letter.</span><br>Students are expected to be in full school attire before the flag raising ceremony.<br><img src="/images/school%20uniform.jpg" alt="schooluniform.jpg" style="width:50%"><br><br></td>
   </tr>
   <tr>
-    <td class="tg-udiq"><br><span style="background-color:initial">Hairstyles</span><br><br><br><img src="/images/hairstyle.jpg" alt="hairstyle.jpg"><br><br><br><br><br><br>For girls, long hair must be tied up as shown above. Only black, brown or navy blue hair accessories are allowed.<br>For both boys and girls, short hair must be above the collar.<br>Male students are to be clean-shaven. No facial hair is allowed to be kept.<br></td>
+		<td class="tg-udiq"><br><span style="background-color:initial"><b>Hairstyles</b></span><br><br><br><img src="/images/hairstyle.jpg" alt="hairstyle.jpg" style="width:50%"><br><br><br><br><br><br>For girls, long hair must be tied up as shown above. Only black, brown or navy blue hair accessories are allowed.<br>For both boys and girls, short hair must be above the collar.<br>Male students are to be clean-shaven. No facial hair is allowed to be kept.<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> </td>
