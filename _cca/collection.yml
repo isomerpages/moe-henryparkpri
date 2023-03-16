@@ -2,5 +2,6 @@ collections:
   cca:
     output: true
     order:
+      - Chess Club.md
       - Art Club.md
       - CCA.md
