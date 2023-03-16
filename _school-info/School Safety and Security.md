@@ -53,8 +53,7 @@ The routes vehicles are to use are described in **[Appendix 1 (Traffic Flow in 
 *   Vehicles enter from Gate 2 or Gate 4 during the stipulated hours. Buses enter from Gate 4.
 *   For vehicles coming in from Gate 2, students alight in front of the General Office. For vehicles coming in from Gate 4, drivers are to stop in front of the Security Guards or Traffic Marshalls at the bus bay.
 
-**  
-Safe Routes for Pedestrians**  
+**Safe Routes for Pedestrians**  
 
 *   Pedestrians enter and leave the school through the route described in **[Appendix 2 (HPPS Safe Route)](/files/HPPS%20Safe%20Route_Appendix%202_amended%2019%20Apr.pdf)**  
     
