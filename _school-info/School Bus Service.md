@@ -3,9 +3,9 @@ title: School Bus Service
 permalink: /school-info/school-bus-service/
 description: ""
 ---
-KAL T&T Services  
+**KAL T&T Services**
  
-Please contact Senior Manager, Mr Patrick Chua on School Bus transport matters.  
+Please contact Senior Manager, Mr Patrick Chua on School Bus transport matters.  <br>
 If you are unable to contact Patrick via call, please send him a message via sms.  
   
 
