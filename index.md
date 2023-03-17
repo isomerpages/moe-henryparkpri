@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hearfromstudents.png
+      background: /images/hero image.gif
       key_highlights:
         - title: News and Announcements
           description: ""
