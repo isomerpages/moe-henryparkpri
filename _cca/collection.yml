@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Scouts.md
       - Girls' Brigade.md
       - Brownies.md
       - Track and Field.md
