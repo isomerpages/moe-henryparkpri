@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Badminton.md
       - String Ensemble.md
       - Contemporary Dance.md
       - Chinese Orchestra.md
