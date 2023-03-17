@@ -2,12 +2,12 @@ collections:
   about-us:
     output: true
     order:
-      - THRIVE.md
       - Principal's Message.md
       - School History.md
       - School Vision and Mission.md
       - School Motto and Values.md
       - School Crest and School Song.md
+      - THRIVE.md
       - Staff/.keep
       - Staff/School Leaders.md
       - Staff/Key Personnel.md
