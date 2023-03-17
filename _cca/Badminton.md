@@ -15,3 +15,6 @@ The Badminton Training Team CCA members train twice a week with the goal of repr
 **Badminton Recreational Team**  
   
 The Recreational Badminton CCA provides members with the opportunity to learn basic skills and techniques of the sport such as service, basic strokes and footwork necessary for them to play an enjoyable game with their friends.  Teachable moments occurring out of CCA activities are seized to teach the school values of RICE to the members.  Through game play, members learn the importance of resilience and teamwork. Valuable friendships are also built as our members interact with each other regularly.  In pursuing sporting excellence, some students are given the opportunity to join the school training team if they perform well at a selection trial.
+
+<img src="/images/badminton%202.png" 
+     style="width:75%">
