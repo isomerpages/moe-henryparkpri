@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Chinese Orchestra.md
       - Chinese Dance.md
       - CCA.md
       - Art Club.md
