@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/hearfromstudents.png
-      url: /contact-us/
       key_highlights:
         - title: News and Announcements
           description: ""
@@ -18,7 +17,7 @@ sections:
           url: https://gmail.com
         - title: Useful Links
           description: ""
-          url: /privacy/
+          url: /useful-links/
   - infobar:
       url: /faq/
 ---
