@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero image.gif
       key_highlights:
         - title: News and Announcements
           description: ""
@@ -19,4 +18,3 @@ sections:
           description: ""
           url: /useful-links/
 ---
-
