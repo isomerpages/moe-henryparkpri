@@ -3,7 +3,7 @@ url: https://www.henryparkpri.com
 favicon: /images/sch badge.png
 colors:
   primary-color: "#6c3916"
-  secondary-color: "#f8e71c"
+  secondary-color: "#080808"
   media-colors:
     - title: media-color-one
       color: "#49759a"
