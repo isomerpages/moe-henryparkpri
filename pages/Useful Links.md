@@ -7,7 +7,7 @@ description: ""
 
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 *   [Student iCON](https://workspace.google.com/dashboard) 
-*   [IMTL](https://imtl.moe.edu.sg/cos/o.x?c=/ca7_imtl/user&func=login)
+
 *   [MySkillsFuture Student Portal](https://myskillsfuture.gov.sg/)
 *   [Student's Suggestion](https://goo.gl/forms/UGXwIkzbzdlH7uxi1)
 
