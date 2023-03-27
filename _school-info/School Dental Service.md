@@ -5,16 +5,13 @@ description: ""
 ---
 ##### Dental Clinic Announcements 
 
-Below are the opening dates for the school dental clinic for Feb 2023:
+Below are the opening dates for the school dental clinic for March 2023:
 
-**- 1st to 3rd Feb**
+**- 6th to 10th March (closed on 9th March afternoon)**
 
-**- 13th to 17th Feb**
+**- 13th March**
 
-**- 27th Feb to 2nd Mar**
-
-**- 3rd Mar (closed in the afternoon)**
-
+**- 27th to 31st March**
 
 
 In case of clinic closure, parents are able to call the buddy clinics at 9114 2186 (Bukit Panjang Primary School) or 8764 7361 (Fairfield Methodist Primary School) to make appointments.
@@ -31,4 +28,4 @@ Monday - Thursday <br>
 (Lunch break: 12.30 p.m.-1.30 p.m.) <br>
 Friday<br>
 8:00 a.m. - 5:00 p.m. <br>
-(Lunch break: 12.30 p.m.-1.30 p.m.) 
+(Lunch break: 12.30 p.m.-1.30 p.m.)
