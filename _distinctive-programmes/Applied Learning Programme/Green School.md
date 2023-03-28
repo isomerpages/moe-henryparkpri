@@ -106,17 +106,42 @@ Similarly, HPPS hopes to foster specific skills, and competencies in our student
 
 **G**rowing Environment Leaders
 
-Collaboration with community (Hillview Connections) to learn about making Eco Enzymes
+* Collaboration with community (Hillview Connections) to learn about making Eco Enzymes
+* Reaching out to the community to share their initiative of cutting down on the use of plastic bags.
+* Playing the role of Environmental Leaders at Maker Extravaganza 2019
+* Going through the experience of theme based “Amazing Race” so as to equip themselves with the skills to come up with one in school.
+* Presenting to the school community on environmental issues
+* Reaching out to the community through the news
+* Students attending workshops (Environment Champions, Community in Nature Ambassadors)
 
-Reaching out to the community to share their initiative of cutting down on the use of plastic bags.
 
-Playing the role of Environmental Leaders at Maker Extravaganza 2019
+**R**educing Waste
 
-Going through the experience of theme based “Amazing Race” so as to equip themselves with the skills to come up with one in school.
+* Food waste recycling
+* Recycling Initiatives to create awareness through visual reminders
+* Recycling Facilities (Paper, Plastic, Cans, Tetra Paks, e-Waste)
 
+**E**co Friendly Facilities
 
-Presenting to the school community on environmental issues
+* Use of solar panels
+* Hydroponics facilities
+* Food Waste Recycling Machine
+* Noticeboards to share with students the water and energy and their conservation
 
-Reaching out to the community through the news
+**E**nhancing Biodiversity
 
-Students attending workshops (Environment Champions, Community in Nature Ambassadors)
+* Flower Garden
+* Eco Pond
+* Fern Garden
+* Edible Garden
+* Terrarium
+* Around the school
+
+**N**urturing a Caring School
+
+* Commemoration of World Water Day
+* Commemoration of Earth Week
+* Commemoration of No Plastic Week
+* (Reaching out to the community) Tree Planting at Pine Grove NC
+* (Reaching out to the community) Wall Mural Painting at Van Kleef Centre
+*  Adoption of Sungei Ulu Pandan and Annual Litter Picking at the vicinity
