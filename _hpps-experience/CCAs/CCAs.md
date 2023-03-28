@@ -431,3 +431,8 @@ _Nil_
 
 **Track and Field** <br>
 _Nil_
+
+
+**2023 CCA Registration**
+
+To enquire on the registration of a CCA, please email Ms Chin Lian Mei at [chin_lian_mei@moe.edu.sg](mailto:chin_lian_mei@moe.edu.sg).
