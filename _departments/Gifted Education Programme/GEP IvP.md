@@ -21,9 +21,6 @@ At the end of the programme, pupils will then go on to take part in the prestigi
 
 IvP is open to Primary 5 and Secondary 2 pupils in selected schools who have an interest in innovation and invention.
 
-For more information, you can visit:
-[**http://www.gebsp.moe.gov.sg/IvP/index.htm**](http://www.gebsp.moe.gov.sg/IvP/index.htm)
-
 
 <figure>
 <img src="/images/1%20Creating%20Prototype.jpg">
