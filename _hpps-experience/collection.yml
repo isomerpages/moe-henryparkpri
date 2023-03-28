@@ -2,15 +2,15 @@ collections:
   hpps-experience:
     output: true
     order:
-      - eYearbook 2022.md
-      - CCAs/CCAs.md
       - CCAs/.keep
+      - CCAs/CCAs.md
       - CCAs/2023 CCA Schedule.md
       - CCAs/2023 List of CCAs.md
       - CCAs/CCA Announcements 2023.md
       - CCAs/CCA Registration 2023.md
-      - Events/eYearbook 2022.md
+      - eYearbook 2022.md
       - Events/.keep
+      - Events/eYearbook 2022.md
       - Students Achievements/.keep
       - Students Achievements/Student Achievements 2023.md
       - Students' Suggestions Scheme.md
