@@ -9,7 +9,7 @@ their financial background. Students who wish to apply for MOE Financial Assista
 
 All application forms must be submitted together with the relevant documents to General Office directly.  
   
-For more information on MOE FAS, please refer to the [**Frequently Asked Questions**](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=32819&utm_source=moe-corp-site&utm_medium=referral&_ga=2.99276766.1791895176.1550106530-442561586.1542171218).  
+For more information on MOE FAS, please refer to the [MOE FAS Webpage](https://www.moe.gov.sg/financial-matters/financial-assistance).  
   
 Income Family Micro-Insurance and Savings Scheme (IFMISS) covers eligible families receiving financial assistance from  
 MOE FAS for Primary Schools in times of need when death or total and permanent disability occurs to a parent or guardian.  
