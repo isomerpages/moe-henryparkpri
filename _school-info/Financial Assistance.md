@@ -16,6 +16,4 @@ MOE FAS for Primary Schools in times of need when death or total and permanent d
 Please click [**here**](https://va.ecitizen.gov.sg/cfp/customerPages/moe/explorefaq.aspx?Category=32819&utm_source=moe-corp-site&utm_medium=referral&_ga=2.99276766.1791895176.1550106530-442561586.1542171218) for more information.  
   
 
-Students who need additional help can approach General Office, email to [**hpps@moe.edu.sg**](mailto:hpps@moe.edu.sg) or contact the school at  
-
-6466 3600 for further financial assistance.
+Students who need additional help can approach General Office, email to [**hpps@moe.edu.sg**](mailto:hpps@moe.edu.sg) or contact the school at  6466 3600 for further financial assistance.
