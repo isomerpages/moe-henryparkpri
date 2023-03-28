@@ -1,0 +1,9 @@
+collections:
+  hpps-experience:
+    output: true
+    order:
+      - CCAs.md
+      - eYearbook 2022.md
+      - Students Achievements/.keep
+      - Students Achievements/Student Achievements 2023.md
+      - Students' Suggestions Scheme.md

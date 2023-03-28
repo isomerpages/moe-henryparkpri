@@ -1,0 +1,11 @@
+collections:
+  circulars-and-forms:
+    output: true
+    order:
+      - Principal Letter to Parents.md
+      - P1 Term Letters and Briefing Notes.md
+      - P2 Term Letters and Briefing Slides.md
+      - P3 Term Letters and Briefing Notes.md
+      - P4 Term Letters and Briefing Notes.md
+      - P5 Term Letters and Briefing Notes.md
+      - P6 Term Letters and Briefing Notes.md

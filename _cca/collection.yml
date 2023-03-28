@@ -1,0 +1,24 @@
+collections:
+  cca:
+    output: true
+    order:
+      - CCA.md
+      - Art Club.md
+      - Chess Club.md
+      - English Oratorical Club.md
+      - Science Club.md
+      - Chinese Dance.md
+      - Chinese Orchestra.md
+      - Contemporary Dance.md
+      - String Ensemble.md
+      - Badminton.md
+      - Football.md
+      - Gymnastics.md
+      - Multi Sports.md
+      - Netball.md
+      - Table Tennis.md
+      - Tennis.md
+      - Track and Field.md
+      - Brownies.md
+      - Girls' Brigade.md
+      - Scouts.md

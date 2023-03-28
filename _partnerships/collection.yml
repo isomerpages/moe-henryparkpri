@@ -1,0 +1,9 @@
+collections:
+  partnerships:
+    output: true
+    order:
+      - Alumni.md
+      - SAC.md
+      - HPPA.md
+      - Family Matters@School.md
+      - Parent Volunteer Scheme.md

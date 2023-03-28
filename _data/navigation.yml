@@ -1,15 +1,48 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/sch badge.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: HPPS Experience
+    url: /hpps-experience/distinctive-programmes/applied-learning-programme/
+    sublinks:
+      - title: Distinctive Programmes
+        url: /hpps-experience/distinctive-programmes/applied-learning-programme/
+      - title: CCAs
+        url: /hpps-experience/ccas/2023-cca-schedule/
+      - title: Events
+        url: /hpps-experience/events/walk-for-joy-2022/
+      - title: Students Achievements
+        url: /hpps-experience/student-achievements/student-achievements-2023/
+      - title: Students' Suggestions Scheme
+        url: /hpps-experience/students-suggestions-scheme/
+  - title: Departments
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Mother Tongue
+        url: /departments/mother-tongue/chinese/
+      - title: Gifted Education Programme
+        url: /departments/gifted-education-programme/
+      - title: ICT
+        url: /departments/information-and-communication-technology/
+      - title: Student Well–Being
+        url: /departments/student-well-being/
+      - title: PE & Aesthetics
+        url: /departments/pe-aesthetics-and-cca/
+      - title: CCE
+        url: /departments/character-and-citizenship-education/
+      - title: Innovation and Data Management
+        url: /departments/innovation-and-data-management/
+      - title: "CCA "
+        url: /departments/pe-aesthetics-and-cca/cca/
+  - title: Circulars and Forms
+    collection: circulars-and-forms
+  - title: School Info
+    collection: school-info
+  - title: Partnerships
+    collection: partnerships
