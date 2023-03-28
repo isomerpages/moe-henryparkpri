@@ -292,5 +292,4 @@ These skills, ethics and attitudes are in line with the 21st Century Competencie
     <td class="tg-uomp"><a href="https://www.moe.gov.sg/education/syllabuses/sciences/"><span style="font-weight:600;text-decoration:none;color:#FF282A">MOE Primary Science Syllabus</span></a><br><a href="https://www.science.edu.sg/"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Science Centre</span></a><span style="font-weight:400;color:#241102"> </span><br><a href="https://www.sdc.com.sg/"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Discovery Centre</span></a><span style="font-weight:400;color:#241102"> </span><br><a href="https://www.wrs.com.sg/en/singapore-zoo/"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Zoo</span></a><span style="font-weight:400;color:#241102"> </span><br><a href="https://www.wrs.com.sg/en/jurong-bird-park/"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Bird Park</span></a><br><a href="https://www.nparks.gov.sg/sbg"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Botanic Gardens</span></a></td>
   </tr>
 </tbody>
-</table
-environment.simplesite.com/)
+</table\
