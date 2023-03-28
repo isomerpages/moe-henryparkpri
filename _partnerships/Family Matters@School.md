@@ -7,8 +7,4 @@ FamilyMatters@School is a school-based programme that offers parents and student
 
   
 
-You can keep yourselves updated of FamilyMatters@School events and resources by checking out:
-
-*  their blog at [**http://hppa.org.sg/category/familytimeshpps/**](http://hppa.org.sg/category/familytimeshpps/)
-
-* their brochure stand outside the General Office
+You can keep yourselves updated of FamilyMatters@School events and resources by checking out their brochure stand outside the General Office
