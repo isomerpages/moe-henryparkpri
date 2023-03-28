@@ -2,6 +2,7 @@ collections:
   hpps-experience:
     output: true
     order:
+      - CCAs.md
       - CCAs/.keep
       - CCAs/CCAs.md
       - eYearbook 2022.md
