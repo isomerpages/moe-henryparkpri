@@ -56,3 +56,22 @@ This Co-Curricular Activity aims to develop the confidence and persuasive skills
 
 <img src="/images/EL%206.png" 
      style="width:70%">
+		 
+**PERI HOLISTIC ASSESSMENT (HA)**
+
+Education is about developing the whole child. Assessment is an important aspect of learning and teaching and it should be effectively used to support the holistic development of our pupils. Hence, our assessment practices need to move beyond summative evaluation which tends to measure achievement in narrowly defined domains. In other words, we need to move towards holistic assessment.
+
+Holistic assessment in our context refers to the ongoing gathering of information on different facets of a child from various sources, with the aim of providing qualitative and quantitative feedback to support and guide the child's development. Holistic assessment informs teachers on their teaching practice and guides them in the design and delivery of student learning. It will also enable parents to support their children's development and growth.
+
+Broadly holistic assessment emphasises the following four key aspects:
+
+*   Focusing on the development of the whole child
+*   Striking a balance between AoL and AfL practices
+*   Guiding teachers in the design and delivery of their practices
+*   Using appropriate methods and modes of assessment
+
+ The shifts in assessment practices brought about by the emphasis on holistic assessment at the primary school levels, as recommended by PERI, are set out below:
+
+Encourage schools to move away from an overly strong emphasis on examinations at Primary 1 and 2, and explore the use of bite-sized forms of assessment to help build pupils' confidence and desire to learn;
+
+Place less importance on semestral examinations at Primary 1 so as to smoothen pupils' transition from pre-school to primary school. Primary 2 pupils could be slowly eased into taking examinations.
