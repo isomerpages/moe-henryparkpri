@@ -2,7 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - Science 2.md
       - English.md
       - Mathematics.md
       - Science.md
