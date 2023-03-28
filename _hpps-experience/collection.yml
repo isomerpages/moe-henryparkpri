@@ -3,8 +3,6 @@ collections:
     output: true
     order:
       - CCAs.md
-      - CCAs/.keep
-      - CCAs/CCAs.md
       - eYearbook 2022.md
       - Students Achievements/.keep
       - Students Achievements/Student Achievements 2023.md
