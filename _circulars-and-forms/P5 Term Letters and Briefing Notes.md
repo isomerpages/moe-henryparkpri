@@ -6,6 +6,7 @@ description: ""
 ### Term Letters
 
  1. [Term 1](/files/2023%20P5%20Term%201%20Letter.pdf)  
+ 2. [Term 2](/files/2023%20P5%20Term%202%20Letter.pdf)
 
 ### P5 Subject Briefing Slides
 
@@ -25,9 +26,9 @@ description: ""
 ### P5 Assessment Letters
 
 1. [Term 1 Assessments](/files/P5%20Term%201%20Assessment%20Letter%201.pdf)  
+2. [Term 2 Assessments](/files/2023%20P5%20Term%202%20Assessment%20Letter.pdf)
   
 
 ### Others
 
 1. [P5 Remedial Schedule](/files/P5%20Remedial%20Schedule%20Semester%201.pdf)
-
