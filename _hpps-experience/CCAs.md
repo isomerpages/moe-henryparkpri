@@ -1,8 +1,9 @@
 ---
 title: CCAs
-permalink: /hpps-experience/permalink/
+permalink: /hpps-experience/ccas/
 description: ""
 ---
+
 **2023 CCA Schedule**
 
 Recreational CCAs are offered to P3 to P6 students.
