@@ -33,6 +33,11 @@ third_nav_title: Staff
     <td class="tg-4fvk">Administration Manager </td>
     <td class="tg-4fvk">ang_tien_hock@schools.gov.sg </td>
   </tr>
+<tr>
+    <td class="tg-4fvk">Ms Lenny Phoebe </td>
+    <td class="tg-4fvk">Administrative Executive </td>
+    <td class="tg-4fvk">Lenny_Phoebe@schools.gov.sg </td>
+  </tr>
   <tr>
     <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mr Yeong Wai Hong</span></td>
     <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Operations Manager</span></td>
