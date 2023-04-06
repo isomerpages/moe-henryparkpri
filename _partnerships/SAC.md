@@ -25,7 +25,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-nrix">Secretary</td>
-    <td class="tg-nrix">Mr Koh Chin Thong</td>
+    <td class="tg-nrix">Mr Charles Chan</td>
   </tr>
   <tr>
     <td class="tg-nrix">Member</td>
