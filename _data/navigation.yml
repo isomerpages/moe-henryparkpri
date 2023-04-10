@@ -15,6 +15,8 @@ links:
         url: /hpps-experience/student-achievements/student-achievements-2023/
       - title: Students' Suggestions Scheme
         url: /hpps-experience/students-suggestions-scheme/
+      - title: eYearbook 2022
+        url: /hpps-experience/eyearbook-2022/
   - title: Departments
     url: /departments/english/
     sublinks:
@@ -46,6 +48,3 @@ links:
     collection: school-info
   - title: Partnerships
     collection: partnerships
-  - title: eYearBook 2022
-    url: /hpps-experience/eyearbook-2022/
-    sublinks: []
