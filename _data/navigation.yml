@@ -34,12 +34,12 @@ links:
         url: /departments/student-well-being/
       - title: PE & Aesthetics
         url: /departments/pe-aesthetics-and-cca/
+      - title: CCA
+        url: /departments/pe-aesthetics-and-cca/cca/
       - title: CCE
         url: /departments/character-and-citizenship-education/
       - title: Innovation and Data Management
         url: /departments/innovation-and-data-management/
-      - title: "CCA "
-        url: /departments/pe-aesthetics-and-cca/cca/
   - title: Circulars and Forms
     collection: circulars-and-forms
   - title: School Info
