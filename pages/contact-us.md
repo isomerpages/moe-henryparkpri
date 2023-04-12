@@ -8,12 +8,7 @@ locations:
       - 1 Holland Grove Road
       - Singapore
       - "278790"
-    operating_hours:
-      - days: Mon - Fri
-        time: 7.30am - 6.00pm
-        description: |-
-          School Holidays General Office Opening Hours
-          Mon - Fri: 9.00am - 5.00pm
+    operating_hours: []
     maps_link: ""
     title: General Office
 contacts:
