@@ -8,7 +8,9 @@ links:
       - title: Distinctive Programmes
         url: /hpps-experience/distinctive-programmes/applied-learning-programme/
       - title: CCAs
-        url: /hpps-experience/ccas/2023-cca-schedule/
+        url: /hpps-experience/ccas/
+      - title: eYearbook 2022
+        url: /hpps-experience/eyearbook-2022/
       - title: Events
         url: /hpps-experience/events/walk-for-joy-2022/
       - title: Students Achievements
@@ -34,12 +36,12 @@ links:
         url: /departments/student-well-being/
       - title: PE & Aesthetics
         url: /departments/pe-aesthetics-and-cca/
+      - title: CCA
+        url: /departments/pe-aesthetics-and-cca/cca/
       - title: CCE
         url: /departments/character-and-citizenship-education/
       - title: Innovation and Data Management
         url: /departments/innovation-and-data-management/
-      - title: "CCA "
-        url: /departments/pe-aesthetics-and-cca/cca/
   - title: Circulars and Forms
     collection: circulars-and-forms
   - title: School Info

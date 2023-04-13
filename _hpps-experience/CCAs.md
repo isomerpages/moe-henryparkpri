@@ -3,16 +3,15 @@ title: CCAs
 permalink: /hpps-experience/ccas/
 description: ""
 ---
-
 **2023 CCA Schedule**
 
 Recreational CCAs are offered to P3 to P6 students.
 
 Recreational CCA sessions will start in Term 1 Week 4 (26 Jan or 27 Jan).
 
-**Some CCAs may have large enrolment.  For these CCAs, CCA sessions may be conducted using the Blended Learning approach.**
+**Some CCAs may have large enrolment.&nbsp; For these CCAs, CCA sessions may be conducted using the Blended Learning approach.**
 
-Please note that school buses will only be provided at 4pm in 2023. Students who are taking the school buses will be dismissed from their CCAs earlier.  For students who are in CCA that ends after 4.15pm will have to make their own transport arrangement home.
+Please note that school buses will only be provided at 4pm in 2023. Students who are taking the school buses will be dismissed from their CCAs earlier.&nbsp; For students who are in CCA that ends after 4.15pm will have to make their own transport arrangement home.
 
 For enquiries pertaining to specific CCA, please email the respective teachers in-charge.
 
@@ -20,7 +19,7 @@ For general enquiries, please email Ms Chin Lian Mei ([chin_lian_mei@moe.edu.sg]
 
 **2023 List of CCAs**
 
-_For CCAs with “#” sign, audition/ trial/ selection test will be required.  Please email the teachers-in-charge to arrange for an audition._
+_For CCAs with “#” sign, audition/ trial/ selection test will be required.&nbsp; Please email the teachers-in-charge to arrange for an audition._
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -82,7 +81,7 @@ _For CCAs with “#” sign, audition/ trial/ selection test will be required. 
 </tbody>
 </table>
 
-\# Audition/ trial/ selection test is required.  Please email teacher-in-charge for more details.
+\# Audition/ trial/ selection test is required.&nbsp; Please email teacher-in-charge for more details.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -136,7 +135,7 @@ _For CCAs with “#” sign, audition/ trial/ selection test will be required. 
 </tbody>
 </table>
 
-\# Audition/ trial/ selection test is required.  Please email teacher-in-charge for more details.
+\# Audition/ trial/ selection test is required.&nbsp; Please email teacher-in-charge for more details.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -350,7 +349,7 @@ _For CCAs with “#” sign, audition/ trial/ selection test will be required. 
 **Semester 1**  <br>
 CCA sessions will start on Term 1 Week 4 (25 Jan to 28 Jan 2023).
 
-Some CCAs may have large enrolment.  For these CCAs, CCA sessions may be conducted using the Blended Learning approach.
+Some CCAs may have large enrolment.&nbsp; For these CCAs, CCA sessions may be conducted using the Blended Learning approach.
 
 The respective CCA Teachers will email or send PG notification to you with more information on the CCA arrangement and schedule for your child by the end of Term 1 Week 2.  
   
@@ -376,7 +375,7 @@ _Nil_
 **English Oratorical Club** <br>  
 _Nil_  
 
-**InfoComm Club** <br>
+**InfoComm Club**&nbsp;<br>
 _Nil_
 
 **Science Club** <br>
@@ -385,16 +384,16 @@ _Nil_
 ### Aesthetics Announcements
 
 
-**Chinese Dance** <br>
+**Chinese Dance**&nbsp;<br>
 _Nil_
 
 **Chinese Orchestra**  <br>
 _Nil_  
 
-**Choir** <br>
+**Choir**&nbsp;<br>
 _Nil_  
 
-**Contemporary Dance** <br>
+**Contemporary Dance**&nbsp;<br>
 _Nil_
 
 **String Ensemble**  <br>
@@ -413,16 +412,16 @@ _Nil_
 ### Training/ School Team Sports Announcements
 
 
-**Badminton** <br>
+**Badminton**&nbsp;<br>
 _Nil_  
 
 **Football**<br>
 _Nil_
 
-**Gymnastics** <br>
+**Gymnastics**&nbsp;<br>
 _Nil_  
 
-**Netball** 
+**Netball**&nbsp;
 
 **Table Tennis**
 
@@ -435,4 +434,4 @@ _Nil_
 
 **2023 CCA Registration**
 
-To enquire on the registration of a CCA, please email Ms Chin Lian Mei at [chin_lian_mei@moe.edu.sg](mailto:chin_lian_mei@moe.edu.sg).
+To enquire on the registration of a CCA, please email Ms Chin Lian Mei at&nbsp;[chin_lian_mei@moe.edu.sg](mailto:chin_lian_mei@moe.edu.sg).
