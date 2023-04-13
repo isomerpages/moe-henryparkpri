@@ -2,7 +2,6 @@ collections:
   hpps-experience:
     output: true
     order:
-      - Example Title.md
       - CCAs.md
       - eYearbook 2022.md
       - Students Achievements/.keep
