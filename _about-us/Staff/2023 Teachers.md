@@ -313,8 +313,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-nrix">5 Boldness </td>
-    <td class="tg-baqh">Mdm Rachel Wang<br>Ms Lee Zi Xuan<br> </td>
-    <td class="tg-baqh">wang_perng_yun_rachel@moe.edu.sg<br>lee_zi_xuan@moe.edu.sg<br><br></td>
+    <td class="tg-baqh">Ms Lee Zi Xuan<br>Mr Li Qing Song </td>
+    <td class="tg-baqh">lee_zi_xuan@moe.edu.sg<br>li_qingsong@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-nrix"> 5 Creativity</td>
@@ -343,13 +343,13 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-nrix"> 5 Harmony</td>
-    <td class="tg-baqh">Ms Siti Sharah<br>Mrs Joyce Wee<br>Mdm Yang Lan<br><br></td>
-    <td class="tg-baqh">siti_sharah_amat_sam@moe.edu.sg<br>joyce_teh_meng_hwee@moe.edu.sg<br>yang_lan@moe.edu.sg<br> </td>
+    <td class="tg-baqh">Ms Siti Sharah<br>Mrs Joyce Wee<br></td>
+    <td class="tg-baqh">siti_sharah_amat_sam@moe.edu.sg<br>joyce_teh_meng_hwee@moe.edu.sg<br> </td>
   </tr>
   <tr>
     <td class="tg-nrix"> 5 Initiative</td>
-    <td class="tg-baqh">Ms Shahana Shereene<br>Mdm Joyce Teo<br>Mrs Irene Tan<br><br></td>
-    <td class="tg-baqh">shahana_shereene@moe.edu.sg<br>teo_gek_teng_joyce@moe.edu.sg<br>irene_tan_seng_chew@moe.edu.sg<br></td>
+    <td class="tg-baqh">Ms Shahana Shereene<br>Mdm Joyce Teo<br></td>
+    <td class="tg-baqh">shahana_shereene@moe.edu.sg<br>teo_gek_teng_joyce@moe.edu.sg<br></td>
   </tr>
 </tbody>
 </table>
