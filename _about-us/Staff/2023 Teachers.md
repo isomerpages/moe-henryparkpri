@@ -362,20 +362,22 @@ third_nav_title: Staff
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-4fvk{background-color:#FFF;color:#241102;text-align:center;vertical-align:middle}
-.tg .tg-fy9d{background-color:#FFF;color:#241102;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-bbr4{background-color:#FFF;color:#241102;text-align:center;vertical-align:top}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-4jzy{color:#241102;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-
-    &lt;<table class="tg">
+<table class="tg">
 <thead>
   <tr>
-    <th class="tg-fy9d">Classes</th>
-    <th class="tg-fy9d">Form Teachers</th>
-    <th class="tg-fy9d">Email Address</th>
+    <th class="tg-4jzy">Classes</th>
+    <th class="tg-4jzy">Form Teachers</th>
+    <th class="tg-4jzy">Email Address</th>
   </tr>
 </thead>
 <tbody>
+  <tr>
+
+  </tr></tbody><tbody>
   <tr>
     <td class="tg-4fvk"> 6 Attentiveness</td>
     <td class="tg-bbr4"> Mdm Yvonne Lee<br>Mdm Yan Lingli<br><br></td>
