@@ -366,7 +366,8 @@ third_nav_title: Staff
 .tg .tg-fy9d{background-color:#FFF;color:#241102;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-bbr4{background-color:#FFF;color:#241102;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+
+    &lt;<table class="tg">
 <thead>
   <tr>
     <th class="tg-fy9d">Classes</th>
@@ -382,13 +383,13 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 6 Boldness</td>
-    <td class="tg-bbr4">Ms Toh Mei Siew<br>Mr Li Qingsong<br><br></td>
-    <td class="tg-bbr4">toh_mei_siew@moe.edu.sg<br>li_qingsong@moe.edu.sg<br><br></td>
+    <td class="tg-bbr4">Ms Toh Mei Siew<br>Mrs Claire Lim-Lee<br></td>
+    <td class="tg-bbr4">toh_mei_siew@moe.edu.sg<br>lee_bee_yee@moe.edu.sg<br><br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">6 Creativity</td>
-    <td class="tg-bbr4">Mdm Agnes Seah<br>Ms Tan Shi Qi<br>Mrs Amy Tan<br><br></td>
-    <td class="tg-bbr4">seah_wen_shuen_agnes@moe.edu.sg<br>tan_shi_qi@moe.edu.sg<br>tan_li-xian_amy@moe.edu.sg<br><br></td>
+    <td class="tg-bbr4">Mdm Rachel Wang<br>Mrs Amy Tan<br>Mdm Meena<br><br></td>
+    <td class="tg-bbr4">wang_perng_yun_rachel@moe.edu.sg<br>tan_li-xian_amy@moe.edu.sg<br>meena_mohan@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">6 Diligence</td>
@@ -402,8 +403,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk">6 Flexibility</td>
-    <td class="tg-4fvk"> <br>Ms Hazlina Bte Habib Hasan<br>Mrs Esther Ang<br>Mrs Chloe Tay<br><br></td>
-    <td class="tg-bbr4">hazlina_habib_hasan@moe.edu.sg<br>chia_swee_lin_esther@moe.edu.sg<br>chua_hwee_tuan@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Ms Hazlina Bte Habib Hasan<br>Mdm Nadia Abu Bakar<br></td><td class="tg-bbr4"> hazlina_habib_hasan@moe.edu.sg<br>nadia_abu_bakar@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">  6 Generosity</td>
@@ -412,8 +412,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 6 Harmony</td>
-    <td class="tg-bbr4">Mr Collin Sebastian <br>Mdm Yuan Wenjing<br>Ms Jeanette Ong<br><br></td>
-    <td class="tg-bbr4">collin_keith_sebastian@moe.edu.sg<br>yuan_wenjing@moe.edu.sg<br>ong_kang_nee_jeanette@moe.edu.sg<br><br></td>
+    <td class="tg-bbr4">Mr Collin Sebastian <br>Mdm Yuan Wenjing<br></td>
+    <td class="tg-bbr4">collin_keith_sebastian@moe.edu.sg<br>yuan_wenjing@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">6 Initiative </td>
