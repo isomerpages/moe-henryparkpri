@@ -27,8 +27,8 @@ third_nav_title: Staff
 <tbody>
   <tr>
     <td class="tg-4fvk"> 1 Attentiveness</td>
-    <td class="tg-bbr4">Mdm Aidilawati<br>Ms Fan Yu Mei, Yvonne <br><br></td>
-    <td class="tg-4fvk"> aidilawati_ahmad@moe.edu.sg<br>fan_yumei@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Mdm Aidilawati<br>Ms Fan Yu Mei, Yvonne <br>Mrs Rebecca Goh <br><br></td>
+    <td class="tg-4fvk"> aidilawati_ahmad@moe.edu.sg<br>fan_yumei@moe.edu.sg<br>lim_yian_peng_rebecca@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 1 Boldness</td>
@@ -680,5 +680,3 @@ third_nav_title: Staff
   </tr>
 </tbody>
 </table>
-
-
