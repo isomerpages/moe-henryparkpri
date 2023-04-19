@@ -106,13 +106,13 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-bbr4">2 Boldness</td>
-    <td class="tg-bbr4">Ms Lee Joo Lee<br>Mr Lin Dexing Peter<br>Mdm Yvonne Lim<br><br></td>
-    <td class="tg-4fvk">lee_joo_lee@moe.edu.sg<br>lin_dexing_peter@moe.edu.sg <br>lim_lee_youn@moe.edu.sg <br></td>
+    <td class="tg-bbr4">Ms Lee Joo Lee<br>Mr Lin Dexing Peter<br></td>
+    <td class="tg-4fvk">lee_joo_lee@moe.edu.sg<br>lin_dexing_peter@moe.edu.sg  <br></td>
   </tr>
   <tr>
     <td class="tg-bbr4">2 Creativity <br></td>
-    <td class="tg-bbr4">Ms Rebecca Heng<br>Ms Lam Yuen Kay<br>Mdm Siti Rashidah <br><br></td>
-    <td class="tg-4fvk"> heng_wen_xiu_rebecca@moe.edu.sg<br>lam_yuen_kay@moe.edu.sg<br>siti_rashidah_abdul_rahi@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Ms Lam Yuen Kay<br>Mdm Siti Rashidah <br><br></td>
+    <td class="tg-4fvk">lam_yuen_kay@moe.edu.sg<br>siti_rashidah_abdul_rahi@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> <br>2 Diligence</td>
@@ -121,8 +121,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> <br>2 Enthusiasm</td>
-    <td class="tg-4fvk">Ms Tiow Jingmin<br>Mdm Meena<br>Mrs Rebecca Goh<br></td>
-    <td class="tg-bbr4">tiow_jingmin@moe.edu.sg<br>meena_mohan@moe.edu.sg<br>lim_yian_peng_rebecca@moe.edu.sg<br><br></td>
+    <td class="tg-4fvk">Ms Tiow Jingmin<br>Mdm Haslina Binte Hassan<br></td>
+    <td class="tg-bbr4">tiow_jingmin@moe.edu.sg<br> <br><br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> <br>2 Flexibility</td>
@@ -190,8 +190,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Diligence</td>
-    <td class="tg-bbr4">Ms Sim Ee Mei<br>Ms Pauline<br>Ms Chin Lian Mei</td>
-    <td class="tg-4fvk">sim_ee_mei@moe.edu.sg<br>chin_lian_mei@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Ms Sim Ee Mei<br>Mdm Lee Miin Jiun Pauline</td>
+    <td class="tg-4fvk">sim_ee_mei@moe.edu.sg<br><br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Enthusiasm</td>
@@ -210,8 +210,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Harmony</td>
-    <td class="tg-bbr4">Mr Tan Joo Nam<br>Mdm Chamanpreet Kaur<br>Mrs Lim Soak Wai <br><br></td>
-    <td class="tg-bbr4">tan_joo_nam@moe.edu.sg<br>chamanpreet_kaur@moe.edu.sg<br>leong_soak_wai@moe.edu.sg</td>
+    <td class="tg-bbr4">Mr Tan Joo Nam<br>Mdm Chamanpreet Kaur<br>Ms Su Ra Hye <br><br></td>
+    <td class="tg-bbr4">tan_joo_nam@moe.edu.sg<br>chamanpreet_kaur@moe.edu.sg<br></td>
   </tr>
 </tbody>
 </table>
