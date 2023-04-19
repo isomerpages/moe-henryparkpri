@@ -244,13 +244,13 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 4 Boldness</td>
-    <td class="tg-bbr4">Mdm Catherine Ong<br>Mdm Jiao Yang<br><br></td>
+    <td class="tg-bbr4">Mdm Ong Siew Bee, Catherine<br>Mdm Jiao Yang<br><br></td>
     <td class="tg-4fvk">ong_siew_bee_a@moe.edu.sg<br>jiao_yang@moe.edu.sg<br><br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 4 Creativity</td>
-    <td class="tg-bbr4">Mdm Norrehan Mohd Jabbar<br>Mdm Liu Yinglin<br>Mdm Nadia Abu Bakar<br><br></td>
-    <td class="tg-bbr4">norrehan_mohamad_jabbar@moe.edu.sg<br>liu_yinglin@moe.edu.sg<br>nadia_abu_bakar@moe.edu.sg<br><br></td>
+    <td class="tg-bbr4">Mdm Norrehan Mohd Jabbar<br>Mdm Liu Yinglin<br></td>
+    <td class="tg-bbr4">norrehan_mohamad_jabbar@moe.edu.sg<br>liu_yinglin@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">4 Diligence</td>
@@ -259,8 +259,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk">4 Enthusiasm </td>
-    <td class="tg-bbr4">Mrs Lisa Lee<br>Mrs Claire Lim-Lee<br><br></td>
-    <td class="tg-bbr4">lisa_lee@moe.edu.sg<br>lee_bee_yee@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Mrs Lisa Lee<br>Mrs Rebecca Heng<br></td>
+    <td class="tg-bbr4">lisa_lee@moe.edu.sg<br>heng_wen_xiu_rebecca@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">4 Flexibility</td>
@@ -274,12 +274,12 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 4 Harmony</td>
-    <td class="tg-4fvk"> <br>Mr Ng Eng Peng<br>Mdm Rosaidah Ghazali<br>Mrs Esther Yeo<br><br></td>
+    <td class="tg-4fvk"> <br>Mr Ng Eng Peng<br>Mdm Rosaidah Ghazali<br>Mdm Esther Lum Hui Shan<br><br></td>
     <td class="tg-4fvk">ng_eng_peng@moe.edu.sg<br>rosaidah_ghazali@moe.edu.sg <br>esther_lum_hui_shan@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 4 Initiative </td>
-    <td class="tg-bbr4">Mr Yip Yew Fei<br>Mdm Lee Su Chern<br><br></td>
+    <td class="tg-bbr4">Mr Yip Yew Fei<br>Mdm Lee Su Chern<br>Ms Seow Su Yi Celestine<br></td>
     <td class="tg-4fvk">yip_yew_fei@moe.edu.sg<br>lee_su_chern@moe.edu.sg</td>
   </tr>
 </tbody>
