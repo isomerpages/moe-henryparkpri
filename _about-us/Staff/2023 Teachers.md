@@ -57,8 +57,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-bbr4"> 1 Generosity</td>
-    <td class="tg-bbr4"> Ms Nurul Fareeha<br> Mdm Nabisa Beevi<br>Mdm Leo Siew Hui<br><br></td>
-    <td class="tg-bbr4">nurul_fareeha_ramlee@moe.edu.sg<br>nabisa_beevi@moe.edu.sg <br>leo_siew_hui@moe.edu.sg<br><br></td>
+    <td class="tg-bbr4"> Ms Nurul Fareeha<br> Mdm Nabisa Beevi</td>
+    <td class="tg-bbr4">nurul_fareeha_ramlee@moe.edu.sg<br>nabisa_beevi@moe.edu.sg <br></td>
   </tr>
   <tr>
     <td class="tg-bbr4">1 Harmony </td>
@@ -72,8 +72,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 1 Joyfulness</td>
-    <td class="tg-bbr4">Ms Cassandra Sim<br>Mrs Peggy Choong <br>Mdm Ng En Oi<br><br></td>
-    <td class="tg-bbr4">sim_hui_lin_cassandra@moe.edu.sg<br>ng_gek_hong_peggy@moe.edu.sg<br>ng_en_oi@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Mrs Peggy Choong <br>Mdm Ng En Oi<br><br></td>
+    <td class="tg-bbr4">ng_gek_hong_peggy@moe.edu.sg<br>ng_en_oi@moe.edu.sg<br></td>
   </tr>
 </tbody>
 </table>
