@@ -122,12 +122,12 @@ third_nav_title: Staff
   <tr>
     <td class="tg-4fvk"> <br>2 Enthusiasm</td>
     <td class="tg-4fvk">Ms Tiow Jingmin<br>Mdm Haslina Binte Hassan<br></td>
-    <td class="tg-bbr4">tiow_jingmin@moe.edu.sg<br> <br><br></td>
+    <td class="tg-bbr4">tiow_jingmin@moe.edu.sg<br>haslina_hassan_a@moe.edu.sg <br><br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> <br>2 Flexibility</td>
     <td class="tg-bbr4">Ms Xu Chunshan <br>Ms Joyce Ang<br><br></td>
-    <td class="tg-4fvk"> xu_chunshan@moe.edu.sg <br>joyce_ang_bee_gaik@moe.edu.sg<br></td>
+    <td class="tg-4fvk">xu_chunshan@moe.edu.sg <br>joyce_ang_bee_gaik@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">2 Generosity </td>
