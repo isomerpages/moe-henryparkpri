@@ -191,7 +191,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-4fvk"> 3 Diligence</td>
     <td class="tg-bbr4">Ms Sim Ee Mei<br>Mdm Lee Miin Jiun Pauline</td>
-    <td class="tg-4fvk">sim_ee_mei@moe.edu.sg<br><br></td>
+    <td class="tg-4fvk">sim_ee_mei@moe.edu.sg<br>lee_miin_jiun_pauline@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Enthusiasm</td>
@@ -211,7 +211,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-4fvk"> 3 Harmony</td>
     <td class="tg-bbr4">Mr Tan Joo Nam<br>Mdm Chamanpreet Kaur<br>Ms Su Ra Hye <br><br></td>
-    <td class="tg-bbr4">tan_joo_nam@moe.edu.sg<br>chamanpreet_kaur@moe.edu.sg<br></td>
+    <td class="tg-bbr4">tan_joo_nam@moe.edu.sg<br>chamanpreet_kaur@moe.edu.sg<br>su_ra_hye@moe.edu.sg</td>
   </tr>
 </tbody>
 </table>
@@ -280,7 +280,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-4fvk"> 4 Initiative </td>
     <td class="tg-bbr4">Mr Yip Yew Fei<br>Mdm Lee Su Chern<br>Ms Seow Su Yi Celestine<br></td>
-    <td class="tg-4fvk">yip_yew_fei@moe.edu.sg<br>lee_su_chern@moe.edu.sg</td>
+    <td class="tg-4fvk">yip_yew_fei@moe.edu.sg<br>lee_su_chern@moe.edu.sg<br>seow_su_yi_celestine@moe.edu.sg<br></td>
   </tr>
 </tbody>
 </table>
