@@ -279,7 +279,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 4 Initiative </td>
-    <td class="tg-bbr4">Mr Yip Yew Fei<br>Mdm Lee Su Chern<br>Ms Seow Su Yi Celestine<br></td>
+    <td class="tg-bbr4">Mr Yip Yew Fei<br>Mdm Lee Su Chern<br>Dr Celestine Seow<br></td>
     <td class="tg-4fvk">yip_yew_fei@moe.edu.sg<br>lee_su_chern@moe.edu.sg<br>seow_su_yi_celestine@moe.edu.sg<br></td>
   </tr>
 </tbody>
