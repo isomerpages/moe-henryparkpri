@@ -121,7 +121,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> <br>2 Enthusiasm</td>
-    <td class="tg-4fvk">Ms Tiow Jingmin<br>Mdm Haslina Binte Hassan<br></td>
+    <td class="tg-4fvk">Ms Tiow Jingmin<br>Mrs Haslina Binte Hassan<br></td>
     <td class="tg-bbr4">tiow_jingmin@moe.edu.sg<br>haslina_hassan_a@moe.edu.sg <br><br></td>
   </tr>
   <tr>
