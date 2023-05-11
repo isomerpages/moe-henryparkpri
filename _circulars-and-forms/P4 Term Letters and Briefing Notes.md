@@ -24,3 +24,7 @@ description: ""
 1. [Term 1](/files/2023%20P4%20Term%201%20Assessments%20Letter.pdf)
 
 2. [Term 2](/files/2023%20p4%20term%202%20assessment%20letter.pdf)
+
+### P4 Level Schedule
+
+1. [Semester 1](/files/2023%20p4%20sem%201%20level%20schedule.pdf)
