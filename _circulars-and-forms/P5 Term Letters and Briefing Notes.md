@@ -28,7 +28,5 @@ description: ""
 1. [Term 1 Assessments](/files/P5%20Term%201%20Assessment%20Letter%201.pdf)  
 2. [Term 2 Assessments](/files/2023%20P5%20Term%202%20Assessment%20Letter.pdf)
   
-
 ### Others
-
-1. [P5 Remedial Schedule](/files/P5%20Remedial%20Schedule%20Semester%201.pdf)
+1. [P5 & P6 Remedial & Stretching Schedule](/files/p5%20and%20p6%20remedial%20&%20stretching%20schedule%20(sem%201)%20(updated%2010%20may%2023)%20(1).pdf)
