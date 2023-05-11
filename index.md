@@ -17,5 +17,5 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      background: /images/resized banner.gif
+      background: /images/websitebanners_new.gif
 ---
