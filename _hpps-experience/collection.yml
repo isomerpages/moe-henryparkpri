@@ -2,9 +2,9 @@ collections:
   hpps-experience:
     output: true
     order:
-      - Events.md
       - CCAs.md
       - eYearbook 2022.md
+      - Events.md
       - Students Achievements/.keep
       - Students Achievements/Student Achievements 2023.md
       - Students' Suggestions Scheme.md
