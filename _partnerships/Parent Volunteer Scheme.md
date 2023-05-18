@@ -10,4 +10,4 @@ description: ""
 
 To apply, please click&nbsp;[here](https://form.gov.sg/5e60bce1835c4b0016dc6e26).
 
-![](/images/P5%20Camp/parentvolunteerschemeflowchart.png)
+![](/images/parentvolunteerschemeflowchart.png)
