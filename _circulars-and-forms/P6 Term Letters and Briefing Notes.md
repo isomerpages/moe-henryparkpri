@@ -30,7 +30,7 @@ description: ""
 
 2. [Term 2 Assessments](/files/2023%20P6%20Term%202%20Assessment%20Letter.pdf)
 
-3. [Term 3 Assessments](/files/p6%20term%203%20assesment.pdf)
+3. [Preliminary Examination](/files/p6%20term%203%20assesment.pdf)
   
 
 ### Others
