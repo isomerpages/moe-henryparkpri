@@ -29,7 +29,7 @@ description: ""
 
 2. [Term 2 Assessments](/files/2023%20P5%20Term%202%20Assessment%20Letter.pdf)
 
-3. [Term 3 Assessments](/files/p5%20sem%202%20assessment%20information.pdf)
+3. [Semester 2 Assessments](/files/p5%20sem%202%20assessment%20information.pdf)
   
 ### Others
 1. [P5 & P6 Remedial & Stretching Schedule](/files/p5%20and%20p6%20remedial%20&%20stretching%20schedule%20(sem%201)%20(updated%2010%20may%2023)%20(1).pdf)
