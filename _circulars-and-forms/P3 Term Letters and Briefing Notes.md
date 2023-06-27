@@ -23,3 +23,5 @@ description: ""
 1. [Term 1](/files/2023%20P3%20Term%201%20Assessment%20Letter.pdf)
 
 2. [Term 2](/files/2023%20p3%20term%202%20assessment%20letter.pdf)
+
+4. [Semester 2](/files/2023%20p3%20sem%202%20assessments%20letter.pdf)
