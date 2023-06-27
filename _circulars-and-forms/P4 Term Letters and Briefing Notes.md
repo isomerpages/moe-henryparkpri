@@ -28,3 +28,5 @@ description: ""
 ### P4 Level Schedule
 
 1. [Semester 1](/files/2023%20p4%20sem%201%20level%20schedule.pdf)
+
+2. [Semester 2](/files/2023%20p4%20sem%202%20assessments%20letter.pdf)
