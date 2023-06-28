@@ -202,7 +202,10 @@ third_nav_title: Staff
     <td class="tg-4fvk">SH - CCE</td>
     <td class="tg-4fvk">chamanpreet_kaur@moe.edu.sg</td>
   </tr>
-</tbody>
+	  <tr><td class="tg-4fvk"> Mrs Angela Loy</td>
+    <td class="tg-4fvk">SH - CCE</td>
+    <td class="tg-4fvk">ang_ha_ngek@moe.edu.sg</td>
+</tr></tbody>
 </table>
 
 <h3>Senior and Lead Teachers</h3>
