@@ -51,7 +51,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-bbr4"> 1 Flexibility</td>
-    <td class="tg-bbr4">Mrs Mona Leong<br>Miss Michelle Lim<br>Ms Zheng Yiting Sheila<br><br></td>
+    <td class="tg-bbr4">Miss Celia See Bee Keow<br>Mdm Lee Miin Jiun Pauline<br></td>
     <td class="tg-4fvk">kan_ling_yee_mona@moe.edu.sg<br>lim_jia_yi_michelle@moe.edu.sg<br>zheng_yiting_sheila@moe.edu.sg<br></td>
   </tr>
   <tr>
@@ -179,8 +179,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk">3 Boldness </td>
-    <td class="tg-4fvk">Ms Norasikin Mohidin<br>Ms Yeo Jie Min<br></td>
-    <td class="tg-bbr4">norasikin_mohidin@moe.edu.sg <br>yeo_jie_min@moe.edu.sg<br><br></td>
+    <td class="tg-4fvk">Ms Norasikin Mohidin<br>Mdm Nur Diyanah<br></td>
+    <td class="tg-bbr4">norasikin_mohidin@moe.edu.sg <br>@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Creativity</td>
