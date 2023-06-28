@@ -52,7 +52,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-bbr4"> 1 Flexibility</td>
     <td class="tg-bbr4">Miss Celia See Bee Keow<br>Mdm Lee Miin Jiun Pauline<br></td>
-    <td class="tg-4fvk">@moe.edu.sg<br>lee_miin_jiun_pauline@moe.edu.sg<br>
+    <td class="tg-4fvk">see_bee_keow@moe.edu.sg<br>lee_miin_jiun_pauline@moe.edu.sg<br>
   </td></tr><tr>
     <td class="tg-bbr4"> 1 Generosity</td>
     <td class="tg-bbr4"> Ms Nurul Fareeha<br> Mdm Nabisa Beevi</td>
