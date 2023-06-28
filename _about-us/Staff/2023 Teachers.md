@@ -129,7 +129,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk">2 Generosity </td>
-    <td class="tg-bbr4">Ms Glady Lim<br>Mdm Tan Rui Yin<br><br></td>
+    <td class="tg-bbr4">Mrs Glady Tan<br>Mdm Tan Rui Yin<br><br></td>
     <td class="tg-bbr4">lim_shuen_hwee_glady@moe.edu.sg<br>tan_rui_yin@moe.edu.sg<br><br></td>
   </tr>
   <tr>
