@@ -189,7 +189,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-4fvk"> 3 Diligence</td>
     <td class="tg-bbr4">Ms Sim Ee Mei<br>Mdm Ng Shi Ying Audrey</td>
-    <td class="tg-4fvk">sim_ee_mei@moe.edu.sg<br>@moe.edu.sg<br></td>
+    <td class="tg-4fvk">sim_ee_mei@moe.edu.sg<br>ng_shi_ying_audrey@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Enthusiasm</td>
