@@ -273,8 +273,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 4 Harmony</td>
-    <td class="tg-4fvk"> <br>Mr Ng Eng Peng<br>Mdm Rosaidah Ghazali<br>Mdm Esther Lum Hui Shan<br><br></td>
-    <td class="tg-4fvk">ng_eng_peng@moe.edu.sg<br>rosaidah_ghazali@moe.edu.sg <br>esther_lum_hui_shan@moe.edu.sg<br></td>
+    <td class="tg-4fvk"> <br>Mr Ng Eng Peng<br>Mdm Rosaidah Ghazali<br></td>
+    <td class="tg-4fvk">ng_eng_peng@moe.edu.sg<br>rosaidah_ghazali@moe.edu.sg <br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 4 Initiative </td>
