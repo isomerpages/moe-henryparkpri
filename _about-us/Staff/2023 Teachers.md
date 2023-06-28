@@ -27,10 +27,9 @@ third_nav_title: Staff
 <tbody>
   <tr>
     <td class="tg-4fvk"> 1 Attentiveness</td>
-    <td class="tg-bbr4">Mdm Aidilawati<br>Ms Fan Yu Mei, Yvonne <br>Mrs Rebecca Goh <br><br></td>
-    <td class="tg-4fvk"> aidilawati_ahmad@moe.edu.sg<br>fan_yumei@moe.edu.sg<br>lim_yian_peng_rebecca@moe.edu.sg<br></td>
-  </tr>
-  <tr>
+    <td class="tg-bbr4">Mdm Aidilawati<br>Ms Fan Yu Mei, Yvonne<br></td>
+    <td class="tg-4fvk"> aidilawati_ahmad@moe.edu.sg<br>fan_yumei@moe.edu.sg<br>
+  </td></tr><tr>
     <td class="tg-4fvk"> 1 Boldness</td>
     <td class="tg-bbr4"> Mdm Tan Hwee Tiang<br>Ms Fam Poh Ling<br><br></td>
     <td class="tg-bbr4">tan_hwee_tiang_a@moe.edu.sg<br>fam_poh_ling@moe.edu.sg<br><br></td>
@@ -102,12 +101,12 @@ third_nav_title: Staff
   <tr>
     <td class="tg-4fvk">2 Attentiveness</td>
     <td class="tg-bbr4">Mdm Faaizah Parwin<br>Mdm Zhang Zhouyu<br><br></td>
-    <td class="tg-4fvk"> faaizah_parwin_kadir@moe.edu.sg<br>zhang_zhouyu@moe.edu.sg<br></td>
-  </tr>
+    <td class="tg-4fvk"> faaizah_parwin_kadir@moe.edu.sg<br>zhang_zhouyu@moe.edu.sg<br></td></tr>
+  
   <tr>
     <td class="tg-bbr4">2 Boldness</td>
-    <td class="tg-bbr4">Ms Lee Joo Lee<br>Mr Lin Dexing Peter<br></td>
-    <td class="tg-4fvk">lee_joo_lee@moe.edu.sg<br>lin_dexing_peter@moe.edu.sg  <br></td>
+    <td class="tg-bbr4">Mrs Rebecca Goh<br>Mr Lin Dexing Peter<br></td>
+    <td class="tg-4fvk">lim_yian_peng_rebecca@moe.edu.sg<br>lin_dexing_peter@moe.edu.sg  <br></td>
   </tr>
   <tr>
     <td class="tg-bbr4">2 Creativity <br></td>
