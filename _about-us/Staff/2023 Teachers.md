@@ -52,7 +52,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-bbr4"> 1 Flexibility</td>
     <td class="tg-bbr4">Miss Celia See Bee Keow<br>Mdm Lee Miin Jiun Pauline<br></td>
-    <td class="tg-4fvk">kan_ling_yee_mona@moe.edu.sg<br>lee_miin_jiun_pauline@moe.edu.sg<br>
+    <td class="tg-4fvk">@moe.edu.sg<br>lee_miin_jiun_pauline@moe.edu.sg<br>
   </td></tr><tr>
     <td class="tg-bbr4"> 1 Generosity</td>
     <td class="tg-bbr4"> Ms Nurul Fareeha<br> Mdm Nabisa Beevi</td>
@@ -179,7 +179,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-4fvk">3 Boldness </td>
     <td class="tg-4fvk">Ms Norasikin Mohidin<br>Mdm Nur Diyanah<br></td>
-    <td class="tg-bbr4">norasikin_mohidin@moe.edu.sg <br>@moe.edu.sg<br></td>
+    <td class="tg-bbr4">norasikin_mohidin@moe.edu.sg <br>nur_diyanah_kamal@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Creativity</td>
@@ -188,12 +188,13 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Diligence</td>
-    <td class="tg-bbr4">Ms Sim Ee Mei<br>Mdm Lee Miin Jiun Pauline</td>
-    <td class="tg-4fvk">sim_ee_mei@moe.edu.sg<br>lee_miin_jiun_pauline@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Ms Sim Ee Mei<br>Mdm Ng Shi Ying Audrey</td>
+    <td class="tg-4fvk">sim_ee_mei@moe.edu.sg<br>@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Enthusiasm</td>
-    <td class="tg-4fvk"> <br>Ms Jennifer Lau<br>Mdm Marhaini<br><br></td>
+    <td class="tg-4fvk"> <br>Mdm Lum Hui Shan Esther
+<br>Mdm Marhaini<br><br></td>
     <td class="tg-4fvk"> jennifer_lau_pei_shi@moe.edu.sg<br>marhaini_mohamad@moe.edu.sg <br></td>
   </tr>
   <tr>
@@ -203,8 +204,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Generosity</td>
-    <td class="tg-bbr4">Mr Zhao Chuan<br>Mdm Latiffah<br>Ms Oh Seow Wei<br><br></td>
-    <td class="tg-bbr4">zhao_chuan@moe.edu.sg<br>latiffah_mohamed_maideen@moe.edu.sg <br>oh_seow_wei@moe.edu.sg<br><br></td>
+    <td class="tg-bbr4">Mdm Latiffah<br>Ms Oh Seow Wei<br><br></td>
+    <td class="tg-bbr4">latiffah_mohamed_maideen@moe.edu.sg <br>oh_seow_wei@moe.edu.sg<br><br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Harmony</td>
@@ -247,8 +248,8 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 4 Creativity</td>
-    <td class="tg-bbr4">Mdm Norrehan Mohd Jabbar<br>Mdm Liu Yinglin<br></td>
-    <td class="tg-bbr4">norrehan_mohamad_jabbar@moe.edu.sg<br>liu_yinglin@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Mdm Norrehan Mohd Jabbar<br>Ms Zheng Yiting Sheila<br></td>
+    <td class="tg-bbr4">norrehan_mohamad_jabbar@moe.edu.sg<br>zheng_yiting_sheila@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">4 Diligence</td>
@@ -257,13 +258,13 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk">4 Enthusiasm </td>
-    <td class="tg-bbr4">Mrs Lisa Lee<br>Mrs Rebecca Heng<br></td>
-    <td class="tg-bbr4">lisa_lee@moe.edu.sg<br>heng_wen_xiu_rebecca@moe.edu.sg<br></td>
+    <td class="tg-bbr4">Mrs Lisa Lee<br>Ms Angela Ang<br></td>
+    <td class="tg-bbr4">lisa_lee@moe.edu.sg<br>@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">4 Flexibility</td>
-    <td class="tg-bbr4"> Ms Tan Li Jun<br>Ms Zheng Tian Li Joyce<br><br></td>
-    <td class="tg-bbr4"> tan_li_jun@moe.edu.sg<br>zheng_tianli_joyce@moe.edu.sg<br></td>
+    <td class="tg-bbr4"> Mdm Lim Lee Youn Yvonne<br>Ms Zheng Tian Li Joyce<br><br></td>
+    <td class="tg-bbr4"> lim_lee_youn@moe.edu.sg<br>zheng_tianli_joyce@moe.edu.sg<br></td>
   </tr>
   <tr>
     <td class="tg-4fvk">4 Generosity</td>
