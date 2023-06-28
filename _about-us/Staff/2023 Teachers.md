@@ -204,7 +204,7 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Generosity</td>
-    <td class="tg-bbr4">Mdm Latiffah<br>Ms Oh Seow Wei<br><br></td>
+    <td class="tg-bbr4">Mdm Latiffah<br>Mrs Chia Seow Wei<br><br></td>
     <td class="tg-bbr4">latiffah_mohamed_maideen@moe.edu.sg <br>oh_seow_wei@moe.edu.sg<br><br></td>
   </tr>
   <tr>
