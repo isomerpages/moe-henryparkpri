@@ -52,9 +52,8 @@ third_nav_title: Staff
   <tr>
     <td class="tg-bbr4"> 1 Flexibility</td>
     <td class="tg-bbr4">Miss Celia See Bee Keow<br>Mdm Lee Miin Jiun Pauline<br></td>
-    <td class="tg-4fvk">kan_ling_yee_mona@moe.edu.sg<br>lim_jia_yi_michelle@moe.edu.sg<br>zheng_yiting_sheila@moe.edu.sg<br></td>
-  </tr>
-  <tr>
+    <td class="tg-4fvk">kan_ling_yee_mona@moe.edu.sg<br>lee_miin_jiun_pauline@moe.edu.sg<br>
+  </td></tr><tr>
     <td class="tg-bbr4"> 1 Generosity</td>
     <td class="tg-bbr4"> Ms Nurul Fareeha<br> Mdm Nabisa Beevi</td>
     <td class="tg-bbr4">nurul_fareeha_ramlee@moe.edu.sg<br>nabisa_beevi@moe.edu.sg <br></td>
