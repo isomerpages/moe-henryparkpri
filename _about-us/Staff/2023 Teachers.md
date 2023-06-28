@@ -195,7 +195,7 @@ third_nav_title: Staff
     <td class="tg-4fvk"> 3 Enthusiasm</td>
     <td class="tg-4fvk"> <br>Mdm Lum Hui Shan Esther
 <br>Mdm Marhaini<br><br></td>
-    <td class="tg-4fvk"> jennifer_lau_pei_shi@moe.edu.sg<br>marhaini_mohamad@moe.edu.sg <br></td>
+    <td class="tg-4fvk"> esther_lum_hui_shan@moe.edu.sg<br>marhaini_mohamad@moe.edu.sg <br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> 3 Flexibility</td>
