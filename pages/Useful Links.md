@@ -3,7 +3,7 @@ title: Useful Links
 permalink: /useful-links/
 description: ""
 ---
-**For students:**
+1. **For students:**
 
 *   [Student Learning Space](https://vle.learning.moe.edu.sg/login)
 *   [Student iCON](https://workspace.google.com/dashboard)&nbsp;
@@ -38,5 +38,21 @@ description: ""
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirement**
+1. [Call for Proposal](/files/attachment%201%20call%20for%20proposals%20by%20school%20(version%20june%202023)-updated%2030jun.pdf)
+2. [Agreement of Appointment for School Bus Operator](/files/attachment%203%20agreement%20for%20appointment%20of%20school%20bus%20operator%20(version%20june%202023).pdf)
 
+**Application Procedure**
+1. Complete the [Call for Proposal - Annex A](/files/attachment%202%20call%20for%20proposal%20-%20annex%20a%20(version%20june%202023)-updated.pdf)
+2. Submit the completed Call for Proposal - Annex A by closing date, 14 July 2023 to the School's General Office.
+
+*Address: 1 Holland Grove Road (S278790)
+*Contact: 64663600
+*Email: hpps@moe.edu.sg
+*Contact Person: Mr Ang Tien Hock
+
+**How to get there**
+* Nearest MRT is Buona Vista MRT &amp; Clementi MRT
+* Bus number: 92 (Take from Buona Vista MRT)
+* Bus number: 7, 156 &amp; 165 (Take from Clementi MRT)
+* Bus number: 61, 75
 
