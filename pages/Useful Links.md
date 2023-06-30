@@ -29,3 +29,6 @@ description: ""
 *   [HRP](https://www.hrp.gov.sg/hrp/#/landing-employee)
 *   [FIGI](http://w1121padmw00293.schools.moe.edu.sg/figi/)
 *   [HPPS ICT Website](https://sites.google.com/view/hpps-ict/)
+
+**For vendors:**
+* 
