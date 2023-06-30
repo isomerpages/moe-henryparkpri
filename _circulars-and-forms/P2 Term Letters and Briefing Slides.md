@@ -10,3 +10,5 @@ description: ""
 2. [Term 1 Holistic Assessment Matters](/files/2023%20P2%20Term%201%20Holistic%20Assessment%20Plan.pdf)
 
 3. [Term 2 Level Matters](/files/2023%20P2%20Term%202%20Letter.pdf)
+
+4. [Term 3 Level Matters](/files/2023%20p2%20term%203%20letter.pdf) 
