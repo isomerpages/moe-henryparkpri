@@ -31,4 +31,5 @@ description: ""
 *   [HPPS ICT Website](https://sites.google.com/view/hpps-ict/)
 
 **For vendors:**
-* 
+
+*Bill
