@@ -5,18 +5,12 @@ description: ""
 ---
 ##### Dental Clinic Announcements 
 
-Below are the opening dates for the school dental clinic for March 2023:
+Below are the opening dates for the school dental clinic for July 2023:
 
-**- 6th to 10th March (closed on 9th March afternoon)**
+**10th to 14th July &amp; 24th to 28th July**
 
-**- 13th March**
-
-**- 27th to 31st March**
-
-
-In case of clinic closure, parents are able to call the buddy clinics at 9114 2186 (Bukit Panjang Primary School) or 8764 7361 (Fairfield Methodist Primary School) to make appointments.
-
-For dental emergencies during clinic closure, parents may call the School Dental Centre at 6435 3782. 
+Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist) 
+* In case of dental emergencies during clinic closure, please contact the following dental clinics at 9115 1679 (Nan Hua Primary School) or 92707791 (Mobile Dental Clinic - MDC 1) to make appointments.
 
 ###### Dental Clinic Opening Hours
 Tel : 9114 8656
