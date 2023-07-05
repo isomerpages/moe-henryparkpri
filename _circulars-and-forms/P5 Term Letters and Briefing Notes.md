@@ -32,4 +32,4 @@ description: ""
 3. [Semester 2 Assessments](/files/p5%20sem%202%20assessment%20information.pdf)
   
 ### Others
-1. [P5 & P6 Remedial & Stretching Schedule](/files/p5%20and%20p6%20remedial%20&%20stretching%20schedule%20(sem%201)%20(updated%2010%20may%2023)%20(1).pdf)
+1. [Remedial Schedule (Semester2)](/files/p5%20remedial%20schedule%20(semester%202).pdf)
