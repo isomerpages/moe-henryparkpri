@@ -11,6 +11,3 @@ description: ""
 Japanese Stall    |31 Dec 2023| Halal/Non-halal
 
 **Application Procedure**
-
-
-
