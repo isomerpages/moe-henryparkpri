@@ -2,6 +2,7 @@ collections:
   hpps-experience:
     output: true
     order:
+      - Events.md
       - CCAs.md
       - eYearbook 2022.md
       - P5 Camp.md
