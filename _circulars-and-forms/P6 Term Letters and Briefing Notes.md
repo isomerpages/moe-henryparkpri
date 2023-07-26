@@ -40,3 +40,5 @@ description: ""
 ### Others
 
 1. [Remedial and Stretching Schedule (Semester 2)](/files/p6%20remedial%20and%20stretching%20schedule%20(semester%202).pdf)
+
+2.[Full SBB 2023 Parent Engagement](/files/hpps%20full%20sbb%202023%20parent%20engagement.pdf) 
