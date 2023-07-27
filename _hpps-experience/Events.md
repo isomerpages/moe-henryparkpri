@@ -1,6 +1,6 @@
 ---
 title: Events
-permalink: /hpps-experience/permalink/
+permalink: /hpps-experience/events/
 description: ""
 ---
 [P1 Speech & Drama Programme ](https://vimeo.com/843909057?share=copy)
