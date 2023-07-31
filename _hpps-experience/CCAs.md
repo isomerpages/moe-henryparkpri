@@ -123,7 +123,7 @@ _For CCAs with “#” sign, audition/ trial/ selection test will be required.&n
     <td class="tg-6zfj">Primary<br>4 – 6</td>
     <td class="tg-6zfj">Friday</td>
     <td class="tg-6zfj">2.15pm – 4.15pm</td>
-    <td class="tg-6zfj">Ms Jennifer Lau<br><a href="mailto:jennifer_lau_pei_shi@moe.edu.sg">jennifer_lau_pei_shi@moe.edu.sg</a></td>
+    <td class="tg-6zfj">Ms Toh Mei Siew<br><a href="mailto:toh_mei_siew@moe.edu.sg">toh_mei_siew@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-2jea">Science Club</td>
