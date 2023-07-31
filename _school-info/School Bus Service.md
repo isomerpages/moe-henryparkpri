@@ -14,9 +14,6 @@ HP: 81012700
 Email:&nbsp;**[henryparktpt@gmail.com](mailto:henryparktpt@gmail.com)**
 
   
-Please read the Information Sheet on School Bus Services before proceeding with the request for School Bus Services.  
-[Information Sheet on School Bus Services](/files/Information%20Sheet%20on%20School%20Bus%20Services%20in%202021.pdf)  
-  
 To request for School Bus Services, click&nbsp;[here](https://docs.google.com/forms/d/e/1FAIpQLSfl_2ZXbTrZyLcazI_xoTirGI2-eP3UJ7DMqut8grtO8rTiXg/viewform).
 
 KAL T&amp;T Services
