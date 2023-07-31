@@ -20,5 +20,4 @@ Please read the Information Sheet on School Bus Services before proceeding with 
 To request for School Bus Services, click&nbsp;[here](https://docs.google.com/forms/d/e/1FAIpQLSfl_2ZXbTrZyLcazI_xoTirGI2-eP3UJ7DMqut8grtO8rTiXg/viewform).
 
 KAL T&amp;T Services
-
 ![KAL T&amp;T Services](/images/kal%20t&amp;t%20base%20period.PNG)
