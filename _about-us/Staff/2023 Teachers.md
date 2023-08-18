@@ -259,7 +259,7 @@ third_nav_title: Staff
   <tr>
     <td class="tg-4fvk">4 Enthusiasm </td>
     <td class="tg-bbr4">Mrs Lisa Lee<br>Ms Angela Ang<br></td>
-    <td class="tg-bbr4">lisa_lee@moe.edu.sg<br>@moe.edu.sg<br></td>
+    <td class="tg-bbr4">lisa_lee@moe.edu.sg<br>@moe.edu.sg<br>ang_ha_ngek@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-4fvk">4 Flexibility</td>
