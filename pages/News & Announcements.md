@@ -3,4 +3,9 @@ title: News & Announcements
 permalink: /news-n-announcements/
 description: ""
 ---
-**The General Office will close at 5pm on 28 Jul 2023, Friday. Thank you for your patience and understanding. We will be open on 31 Jul 2023,  Monday as per the school opening hours during school days.**
+* **On 25 August 2023, Friday, General Office will close at 5.00pm as our School Admin Team (SAT) will be attending a workshop on that day.**
+
+
+
+* **Former HPPS students are advised not to visit their teachers on 31 August 2023, Thursday, as the school will be closed from 11.00am.**
+
