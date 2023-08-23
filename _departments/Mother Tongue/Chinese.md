@@ -26,6 +26,7 @@ Physical Book Recommendation&nbsp;
 *   [October 2022](/files/Physical%20Book%20Recommendation%20CPCLL%20Primary%20-%20Oct%202022.pdf)
 *   [P4 Term 4 2022](/files/Book%20Recommendation%20CPCLL%20Primary%20Term%204%202022.pdf)
 *   [August 2023](/files/physical%20book%20recommendation%20(cpcll)%20primary%20-%20aug%202023-compressed.pdf)
+* [September 2023](/files/book%20recommendation%20(cpcll)%20primary%20term%203%202023.pdf)
 
   
 
@@ -41,6 +42,7 @@ eBook Recommendation&nbsp;
 *   [October 2022](/files/eBook%20Recommendation%20CPCLL%20Primary%20-%20Oct%202022.pdf)
 *   [December 2022](/files/Digital%20Storytelling%20Poster%20Dec%202022.pdf)
 *   [August 2023](/files/ebook%20recommendation%20(cpcll)%20primary%20-%20aug%202023.pdf)
+*   [September 2023](/files/digital%20storytelling%20poster%20(sep%202023).pdf)
 
   
 
