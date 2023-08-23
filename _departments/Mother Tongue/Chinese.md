@@ -26,6 +26,7 @@ Physical Book Recommendation&nbsp;
 *   [October 2022](/files/Physical%20Book%20Recommendation%20CPCLL%20Primary%20-%20Oct%202022.pdf)
 *   [P4 Term 4 2022](/files/Book%20Recommendation%20CPCLL%20Primary%20Term%204%202022.pdf)
 *   [August 2023](/files/physical%20book%20recommendation%20(cpcll)%20primary%20-%20aug%202023-compressed.pdf)
+*   [September 2023](/files/Book%20Recommendation%20CPCLL%20Primary%20Term%204%202022.pdf)
 
   
 
