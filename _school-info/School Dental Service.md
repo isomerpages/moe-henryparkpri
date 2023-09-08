@@ -5,9 +5,9 @@ description: ""
 ---
 ##### Dental Clinic Announcements 
 
-Below are the opening dates for the school dental clinic for July 2023:
+Below are the opening dates for the school dental clinic for Sep 2023:
 
-**10th to 14th July &amp; 24th to 28th July**
+**** 4th to 7 Sep, 18th Sep to 22 Sep &amp; 29 Sep****
 
 Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist) 
 * In case of dental emergencies during clinic closure, please contact the following dental clinics at 9115 1679 (Nan Hua Primary School) or 92707791 (Mobile Dental Clinic - MDC 1) to make appointments.
