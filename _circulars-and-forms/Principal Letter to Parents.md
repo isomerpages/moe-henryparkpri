@@ -11,3 +11,4 @@ description: ""
 4. [T.H.R.I.V.E 04 2023](/files/thrive_04_2023.pdf)
 5. [T.H.R.I.V.E_05_2023](/files/thrive_05_2023.pdf)
 6. [T.H.R.I.V.E_06_2023](/files/thrive_06_2023_updated.pdf)
+7. [T.H.R.I.V.E_08_2023](/files/sa-08a-23.pdf)
