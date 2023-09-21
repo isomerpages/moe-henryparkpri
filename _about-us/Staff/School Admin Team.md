@@ -60,13 +60,25 @@ third_nav_title: Staff
   </tr>
   <tr>
     <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Ms Judy Ong</span></td>
-    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Corporate Support Officer</span></td>
+    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Adjunct Corporate Support Officer</span></td>
     <td class="tg-bbr4"><span style="font-weight:400;color:#241102">judy_ong_meow_kheng_a@schools.gov.sg</span><br></td>
   </tr>
   <tr>
     <td class="tg-4fvk"> Mdm Jenap Johari</td>
     <td class="tg-4fvk"> Operations Support Officer</td>
-    <td class="tg-4fvk">jenap_johari@moe.edu.sg </td>
+    <td class="tg-4fvk">jenap_johari@moe.edu.sg </td> 
   </tr>
 </tbody>
 </table>
+ 
+<table class="tg">
+<thead>
+  <tr>
+		
+ <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Mr Abdul Razak bin Abdul Wadud</span></td>
+   
+<td class="tg-bbr4"><span style="font-weight:400;color:#241102">Corporate Support Officer</span></td>  <td class="tg-4fvk">Abdul_Razak_Abdul_Wadud@schools.gov.sg
+
+
+
+</td></tr></thead></table>
