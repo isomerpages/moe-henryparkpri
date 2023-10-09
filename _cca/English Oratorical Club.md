@@ -15,5 +15,5 @@ They practise writing techniques for speeches and learn to communicate clearly a
 
 |  |  |  |
 | -------- | -------- | -------- |
-| ![](/images/el%20orat%20club%202023%20(pic%201).jpg)     | ![](/images/el%20orat%20club%20(pic%202).jpg)     | ![](/images/el%20orat%20club%20(pi%203).jpeg)     |
-
+| ![](/images/el%20orat%20club%202023%20(pic%201).jpg)| ![](/images/el%20orat%20club%20(pic%202).jpg)|      
+![](/images/el%20orat%20club%20(pi%203).jpeg)|
