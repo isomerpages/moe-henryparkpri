@@ -12,5 +12,4 @@ Students are also given opportunities to showcase their talents through performa
 
 |  |  |  |
 | -------- | -------- | -------- |
-| ![](/images/beginner%20team.jpg)     | ![](/images/school%20team.jpg)     | ![](/images/syf%202022.jpeg)Text     |
-
+| ![](/images/beginner%20team.jpg)     | ![](/images/school%20team.jpg)     | ![](/images/syf%202022.jpeg)     |
