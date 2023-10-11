@@ -8,8 +8,8 @@ Students are exposed to running various distances, throwing different implements
 In the 2023 National School Games, the HPPS Track and Field team achieved a total of 4 individual Gold, 3 relay Gold, 6 individual Silver, 1 relay Silver, 3 individual Bronze, 1 relay bronze and 23 other Top 8 positions. Our Senior Girls team also came in 1st runner-up in the Divisional Challenge. Congratulations to the team!
 
 
+![](/images/trackandfieldpicture1.jpg)
 
+![](/images/trackandfieldpicture2.jpeg)
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
+![](/images/trackandfield%20picture%203.jpeg)
