@@ -10,4 +10,3 @@ The mention of “Chinese Orchestra” might have some of us associating it with
 |  |  |  |
 | -------- | -------- | -------- |
 | ![](/images/chorchestra1.JPG)     | ![](/images/chorchestra2.jpg)     | ![](/images/chorchestra3.jpg)     |
-
