@@ -15,6 +15,6 @@ The Recreational Badminton CCA provides members with the opportunity to learn ba
 
 
 
-| Column 1 | Column 2 | 
+|  |  | 
 | -------- | -------- |
-| ![](/images/badminton1%20finals%20all%20in%20one.jpg)   |     |
+| ![](/images/badminton1%20finals%20all%20in%20one.jpg)   |  ![](/images/badminton%205%20yuze%20jumping%20smash.jpg)   |
