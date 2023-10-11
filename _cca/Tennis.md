@@ -3,9 +3,10 @@ title: Tennis
 permalink: /departments/pe-aesthetics-and-cca/cca/tennis/
 description: ""
 ---
-The Tennis CCA focuses on the development of sport-related skills, fitness and character through the involvement of sports. Through rigorous training sessions and participation in competitions, resilience is built. Members learn to embrace challenges and not avoid them. The CCA hopes to develop self-discipline in our members as it is an integral part of sports excellence and character building. Through game play at training sessions or competitions, members learn the rules and strategies in tennis. Sportsmanship is emphasised consistently to inculcate values like fairness and integrity. Great emphasis is placed on teamwork among the members to ensure everyone feels accepted.
+The Tennis CCA is dedicated to nurturing well-rounded individuals by honing sports-related skills, fostering physical fitness, and cultivating strong character. Our rigorous training sessions and active participation in competitions instill unwavering resilience, teaching members to confront challenges head-on. We prioritize self-discipline as a fundamental component of sports excellence and personal growth. Members acquire a deep understanding of tennis rules and strategies through engaging gameplay during training and competitions. We uphold the values of sportsmanship, emphasizing fairness and integrity throughout. In our close-knit community, teamwork is paramount, ensuring every member feels valued and included. Join us on a journey of personal and athletic development.
 
-<img src="/images/tennis.png" 
-     style="width:75%">
-<img src="/images/Tennis%203.jpg" 
-     style="width:50%">
+![](/images/tennis1.jpg)
+
+![](/images/tennis2.jpg)
+
+![](/images/tennis3.jpg)
