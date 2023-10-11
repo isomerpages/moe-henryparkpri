@@ -17,7 +17,6 @@ Recreational Gymnastics CCA offers a welcoming and inclusive environment for stu
 
 
 
-| Column 1 | Column 2 | Column 3 |
+|  |  |  |
 | -------- | -------- | -------- |
-| ![](/images/gymnastics2.jfif)     |  ![](/images/gymnastics3.jfif)    | Text     |
-
+| ![](/images/gymnastics2.jfif)     |  ![](/images/gymnastics3.jfif)    | ![](/images/gymnastics1.jfif)     |
