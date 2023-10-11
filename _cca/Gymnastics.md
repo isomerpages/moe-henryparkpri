@@ -20,9 +20,8 @@ Gymnastics is a physically demanding sport. To maintain their skills, form and f
 
 Recreational Gymnastics CCA offers a welcoming and inclusive environment for students of all abilities to experience the joy of gymnastics without the pressure of competition. The aim of Recreational Gymnastics CCA is to introduce basic gymnastics skills to the members. Beginners learn simple movements before moving on to more difficult ones. Members’ confidence gradually increases as they master the simpler moves. This helps them to overcome the fear of learning the challenging moves. Recreational gymnastics is also a fantastic way to improve overall physical fitness. It enhances strength, flexibility, and cardiovascular endurance while promoting better posture and body awareness. Members who show great potential will be invited to join the School Gymnastics Training Team.
 
+![](/images/gymnastics1.jfif)
 
+![](/images/gymnastics2.jfif)
 
-
-|  |  |  |
-| -------- | -------- | -------- |
-| ![](/images/gymnastics2.jfif)     |  ![](/images/gymnastics3.jfif)    | ![](/images/gymnastics1.jfif)     |
+![](/images/gymnastics3.jfif)
