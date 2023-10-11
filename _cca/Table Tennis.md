@@ -9,7 +9,6 @@ Members progress from recreational team to training team before eventually donni
 
 
 
-|  |  |  |
-| -------- | -------- | -------- |
-| ![](/images/2023tabletenniswebsitephotos-1.JPG)     | ![](/images/2023tabletenniswebsitephotos-2.JPG)     | ![](/images/2023tabletenniswebsitephotos-3.JPG)     |
-
+|  |  |  
+| -------- | -------- |
+| ![](/images/2023tabletenniswebsitephotos-1.JPG)     | ![](/images/2023tabletenniswebsitephotos-2.JPG)     |      |
