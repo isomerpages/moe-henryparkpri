@@ -13,4 +13,3 @@ In the 2023 National School Games, the HPPS Track and Field team achieved a tota
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
 | Text     | Text     | Text     |
-
