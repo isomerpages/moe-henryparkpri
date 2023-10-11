@@ -5,7 +5,7 @@ description: ""
 ---
 **Gymnastics Training Team**  
 
-Gymnastics is a physically demanding sport. To maintain their skills, form and flexibility, our gymnasts put in 6 to 9 training hours a week. Gymnasts need to possess the mental strength to endure the strenuous training sessions. The rigorous training inculcates perseverance, endurance and resilience in the gymnasts. Gymnastics is also a sport that builds self-discipline and gymnasts must adhere to the safety rules at all times. The Gymnastics CCA aims to mould our gymnasts to become individuals who display our school values of Respect, Integrity, Care and Excellence as well as sportsmanship, during and outside of training sessions.
+Gymnastics is a physically demanding sport. To maintain their skills, form and flexibility, our gymnasts put in at least 6 training hours per week. Gymnasts need to possess the mental strength to endure the strenuous training sessions. The rigorous training inculcates perseverance, endurance and resilience in the gymnasts. Gymnastics is also a sport that builds self-discipline and gymnasts must adhere to the safety rules at all times. The Gymnastics CCA aims to mould our gymnasts to become individuals who display our school values of Respect, Integrity, Care and Excellence as well as sportsmanship, during and outside of training sessions and competitions.
 
 <img src="/images/gymnastics%201.png" style="width:75%">
 <img src="/images/TTGym3.jpg" style="width:50%">
