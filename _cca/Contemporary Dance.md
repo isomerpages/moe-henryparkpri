@@ -10,4 +10,3 @@ Contemporary Dance in Henry Park Primary School is a CCA that allows pupils to l
 |  |  | 
 | -------- | -------- | 
 | ![](/images/contemporary%20dance%201.jpg)    | ![](/images/contemporary%20dance%202.jpg)     |
-
