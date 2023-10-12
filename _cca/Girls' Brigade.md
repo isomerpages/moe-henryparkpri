@@ -14,8 +14,6 @@ Girls do not have to be of the Christian faith to join.
 
 ![](/images/gb%20picture%203.jpeg)
 
-![](/images/gb%20picture%203.jpeg)
-
 ![](/images/gb%20picture%204.jpeg)
 
 ![](/images/gb%20picture%205.jpeg)

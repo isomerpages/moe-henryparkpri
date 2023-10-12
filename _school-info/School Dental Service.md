@@ -5,11 +5,16 @@ description: ""
 ---
 ##### Dental Clinic Announcements 
 
-Below are the opening dates for the school dental clinic for Sep 2023:
+Below are the opening dates for the school dental clinic for Oct 2023:
 
-**** 4th to 7 Sep, 18th Sep to 22 Sep &amp; 29 Sep****
+* 17 Oct 2023
+* 19 Oct to 20 Oct 2023
+* 30 Oct to 3 Nov 2023
+
+With effect from 16 Oct 2023 the dental clinic will close at&nbsp;**5pm**&nbsp;on Monday, Wednesday and Friday and&nbsp;**5.30pm**&nbsp;on Tuesday and Thursday.
 
 Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist) 
+
 * In case of dental emergencies during clinic closure, please contact the following dental clinics at 9115 1679 (Nan Hua Primary School) or 92707791 (Mobile Dental Clinic - MDC 1) to make appointments.
 
 ###### Dental Clinic Opening Hours
@@ -17,9 +22,9 @@ Tel : 9114 8656
 
 **School Term**
 
-Monday - Thursday <br>
-8:00 a.m. - 5:30 p.m. <br>
-(Lunch break: 12.30 p.m.-1.30 p.m.) <br>
-Friday<br>
+Monday , Wednesday &amp; Friday<br>
 8:00 a.m. - 5:00 p.m. <br>
+(Lunch break: 12.30 p.m.-1.30 p.m.) <br>
+Tuesday &amp; Thursday<br>
+8:00 a.m. - 5:30 p.m. <br>
 (Lunch break: 12.30 p.m.-1.30 p.m.)
