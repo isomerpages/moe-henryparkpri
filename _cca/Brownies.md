@@ -13,4 +13,6 @@ The Brownies CCA conducts activities which inculcate values based on the Brownie
 
 ![](/images/brownies4.jpeg)
 
+![](/images/brownies%205.jpeg)
+
 ![](/images/brownies_3.jpeg)
