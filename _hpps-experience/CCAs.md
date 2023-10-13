@@ -803,6 +803,3 @@ The respective CCA Teachers will email or send PG notification to you with more 
 For enquiries pertaining to specific CCA, please email the respective teachers-in-charge.  
   
 For general enquiries, please email Ms Chin Lian Mei ([chin_lian_mei@moe.edu.sg](mailto:chin_lian_mei@moe.edu.sg)).
-
-
-
