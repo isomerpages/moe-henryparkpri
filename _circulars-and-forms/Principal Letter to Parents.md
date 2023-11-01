@@ -14,3 +14,5 @@ description: ""
 7. [TH.R.I.V.E_07_2023](/files/thrive_07_2023.pdf)
 8. [TH.R.I.V.E_08_2023](/files/thrive_08_2023.pdf)
 9. [TH.R.I.V.E_09_2023](/files/thrive_09_2023_revised.pdf)
+10. [TH.R.I.V.E_10_2023](/files/thrive_10_2023.pdf)
+11. [Annex A - 2024 HPPS Uniform Price List](/files/annex%20a-%202024%20hpps%20uniform%20price%20list.pdf)
