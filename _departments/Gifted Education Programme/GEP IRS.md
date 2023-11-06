@@ -30,6 +30,11 @@ variant: markdown
 </figure>
 
 <figure>
+<img src="/images/students%20participating%20in%20an%20interactive%20session.jpeg">
+<figcaption> <strong>Students participating in an interactive session</strong> </figcaption>
+</figure>
+
+<figure>
 <img src="/images/IRS%20Pic%203.jpg">
 <figcaption> <strong>IRS Passion Talks</strong> </figcaption>
 </figure>
