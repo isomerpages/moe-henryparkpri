@@ -30,3 +30,8 @@ variant: markdown
 <img src="/images/3math%20group%20discussion1.jpg">
 <figcaption> <strong>Group discussion during Mathematics lesson</strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/4hands-on%20math%20activity1.jpeg">
+<figcaption> <strong>Hands-On Math Activity</strong> </figcaption>
+</figure>
