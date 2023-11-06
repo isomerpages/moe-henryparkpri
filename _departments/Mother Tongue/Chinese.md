@@ -3,6 +3,7 @@ title: Chinese
 permalink: /departments/mother-tongue/chinese/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ### Our Goals
 
@@ -16,6 +17,7 @@ third_nav_title: Mother Tongue
 ### Book Recommendation by Committee to Promote Chinese Language Learning (CPCLL)
 
 [100 Picture Books to Read Before 9](/files/100%20Picture%20Books%20to%20Read%20Before%209.pdf)
+[2023 Term 4 Book Recommendation](/files/term4book%20recommendation.pdf)
 
 Physical Book Recommendation&nbsp;
 
@@ -27,7 +29,7 @@ Physical Book Recommendation&nbsp;
 *   [P4 Term 4 2022](/files/Book%20Recommendation%20CPCLL%20Primary%20Term%204%202022.pdf)
 *   [August 2023](/files/physical%20book%20recommendation%20(cpcll)%20primary%20-%20aug%202023-compressed.pdf)
 * [September 2023](/files/book%20recommendation%20(cpcll)%20primary%20term%203%202023.pdf)
-
+* [October 2023](/files/oct23physical%20book%20recommendation%20.pdf)
   
 
 [Digital Storytelling](/files/Book%20Recommendation%20CPCLL%20Primary%20-%20June%202022.pdf)
@@ -43,6 +45,7 @@ eBook Recommendation&nbsp;
 *   [December 2022](/files/Digital%20Storytelling%20Poster%20Dec%202022.pdf)
 *   [August 2023](/files/ebook%20recommendation%20(cpcll)%20primary%20-%20aug%202023.pdf)
 *   [September 2023](/files/digital%20storytelling%20poster%20(sep%202023).pdf)
+*   [October 2023](/files/oct2023ebook%20recommendation.pdf)
 
   
 

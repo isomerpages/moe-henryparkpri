@@ -3,6 +3,7 @@ title: GEP Science
 permalink: /departments/gifted-education-programme/gep-science/
 description: ""
 third_nav_title: Gifted Education Programme
+variant: markdown
 ---
 ### Our Goals
 *   Experimental hands-on approach to learning of Science;
@@ -11,48 +12,22 @@ third_nav_title: Gifted Education Programme
 *   Interactive and engaging Science lessons using blended learning incorporating various ICT platforms.
 
 <figure>
-<img src="/images/1%20Science%20Experiments.jpg">
-<figcaption> <strong>Science Experiments</strong> </figcaption>
+<img src="/images/p4cdl%20green%20gallery%20at%20the%20singapore%20botanic%20gardens.jpeg">
+<figcaption> <strong>P4 students visiting the The CDL Green Gallery to find out more about climate change</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/2%20Young%20Surgeons.jpg">
-<figcaption> <strong>Young Surgeons</strong> </figcaption>
+<img src="/images/talk%20by%20nparks%20during%20their%20p4%20lj.jpeg">
+<figcaption> <strong>Students paying attention to a talk by Nparks during their P4 Learning Journey</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/3%20Interactive%20Science%20Lesson.jpg">
-<figcaption> <strong>Interactive Science Lesson</strong> </figcaption>
+<img src="/images/p6%20visit%20to%20science%20centre.jpg">
+<figcaption> <strong>P6 Visit to Science Centre</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/Science%20Pic%201.jpg">
-<figcaption> <strong>P4 lesson on plant transport system</strong> </figcaption>
+<img src="/images/p6%20visit%20to%20nus.jpg">
+<figcaption> <strong>P6 Visit to NUS</strong> </figcaption>
 </figure>
 
-<figure>
-<img src="/images/Science%20Picture%202.png">
-<figcaption> <strong>Science blended learning lesson
-</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science%20Picture%203.png">
-<figcaption> <strong>Pupils observing specimens of seeds and fruits in plant reproduction lessons</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science%20Picture%204.png">
-<figcaption> <strong>Pupils looking for objects visible in the black box during the lesson on light
-</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science%20Picture%205.png">
-<figcaption> <strong>Pupils conducting experiments in the Science lab</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science%20Picture%206.png">
-<figcaption> <strong>Pupils using data loggers to collect data during Science lessons</strong> </figcaption>
-</figure>
