@@ -27,33 +27,7 @@ variant: markdown
 </figure>
 
 <figure>
-<img src="/images/Science%20Pic%201.jpg">
-<figcaption> <strong>P4 lesson on plant transport system</strong> </figcaption>
+<img src="/images/p6%20visit%20to%20nus.jpg">
+<figcaption> <strong>P6 Visit to NUS</strong> </figcaption>
 </figure>
 
-<figure>
-<img src="/images/Science%20Picture%202.png">
-<figcaption> <strong>Science blended learning lesson
-</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science%20Picture%203.png">
-<figcaption> <strong>Pupils observing specimens of seeds and fruits in plant reproduction lessons</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science%20Picture%204.png">
-<figcaption> <strong>Pupils looking for objects visible in the black box during the lesson on light
-</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science%20Picture%205.png">
-<figcaption> <strong>Pupils conducting experiments in the Science lab</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/Science%20Picture%206.png">
-<figcaption> <strong>Pupils using data loggers to collect data during Science lessons</strong> </figcaption>
-</figure>
