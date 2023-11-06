@@ -18,7 +18,8 @@ variant: markdown
 </figure>
 
 <figure>
-<img src="/images/playing%20math%20games1.jpeg"> <strong>Pupils playing Mathematics game</strong> 
+<img src="/images/playing%20math%20games1.jpeg">
+<figcaption> <strong>Students playing Mathematics game</strong> </figcaption>
 </figure>
 
 <figure>
@@ -28,6 +29,11 @@ variant: markdown
 
 <figure>
 <img src="/images/3math%20group%20discussion1.jpg">
+<figcaption> <strong>Group discussion during Mathematics lesson</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/3math%20groupdiscussion2.jpeg">
 <figcaption> <strong>Group discussion during Mathematics lesson</strong> </figcaption>
 </figure>
 
