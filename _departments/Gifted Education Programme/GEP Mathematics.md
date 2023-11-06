@@ -11,9 +11,10 @@ variant: markdown
 * Enable students to acquire and apply mathematical concepts and skills for everyday life through hands-on and out-of-class activities, such as traffic counting, supermarket visits, mathematical modelling, and ICT lessons. .
 * Foster a positive attitude towards mathematics by incorporating real-world applications of mathematics and demonstrating how it can solve practical problems.  .
 
+
 <figure>
-<img src="/images/Math%20Pic_1.png">
-<figcaption> <strong>Pupils using Math manipulatives during class</strong> </figcaption>
+<img src="/images/gepmath1.jpg">
+<figcaption> <strong>Students playing Mathematics game</strong> </figcaption>
 </figure>
 
 <figure>
