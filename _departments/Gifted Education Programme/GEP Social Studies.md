@@ -11,7 +11,6 @@ variant: markdown
 *   Cater to pupils’ interest/choices with differentiated tasks
 *   Fun learning journeys for authentic learning experiences
 
-
 <figure>
 <img src="/images/p6%20social%20studies%20learning%20journey%20to%20the%20asian%20civilisation%20museum.jpg">
 <figcaption> <strong>P6 Social Studies Learning Journey to the Asian Civilisation Museum</strong> </figcaption>
@@ -23,3 +22,7 @@ variant: markdown
 </strong> </figcaption>
 </figure>
 
+<figure>
+<img src="/images/SS%20Pic%201.jpg">
+<figcaption> <strong>P4 Social Studies Skit Presentation</strong> </figcaption>
+</figure>
