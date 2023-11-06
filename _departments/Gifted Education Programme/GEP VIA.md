@@ -42,5 +42,10 @@ Values in Action (VIA) are learning experiences that support students’ develop
 <figcaption> <strong>P5 Students assisting the clients to the different stations</strong> </figcaption>
 </figure>
 
+<figure>
+<img src="/images/clients%20participating%20in%20the%20crafts%20booth%20organised%20by%20the%20students.jpg">
+<figcaption> <strong>Clients participating in the crafts booth organised by the students</strong> </figcaption>
+</figure>
+
 
 
