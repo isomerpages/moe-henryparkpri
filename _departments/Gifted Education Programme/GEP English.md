@@ -17,11 +17,12 @@ variant: markdown
 </strong> </figcaption>
 </figure>
 
-	
-
-<img src="/images/EL%20Picture2_1.jpg">
-<figcaption> <strong>Students with Sandwich Book Report
+![](/images/group%20work%20with%20use%20of%20ict%20and%20presentation%20during%20el%20lessons.jpg)<figcaption> <strong>Group work with use of ICT and presentation during EL lessons
 </strong> </figcaption>
+
+
+
+<img src="/images/EL%20Picture2_1.jpg"> <figcaption> <strong>Students with Sandwich Book Report</strong> </figcaption>
 
 
 <figure>
