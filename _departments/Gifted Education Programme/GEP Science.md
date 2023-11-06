@@ -3,6 +3,7 @@ title: GEP Science
 permalink: /departments/gifted-education-programme/gep-science/
 description: ""
 third_nav_title: Gifted Education Programme
+variant: markdown
 ---
 ### Our Goals
 *   Experimental hands-on approach to learning of Science;
@@ -11,8 +12,8 @@ third_nav_title: Gifted Education Programme
 *   Interactive and engaging Science lessons using blended learning incorporating various ICT platforms.
 
 <figure>
-<img src="/images/1%20Science%20Experiments.jpg">
-<figcaption> <strong>Science Experiments</strong> </figcaption>
+<img src="/images/p4cdl%20green%20gallery%20at%20the%20singapore%20botanic%20gardens.jpeg">
+<figcaption> <strong>P4 students visiting the The CDL Green Gallery to find out more about climate change</strong> </figcaption>
 </figure>
 
 <figure>
