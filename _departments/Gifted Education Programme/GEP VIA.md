@@ -49,7 +49,7 @@ Values in Action (VIA) are learning experiences that support students’ develop
 
 <figure>
 <img src="/images/students%20handing%20out%20goody%20bags%20to%20their%20clients.jpg">
-<figcaption> <strong>P5 Students handing out goody bags to their clients</strong> </figcaption>
+ <strong>P5 Students handing out goody bags to their clients</strong> 
 </figure>
 
 <figure>
@@ -58,7 +58,7 @@ Values in Action (VIA) are learning experiences that support students’ develop
 </figure>
 
 <figure>
-<img src="">
-<figcaption> <strong>P5 Students explaining the game rules to the clients</strong> </figcaption>
+<img src="/images/p6%20students%20lion%20befrienders.jpg">
+<figcaption> <strong>P6 students for the elderly from Lion Befrienders</strong> </figcaption>
 </figure>
 
