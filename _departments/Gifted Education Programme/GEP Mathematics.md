@@ -25,3 +25,8 @@ variant: markdown
 <img src="/images/p4%20traffic%20statistics.jpg">
 <figcaption> <strong>Students observing the traffic to learn about statistics</strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/3math%20group%20discussion1.jpg">
+<figcaption> <strong>Group discussion during Mathematics lesson</strong> </figcaption>
+</figure>
