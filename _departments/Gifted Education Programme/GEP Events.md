@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Gifted Education Programme
 variant: markdown
 ---
-
 ### Our Goals
 
 Multi-Disciplinary Learning Experience enables students to bring concepts and skills taught in various subjects and disciplines together to understand and explore current issues such as sustainability and conservation through learning journeys. 
