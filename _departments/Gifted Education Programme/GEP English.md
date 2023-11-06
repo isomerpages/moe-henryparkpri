@@ -20,6 +20,6 @@ variant: markdown
 
 <figure>
 <img src="/images/EL%20Picture2_2.jpg">
-<figcaption> <strong>Group work with SMM in place
+<figcaption> <strong>Students listening to their peer's presentation
 </strong> </figcaption>
 </figure>
