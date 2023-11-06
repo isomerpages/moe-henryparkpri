@@ -22,8 +22,8 @@ variant: markdown
 </figure>
 
 <figure>
-<img src="/images/3%20Interactive%20Science%20Lesson.jpg">
-<figcaption> <strong>Interactive Science Lesson</strong> </figcaption>
+<img src="/images/p6%20visit%20to%20science%20centre.jpg">
+<figcaption> <strong>P6 Visit to Science Centre</strong> </figcaption>
 </figure>
 
 <figure>
