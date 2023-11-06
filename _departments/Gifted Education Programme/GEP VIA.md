@@ -13,11 +13,11 @@ Values in Action (VIA) are learning experiences that support students’ develop
 </figure>
 
 <figure>
-<img src="/images/2%20Creating%20a%20website.jpg">
-<figcaption> <strong>Creating a website</strong> </figcaption>
+<img src="/images/p4%20students%20interacting%20with%20the%20osos%20in%20a%20tea%20party.jpeg">
+<figcaption> <strong>P4 students interacting with the OSOs in a tea party they organised for them</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/3%20Creating%20a%20website.jpg">
-<figcaption> <strong>Creating a website</strong> </figcaption>
+<img src="/images/p4%20students%20playing%20games%20with%20the%20osos.JPG">
+<figcaption> <strong>P4 Students playing games with the OSOs</strong> </figcaption>
 </figure>
