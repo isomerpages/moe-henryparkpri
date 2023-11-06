@@ -13,13 +13,13 @@ Computing Enrichment Programme (CEP) helps to prepare our pupils for an Informat
 </figure>
 
 <figure>
-<img src="/images/2%20Coding%20Course.jpg">
-<figcaption> <strong>P5 Coding Course</strong> </figcaption>
+<img src="/images/students%20creating%20their%20own%20coding.jpeg">
+<figcaption> <strong>Students creating their own coding</strong> </figcaption>
 </figure>
 
 <figure>
-<img src="/images/3%20Coding%20Course.jpg">
-<figcaption> <strong>P5 Coding Course</strong> </figcaption>
+<img src="/images/p5%20students%20coding%20with%20their%20microbits.jpeg">
+<figcaption> <strong>p3.	P5 Students coding with their microbits</strong> </figcaption>
 </figure>
 
 <figure>
