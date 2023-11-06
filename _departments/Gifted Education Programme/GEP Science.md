@@ -17,8 +17,8 @@ variant: markdown
 </figure>
 
 <figure>
-<img src="/images/2%20Young%20Surgeons.jpg">
-<figcaption> <strong>Young Surgeons</strong> </figcaption>
+<img src="/images/talk%20by%20nparks%20during%20their%20p4%20lj.jpeg">
+<figcaption> <strong>Students paying attention to a talk by Nparks during their P4 Learning Journey</strong> </figcaption>
 </figure>
 
 <figure>
