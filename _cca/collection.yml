@@ -2,9 +2,9 @@ collections:
   cca:
     output: true
     order:
-      - Choir.md
       - CCA Registration for 2024.md
       - CCA.md
+      - Choir.md
       - Art Club.md
       - Chess Club.md
       - English Oratorical Club.md
