@@ -35,3 +35,8 @@ variant: markdown
 <img src="/images/4hands-on%20math%20activity1.jpeg">
 <figcaption> <strong>Hands-On Math Activity</strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/4handson%20math%20activity2.jpeg">
+<figcaption> <strong>Hands-On Math Activity</strong> </figcaption>
+</figure>
