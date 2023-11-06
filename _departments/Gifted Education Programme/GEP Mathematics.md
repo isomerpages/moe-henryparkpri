@@ -22,6 +22,6 @@ variant: markdown
 </figure>
 
 <figure>
-<img src="/images/Math%20Pic_3.jpg">
-<figcaption> <strong>Station rotation during Math lesson</strong> </figcaption>
+<img src="/images/p4%20traffic%20statistics.jpg">
+<figcaption> <strong>Students observing the traffic to learn about statistics</strong> </figcaption>
 </figure>
