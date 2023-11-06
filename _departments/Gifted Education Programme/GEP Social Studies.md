@@ -23,7 +23,3 @@ variant: markdown
 </strong> </figcaption>
 </figure>
 
-<figure>
-<img src="/images/SS%20Pic%203.jpg">
-<figcaption> <strong>Station rotation during P6 Social Studies Lesson</strong> </figcaption>
-</figure>
