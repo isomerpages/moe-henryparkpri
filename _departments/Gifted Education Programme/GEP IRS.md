@@ -10,13 +10,23 @@ variant: markdown
 
 
 <figure>
-<img src="/images/%20p4%20problem%20finding%20sessions%20around%20the%20school.JPG">
+<img src="/images/p4problem%20finding%20sessions%20aroundschool.JPG">
 <figcaption> <strong>P4 Problem Finding sessions around the school </strong> </figcaption>
 </figure>
 
 <figure>
 <img src="/images/irs%20presentation%20to%20panel%20of%20judges%20via%20zoom.jpg">
-<figcaption> <strong>2.	IRS Presentation to panel of judges via Zoom</strong> </figcaption>
+<figcaption> <strong>IRS Presentation to panel of judges via Zoom</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/teachers%20sharing%20about%20their%20passion.jpeg">
+<figcaption> <strong>Teachers sharing about their Passion</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/teachers%20sharing%20artefacts%20about%20their%20passion.jpeg">
+<figcaption> <strong>Teachers sharing artefacts about their passion</strong> </figcaption>
 </figure>
 
 <figure>
