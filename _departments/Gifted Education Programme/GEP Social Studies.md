@@ -18,8 +18,8 @@ variant: markdown
 </figure>
 
 <figure>
-<img src="/images/SS%20Pic%202.jpg">
-<figcaption> <strong>Creating a treasure map during P5 Social Studies Lesson
+<img src="/images/p5%20group%20discussions%20and%20research%20on%20case%20study.jpg">
+<figcaption> <strong>P5 Group discussions and research on case study 
 </strong> </figcaption>
 </figure>
 
