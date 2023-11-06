@@ -17,6 +17,8 @@ variant: markdown
 <figcaption> <strong>Students playing Mathematics game</strong> </figcaption>
 </figure>
 
+
+
 <figure>
 <img src="/images/Math%20Pic_2.jpg">
 <figcaption> <strong>Pupils playing Math board games in class</strong> </figcaption>
