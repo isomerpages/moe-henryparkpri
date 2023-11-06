@@ -3,6 +3,7 @@ title: GEP Social Studies
 permalink: /departments/gifted-education-programme/gep-social-studies/
 description: ""
 third_nav_title: Gifted Education Programme
+variant: markdown
 ---
 ### Our Goals
 
@@ -12,8 +13,8 @@ third_nav_title: Gifted Education Programme
 
 
 <figure>
-<img src="/images/SS%20Pic%201.jpg">
-<figcaption> <strong>P4 Social Studies Skit Presentation</strong> </figcaption>
+<img src="/images/p6%20social%20studies%20learning%20journey%20to%20the%20asian%20civilisation%20museum.jpg">
+<figcaption> <strong>P6 Social Studies Learning Journey to the Asian Civilisation Museum</strong> </figcaption>
 </figure>
 
 <figure>
