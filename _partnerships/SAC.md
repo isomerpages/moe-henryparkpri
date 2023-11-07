@@ -2,6 +2,7 @@
 title: SAC
 permalink: /partnerships/sac/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -12,7 +13,9 @@ description: ""
 .tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+
+    &lt;
+  <table class="tg">
 <thead>
   <tr>
     <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">School Advisory Committee (SAC)</span></th>
@@ -21,7 +24,7 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-nrix">Chairman</td>
-    <td class="tg-nrix">Professor Kumaralingam Amirthalingam</td>
+    <td class="tg-nrix">Mr Bruce Ngam</td>
   </tr>
   <tr>
     <td class="tg-nrix">Secretary</td>
@@ -33,28 +36,24 @@ description: ""
   </tr>
   <tr>
     <td class="tg-nrix">Member</td>
-    <td class="tg-nrix">Mr Bruce Ngam</td>
+    <td class="tg-nrix">Mr Lau Boon Ping</td>
   </tr>
   <tr>
     <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix"> Dr Carol Yeo Kim Lian</td>
+    <td class="tg-nrix"> Mr Jason Chiam</td>
   </tr>
   <tr>
     <td class="tg-nrix"> Member</td>
     <td class="tg-nrix">Dr Chin Chee Yang</td>
   </tr>
   <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Mr Chua Kwan Ping </td>
+    
   </tr>
   <tr>
     <td class="tg-nrix"> Member</td>
     <td class="tg-nrix">Mr Chua Teck Wee</td>
   </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Mr Dennis Tan </td>
-  </tr>
+  <tr></tr>
   <tr>
     <td class="tg-nrix"> Member</td>
     <td class="tg-nrix">Mr Kelvin Tong </td>

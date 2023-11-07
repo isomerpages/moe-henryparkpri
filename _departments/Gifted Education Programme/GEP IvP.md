@@ -33,7 +33,7 @@ IvP is open to Primary 5 pupils in the Gifted Education Programme who have an in
 
 <figure>
 <img src="/images/presentation%20of%20rapid%20prototyping.PNG">
-<figcaption> <strong>2.	Students presenting their rapid prototype product to their peers</strong> </figcaption>
+<figcaption> <strong>Students presenting their rapid prototype product to their peers</strong> </figcaption>
 </figure>
 
 <figure>
