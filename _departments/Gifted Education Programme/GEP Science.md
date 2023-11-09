@@ -6,10 +6,10 @@ third_nav_title: Gifted Education Programme
 variant: markdown
 ---
 ### Our Goals
-*   Experimental hands-on approach to learning of Science;
-*   Inquiry-based learning using Scientific methods;
-*   Real-world application of scientific concepts;
-*   Interactive and engaging Science lessons using blended learning incorporating various ICT platforms.
+*   Experimental hands-on approach to learning of Science
+*   Inquiry-based learning using Scientific methods
+*   Real-world application of scientific concepts
+*   Interactive and engaging Science lessons using blended learning incorporating various ICT platforms
 
 <figure>
 <img src="/images/p4cdl%20green%20gallery%20at%20the%20singapore%20botanic%20gardens.jpeg">
@@ -30,4 +30,3 @@ variant: markdown
 <img src="/images/p6%20visit%20to%20nus.jpg">
 <figcaption> <strong>P6 Visit to NUS</strong> </figcaption>
 </figure>
-
