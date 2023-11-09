@@ -3,6 +3,7 @@ title: GEP Schedule
 permalink: /departments/gifted-education-programme/gep-schedule/
 description: ""
 third_nav_title: Gifted Education Programme
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -16,7 +17,7 @@ third_nav_title: Gifted Education Programme
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">P4 Enrichment Programmes</span></th>
+    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">Primary 4</span></th>
   </tr>
 </thead>
 <tbody>
@@ -25,7 +26,7 @@ third_nav_title: Gifted Education Programme
     <td class="tg-4fvk">Schedule</td>
   </tr>
   <tr>
-    <td class="tg-4fvk">Computer Enrichment Programme (P4 CEP)</td>
+    <td class="tg-4fvk">Computing Enrichment Programme (P4 CEP)</td>
     <td class="tg-4fvk">Tuesday 1415 - 1515</td>
   </tr>
   <tr>
@@ -66,4 +67,4 @@ third_nav_title: Gifted Education Programme
 </tbody>
 </table>
 
-**P6 Higher Chinese Language (HCL):** Tuesday 1415 - 1545
+**P6 Higher Chinese Language (HCL):**&nbsp;Tuesday 1415 - 1545
