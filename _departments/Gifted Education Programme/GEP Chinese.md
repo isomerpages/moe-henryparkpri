@@ -30,3 +30,8 @@ variant: markdown
 <img src="/images/GEP%20Events%204.png">
 <figcaption> <strong>Pupils enjoying the tea house visit learning journey</strong> </figcaption>
 </figure>
+
+<figure>
+<img src="/images/GEP%20Events%205.png">
+<figcaption> <strong>Learning the art of making Chinese tea</strong> </figcaption>
+</figure>
