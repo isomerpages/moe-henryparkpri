@@ -18,16 +18,17 @@ variant: markdown
 </figure>
 
 <figure>
-<img src="/images/group%20work%20with%20use%20of%20ict%20and%20presentation%20during%20el%20lessons.jpg"> <strong>Group work with use of ICT and presentation during EL lessons
-</strong> 
+<img src="/images/group%20work%20with%20use%20of%20ict%20and%20presentation%20during%20el%20lessons.jpg"> <strong>Group work with use of ICT and presentation during EL lessons</strong> 
 
-	
+
+</figure>
 <img src="/images/EL%20Picture2_1.jpg"> 
- <figcaption> <strong>Students with Sandwich Book Report</strong> </figcaption>
+<strong>Students with Sandwich Book Report </strong> 
+ 
 
 
 <figure>
 <img src="/images/EL%20Picture2_2.jpg">
 <figcaption> <strong>Students listening to their peer's presentation
 </strong> </figcaption>
-</figure></figure>
+</figure>
