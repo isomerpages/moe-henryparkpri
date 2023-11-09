@@ -27,6 +27,6 @@ variant: markdown
 </figure>
 
 <figure>
-<img src="">
-<figcaption> <strong>P6 Mural Trip to Chinatown</strong> </figcaption>
+<img src="/images/GEP%20Events%204.png">
+<figcaption> <strong>Pupils enjoying the tea house visit learning journey</strong> </figcaption>
 </figure>
