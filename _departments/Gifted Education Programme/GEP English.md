@@ -21,8 +21,7 @@ variant: markdown
 <img src="/images/group%20work%20with%20use%20of%20ict%20and%20presentation%20during%20el%20lessons.jpg"> <strong>Group work with use of ICT and presentation during EL lessons
 </strong> 
 
-
-
+	
 <img src="/images/EL%20Picture2_1.jpg"> 
  <figcaption> <strong>Students with Sandwich Book Report</strong> </figcaption>
 

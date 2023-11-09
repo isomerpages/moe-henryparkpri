@@ -7,9 +7,9 @@ variant: markdown
 ---
 ### Our Goals
 
-*  Enhance every child's mathematical potential through the use of differentiated instructional approaches, investigative work, problem-posing tasks, games, and puzzles..
-* Enable students to acquire and apply mathematical concepts and skills for everyday life through hands-on and out-of-class activities, such as traffic counting, supermarket visits, mathematical modelling, and ICT lessons. .
-* Foster a positive attitude towards mathematics by incorporating real-world applications of mathematics and demonstrating how it can solve practical problems.  .
+*  Enhance every child's mathematical potential through the use of differentiated instructional approaches, investigative work, problem-posing tasks, games, and puzzles
+* Enable students to acquire and apply mathematical concepts and skills for everyday life through hands-on and out-of-class activities, such as traffic counting, supermarket visits, mathematical modelling, and ICT lessons
+* Foster a positive attitude towards mathematics by incorporating real-world applications of mathematics and demonstrating how it can solve practical problems
 
 
 <figure>

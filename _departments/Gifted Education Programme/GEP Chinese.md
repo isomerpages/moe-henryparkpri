@@ -18,10 +18,20 @@ variant: markdown
 
 <figure>
 <img src="/images/p4%20visit%20to%20the%20tea%20house.JPG">
-<figcaption> <strong>P4 Visit to the Tea House</strong> </figcaption>
+<figcaption> <strong>Visit to the Tea House</strong> </figcaption>
 </figure>
 
 <figure>
 <img src="/images/p6%20mural%20trip%20to%20chinatown.JPG">
 <figcaption> <strong>P6 Mural Trip to Chinatown</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/GEP%20Events%204.png">
+<figcaption> <strong>Pupils enjoying the tea house visit learning journey</strong> </figcaption>
+</figure>
+
+<figure>
+<img src="/images/GEP%20Events%205.png">
+<figcaption> <strong>Learning the art of making Chinese tea</strong> </figcaption>
 </figure>
