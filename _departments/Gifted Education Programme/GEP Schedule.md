@@ -48,7 +48,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">P5 Enrichment Programmes</span></th>
+    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">Primary 5</span></th>
   </tr>
 </thead>
 <tbody>
