@@ -53,12 +53,12 @@ variant: markdown
     <td class="tg-4fvk">Schedule</td>
   </tr>
   <tr>
-    <td class="tg-4fvk">Computer Enrichment Programme (P5 CEP)</td>
+    <td class="tg-4fvk">Computing Enrichment Programme (CEP)</td>
     <td class="tg-4fvk">Thursday 1415 - 1515</td>
   </tr>
   <tr>
     <td class="tg-4fvk">Higher Chinese Language (HCL)</td>
-    <td class="tg-4fvk">Tuesday 1415 - 1545</td>
+    <td class="tg-4fvk">Tuesday 1415 - 1515</td>
   </tr>
 </tbody>
 </table>
@@ -87,4 +87,4 @@ variant: markdown
     <td class="tg-4fvk">Higher Chinese Language (HCL)</td>
     <td class="tg-4fvk">Tuesday 1415 - 1515</td>
   </tr>
-</tbody></table>
+</tbody></table>g
