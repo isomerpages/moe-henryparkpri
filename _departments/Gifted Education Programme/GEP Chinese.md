@@ -9,7 +9,7 @@ variant: markdown
 
 *   Customised approaches for different CL ability groups
 *   Develop higher order, critical and creative thinking skills and strategies with Mindmapping, Bloom’s Taxonomy, Paul's Reasoning, etc.
-*   Increase awareness of the Chinese culture with P4 Reading Carnival &amp; Tea House Visit, P5 Language Camp, P5 &amp; 6 CL Learning Journey.
+*   Increase awareness of the Chinese culture with P4 Reading Carnival &amp; Tea House Visit, P5 Language Camp, P5 &amp; 6 CL Learning Journey
 
 <figure>
 <img src="/images/p4%20reading%20carnival.JPG">
