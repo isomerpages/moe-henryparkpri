@@ -19,8 +19,24 @@ description: ""
 |Alexa Ang Yan Ying   |
 |Kwek Ngee Deng, Jonas|
 
+| Primary 1B Character Award Winners |
+| -------- |
+|Declan Tan Shiyou   |
+| Liu Ruichen |
+| Neal Roy Pravin   |
+|Jaylene Hu En Ning   |
+|Ellia Kho Le En   |
+|Zeldyr Tan Xun|
+
+| Primary 1C Character Award Winners |
+| -------- |
+|Goh Yu Xuan Kaley |
+|Charlotte Teo Yue En |
+|Hu Chengyi  |
+|Lukas Aiden Wong   |
+|Elham Mahsa Malik   |
+|Ng Xuan Yun, Chelsea|
 
 
-
-
+   
 
