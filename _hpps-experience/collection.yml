@@ -2,8 +2,8 @@ collections:
   hpps-experience:
     output: true
     order:
-      - HPPS Celebrates.md
       - Events.md
+      - HPPS Celebrates.md
       - CCAs.md
       - eYearbook 2022.md
       - P5 Camp.md
