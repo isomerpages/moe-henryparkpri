@@ -9,8 +9,8 @@ sections:
   - hero:
       key_highlights:
         - title: News and Announcements
-          description: ""
-          url: /news-n-announcements/
+          description: 17 Nov 2023 Closes at 5pm
+          url: ""
         - title: Calendar of Events
           description: ""
           url: /calendar-of-events/
