@@ -2,8 +2,8 @@ collections:
   circulars-and-forms:
     output: true
     order:
-      - 2024 P1 Orientation Resources & Materials.md
       - Principal Letter to Parents.md
+      - 2024 P1 Orientation Resources & Materials.md
       - P1 Term Letters and Briefing Notes.md
       - P2 Term Letters and Briefing Slides.md
       - P3 Term Letters and Briefing Notes.md
