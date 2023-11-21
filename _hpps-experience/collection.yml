@@ -2,6 +2,7 @@ collections:
   hpps-experience:
     output: true
     order:
+      - Events/.keep
       - Events.md
       - HPPS Celebrates.md
       - CCAs.md
