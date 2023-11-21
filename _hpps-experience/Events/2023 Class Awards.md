@@ -22,7 +22,6 @@ third_nav_title: Events
 ![](/images/2D.png)
 ![](/images/2E.png)
 ![](/images/2F.png)
-![](/images/2F.png)
 ![](/images/2G.png)
 ![](/images/2H.png)
 ![](/images/2I.png)
