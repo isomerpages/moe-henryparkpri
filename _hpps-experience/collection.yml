@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Events/.keep
-      - Events.md
       - HPPS Celebrates.md
       - CCAs.md
       - eYearbook 2022.md
