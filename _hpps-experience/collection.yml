@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Events/.keep
-      - Events/Events.md
+      - Events/Videos.md
       - Events/HPPS Celebrates.md
       - Events/2023 Class Awards.md
       - CCAs.md
