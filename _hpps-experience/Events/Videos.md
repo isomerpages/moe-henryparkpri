@@ -1,8 +1,9 @@
 ---
-title: Events
+title: Videos
 permalink: /hpps-experience/events/
 description: ""
 variant: markdown
+third_nav_title: Events
 ---
 [HPPS Corporate Video](https://www.youtube.com/watch?v=eP6c-VvtcaA)
 

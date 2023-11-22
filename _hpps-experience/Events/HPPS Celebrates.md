@@ -3,6 +3,7 @@ title: HPPS Celebrates
 permalink: /hpps-experience/permalink/
 variant: markdown
 description: ""
+third_nav_title: Events
 ---
 ![](/images/HPPS_Celebrates.png)
 ![](/images/congrats.png)
