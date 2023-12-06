@@ -2,17 +2,15 @@
 title: School Dental Service
 permalink: /school-info/school-dental-service/
 description: ""
+variant: markdown
 ---
 ##### Dental Clinic Announcements 
 
-Below are the opening dates for the school dental clinic for Nov 2023:
+Below are the opening dates for the school dental clinic for Dec 2023:
 
-* 1 Nov to 3 Nov 2023
-* 6 Nov to 10 Nov 2023
-* 14 Nov to 16 Nov 2023
-* 20 Nov 2023
-* 23 Nov to 24 Nov 2023
-* 27 Nov to 30 Nov 2023
+* 11 Dec to 15 Dec 2023
+* 26 Dec to 29 Dec 2023
+
 
 With effect from 16 Oct 2023 the dental clinic will close at&nbsp;**5pm**&nbsp;on Monday, Wednesday and Friday and&nbsp;**5.30pm**&nbsp;on Tuesday and Thursday.
 
