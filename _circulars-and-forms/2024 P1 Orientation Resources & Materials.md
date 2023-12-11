@@ -18,5 +18,7 @@ description: ""
 [11. POSB Smart Buddy Programme](/files/8__POSB_Smart_Buddy_Programme.pdf)  
 [12. Land Transport Authority (LTA)](/files/9__Land_Transport_Authority__LTA_.pdf)    
 [13. Henry Park School Tour](https://www.youtube.com/watch?v=cViy33s3Xi0)
-[14. Principal's Address](/files/Principal_s_Address.pdf) 
+ 
+ [14. Principal's Address](/files/Principal_s_Address.pdf) 
+ 
 [15. Sharing by Year Head](/files/Sharing_by_Year_Head.pdf)
