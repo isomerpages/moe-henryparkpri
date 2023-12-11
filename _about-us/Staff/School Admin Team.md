@@ -3,6 +3,7 @@ title: School Admin Team
 permalink: /about-us/staff/school-admin-team/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -49,9 +50,6 @@ third_nav_title: Staff
     <td class="tg-4fvk"> sim_cheng_swee@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-4fvk">Mr Chin Chew Ching Alvin </td>
-    <td class="tg-4fvk"> ICT Associate </td>
-    <td class="tg-4fvk">chin_chew_ching@schools.gov.sg  </td>
   </tr>
   <tr>
     <td class="tg-bbr4"><span style="font-weight:400;color:#241102">Ms Norindah Ibrahim</span></td>
