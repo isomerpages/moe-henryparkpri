@@ -3,6 +3,7 @@ title: Key Personnel
 permalink: /about-us/staff/key-personnel/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -136,13 +137,7 @@ third_nav_title: Staff
     <td class="tg-4fvk"> Ms Sheila Zheng</td>
     <td class="tg-4fvk"> LH - Chinese</td>
     <td class="tg-4fvk">zheng_yiting_sheila@moe.edu.sg </td>
-  </tr>
-  <tr>
-    <td class="tg-bbr4"><span style="background-color:initial">Mrs Chloe Tay</span></td>
-    <td class="tg-4fvk">LH - English</td>
-    <td class="tg-bbr4"><span style="font-weight:400;color:#241102">chua_hwee_tuan@moe.edu.sg</span></td>
-  </tr>
-  <tr>
+    </tr><tr>
     <td class="tg-4fvk">Ms Lim Shuen Hwee Glady </td>
     <td class="tg-4fvk">LH - English</td>
     <td class="tg-bbr4">lim_shuen_hwee_glady@moe.edu.sg </td>
