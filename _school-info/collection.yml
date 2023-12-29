@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - Dismissal Timings, Pickup Points, Gate Opening Hours.md
       - School Canteen.md
       - MOE Student Details Form Online Portal.md
       - School Booklist.md
