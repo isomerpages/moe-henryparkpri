@@ -6,10 +6,11 @@ variant: markdown
 ---
 ##### Dental Clinic Announcements 
 
-Below are the opening dates for the school dental clinic for Dec 2023:
+Below are the opening dates for the school dental clinic for Jan 2024:
 
-* 11 Dec to 15 Dec 2023
-* 26 Dec to 29 Dec 2023
+* 2 Jan to 5 Jan 2024
+* 7 Jan to 11 Jan 2024
+* 21 Jan to 25 Jan 2024
 
 
 With effect from 16 Oct 2023 the dental clinic will close at&nbsp;**5pm**&nbsp;on Monday, Wednesday and Friday and&nbsp;**5.30pm**&nbsp;on Tuesday and Thursday.
