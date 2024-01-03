@@ -9,8 +9,8 @@ variant: markdown
 |Type of Stall  | Closing Date | Requirements|
 | -------- | -------- | -------- |
 |Chinese Noodle     | 31 Aug 2024     | Chinese Noodles    | 
-Halal Noodles    |31 Aug 2023| Halal Noodles
-Vegetarian    |31 Aug 2023| Vegetarian
+Halal Noodles    |31 Aug 2024| Halal Noodles
+Vegetarian    |31 Aug 2024| Vegetarian
 
 **Application Procedure**
 1. Download and complete the application form. You may also request for a hardcopy from the School's General Office. 
