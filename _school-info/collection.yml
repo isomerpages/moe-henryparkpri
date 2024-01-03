@@ -2,8 +2,8 @@ collections:
   school-info:
     output: true
     order:
-      - Dismissal Timings, Pickup Points, Gate Opening Hours.md
       - School Canteen.md
+      - Dismissal Timings, Pickup Points, Gate Opening Hours.md
       - MOE Student Details Form Online Portal.md
       - School Booklist.md
       - School Rules and Regulations (Updated on 9 Feb 2021).md
