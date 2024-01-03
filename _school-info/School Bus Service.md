@@ -1,0 +1,20 @@
+---
+title: School Bus Service
+permalink: /school-info/school-bus-service/
+description: ""
+---
+**KAL T&amp;T Services**
+ 
+Please contact Senior Manager, Mr Patrick Chua on School Bus transport matters.  <br>
+If you are unable to contact Patrick via call, please send him a message via sms.  
+  
+
+HP: 81012700
+
+Email:&nbsp;**[henryparktpt@gmail.com](mailto:henryparktpt@gmail.com)**
+
+  
+To request for School Bus Services, click&nbsp;[here](https://docs.google.com/forms/d/e/1FAIpQLSfl_2ZXbTrZyLcazI_xoTirGI2-eP3UJ7DMqut8grtO8rTiXg/viewform).
+
+KAL T&amp;T Services
+![KAL T&amp;T Services](/images/kal%20t&amp;t%20base%20period.PNG)

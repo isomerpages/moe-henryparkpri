@@ -1,0 +1,19 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - School Vision and Mission.md
+      - School Motto and Values.md
+      - School Crest and School Song.md
+      - THRIVE.md
+      - Staff/.keep
+      - Staff/School Leaders.md
+      - Staff/Key Personnel.md
+      - Staff/2024 Teachers.md
+      - Staff/School Admin Team.md
+      - Contact Us/.keep
+      - Contact Us/School Contact and Location.md
+      - Contact Us/Feedback and Enquiries.md
+      - FAQ.md
+      - Privacy Policy.md
