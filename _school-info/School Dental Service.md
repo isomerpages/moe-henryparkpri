@@ -13,8 +13,6 @@ Below are the opening dates for the school dental clinic for Jan 2024:
 * 21 Jan to 25 Jan 2024
 
 
-With effect from 16 Oct 2023 the dental clinic will close at&nbsp;**5pm**&nbsp;on Monday, Wednesday and Friday and&nbsp;**5.30pm**&nbsp;on Tuesday and Thursday.
-
 Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist) 
 
 * In case of dental emergencies during clinic closure, please contact the following dental clinics at 9115 1679 (Nan Hua Primary School) or 92707791 (Mobile Dental Clinic - MDC 1) to make appointments.
