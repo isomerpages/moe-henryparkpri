@@ -4,7 +4,7 @@ permalink: /school-info/permalink/
 description: ""
 variant: markdown
 ---
-**Type of School Canteen Advertisement**
+**Type of School Canteen Advertisement**      
 
 |Type of Stall  | Closing Date | Requirements|
 | -------- | -------- | -------- |
