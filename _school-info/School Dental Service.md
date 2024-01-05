@@ -9,8 +9,8 @@ variant: markdown
 Below are the opening dates for the school dental clinic for Jan 2024:
 
 * 2 Jan to 5 Jan 2024
-* 7 Jan to 11 Jan 2024
-* 21 Jan to 25 Jan 2024
+* 15 Jan to 19 Jan 2024
+* 29 Jan to 31 Jan 2024
 
 
 Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist) 
