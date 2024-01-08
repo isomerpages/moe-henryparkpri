@@ -2,5 +2,8 @@
 title: Leave of Absence (Online Application Form)
 permalink: /school-info/leave-of-absence-online-application-form/
 description: ""
+variant: markdown
 ---
-[Leave of Absence FormSG](https://form.gov.sg/60fe505135252d00123003fd)
+**This page is undergoing maintenance.**
+
+Do contact our General Office at 64663600 or email us at hpps@moe.edu.sg for assistance.
