@@ -1,6 +1,6 @@
 ---
 title: School Canteen
-permalink: /school-info/permalink/
+permalink: /school-info/permalink/canteen/
 description: ""
 variant: tiptap
 ---
