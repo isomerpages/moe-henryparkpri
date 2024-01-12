@@ -2,34 +2,6 @@
 title: P5 Term Letters and Briefing Notes
 permalink: /circulars-and-forms/p5-term-letters-and-briefing-notes/
 description: ""
+variant: tiptap
 ---
-### Term Letters
-
- 1. [Term 1](/files/2023%20P5%20Term%201%20Letter.pdf)  
- 2. [Term 2](/files/2023%20P5%20Term%202%20Letter.pdf)
-
-### P5 Subject Briefing Slides
-
-
-1. [English Language](/files/2023%20P5%20English%20Language.pdf)  
-2. [Mathematics](/files/2023%20P5%20Mathematics.pdf)  
-3. [Foundation Mathematics](/files/2023%20P5%20Foundation%20Mathematics.pdf)  
-4. [Science](/files/2023%20P5%20Science.pdf)  
-5. [Chinese Language](/files/2023%20P5%20Chinese%20Language.pdf)  
-6. [Higher Chinese Language](/files/2023%20P5%20Higher%20Chinese%20Language.pdf)  
-7. [Foundation Language](/files/2023%20P5%20Foundation%20Chinese%20Language.pdf)  
-8. [Tamil Language](/files/2023%20P5%20Tamil%20Language.pdf)  
-9. [Higher Tamil Language](/files/2023%20P5%20Higher%20Tamil%20Language.pdf)  
-10. [Malay and Higher Malay Language](/files/2023%20P5%20Malay%20%20Higher%20Malay%20Language.pdf)  
-  
-
-### P5 Assessment Letters
-
-1. [Term 1 Assessments](/files/P5%20Term%201%20Assessment%20Letter%201.pdf)  
-
-2. [Term 2 Assessments](/files/2023%20P5%20Term%202%20Assessment%20Letter.pdf)
-
-3. [Semester 2 Assessments](/files/p5%20sem%202%20assessment%20information.pdf)
-  
-### Others
-1. [Remedial Schedule (Semester2)](/files/p5%20remedial%20schedule%20(semester%202).pdf)
+<h3>Term Letters</h3><p></p><h3>P5 Subject Briefing Slides</h3><p>1.&nbsp;<a href="/files/2023%20P5%20English%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a><br>2.&nbsp;<a href="/files/2023%20P5%20Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a><br>3.&nbsp;<a href="/files/2023%20P5%20Foundation%20Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Mathematics</a><br>4.&nbsp;<a href="/files/2023%20P5%20Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a><br>5.&nbsp;<a href="/files/2023%20P5%20Chinese%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a><br>6.&nbsp;<a href="/files/2023%20P5%20Higher%20Chinese%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Language</a><br>7.&nbsp;<a href="/files/2023%20P5%20Foundation%20Chinese%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Language</a><br>8.&nbsp;<a href="/files/2023%20P5%20Tamil%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a><br>9.&nbsp;<a href="/files/2023%20P5%20Higher%20Tamil%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Tamil Language</a><br>10.&nbsp;<a href="/files/2023%20P5%20Malay%20%20Higher%20Malay%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay and Higher Malay Language</a></p><h3></h3><p></p>

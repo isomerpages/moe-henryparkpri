@@ -2,43 +2,6 @@
 title: P6 Term Letters and Briefing Notes
 permalink: /circulars-and-forms/p6-term-letters-and-briefing-notes/
 description: ""
+variant: tiptap
 ---
-### P6 Term Letters
-
-1. [Term 1](/files/2023%20P6%20Term%201%20Letter.pdf)
-
-2. [Term 2](/files/2023%20P6%20Term%202%20Letter.pdf)
-
-### P6 Briefing Slides
-
-1. [English Language](/files/2023%20P6%20English%20Language.pdf)  
-2. [Mathematics](/files/2023%20P6%20Mathematics.pdf)  
-3. [Foundation Mathematics](/files/2023%20P6%20Foundation%20Mathematics.pdf)  
-4. [Science & Foundation Science](/files/2023%20P6%20Science%20%20Foundation%20Science.pdf)  
-5. [Chinese Language](/files/2023%20P6%20Chinese%20Language.pdf)  
-6. [Higher Chinese Language](/files/2023%20P6%20Higher%20Chinese%20Language.pdf)  
-7. [Foundation Chinese Language](/files/2023%20P6%20Foundation%20Chinese%20Language.pdf)  
-8. [Tamil Language](/files/2023%20P6%20Tamil%20Language.pdf)  
-9. [Higher Tamil Language](/files/2023%20P6%20Higher%20Tamil%20Language.pdf)  
-10. [Malay & Higher Malay Language](/files/2023%20P6%20Malay%20%20Higher%20Malay%20Language.pdf)  
-  
-
-### P6 Assessment Letters
-
-
-1. [Term 1 Assessments](/files/P6%20Term%201%20Assessment%20Letter.pdf)  
-
-2. [Term 2 Assessments](/files/2023%20P6%20Term%202%20Assessment%20Letter.pdf)
-
-3. [Preliminary Examination](/files/p6%20term%203%20assesment.pdf)
-
-4. [PSLE Timetable](/files/psle%20timetable.pdf)
- 
-
-
-
-### Others
-
-1. [Remedial and Stretching Schedule (Semester 2)](/files/p6%20remedial%20and%20stretching%20schedule%20(semester%202).pdf)
-
-2.[Full SBB 2023 Parent Engagement](/files/hpps%20full%20sbb%202023%20parent%20engagement.pdf)
+<h3>P6 Term Letters</h3><p></p><h3>P6 Briefing Slides</h3><p>1.&nbsp;<a href="/files/2023%20P6%20English%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a><br>2.&nbsp;<a href="/files/2023%20P6%20Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a><br>3.&nbsp;<a href="/files/2023%20P6%20Foundation%20Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Mathematics</a><br>4.&nbsp;<a href="/files/2023%20P6%20Science%20%20Foundation%20Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science &amp; Foundation Science</a><br>5.&nbsp;<a href="/files/2023%20P6%20Chinese%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a><br>6.&nbsp;<a href="/files/2023%20P6%20Higher%20Chinese%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Language</a><br>7.&nbsp;<a href="/files/2023%20P6%20Foundation%20Chinese%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese Language</a><br>8.&nbsp;<a href="/files/2023%20P6%20Tamil%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a><br>9.&nbsp;<a href="/files/2023%20P6%20Higher%20Tamil%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Tamil Language</a><br>10.&nbsp;<a href="/files/2023%20P6%20Malay%20%20Higher%20Malay%20Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay &amp; Higher Malay Language</a></p><h3>P6 Assessment Letters</h3><p>1.&nbsp;<a href="/files/P6%20Term%201%20Assessment%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Assessments</a></p><p>2.&nbsp;<a href="/files/2023%20P6%20Term%202%20Assessment%20Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Assessments</a></p><p>3.&nbsp;<a href="/files/p6%20term%203%20assesment.pdf" rel="noopener noreferrer nofollow" target="_blank">Preliminary Examination</a></p><p>4.&nbsp;<a href="/files/psle%20timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">PSLE Timetable</a></p><h3>Others</h3><p>1.&nbsp;<a href="/files/p6%20remedial%20and%20stretching%20schedule%20(semester%202).pdf" rel="noopener noreferrer nofollow" target="_blank">Remedial and Stretching Schedule (Semester 2)</a></p><p>2.<a href="/files/hpps%20full%20sbb%202023%20parent%20engagement.pdf" rel="noopener noreferrer nofollow" target="_blank">Full SBB 2023 Parent Engagement</a></p>
