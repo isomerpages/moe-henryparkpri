@@ -1,12 +1,29 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
-
 ### **FAQ**
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+1. **What are the school’s arrival and dismissal time for students?**
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+Monday, Tuesday, Thursday and Friday: 7.15a.m. to 1.30p.m.  
+Wednesday: 7.15a.m. to 1.00p.m.  
+Flag raising commences at 7.25a.m. and lessons start at 7.30a.m.
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+2. **What are the operating hours of the Student Care Center (SCC)?**
+
+Operating hours during school term:  
+Monday – Friday: 1.00p.m. to 7.00p.m.
+
+Operating hours during school holidays\*  
+Monday – Friday: 7.30a.m. to 7.00p.m.  
+_\* Do check out the SCC’s newsletter or SMS system from the SCC_
+
+3. **What must I do if I need to bring my child/ward home early?**
+
+Parents/guardians picking up their child from school must report to the office and fill in the necessary form(s) before leaving the school compound. Students will only be allowed to leave the school premises early if accompanied by their parents/guardians. You should also inform the driver if your child goes home via school bus.
+
+4. **How can I communicate with my child/ward’s teachers?**
+
+You may write to the teacher’s email address or call the General Office and leave a message for the teacher. Parents may also make use of the Student’s Diary to communicate through hand written notes.
