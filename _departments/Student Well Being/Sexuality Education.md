@@ -238,7 +238,7 @@ variant: tiptap
     <li>
         <p>Parents who wish to opt their children out of the Sexuality Education
             lessons need to complete an opt-out form. This form will be communicated
-            &nbsp;to parents at the start of the year and is also downloadable <a href="Annex_A___Growing_Years__Parent_s_Opt_Out_Form_2024" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+            &nbsp;to parents at the start of the year and is also downloadable <a href="https://cms.isomer.gov.sg/sites/moe-henryparkpri/media/files/mediaDirectory/files/editMediaSettings/Annex_A___Growing_Years__Parent_s_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
             The completed opt-out form is to be submitted by 09/02/2024.</p>
     </li>
     <li>
