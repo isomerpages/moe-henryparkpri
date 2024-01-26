@@ -112,21 +112,4 @@ variant: tiptap
     </li>
     </ul>
     <p>&nbsp;</p>
-    <p>For all the above-mentioned competitions, registration information will
-        be provided to students through their Math teachers. Students interested
-        in participating should express their interest to their Math teachers once
-        the details are shared.</p>
-    <p>The consent/registration form will then be sent to parents via Parents
-        Gateway (PG).</p>
-    <p>To ensure the smooth processing of registrations, we request parents to
-        strictly adhere to the registration deadlines set by the Math department.</p>
-    <p>&nbsp;</p>
-    <p><strong>CELEBRATING MATH DAY</strong>
-    </p>
-    <p>Celebrating Math Day is a day set aside in each term from Term 1 to Term
-        3 to focus on Math activities and learning beyond the prescribed school
-        syllabus. The focus theme for each term is different and there are a total
-        of three main themes: Mathematician Day where the students learn about
-        different mathematicians and their contribution; Economy Day where the
-        students learn about economy related concepts and ideas and Measurement
-        Day where concepts and ideas relating to measurements are shared with students.</p>
+    <p>with students.</p>
