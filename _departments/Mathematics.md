@@ -111,16 +111,14 @@ variant: tiptap
             School</p>
     </li>
     </ul>
-    <p>&nbsp;</p>
-    <p>For all the above-mentioned competitions, registration information will
-        be provided to students through their Math teachers. Students interested
+    <p>&nbsp;For all the above-mentioned competitions, registration information
+        will be provided to students through their Math teachers. Students interested
         in participating should express their interest to their Math teachers once
         the details are shared.</p>
     <p>The consent/registration form will then be sent to parents via Parents
         Gateway (PG).</p>
     <p>To ensure the smooth processing of registrations, we request parents to
         strictly adhere to the registration deadlines set by the Math department.</p>
-    <p>&nbsp;</p>
     <p><strong>CELEBRATING MATH DAY</strong>
     </p>
     <p>Celebrating Math Day is a day set aside in each term from Term 1 to Term
