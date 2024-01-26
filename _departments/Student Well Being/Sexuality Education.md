@@ -42,7 +42,7 @@ variant: tiptap
     ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">link</a> for more
     information on MOE Sexuality Education.</p>
-<h4><strong><br>Overview of HENRY PARK PRIMARY SCHOOL’S Sexuality Education Programme for 2024</strong></h4>
+<h4><strong><br>Overview of Henry Park Primary School's Sexuality Education Programme for 2024</strong></h4>
 <ol start="4">
     <li>
         <p>Sexuality Education is delivered in a holistic manner through the school
@@ -238,7 +238,7 @@ variant: tiptap
     <li>
         <p>Parents who wish to opt their children out of the Sexuality Education
             lessons need to complete an opt-out form. This form will be communicated
-            &nbsp;to parents at the start of the year and is also downloadable <a href="https://cms.isomer.gov.sg/sites/moe-henryparkpri/media/files/mediaDirectory/files/Annex_A___Growing_Years__Parent_s_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+            &nbsp;to parents at the start of the year and is also downloadable <a href="/files/Annex_A___Growing_Years__Parent_s_Opt_Out_Form_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
             The completed opt-out form is to be submitted by 09/02/2024.</p>
     </li>
     <li>
