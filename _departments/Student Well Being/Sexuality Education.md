@@ -48,10 +48,8 @@ variant: tiptap
         <p>Sexuality Education is delivered in a holistic manner through the school
             curriculum. The content for Sexuality Education is grouped into five main
             themes: Human Development, Interpersonal Relationships, Sexual Health,
-            Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> (please
-            insert hyperlink: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-sexuality-education-scope</a>)
-            for more information on the scope of Sexuality Education in the school
-            curriculum.</p>
+            Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+            more information on the scope of Sexuality Education in the school curriculum.</p>
     </li>
     <li>
         <p>The subjects that incorporate topics on sexuality include:</p>
@@ -84,11 +82,8 @@ variant: tiptap
             from sexuality-related risks.</p>
     </li>
 </ol>
-<p>&nbsp;<strong>At Henry Park Primary School, the following lessons from the Growing Years Programme will be taught in 2024:</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Primary 5</strong>
+<h4><strong>At Henry Park Primary School, the following lessons from the Growing Years Programme will be taught in 2024:</strong></h4>
+<p><strong>&nbsp;Primary 5</strong>
 </p>
 <table>
     <tbody>
