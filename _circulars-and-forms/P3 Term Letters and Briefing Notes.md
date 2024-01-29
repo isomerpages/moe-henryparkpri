@@ -20,7 +20,7 @@ variant: tiptap
 <p><a href="/files/2024_P3_Tamil_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
 </p>
 <p></p>
-<h4>Level Matters &amp; Assessment Schedules</h4>
+<h4>Level Matters &amp; Assessment Schedule</h4>
 <p><a href="/files/2024_P3_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Term 1 Level Matters</a>
 </p>
 <p><a href="/files/2024_P3_Term_1_3_Assessment_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 Terms 1 to 3 Assessment Schedule</a>
