@@ -2,8 +2,9 @@
 title: School Wait List (Application Form)
 permalink: /school-info/school-wait-list-application-form/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-**Wait List for Henry Park Primary School in 2023 is now close for application.**
-
-**For 2024 Waitlist, the school is in the midst of updating the website and it will be launched by Feb 2024.**
+<p><strong>2024 Wait List Application for Henry Park Primary School is now open.</strong>
+</p>
+<p><strong>To apply, click </strong><a href="https://form.gov.sg/admin/form/65bc461f4e73b8643d79748b" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
