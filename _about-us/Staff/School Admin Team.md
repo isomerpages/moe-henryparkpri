@@ -78,7 +78,7 @@ variant: tiptap
 <p>Mr See Jen Shan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICTManager</p>
+<p>Adjunct ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>see_jen_shan@moe.edu.sg</p>
