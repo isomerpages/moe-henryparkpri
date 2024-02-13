@@ -14,4 +14,4 @@ variant: markdown
 7. [SA/07/2023](/files/sa-07-23.pdf)
 8. [SA/08/2023](/files/studentachievement_08.pdf)
 9. [SA/09/2023](/files/sa-09-23.pdf)
-10. [](/files/SA_10_23.pdf)
+10. [SA/10/2023](/files/SA_10_23.pdf)
