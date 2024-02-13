@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Teaching & Learning Framework.md
       - Principal's Message.md
       - School Vision and Mission.md
       - School Motto and Values.md
       - School Crest and School Song.md
+      - Teaching & Learning Framework.md
       - THRIVE.md
       - Staff/.keep
       - Staff/School Leaders.md
