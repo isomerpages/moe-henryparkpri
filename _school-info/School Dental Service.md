@@ -10,7 +10,7 @@ Below are the opening dates for the school dental clinic for Feb 2024:
 
 * 1 to 2 Feb 2024
 * 9 Feb 2024 (8am to 12pm)
-* 13 Feb to 16 Feb 2024
+* 14 Feb to 15 Feb 2024
 * 26 Feb to 29 Feb 2024
 
 
