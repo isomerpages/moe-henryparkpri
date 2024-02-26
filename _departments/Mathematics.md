@@ -99,10 +99,11 @@ interest and to ignite their passion in mathematics.</p>
 <p>The school participants in the following Mathematics Olympiads annually:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Raffles Mathematical Olympiad &nbsp;(RMO)&nbsp; organized by Raffles Institution</p>
+<p><a href="https://www.ri.edu.sg/rmo" rel="noopener noreferrer nofollow" target="_blank">Raffles Mathematical Olympiad (RMO)</a> organized
+by Raffles Institution</p>
 </li>
 <li>
-<p>Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS) organized
+<p><a href="https://apmops.hci.edu.sg/details" rel="noopener noreferrer nofollow" target="_blank">Asia-Pacific Mathematical Olympiad for Primary Schools (APMOPS)</a> organized
 by Hwa Chong Institution</p>
 </li>
 <li>
