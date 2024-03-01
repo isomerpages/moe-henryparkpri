@@ -2,6 +2,7 @@ collections:
   hpps-experience:
     output: true
     order:
+      - P5 Camp 2024.md
       - Events/.keep
       - Events/Videos.md
       - Events/HPPS Celebrates.md
