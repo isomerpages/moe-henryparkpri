@@ -2,30 +2,39 @@
 title: School Dental Service
 permalink: /school-info/school-dental-service/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-##### Dental Clinic Announcements 
-
-Below are the opening dates for the school dental clinic for Mar 2024:
-
-* 1 Mar 2024
-* 8 Mar 2024
-* 19 Mar to 20 Mar 2024
-* 26 Mar to 29 Mar 2024
-
-
-Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist) 
-
-* In case of dental emergencies during clinic closure, please contact the following dental clinics at 9115 1679 (Nan Hua Primary School) or 92707791 (Mobile Dental Clinic - MDC 1) to make appointments.
-
-###### Dental Clinic Opening Hours
-Tel : 9114 8656
-
-**School Term**
-
-Monday , Wednesday &amp; Friday<br>
-8:00 a.m. - 5:00 p.m. <br>
-(Lunch break: 12.30 p.m.-1.30 p.m.) <br>
-Tuesday &amp; Thursday<br>
-8:00 a.m. - 5:30 p.m. <br>
-(Lunch break: 12.30 p.m.-1.30 p.m.)
+<h5>Dental Clinic Announcements</h5>
+<p>Below are the opening dates for the school dental clinic for Mar 2024:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>1 Mar 2024</p>
+</li>
+<li>
+<p>8 Mar 2024</p>
+</li>
+<li>
+<p>19 Mar to 20 Mar 2024</p>
+</li>
+<li>
+<p>26 Mar to 29 Mar 2024</p>
+</li>
+</ul>
+<p>Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>In case of dental emergencies during clinic closure, please contact the
+following dental clinics at 9115 1679 (Nan Hua Primary School) or 92707791
+(Mobile Dental Clinic - MDC 1) to make appointments.</p>
+</li>
+</ul>
+<h6>Dental Clinic Opening Hours</h6>
+<p>Tel : 9114 8656</p>
+<p><strong>School Term</strong>
+</p>
+<p>Monday , Wednesday &amp; Friday
+<br>8:00 a.m. - 5:00 p.m.
+<br>(Lunch break: 12.30 p.m.-1.30 p.m.)
+<br>Tuesday &amp; Thursday
+<br>8:00 a.m. - 5:30 p.m.
+<br>(Lunch break: 12.30 p.m.-1.30 p.m.)</p>
