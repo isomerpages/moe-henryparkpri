@@ -6,12 +6,12 @@ variant: markdown
 ---
 ##### Dental Clinic Announcements 
 
-Below are the opening dates for the school dental clinic for Feb 2024:
+Below are the opening dates for the school dental clinic for Mar 2024:
 
-* 1 to 2 Feb 2024
-* 9 Feb 2024 (8am to 12pm)
-* 14 Feb to 15 Feb 2024
-* 26 Feb to 29 Feb 2024
+* 1 Mar 2024
+* 8 Mar 2024
+* 19 Mar to 20 Mar 2024
+* 26 Mar to 29 Mar 2024
 
 
 Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist) 
