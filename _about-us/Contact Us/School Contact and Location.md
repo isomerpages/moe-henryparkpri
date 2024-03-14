@@ -85,7 +85,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Eat with Your Family Day (EWYFD) - </strong>
+<p><strong>Eat with Your Family Day (EWYFD) -</strong>
 </p>
 <p>In support of this initiative, HPPS and ACE@Work (Student Care Centre
 in HPPS) will be <strong>closed by 5 p.m.</strong> on the following EWYFD
