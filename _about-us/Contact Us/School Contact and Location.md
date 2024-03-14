@@ -88,7 +88,9 @@ variant: tiptap
 <p><a href="https://fathers.com.sg/ewyfd/" rel="noopener noreferrer nofollow" target="_blank">Eat With Your Family Day (EWYFD)</a>
 </p>
 <p>HPPS and ACE@Work (Student Care Centre in HPPS) will be <strong>closed by 5 p.m.</strong> on
-the following EWYFD dates</p>
+these EWYFD dates.</p>
+<p>We seek the co-operation of our parents to make the necessary arrangements
+and we hope that you will have an enjoyable day with your families.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>• 8 March 2024</p>
