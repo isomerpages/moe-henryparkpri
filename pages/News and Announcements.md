@@ -1,6 +1,6 @@
 ---
-title: News & Announcements
-permalink: /news-n-announcements/
+title: News and Announcements
+permalink: /news-and-announcements/
 description: ""
 variant: tiptap
 ---

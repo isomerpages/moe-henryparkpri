@@ -4,4 +4,14 @@ permalink: /calendar-of-events/
 description: ""
 variant: tiptap
 ---
-<ol data-tight="true" class="tight"><li><p><a href="/files/Annex_A_Calendar__Term_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a></p></li></ol><p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Annex_A_Calendar__Term_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Annex_A_Calendar__Term_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
+</p>
+</li>
+</ol>
+<p></p>
