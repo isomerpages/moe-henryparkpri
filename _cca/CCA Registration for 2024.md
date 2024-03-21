@@ -28,4 +28,5 @@ CCA teachers in-charge.</p>
 and Mr Jeremy Wan (wan_kerr_wen_jeremy@moe.edu.sg)</p>
 <p>Please click here for the CCA schedule and CCA Teacher(s) in-charge for
 2024.</p>
-<p>You may also find a list of the CCAs offered in the school here.</p>
+<p>You may also find a list of the CCAs offered in the school here.<a href="/files/CCA_schedule_2024_19_Mar_24.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+</p>
