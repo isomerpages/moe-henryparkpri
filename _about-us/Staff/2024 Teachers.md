@@ -409,10 +409,12 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Haslina Binte Hassan</p>
 <p>Ms Siti Rashidah</p>
+<p>Mr Patrick Hiap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>haslina_hassan_a@moe.edu.sg</p>
 <p>siti_rashidah_abdul_rahi@moe.edu.sg</p>
+<p>patrick_hiap_lee_an@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -420,11 +422,11 @@ variant: tiptap
 <p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Yanting</p>
+<p>Ms Constance Yap</p>
 <p>Mr Yuan Kee King</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>koh_yanting@moe.edu.sg</p>
+<p>yap_pei_ling_constance_a@moe.edu.sg</p>
 <p>yuan_kee_king@moe.edu.sg</p>
 </td>
 </tr>
