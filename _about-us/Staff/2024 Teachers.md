@@ -258,11 +258,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Nabisa Beevi</p>
-<p>Mdm Lee Miin Jiun Pauline</p>
+<p>Mdm Devi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>nabisa_beevi@moe.edu.sg</p>
-<p>lee_miin_jiun_pauline@moe.edu.sg</p>
+<p>kandasamy_parvathi_devi@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -298,11 +298,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Tan Yong Yuan</p>
 <p>Mrs Priscilla Heng</p>
-<p>Mdm Devi</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_yong_yuan@moe.edu.sg</p>
-<p>ng_en_oi@moe.edu.sg kandasamy_parvathi_devi@moe.edu.sg</p>
+<p>ng_en_oi@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -465,11 +465,11 @@ variant: tiptap
 <p>4 Boldness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Azida</p>
+<p>Mdm Lee Miin Jiun Pauline</p>
 <p>Mdm Chamanpreet Kaur</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noor_azida_abdul_rahman@moe.edu.sg</p>
+<p>lee_miin_jiun_pauline@moe.edu.sg</p>
 <p>chamanpreet_kaur@moe.edu.sg</p>
 </td>
 </tr>
