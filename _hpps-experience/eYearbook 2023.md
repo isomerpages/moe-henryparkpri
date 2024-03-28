@@ -4,4 +4,5 @@ permalink: /hpps-experience/eyearbook-2022/
 description: ""
 variant: tiptap
 ---
-[eYearbook 2022](https://fliphtml5.com/read/obrr/phcl/index.html)
+<p><a href="https://online.fliphtml5.com/obrr/swpu/" rel="noopener noreferrer nofollow" target="_blank">eYearbook 2023</a>
+</p>
