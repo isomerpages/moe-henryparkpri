@@ -41,12 +41,10 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Choon Tiang</p>
-<p>Mdm Latiffah Maideen</p>
 <p>Mdm Leong Soak Wai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>koh_choon_tiang@moe.edu.sg</p>
-<p>latiffah_mohamed_maideen@moe.edu.sg</p>
 <p>leong_soak_wai@moe.edu.sg</p>
 </td>
 </tr>
@@ -616,13 +614,12 @@ variant: tiptap
 <p>5 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Diyanah</p>
 <p>Ms Su Ra Hye</p>
+<p>Mdm Latiffah Maideen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nur_diyanah_kamal@moe.edu.sg</p>
-<p></p>
 <p>su_ra_hye@moe.edu.sg</p>
+<p>latiffah_mohamed_maideen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
