@@ -2,6 +2,7 @@
 title: School Bookshop and Uniform
 permalink: /school-info/school-bookshop-and-uniform/
 description: ""
+variant: markdown
 ---
 <h3>Announcement</h3>
 
@@ -20,7 +21,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-co5s">School Bookshop <span style="color:#241102;background-color:#F9F4F0"> </span></th>
-    <th class="tg-co5s">Pacific Bookstores Pte Ltd <br>Tel : 93654956 <br>Fax : 64674673 <br><br>School Bookshop Operating Hours During School Term<br>Monday to Friday (except Wednesday) <br>8:00 a.m. – 3:00 p.m. <br>Every Wednesday <br>8:00 a.m. – 2:30 p.m. <br><br>*Parents can come to the book shop only after 1400H and a prior appointment must be made with the bookshop in view of COVID-19 SMM. Please make your appointment via <a href="mailto:hpps@pacificbookstores.com" target="_blank" rel="noopener noreferrer"><span style="font-weight:600;text-decoration:none;color:#FF282A">hpps@pacificbookstores.com</span></a>  <br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer"><span style="font-weight:600;text-decoration:none;color:#FF282A">www.pacificbookstores.com</span></a><br></th>
+    <th class="tg-co5s">Pacific Bookstores Pte Ltd <br>Tel : 93654956 <br>Fax : 64674673 <br><br>School Bookshop Operating Hours During School Term<br>Monday to Friday (except Wednesday) <br>8:00 a.m. – 3:00 p.m. <br>Every Wednesday <br>8:00 a.m. – 2:30 p.m. <br><br>*Parents can come to the book shop only after 1400H and a prior appointment must be made with the bookshop via <a href="mailto:hpps@pacificbookstores.com" target="_blank" rel="noopener noreferrer"><span style="font-weight:600;text-decoration:none;color:#FF282A">hpps@pacificbookstores.com.</span></a>  <br><br>Website: <a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener noreferrer"><span style="font-weight:600;text-decoration:none;color:#FF282A">www.pacificbookstores.com</span></a><br></th>
     <th class="tg-0lax"></th>
   </tr>
 </thead>
