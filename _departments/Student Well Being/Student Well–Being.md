@@ -240,7 +240,6 @@ amongst their peers.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_suppor_with_P.jpg">
 </div>
-<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -257,7 +256,6 @@ amongst their peers.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_support_pic_4.jpg">
 </div>
@@ -265,13 +263,11 @@ amongst their peers.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_support_pic_5.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_support_pic_6.jpg">
 </div>
@@ -284,7 +280,6 @@ amongst their peers.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_support_pic_8.jpg">
 </div>
@@ -295,7 +290,6 @@ amongst their peers.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
