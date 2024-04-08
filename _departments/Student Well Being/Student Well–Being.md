@@ -20,6 +20,55 @@ well-being to better prepare them for the future</p>
 established system of case management</p>
 </li>
 </ul>
+<h3>SHINE</h3>
+<p>Henry Park Primary School adopts a whole school approach to foster positive
+mental health and wellbeing through Positive Education.<strong> </strong>SHINE<strong> </strong>is
+a student wellbeing framework that depicts the 5 domains that help our
+students flourish.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE.jpg">
+</div>
+<p>The school supports our students’ holistic development through explicit
+classroom teaching, assembly programs as well as engaging activities in
+collaboration with the different departments and external agencies.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE4.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SHINE6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Holistic Health</h3>
 <p>It is important that students possess the knowledge and ability to recognise
 that their behaviour has a significant impact on their well-being and to
@@ -202,36 +251,26 @@ allowing them to broaden their horizons and discover new interests.</p>
 </tr>
 </tbody>
 </table>
-<h3>Positive Parenting Program</h3>
-<p><strong>Triple P takes the guesswork out of parenting</strong>
-</p>
-<p>The Positive Parenting Program (Triple P) is one of the most effective
-evidence-based parenting programs in the world, backed up by more than
-30 years of ongoing research. Triple P gives parents simple and practical
-strategies to help them confidently manage their children’s behaviour,
-prevent problems developing and build strong, healthy relationships. Triple
-P is currently used in 25 countries and has been shown to work across cultures,
-socio-economic groups and in all kinds of family structures.</p>
-<p>The five steps to creating a happier family life in Triple P include:-</p>
-<p>1.&nbsp; &nbsp; Create a safe, interesting environment</p>
-<p>2.&nbsp; &nbsp; Have a positive learning environment</p>
-<p>3.&nbsp; &nbsp; Use assertive discipline</p>
-<p>4.&nbsp; &nbsp; Have realistic expectations</p>
-<p>5.&nbsp; &nbsp; Take care of yourself as a parent</p>
-<p>Henry Park Primary School is among the first few schools to partner the
-Ministry of Social and Family Development to offer Positive Parenting Programme
-(Triple P). The purpose is to provide stronger support for parents who
-wish to improve their children’s behaviour and reduce parenting stress.</p>
+<h3>Parenting Workshops</h3>
+<p>Henry Park Primary School partners with Lakeside Family Services to offer
+Positive Parenting Programme (Triple P). The purpose is to provide stronger
+support for parents who wish to improve their children’s behaviour and
+reduce parenting stress. The Positive Parenting Program (Triple P) is one
+of the most effective evidence-based parenting programs in the world, backed
+up by more than 30 years of ongoing research. Triple P gives parents simple
+and practical strategies to help them confidently manage their children’s
+behaviour, prevent problems developing and build strong, healthy relationships.
+Triple P is currently used in 25 countries and has been shown to work across
+cultures, socio-economic groups and in all kinds of family structures.</p>
 <p>HPPS parents will have the opportunity to participate in three two-hour
 seminars to enhance their parenting skills, knowledge and confidence.</p>
 <p>Seminar 1 – Positive Parenting</p>
 <p>Seminar 2 – Raising Confident and Competent Children</p>
 <p>Seminar 3 – Raising Resilient Children</p>
-<p>The school also organises parenting workshops and father-child bonding
-sessions to support our parents in their parenting journey!</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/student%20well-being%207.png">
-</div>
+<p>The school also organizes other parenting workshops rooted in positive
+psychology to engage our parents in our Positive Education initiative and
+assist them along their parenting path.</p>
+<p></p>
 <h3>Peer Support Programme</h3>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/Peer%20Support%20Relationships.png">
