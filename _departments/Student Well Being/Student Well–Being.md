@@ -156,24 +156,52 @@ considerations.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/student%20well-being%205.png">
 </div>
 <h3>Programme for Active Learning (PAL)</h3>
-<p>PAL is an initiative recommended by the Primary Education Review and Implementation
-(PERI) Committee to address the need for greater emphasis on non-academic
-programmes in the foundation years. It aims to facilitate all-rounded development
-of students and support holistic learning; and provide varied avenues for
-students to develop social and emotional (SE) competencies and Character
-Education (CE) values. PAL is an avenue to equip students with the relevant
-skills, knowledge and dispositions to thrive in the 21st Century.</p>
-<p>PAL incorporates values education and is experiential in nature where
-students learn in a creative way. It provides opportunities for students
-to create and develop their SE competencies. PAL is fun and enjoyable.
-Through PAL, 3Cs in students; namely, Curiosity, Cooperation and Confidence,
-will be nurtured.</p>
-<p>PAL consists of modules of activities in two broad areas: Sports &amp;
-Games and Outdoor Education, and Performing Arts and Visual Arts, to provide
-students with broad exposure and experiences through fun and varied activities.</p>
+<p>PAL is an initiative designed to enhance the foundational years of education
+by placing greater emphasis on non-academic programs. Its primary goal
+is to foster the holistic development of students and promote comprehensive
+learning. PAL offers diverse opportunities for students to cultivate social
+and emotional competencies (SE) and embrace Character Education (CE) values.
+It serves as a platform to equip students with the necessary knowledge,
+skills, and values to succeed in the 21st century.</p>
+<p>Embracing values education, PAL adopts an experiential approach that fosters
+learning in a dynamic and enjoyable atmosphere. It encourages students
+to explore, create, and enhance their social and emotional competencies.
+Through PAL, students are empowered to develop the 3Cs—Curiosity, Cooperation,
+and Confidence.</p>
+<p>&nbsp;PAL comprises modules of activities spanning two main areas: Sports
+&amp; Games and Outdoor Education, as well as Performing Arts and Visual
+Arts. These modules offer students a wide range of engaging experiences,
+allowing them to broaden their horizons and discover new interests.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/student%20well-being%206.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PAL4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Positive Parenting Program</h3>
 <p><strong>Triple P takes the guesswork out of parenting</strong>
 </p>
@@ -280,8 +308,9 @@ amongst their peers.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_support_pic_8.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_support_pic_7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
