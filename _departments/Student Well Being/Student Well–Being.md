@@ -271,7 +271,7 @@ seminars to enhance their parenting skills, knowledge and confidence.</p>
 psychology to engage our parents in our Positive Education initiative and
 assist them along their parenting path.</p>
 <p></p>
-<h3>Peer Support Programme</h3>
+<h3>Peer Support </h3>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/Peer%20Support%20Relationships.png">
 </div>
@@ -283,22 +283,23 @@ together.</p>
 context to create an environment which is caring and enabling.</p>
 <p><strong>Tier 1</strong>
 </p>
-<p>During FTGP lessons, students go through lessons to nurture and hone their
-skills to be a good peer supporter. These lessons focus on kindness, care
-and concern towards their friends and how to be a positive influence and
-encourage their friends towards good behaviour and character. Students
-are also taught how to be a good buddy and how to ask for help should the
-need arises.</p>
+<p>During FTGP lessons, students have discussions that nurture and hone their
+skills to be a good peer supporter to the people around them. These lessons
+focus on kindness, care and concern towards their friends as well as how
+to be a positive influence. Students are also taught how to be a good buddy
+and how to ask for help should the need arise.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/student%20well-being%208.png">
 </div>
+<p><strong>Tier 2</strong>
+</p>
 <p>From 2020, the school embarked on training a group of students to be leaders
-to drive this programme. These students known as the Student Peer Supporters
-(SPS) go through additional training to equip them with knowledge and skills
-to spread this culture of care through peer bonding, peer helping and peer
-influencing. SPS also assume roles in school events to be advocates for
-Kindness Programmes and undertake projects to spread care and gratitude
-amongst their peers.</p>
+to drive the peer support initiatives throughout the school. These students,
+known as the Peer Supporter Leaders (PSLs) go through additional training
+to equip them with the knowledge and skills to spread this culture of care
+through peer bonding, peer helping and peer influencing. PSLs also assume
+roles in school events to be advocates for Kindness Programmes and undertake
+projects to spread care and gratitude amongst their peers.</p>
 <table>
 <tbody>
 <tr>
