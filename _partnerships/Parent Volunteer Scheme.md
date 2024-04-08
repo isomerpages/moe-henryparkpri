@@ -4,7 +4,7 @@ permalink: /partnerships/parent-volunteer-scheme/
 description: ""
 variant: markdown
 ---
-1.  The application for 2023 Phase 2B Parent Volunteer Scheme is closed.
+1.  The application for 2024 Phase 2B Parent Volunteer Scheme is now open for application.
 
 
 
