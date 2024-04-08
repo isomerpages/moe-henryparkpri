@@ -271,7 +271,7 @@ seminars to enhance their parenting skills, knowledge and confidence.</p>
 psychology to engage our parents in our Positive Education initiative and
 assist them along their parenting path.</p>
 <p></p>
-<h3>Peer Support </h3>
+<h3>Peer Support</h3>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/Peer%20Support%20Relationships.png">
 </div>
@@ -359,8 +359,6 @@ projects to spread care and gratitude amongst their peers.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
