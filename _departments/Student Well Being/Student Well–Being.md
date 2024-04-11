@@ -69,40 +69,7 @@ collaboration with the different departments and external agencies.</p>
 </tr>
 </tbody>
 </table>
-<h3>Holistic Health</h3>
-<p>It is important that students possess the knowledge and ability to recognise
-that their behaviour has a significant impact on their well-being and to
-adopt healthy habits that will lead to their optimal physical well-being.</p>
-<p>Assembly talks, classroom engagements, exhibitions, and recess activities
-are organised to raise students’ awareness of holistic health.</p>
-<h3>Assembly Programmes</h3>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/student%20well-being%201.png">
-</div>
-<p><strong>Anti Drug Campaign</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/student%20well-being%202.png">
-</div>
-<h3>Pride and Purpose</h3>
-<p>The school will provide opportunities for every student to develop a positive
-mindset so that they not only have the desire to learn new concepts, improve
-skills and seek challenges in the pursuit of lifelong learning, but to
-thrive when faced with adversities.</p>
-<p>Programmes such as Life Skills and Growth Mindset lessons aim to help
-the students identify their strengths and talents in diverse areas. The
-purpose of these programmes is also to build grit and perseverance in the
-students and acquire a heightened sense of self-awareness.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/student%20well-being%203.png">
-</div>
-<p>Through programmes such as Values in Action (VIA), career fairs and School
-Ambassador Program, the students will have the opportunity to appreciate
-the importance of intra-personal relationships and discover ways on how
-they can contribute to their family, school, and community.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/student%20well-being%204.png">
-</div>
+<p></p>
 <h3>Social and Emotional Well Being</h3>
 <p><strong>Social</strong>
 </p>
@@ -305,9 +272,6 @@ projects to spread care and gratitude amongst their peers.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_suppor_with_P.jpg">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -348,13 +312,15 @@ projects to spread care and gratitude amongst their peers.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_support_pic_7.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/peer_suppor_with_P.jpg">
+</div>
 </td>
 </tr>
 </tbody>
