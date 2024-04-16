@@ -6,5 +6,5 @@ variant: tiptap
 ---
 <p><strong>2024 Wait List Application for Henry Park Primary School is now open.</strong>
 </p>
-<p><strong>To apply, click </strong><a href="https://form.gov.sg/63c2bdc0bef23b00112593b6" rel="noopener noreferrer nofollow" target="_blank">here.</a>
+<p><strong>To apply, click </strong><a href="https://form.gov.sg/661e361f1024f0ace98109f0" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
