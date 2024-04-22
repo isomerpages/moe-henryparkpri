@@ -107,8 +107,8 @@ by Raffles Institution</p>
 by Hwa Chong Institution</p>
 </li>
 <li>
-<p>National Mathematical Olympiad Singapore (NMOS) organized by NUS High
-School</p>
+<p><a href="https://www.nushigh.edu.sg/nmos/" rel="noopener noreferrer nofollow" target="_blank">National Mathematical Olympiad Singapore (NMOS)</a> organized
+by NUS High School</p>
 <p></p>
 </li>
 </ul>
