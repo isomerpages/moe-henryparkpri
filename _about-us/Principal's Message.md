@@ -6,8 +6,9 @@ image: ""
 variant: tiptap
 ---
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Principal_Page_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Principal_Page_Photo.jpg">
 </div>
 <p>At Henry Park Primary School, we believe that every child is a curious,
 active, and competent learner capable of achieving great things. With the
