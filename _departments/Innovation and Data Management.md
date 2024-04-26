@@ -49,6 +49,9 @@ to self and others in terms of value-adding to their existing knowledge
 or make some small improvements to lives of others; transfer their learning
 from this project/experience and apply it in similar/other contexts</p>
 <p></p>
+<p><strong>Click </strong><a href="https://drive.google.com/file/d/1JGr0e97YEB9L1BUGTv4hvqIL4e-jS5h2/view" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> for ‘The Story of INOVAT’.</strong>
+</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3376.jpg">
@@ -56,7 +59,4 @@ from this project/experience and apply it in similar/other contexts</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3414.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3418.jpg">
-</div>
-<p>Click <u>here</u> for ‘The Story of INOVAT’. (link to video cli</p>
+<p></p>
