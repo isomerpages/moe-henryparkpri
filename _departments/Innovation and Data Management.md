@@ -54,9 +54,12 @@ from this project/experience and apply it in similar/other contexts</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3418.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3376.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3414.jpg">
 </div>
-<p></p>
+<p>End of page.</p>
