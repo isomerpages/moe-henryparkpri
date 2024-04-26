@@ -2,61 +2,63 @@
 title: Innovation and Data Management
 permalink: /departments/innovation-and-data-management/
 description: ""
+variant: tiptap
 ---
-### INOVAT Mascots
-
-<img src="/images/INOVAT%20mascots.png" 
-     style="width:60%">
-
-### Goals
-
-IDM’s vision is to harness the knowns and challenge the unknown.
-
-<img src="/images/INNOVAT%20at%20HPPS.jpg" 
-     style="width:70%">
-		 
-INOVAT is a customized thinking model that enables us to fulfil our mission of nurturing concerned citizens with integrity and a spirit of excellence by equipping them with the requisite skill sets, attitudes and values. Thinking routines are integrated into the activities to promote the development of the students’ thinking. Each phase of INOVAT is denoted by a different colour. Every colour is further defined by three shades from light to medium to dark, signifying the 3 different levels of attainment for P1 to P2, P3 to P4 and P5 to P6.
-
-  
-
-### Programme & Events
-
-**1. P3 Cool Games**
-
-Cool games provide opportunities for students to experience play of different types of games – board games, card games, skill games, traditional games; and use their creativity to adapt and design new cool games of their own.
-
-<img src="/images/INOVAT1.png" 
-     style="width:60%">
-<img src="/images/INOVAT2.png" 
-     style="width:60%">
-		 
-**2. P4 Story Creations**
-
-Story creations provide opportunities for students to select their favourite story and bring the popular characters or iconic objects from these stories to life.
-
-  
-
-**3. P5 Digital Escape Room Design**
-
-Digital escape room design is about creating a cooperative play experience and designing a theme-based series of puzzles online for their peers to solve in a given amount of time.
-
-<img src="/images/INOVAT3.png" 
-     style="width:60%">
-<img src="/images/INOVAT4.png" 
-     style="width:60%">
-		 
-**4. P6 Business Proposal**  
-
-Business proposal allows students to experience how academic learning can be applied in an authentic context as in a business setup; to acquire skills of innovation and entrepreneurship and to develop sense of empathy and understanding of needs.
-
-<img src="/images/INOVAT5.png" 
-     style="width:60%">
-		 
-**5. Makers Day**  
-
-Makers Day is a day dedicated to students’ showcase of their innovative and entrepreneurial projects to their peers and schoolmates as well as students’ ideation and initiation of new ideas and suggestions.
-
-<img src="/images/INOVAT6.png" 
-     style="width:60%">
-<img src="/images/INOVAT7.png" 
-     style="width:60%">
+<h3>INOVAT Mascots</h3>
+<div class="isomer-image-wrapper">
+<img style="width:60%" height="auto" width="100%" src="/images/INOVAT%20mascots.png">
+</div>
+<h3>Goals</h3>
+<p>IDM’s vision is to harness the knowns and challenge the unknowns.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/goals.png">
+</div>
+<p></p>
+<p>INOVAT @ HPPS is a customized model of innovation that helps us achieve
+our mission of nurturing concerned citizens with integrity and a spirit
+of excellence by equipping them with the requisite skill sets, attitudes,
+and values. Thinking routines are integrated into the activities to promote
+the development of the students' thinking.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3376.jpg">
+</div>
+<p><strong>Ideate &amp; Initiate</strong>
+</p>
+<p>To self-discover or discover with the help of teachers or more capable
+peers topics/issues/areas of concern and form their own opinions and thoughts
+and initiate a change</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3414.jpg">
+</div>
+<p><strong>Navigate &amp; Narrow</strong>
+</p>
+<p>To search online or references for the relevant information (others' ideas/opinions/insights
+or alternative proposals/solutions) and narrow them down to a manageable
+number of preferred options</p>
+<p><strong>Organize &amp; Optimize</strong>
+</p>
+<p>To organize the information gathered and resources available and optimize
+their use</p>
+<p><strong>Visualize &amp; Verify</strong>
+</p>
+<p>To map out an overall plan and check the accuracy of all information/resources
+deployed</p>
+<p><strong>Adapt &amp; Apply</strong>
+</p>
+<p>To adopt, adapt and apply the ideas/plans and come up with prototypes
+for testing</p>
+<p><strong>Transform &amp; Transfer</strong>
+</p>
+<p>To implement the plans or pilot the 'final' product and make transformations
+to self and others in terms of value-adding to their existing knowledge
+or make some small improvements to lives of others; transfer their learning
+from this project/experience and apply it in similar/other contexts</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3418.jpg">
+</div>
+<p>&nbsp;</p>
+<p>Click <u>here</u> for ‘The Story of INOVAT’. (link to video clip)</p>
