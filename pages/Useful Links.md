@@ -36,7 +36,7 @@ their claims online and check the claims status through the online portal.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Go to Income’s GPA portal (Click <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>
+<p>Go to Income’s GPA portal - Click <a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">here</a>
 </p>
 </li>
 <li>
