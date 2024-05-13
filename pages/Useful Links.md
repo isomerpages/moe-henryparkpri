@@ -29,6 +29,9 @@ variant: tiptap
 <li>
 <p><a href="https://studentgpa.incomegroupins.com.sg/#/" rel="noopener noreferrer nofollow" target="_blank">Group Personal Accident (GPA) Claim for Students</a>
 </p>
+<p>With effect from 2024 all student accident insurance claims submission
+are to be submitted electronically.&nbsp; Parents/students are to submit
+their claims online and check the claims status through the online portal.</p>
 <p><strong><u>For online submission process:</u></strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -49,7 +52,7 @@ documents</p>
 <p>Confirmation email will be sent to parents or students, and school administrator</p>
 </li>
 <li>
-<p>Click <a href="/files/Group_Personal_Accident__GPA__for_Students_Product_Fact_Sheet_Year_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/Product_Fact_Sheet_Year_2024_Group_Personal_Accident.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 view the&nbsp;Group Personal Accident (GPA) Product factsheet</p>
 </li>
 </ol>
