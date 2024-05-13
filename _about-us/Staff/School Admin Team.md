@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -75,13 +80,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr See Jen Shan</p>
+<p>Mr Vikneshwaren Nandakuma</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Adjunct ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>see_jen_shan@moe.edu.sg</p>
+<p>@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -106,6 +111,17 @@ variant: tiptap
 <p>judy_ong_meow_kheng_a@schools.gov.sg
 <br>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Marliza Osman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>marliza_osman@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
