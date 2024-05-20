@@ -24,9 +24,9 @@ and programmes.&nbsp;</p>
 </li>
 </ul>
 <h3>Book Recommendation by Committee to Promote Chinese Language Learning (CPCLL)</h3>
-<p><a href="/files/100%20Picture%20Books%20to%20Read%20Before%209.pdf" rel="noopener noreferrer nofollow" target="_blank">100 Picture Books to Read Before 9</a> 
-<a href="/files/term4book%20recommendation.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 4 Book Recommendation</a>
+<p><a href="/files/Digital_Storytelling_Poster__Jun_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Storytelling Poster June 2024</a>
 </p>
+<p></p>
 <p>Physical Book Recommendation&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,6 +43,10 @@ and programmes.&nbsp;</p>
 </li>
 <li>
 <p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Apr_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">April 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/May___June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">May June 2024</a>
 </p>
 </li>
 </ul>
