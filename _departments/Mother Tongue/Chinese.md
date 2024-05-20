@@ -71,7 +71,7 @@ and programmes.&nbsp;</p>
 </ul>
 <hr>
 <h3><strong>Programme</strong></h3>
-<h3>Reading Programme </h3>
+<h3>Reading Programme</h3>
 <p>The objective of the programme is to provide opportunities for pupils
 to be exposed to Chinese reading materials as well as to inculcate the
 interest of reading more Chinese books. There are a variety of reading
@@ -160,10 +160,10 @@ approaches to facilitate their learning of the Mother Tongue Languages.</p>
 4 pupils. During the programme, pupils are taught journaling skills and
 how to draft good interview questions on their own to ask their interviewees.
 It cultivates pupils to be critical thinkers and reflective learners.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Being digital natives, pupils get hands-on experiences with the usage
 of ICT applications to put together a news report.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Pupils also get real-life experiences to be a young journalist at our
 school events, where they draft interview questions, interview fellow school
 mates and school staff and broadcast their curated news to the whole school
@@ -277,5 +277,7 @@ pupils to learn more about their culture in a fun and engaging manner.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTF_6.jpg">
 </div>
 <p>Kite coloring by P1 Malay student</p>
+<p></p>
+<p>End of page.</p>
 <p></p>
 <p></p>
