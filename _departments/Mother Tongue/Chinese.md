@@ -24,9 +24,9 @@ and programmes.&nbsp;</p>
 </li>
 </ul>
 <h3>Book Recommendation by Committee to Promote Chinese Language Learning (CPCLL)</h3>
-<p><a href="/files/100%20Picture%20Books%20to%20Read%20Before%209.pdf" rel="noopener noreferrer nofollow" target="_blank">100 Picture Books to Read Before 9</a> 
-<a href="/files/term4book%20recommendation.pdf" rel="noopener noreferrer nofollow" target="_blank">2023 Term 4 Book Recommendation</a>
+<p><a href="/files/Digital_Storytelling_Poster__Jun_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Storytelling Poster June 2024</a>
 </p>
+<p></p>
 <p>Physical Book Recommendation&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -43,6 +43,10 @@ and programmes.&nbsp;</p>
 </li>
 <li>
 <p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Apr_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">April 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/May___June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">May June 2024</a>
 </p>
 </li>
 </ul>
@@ -65,26 +69,110 @@ and programmes.&nbsp;</p>
 </p>
 </li>
 </ul>
-<h3>E-pedagogy</h3>
-<p>With the development of technology, teachers incorporate E-pedagogy in
-their teaching and facilitation of learning. Pupils are introduced to different
-useful ICT learning tools and platforms for their Mother Tongue Language
-learning.</p>
+<hr>
+<h3><strong>Programme</strong></h3>
+<h3>Reading Programme</h3>
+<p>The objective of the programme is to provide opportunities for pupils
+to be exposed to Chinese reading materials as well as to inculcate the
+interest of reading more Chinese books. There are a variety of reading
+programmes across the levels.</p>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Pupils showcase their creativity and inventive thinking in our Annual
+Creative Reading Competition.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cl1.png">
+<img style="width: 100%" height="auto" width="100%" alt="P1 Creative Reading Competition Bookmark Design" src="/images/Reading_1.jpg">
 </div>
+<p>P1 Creative Reading Competition-Bookmark Design</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P2 Creative Reading Competition  Creative Comic-strip Writing" src="/images/Reading_2.jpg">
+</div>
+<p>P2 Creative Reading Competition-Creative Comic-strip Writing</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P3 Creative Reading Competition  Book Recommendation Poster" src="/images/reading_3.jpg">
+</div>
+</li>
+</ol>
+<p>P3 Creative Reading Competition-Book Recommendation Poster</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P4 Creative Reading Competition  Book Review Poster" src="/images/reading_4.jpg">
+</div>
+<p>P4 Creative Reading Competition-Book Review Poster</p>
+<p></p>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Mother Tongue Language books of different genres and themes are carefully
+selected, reviewed and added to our class library to bring pupils into
+a world of fascinating stories and fantasies.</p>
+<p></p>
+</li>
+<li>
+<p>Beautiful and uniquely designed book badges are rewarded to pupils who
+borrow and read Mother Tongue books actively. Reading certificates are
+awarded to classes that read the most books in each semester.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/reading_5.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/reading_6.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/reading_7.jpg">
+</div>
+<p></p>
+</li>
+<li>
+<p>Pupils are introduced to famous stories around the world during lessons
+on World Book Day.</p>
+</li>
+</ol>
+<h3>Blended Learning</h3>
+<p>With the development of technology, it creates opportunities for our teachers
+to incorporate blended learning in their classrooms. Through a mix of home-based
+and in-school activities, pupils get to leverage both online and offline
+approaches to facilitate their learning of the Mother Tongue Languages.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_2.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BL_3.png">
+</div>
+<p>Pupils are doing self-directed learning on the Student Learning Space
+(SLS) platform</p>
+<p></p>
 <h3>Young Journalist Enrichment Programme</h3>
 <p>Young Journalist Enrichment Programme is introduced to selected Primary
 4 pupils. During the programme, pupils are taught journaling skills and
 how to draft good interview questions on their own to ask their interviewees.
 It cultivates pupils to be critical thinkers and reflective learners.</p>
+<p></p>
 <p>Being digital natives, pupils get hands-on experiences with the usage
 of ICT applications to put together a news report.</p>
+<p></p>
 <p>Pupils also get real-life experiences to be a young journalist at our
 school events, where they draft interview questions, interview fellow school
 mates and school staff and broadcast their curated news to the whole school
-during morning assembly.&nbsp;Through the programme, pupils grow to become
-effective communicators.</p>
+during morning assembly.</p>
+<p>Through the programme, pupils grow to become effective communicators.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YJ.jpg">
+</div>
+<p></p>
 <h3>Making Thinking Visible</h3>
 <p>Critical and creative thinking skills are very important in&nbsp;teaching
 and learning. One key tool for developing and accessing these skills is
@@ -95,8 +183,10 @@ for our pupils to support their composition writing.</p>
 “Main-Side-Hidden” and “Sentence-Phrase-Word”, pupils make good progress
 in their composition writing.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cl2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTV.png">
 </div>
+<p>Collaborative learning, promoting thinking and discussion using Padlet</p>
+<p></p>
 <h3>Differentiated Instruction</h3>
 <p>Every pupil is unique and has an individual learning style. Thus, not
 all the pupils grasp a subject in the same way or share the same level
@@ -104,8 +194,12 @@ of ability. Our teachers use differentiated instruction in our daily teaching
 so that we can reach everyone in class, help pupils with different learning
 styles and of different ability to make great learning progress.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cl3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DI_2.jpg">
 </div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DI_1.jpg">
+</div>
+<p>Composition writing with DI</p>
 <h3>Formative Assessment</h3>
 <p>Formative assessments give teachers the ability to provide timely and
 targeted feedback to the pupils. This allows our pupils to be part of the
@@ -122,9 +216,13 @@ where a team of players solves a series of puzzles online in a set amount
 of time to win. Pupils translate their academic learning to the project,
 building on their interpersonal and collaborative skills. This Escape Room
 also ignited their creative spark and encouraged perseverance.&nbsp;</p>
-<h3>Events</h3>
-<p><strong>Mother Language Fortnight</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Escape_room.png">
+</div>
+<p>P5 students are designing escape room by based on the book of 《三国演义》</p>
+<p></p>
+<h3><strong>Events</strong></h3>
+<h4><strong>Mother Language Fortnight</strong></h4>
 <p>The objective of the programme is to provide opportunities for pupils
 to appreciate the beauty of Chinese Language and culture. It has always
 been one of the crown jewels amongst the various programmes of the Mother
@@ -147,31 +245,39 @@ for our Tamil pupils; “Shadow puppet making” ,“Sachet making” and “Tra
 Face Painting” for our Chinese&nbsp;pupils. These activities encouraged
 pupils to learn more about their culture in a fun and engaging manner.</p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cl4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTF_1.jpg">
 </div>
+<p>Lantern making</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cl5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTF_2.png">
 </div>
+<p>Tea appreciation</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cl6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTF_3.png">
 </div>
-<p><strong>Mid Autumn Festival Celebration</strong>
-</p>
-<p>It is a tradition for Henry Park Primary School to celebrate Mid-Autumn
-together every year. Mooncakes tasting, Chinese riddle games, art and craft,
-calligraphy, lantern parade and a variety of traditional fun games and
-performances are organized by the Mother Tongue Department teachers. It
-creates a traditional celebration atmosphere for all the lower primary
-pupils and their family to celebrate this special occasion in the school.</p>
-<p>Besides the celebration for the lower Primary pupils, classroom activities
-are introduced to students across the levels. For 2021, The Primary One
-and Two pupils enjoyed making cute little mooncake boxes, while the Primary
-Three pupils learn about the Moon Phases. Primary Four and Five pupils
-competed against each other online.&nbsp;On their knowledge of the traditions
-of Mid-Autumn Festival.</p>
-<p>In addition, parents are also invited to have fun with their children
-by taking part in the Parent-Child Chinese Riddles Contest.</p>
+<p>Tamil Camp – Goat and tiger board game</p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/cl7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTF_4.png">
 </div>
+<p>Copper tooling</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTF_5.jpg">
+</div>
+<p>Batik painting by P3 Malay students</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTF_6.jpg">
+</div>
+<p>Kite coloring by P1 Malay student</p>
+<p></p>
+<p>End of page.</p>
+<p></p>
 <p></p>
