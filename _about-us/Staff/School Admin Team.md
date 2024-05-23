@@ -80,6 +80,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Vikneshwaren Nandakuma</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjucnt ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>vikneshwaren_nandakuma@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Norindah Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
