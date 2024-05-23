@@ -83,7 +83,7 @@ variant: tiptap
 <p>Mr Vikneshwaren Nandakuma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjucnt ICT Manager</p>
+<p>Adjunct ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>vikneshwaren_nandakuma@schools.gov.sg</p>
