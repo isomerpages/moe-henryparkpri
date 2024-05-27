@@ -8,13 +8,13 @@ variant: tiptap
 <p>Below are the opening dates for the school dental clinic for May 2024:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>6 to 9 May 2024</p>
+<p>31 May 2024</p>
 </li>
 <li>
-<p>10 May 2024 (Close at 1230pm)</p>
+<p>10 Jun to 14 Jun 2024</p>
 </li>
 <li>
-<p>20 to 24 May 2024</p>
+<p>18 Jun to 19 Jun 2024</p>
 <p></p>
 </li>
 </ul>
