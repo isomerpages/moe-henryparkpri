@@ -1,5 +1,5 @@
 ---
-title: eYearbook 2023
+title: HPPS eYearbook
 permalink: /hpps-experience/eyearbook-2022/
 description: ""
 variant: tiptap
