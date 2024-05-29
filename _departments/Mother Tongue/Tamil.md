@@ -38,7 +38,7 @@ Story-telling activity was done for Primary 3 to 6 Tamil pupils. Students enjoye
   
 The art of putting Kolam and the reasons on why it is done was explained to the students.&nbsp; They had hands-on session on how to decorate a Kolam using colourful rice.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfwGx8dp78grsGDiojr98FozfbdR-jOuNNtT-HDSeH4ka0NQbsQkPnH6EEPO7gVCdQQMLjiqikzz-L/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWy3Ec2r4BYFUJoBJRq-R6tXQTQ2nSpSWlCW2lYqA5l23wy6FZ9FWL4ZPDjQxsz0LxmeFuR_Vx0mK9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Decorating of Kolam
 
