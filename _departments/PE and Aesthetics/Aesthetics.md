@@ -3,8 +3,8 @@ title: Aesthetics
 permalink: /departments/pe-aesthetics-and-cca/aesthetics/
 description: ""
 third_nav_title: PE and Aesthetics
+variant: markdown
 ---
-
 ### Our Goals
 
 *   To mould the pupils to be all-rounded.
@@ -23,7 +23,7 @@ The Aesthetics Enrichment Exposure Programme (AEEP) aims to provide pupils with 
 
 During the first two years, students are introduced to the fundamental essentials of music making. They will be exposed to simple note playing with the Erhu. Students will be engaged in music and movement lessons to build up their sense of rhythm. In Art, students are introduced to Elements of Arts via drawing with oil pastels and poster painting.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT8YAoLuT-P1X6gztFaAPWhqLbE4w-BomtybLuxR1Zu6LWYBdhbqPxsnaq6TARH7qQtKDovMyiIaI9p/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vS07EpETlgiIshjDv-qywo7vnD9Lvzcb_ALPScmAI5YWw76hJ1Tbt4N2qQ3ORjykazQ3K9c3nsqDEtf/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **PRIMARY 3 AND 4**
 
@@ -35,14 +35,14 @@ Students proceed from music theory knowledge to music composition and music perf
 
 During art lessons, students participate in art making with creative art mediums.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTnwz1o7h6zXIGQKHd8VMHhT7qV85x-wkSCE7a25KUVC5YXZ7RQWaHOTX_Acs_6w189m9GsxMC4SP1d/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBChprAcTLfbmkyHG0V6xLvtU4O-hTIl3aPtcVmpDLXRe0M23HF36MVpcdtHmNIDqZvDmwWcBbSm49/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### EVENTS
 
 **Music Busking**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTEvpUU3x4py82_NkxJZ0eprZC7po3787BoqNloRBsDhJfTJSYhf6Erntg_2nUlUoFBJ_tjJni-YomT/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTOX_d_xVTJvLWoY1Zu-cR9lpmk08UrapuaHlInTiKUVNcRCcJtPbLC5-TpapptWmcu9lXUIOzMjtsA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Art Exhibitions**
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQUXm_Pk7f0WKZ39_jSQTAmGl8aXMdgcAVDKH0AC7VrezDOGZm1hGgvXrzGhpSv8mRG0dmtU8PgiRJ7/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBXgDa9wGNfRNfnJ1l1gBTdmo2hLjxBPdcPoeSGUUUt1xzoE1u7X4sLLzWAsTuvfhmv_ij4Sdd-g4r/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
