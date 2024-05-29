@@ -50,7 +50,7 @@ During recess, booth activities were set up for students to try out on decoratin
 
 Primary 5 and 6 students attended&nbsp;the Tamil Language Learning Festival organised by Umar Pulavar Tamil Language Centre (UPTLC). They took part&nbsp;in different activities such as traditional games, hosting and acting.&nbsp;They had the opportunity to work with students from other schools. Students were exposed to the Indian culture and tradition which enables them to understand and appreciate the Indian culture better.&nbsp;&nbsp;Students enjoying the activities conducted in UPTLC. Different activities and games were conducted for students to take part and to gain experience.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjqis2m9gtYXkz4WTMJDWIrZUClRilhVIY3dHtMlhQCo6iY6IeZAAdRzbAx8RpVZrusKxBWeHtYXFh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSokTLof8XtiTklYkqajOfaii0y3ZZkCEXv0j687QucxPp3pyBr-mK-0hWUoFKCus7xMdqVs9t6T6rQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Tamil Language Competitions
 
