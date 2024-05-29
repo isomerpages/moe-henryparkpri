@@ -32,13 +32,13 @@ During the two-week long programme, students were engaged in many fun-filled act
 
 Story-telling activity was done for Primary 3 to 6 Tamil pupils. Students enjoyed the story telling activity and took part enthusiastically in role play.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1C26r9C4TiwBho_ln75LbvdRYbiAA75TQ6niQENYgnFA0q-VR3-GaoevSaFFkqQqdvb8Mf8biYOA_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxQMaiigK8NkdbYh9awVTMJd_Ob-iK5rdw5E--XxrDneOHtE1nQdt-ef0tR_moCwWQ-dhgUX28gg3d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Decorating of Kolam
   
 The art of putting Kolam and the reasons on why it is done was explained to the students.&nbsp; They had hands-on session on how to decorate a Kolam using colourful rice.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmLGS2ysueFXAWMScA0bEoxl1PRkWyf50ijilLP58lQPx5UoV-2Cke0rU9tcwEwct6Z820l1His3hf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSfwGx8dp78grsGDiojr98FozfbdR-jOuNNtT-HDSeH4ka0NQbsQkPnH6EEPO7gVCdQQMLjiqikzz-L/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Decorating of Kolam
 
