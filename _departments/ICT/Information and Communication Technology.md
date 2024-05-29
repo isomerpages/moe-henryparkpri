@@ -3,6 +3,7 @@ title: Information and Communication Technology
 permalink: /departments/information-and-communication-technology/
 description: ""
 third_nav_title: ICT
+variant: markdown
 ---
 ### Goals
 *   To empower students with self-directed learning and collaborative skills
@@ -49,4 +50,4 @@ The theme for Cyber Wellness Bazaar 2019 is ‘Building Safe and Meaningful Cybe
 
 This annual Cyber Wellness event aims to spread positive Cyber Wellness messages and equip the student community with the knowledge and skills in navigating the cyberspace and be safe and responsible digital citizens.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJG0Dt5KeCPc6HBl5xAf86kPkkH1cRoHY9AT6LGmxFEyIHepuClTw4f4a36XjplguHiS6x4FryfD5U/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQqJt5GCtfc9ckO9B9liyJGsw6ha5auYrRHQGdPryLzNk9eVKY9Nc4Sza4xJ74vkMTgO3uqlEAYl3jS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
