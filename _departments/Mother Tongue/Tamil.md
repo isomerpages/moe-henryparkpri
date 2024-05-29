@@ -3,6 +3,7 @@ title: Tamil
 permalink: /departments/mother-tongue/tamil/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ### Our Goals
 
@@ -57,4 +58,4 @@ We conduct Tamil Language Competitions for all levels every year. These competit
 
 Students were also sent for external competitions organised by community centres. These external competitions helped to&nbsp; boost their self-esteem and confidence.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRE1YZEFH6uUoyc4_ub1Z4PNMwc8v02R-0Ql3GtMK1wLHlRBlq1jfcNy_G9_55XZmser0ZeRoGxEqfB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOOm-D4vlYR-nbVaPTbcSe5BNe7X3rFCIlmzdwHspuC6JdyJyG47HTIzhEO-bipVCos6IVzesJy_Pm/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
