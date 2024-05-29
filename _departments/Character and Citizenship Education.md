@@ -2,6 +2,7 @@
 title: Character and Citizenship Education
 permalink: /departments/character-and-citizenship-education/
 description: ""
+variant: markdown
 ---
 ### Our Character Framework
 
@@ -81,4 +82,4 @@ Students explore various contemporary issues to gain greater awareness of the wo
 
 ### Gallery of Events
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSuEvZ_aiPI7MQvus27Xd3HxQa3-MjOCCFX_QKf_r-FafGMEmzWSjfFGdg5eVjUjEO_aQA2ybSMUKtA/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSRBZyVBj0wpxbWk9CMzu2hB1n5e1fE7MZKRTPj9c-i515GmCDEWeBW0mBcyK-dDQxdrpY-Z-wFvyrc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
