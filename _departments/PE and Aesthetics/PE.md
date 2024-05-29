@@ -3,8 +3,8 @@ title: PE
 permalink: /departments/pe-aesthetics-and-cca/pe/
 description: ""
 third_nav_title: PE and Aesthetics
+variant: markdown
 ---
-
 ### Our Goals
 1.  To educate the students on how to maintain a healthy lifestyle through exercise and diet.
 2.  To teach the skills and concepts required for students to participate in a variety of physical activities.
@@ -36,4 +36,4 @@ Students are taught the rules and gameplay of these sports and are given opportu
 
 ### Photo Gallery
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT89t_xTpYSyP2wrWZ1b8MVt-w47tBxG7LIyO5gLvxe0XWNlsoVN4Zt5B7Rw89yBQ10JnD57k3g2S4u/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTiye4D-BncfB4y2jR86BbNzhuGee1PKkPhmizU5BYF2_WORjhvUQIzX71JI8Z1mOPEOPX0VJDOJ2_G/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
