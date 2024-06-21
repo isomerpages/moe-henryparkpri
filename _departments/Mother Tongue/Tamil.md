@@ -3,6 +3,7 @@ title: Tamil
 permalink: /departments/mother-tongue/tamil/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ### Our Goals
 
@@ -31,13 +32,13 @@ During the two-week long programme, students were engaged in many fun-filled act
 
 Story-telling activity was done for Primary 3 to 6 Tamil pupils. Students enjoyed the story telling activity and took part enthusiastically in role play.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR1C26r9C4TiwBho_ln75LbvdRYbiAA75TQ6niQENYgnFA0q-VR3-GaoevSaFFkqQqdvb8Mf8biYOA_/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQxQMaiigK8NkdbYh9awVTMJd_Ob-iK5rdw5E--XxrDneOHtE1nQdt-ef0tR_moCwWQ-dhgUX28gg3d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Decorating of Kolam
   
 The art of putting Kolam and the reasons on why it is done was explained to the students.&nbsp; They had hands-on session on how to decorate a Kolam using colourful rice.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmLGS2ysueFXAWMScA0bEoxl1PRkWyf50ijilLP58lQPx5UoV-2Cke0rU9tcwEwct6Z820l1His3hf/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRWy3Ec2r4BYFUJoBJRq-R6tXQTQ2nSpSWlCW2lYqA5l23wy6FZ9FWL4ZPDjQxsz0LxmeFuR_Vx0mK9/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Decorating of Kolam
 
@@ -49,7 +50,7 @@ During recess, booth activities were set up for students to try out on decoratin
 
 Primary 5 and 6 students attended&nbsp;the Tamil Language Learning Festival organised by Umar Pulavar Tamil Language Centre (UPTLC). They took part&nbsp;in different activities such as traditional games, hosting and acting.&nbsp;They had the opportunity to work with students from other schools. Students were exposed to the Indian culture and tradition which enables them to understand and appreciate the Indian culture better.&nbsp;&nbsp;Students enjoying the activities conducted in UPTLC. Different activities and games were conducted for students to take part and to gain experience.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRjqis2m9gtYXkz4WTMJDWIrZUClRilhVIY3dHtMlhQCo6iY6IeZAAdRzbAx8RpVZrusKxBWeHtYXFh/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSokTLof8XtiTklYkqajOfaii0y3ZZkCEXv0j687QucxPp3pyBr-mK-0hWUoFKCus7xMdqVs9t6T6rQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### Tamil Language Competitions
 
@@ -57,4 +58,4 @@ We conduct Tamil Language Competitions for all levels every year. These competit
 
 Students were also sent for external competitions organised by community centres. These external competitions helped to&nbsp; boost their self-esteem and confidence.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRE1YZEFH6uUoyc4_ub1Z4PNMwc8v02R-0Ql3GtMK1wLHlRBlq1jfcNy_G9_55XZmser0ZeRoGxEqfB/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSOOm-D4vlYR-nbVaPTbcSe5BNe7X3rFCIlmzdwHspuC6JdyJyG47HTIzhEO-bipVCos6IVzesJy_Pm/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>

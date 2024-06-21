@@ -3,6 +3,7 @@ title: Malay
 permalink: /departments/mother-tongue/malay/
 description: ""
 third_nav_title: Mother Tongue
+variant: markdown
 ---
 ### Our Goals
 
@@ -27,7 +28,7 @@ Students are encouraged to read books to lay a strong foundation in their Malay 
 
 Through this programme, students gained confidence and showed greater ability in expressing themselves using the Malay language. At the end of the programme, the students will put up a performance which will be recorded.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJZgWzRUgd7dN3rXgyIlxGgM8ewBH6D_I-GcJA31UOuBL6tp-td-1hZbikyqk1Moj6ZWP5hDfD07jd/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRgAAzWuRR8Gk0GNYU5K4J4qbkUCJ6-n0ImeyB_ZNxg7bYj0h4VZi8YGyDFmAwpGvIe15OhG5Z3rCQl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ### EVENTS
 
