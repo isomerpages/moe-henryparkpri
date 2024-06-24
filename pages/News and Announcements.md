@@ -21,6 +21,8 @@ child with the same school under Phase 1.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><u>Eat With Your Family Day (EWYFD) </u></strong>
+</p>
 <p>“Eat with Your Family Day” (EWYFD) is a nation-wide initiative led by
 the Centre for Fathering and supported by the Ministry of Social and Family
 Development (MSF) to encourage all Singaporeans to consciously set aside
