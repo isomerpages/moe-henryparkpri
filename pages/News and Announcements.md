@@ -19,7 +19,7 @@ in HPPS) will be closed by 5 p.m. on the following EWYFD dates:</p>
 <p>We seek the co-operation of our parents to make the necessary arrangements
 and we hope that you will have an enjoyable day with your families.</p>
 <p></p>
-<p><strong><u>2024 Phase 1  P1 Registration Exercise</u></strong>
+<p><strong><u>2024 Phase 1 P1 Registration Exercise</u></strong>
 </p>
 <p>Phase 1 of the P1 Registration Exercise for Singapore Citizens and Permanent
 Residents will start from Tuesday, 2 July 2024, 9am to Thursday, 4 July
