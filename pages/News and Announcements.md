@@ -29,7 +29,7 @@ time that day to be with their families and to remind families to eat together
 regularly (<a rel="noopener noreferrer nofollow" target="_blank">http://fathers.com.sg/ewyfd/</a>).</p>
 <p>In support of this initiative, HPPS and ACE@Work (Student Care Centre
 in HPPS) will be closed by 5 p.m. on the following EWYFD dates:</p>
-<p>&nbsp;• 8 March 2024</p>
+<p>• 8 March 2024</p>
 <p>• 24 May 2024</p>
 <p>• 30 August 2024</p>
 <p>• 15 November 2024</p>
