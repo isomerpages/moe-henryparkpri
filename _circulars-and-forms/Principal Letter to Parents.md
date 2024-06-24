@@ -34,6 +34,7 @@ variant: tiptap
 <li>
 <p><a href="/files/THRIVE_06_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">TH.R.I.V.E_06_2024</a>
 </p>
+<p></p>
 </li>
 </ol>
 <p></p>
