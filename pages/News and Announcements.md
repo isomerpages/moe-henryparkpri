@@ -18,3 +18,15 @@ in HPPS) will be closed by 5 p.m. on the following EWYFD dates:</p>
 <p>&nbsp;</p>
 <p>We seek the co-operation of our parents to make the necessary arrangements
 and we hope that you will have an enjoyable day with your families.</p>
+<p></p>
+<p><strong><u>2024 Phase 1  P1 Registration Exercise</u></strong>
+</p>
+<p>Phase 1 of the P1 Registration Exercise for Singapore Citizens and Permanent
+Residents will start from Tuesday, 2 July 2024, 9am to Thursday, 4 July
+2024, 4.30pm. Parents who have a SC or SPR child born between 2 January
+2018 and 1 January 2019 (both dates inclusive), and this child has an elder
+sibling currently studying in the school of choice, may thus register your
+child with the same school under Phase 1.</p>
+<p>Information on how to register can be found at this hyperlink</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/how-to-register</a>
+</p>
