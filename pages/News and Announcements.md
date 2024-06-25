@@ -16,18 +16,18 @@ Residents will start from Tuesday, 2 July 2024, 9am to Thursday, 4 July
 2018 and 1 January 2019 (both dates inclusive), and this child has an elder
 sibling currently studying in the school of choice, may thus register your
 child with the same school under Phase 1.</p>
-<p>Information on how to register can be found at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration/how-to-register.</a>
+<p>Information on how to register can be found at <a href="https://www.moe.gov.sg/primary/p1-registration/how-to-register." rel="noopener noreferrer nofollow" target="_blank">this link.</a>
 </p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>Eat With Your Family Day (EWYFD) </u></strong>
+<p><strong><u>Eat With Your Family Day (EWYFD)</u></strong>
 </p>
 <p>“Eat with Your Family Day” (EWYFD) is a nation-wide initiative led by
 the Centre for Fathering and supported by the Ministry of Social and Family
 Development (MSF) to encourage all Singaporeans to consciously set aside
 time that day to be with their families and to remind families to eat together
-regularly (<a rel="noopener noreferrer nofollow" target="_blank">http://fathers.com.sg/ewyfd/</a>).</p>
+regularly (<a href="http://fathers.com.sg/ewyfd/" rel="noopener noreferrer nofollow" target="_blank">link</a>).</p>
 <p>In support of this initiative, HPPS and ACE@Work (Student Care Centre
 in HPPS) will be closed by 5 p.m. on the following EWYFD dates:</p>
 <p>• 8 March 2024</p>
