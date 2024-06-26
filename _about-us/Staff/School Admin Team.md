@@ -25,13 +25,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zhong Yan Jun Lydia</p>
+<p>Ms Goh Li Khim Agnes (From 2 Jul 2024)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zhong_yan_jun@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
