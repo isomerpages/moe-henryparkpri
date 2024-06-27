@@ -46,11 +46,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Choon Tiang</p>
-<p>Mdm Leong Soak Wai</p>
+<p>Mdm Aidilawati</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>koh_choon_tiang@moe.edu.sg</p>
-<p>leong_soak_wai@moe.edu.sg</p>
+<p>aidilawati_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -227,11 +227,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Li Yiming, Bernard</p>
-<p>Ms Noorashikin Bte Yahya</p>
+<p>Ms Constance Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>li_yiming_bernard@moe.edu.sg</p>
-<p>noorashikin_yahya@moe.edu.sg</p>
+<p>yap_pei_ling_constance_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -408,11 +408,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Darren Lau</p>
-<p>Mdm Meena</p>
+<p>Mdm Marhaini Mohamad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_kar_loong@moe.edu.sg</p>
-<p>meena_mohan@moe.edu.sg</p>
+<p>marhaini_mohamad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -498,12 +498,12 @@ variant: tiptap
 <p>4 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Audrey Kho</p>
 <p>Mdm Michelle Tan</p>
+<p>Mr Kishen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_shi_ying_audrey@moe.edu.sg</p>
 <p>tan_ti_wei_michelle@moe.edu.sg</p>
+<p>kishen_vijayan_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
