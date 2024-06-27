@@ -6,7 +6,12 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>Primary 1</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -156,7 +161,12 @@ variant: tiptap
 </table>
 <p></p>
 <h3>Primary 2</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -306,7 +316,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Primary 3</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -431,7 +446,12 @@ variant: tiptap
 </tbody>
 </table>
 <p>Primary 4</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -567,7 +587,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Primary 5</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -704,7 +729,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Primary 6</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -840,7 +870,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Mother Tongue</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1111,7 +1145,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>GEP</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1222,7 +1260,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Allied Educators</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1248,30 +1291,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurain Ismail</p>
+<p>Ms Samantha Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>nurain_ismail@moe.edu.sg</p>
+<p>samantha_lee_yanmei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Lydia</p>
+<p>Mdm Tan Yang Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurul_lydia_mustapha@moe.edu.sg</p>
+<p>tan_yang_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharmini</p>
+<p>Ms Sharmini Nair</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
