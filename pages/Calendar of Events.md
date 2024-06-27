@@ -13,5 +13,9 @@ variant: tiptap
 <p><a href="/files/Annex_A_Calendar__Term_2_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Annex_A_Calendar__Term_3_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3</a>
+</p>
+</li>
 </ol>
 <p></p>
