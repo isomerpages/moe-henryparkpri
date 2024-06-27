@@ -1128,14 +1128,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Meena W/O Mohan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>meena_mohan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Kandasamy Devi</p>
 </td>
 <td rowspan="1" colspan="1">
