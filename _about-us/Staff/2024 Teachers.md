@@ -6,7 +6,12 @@ third_nav_title: Staff
 variant: tiptap
 ---
 <h3>Primary 1</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,11 +46,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Koh Choon Tiang</p>
-<p>Mdm Leong Soak Wai</p>
+<p>Mdm Aidilawati</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>koh_choon_tiang@moe.edu.sg</p>
-<p>leong_soak_wai@moe.edu.sg</p>
+<p>aidilawati_ahmad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +161,12 @@ variant: tiptap
 </table>
 <p></p>
 <h3>Primary 2</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -217,11 +227,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Li Yiming, Bernard</p>
-<p>Ms Noorashikin Bte Yahya</p>
+<p>Ms Constance Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>li_yiming_bernard@moe.edu.sg</p>
-<p>noorashikin_yahya@moe.edu.sg</p>
+<p>yap_pei_ling_constance_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -306,7 +316,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Primary 3</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -393,11 +408,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Darren Lau</p>
-<p>Mdm Meena</p>
+<p>Mdm Marhaini Mohamad</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_kar_loong@moe.edu.sg</p>
-<p>meena_mohan@moe.edu.sg</p>
+<p>marhaini_mohamad@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -431,7 +446,12 @@ variant: tiptap
 </tbody>
 </table>
 <p>Primary 4</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -478,12 +498,12 @@ variant: tiptap
 <p>4 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Audrey Kho</p>
 <p>Mdm Michelle Tan</p>
+<p>Mr Kishen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ng_shi_ying_audrey@moe.edu.sg</p>
 <p>tan_ti_wei_michelle@moe.edu.sg</p>
+<p>kishen_vijayan_a@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -567,7 +587,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Primary 5</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -704,7 +729,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Primary 6</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -840,7 +870,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Mother Tongue</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1094,14 +1128,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Meena W/O Mohan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>meena_mohan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Kandasamy Devi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1111,7 +1137,11 @@ variant: tiptap
 </tbody>
 </table>
 <h3>GEP</h3>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1222,7 +1252,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Allied Educators</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1248,30 +1283,29 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurain Ismail</p>
+<p>Ms Samantha Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>nurain_ismail@moe.edu.sg</p>
+<p>samantha_lee_yanmei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurul Lydia</p>
+<p>Mdm Tan Yang Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurul_lydia_mustapha@moe.edu.sg</p>
+<p>tan_yang_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharmini</p>
+<p>Ms Sharmini Nair</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
