@@ -33,6 +33,26 @@ essentials of music making. They will build up their sense of rhythm with
 body percussion and movement. In Art, students are introduced to Elements
 of Arts via drawing with oil pastels and clay work.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P1 Group Music Song Games" src="/images/P1_Group_Music_Song_Games.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P1 Oil Pastels" src="/images/P1_oil_pastels.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P2 Clay" src="/images/P2_Clay.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P2 Kodaly Music Lesson" src="/images/P2_Kodaly_Music_Lesson.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P2 Music Performance" src="/images/P2_Music_Performance.jpg">
+</div>
+<p></p>
 <p><strong>PRIMARY 3 AND 4</strong>
 </p>
 <p>In the next two years, the music programme allows students to develop
