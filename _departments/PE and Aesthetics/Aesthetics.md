@@ -64,6 +64,30 @@ Primary 4 level, students will also experience Museum-based Learning to
 get up close and engage in discussion about artworks of local artists in
 the museum.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art Escape Room" src="/images/Art_Escape_Room.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art MBL LJ" src="/images/Art_MBL_LJ.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P3 Batik" src="/images/P3_Batik.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P3 Recorder" src="/images/P3_Recorder.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P3 Wax Resist Painting" src="/images/P3_Wax_Resist_Painting.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P4 Recorder - Blended Learning" src="/images/P4_Recorder___Blended_Learning.jpg">
+</div>
+<p></p>
 <p><strong>Primary 5 and 6</strong>
 </p>
 <p>Students proceed from music theory knowledge to music composition and
@@ -75,6 +99,30 @@ compose music iPad apps such as Garage Band.</p>
 <p>During art lessons, students participate in art making with creative art
 mediums. They will be exposed to advanced techniques of drawing, painting
 and the use of new media tools.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art work by 6D NGUYEN THUC MAI" src="/images/6D_NGUYEN_THUC_MAI.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Art work by 6E MALCOLM MAK ZI QIAN" src="/images/6E_MALCOLM_MAK_ZI_QIAN.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P5 Song Maker 1" src="/images/P5_Song_Maker_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P5 Song Maker 2" src="/images/P5_Song_Maker_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P5 Students Learning the Ukulele" src="/images/P5_Students_Learning_the_Ukulele.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="P6 GarageBand Jam Band" src="/images/P6_GarageBand_Jam_Band.jpg">
+</div>
 <h3>EVENTS</h3>
 <p><strong>Aesthetics Day</strong>
 </p>
