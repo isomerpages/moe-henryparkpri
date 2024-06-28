@@ -25,6 +25,7 @@ Through arts experience and art appreciation, students will be able to
 attain basic literacy in music, as well as apply Elements of Art and Principles
 of Design through their years in HPPS.</p>
 <p></p>
+<hr>
 <p></p>
 <p><strong>PRIMARY 1 AND 2</strong>
 </p>
