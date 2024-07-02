@@ -11,4 +11,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_P1_Term_2_Letter_.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Term 2 Level Matters</a>
 </p>
+<p><a href="/files/2024_P1_Term_3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Term 3 Level Matters</a>
+</p>
 <p></p>
