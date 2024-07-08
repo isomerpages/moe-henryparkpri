@@ -2,7 +2,7 @@ collections:
   school-info:
     output: true
     order:
-      - Edusave Character Award.md
+      - Students Awards.md
       - School Canteen.md
       - Dismissal Timings, Pickup Points, Gate Opening Hours.md
       - MOE Student Details Form Online Portal.md
