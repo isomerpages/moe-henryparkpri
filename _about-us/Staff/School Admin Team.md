@@ -25,17 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Li Khim Agnes (From 2 Jul 2024)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ang Tien Hock</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,6 +32,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_tien_hock@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Li Khim Agnes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>agnes_goh@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jenap_johari@moe.edu.sg</p>
+<p>jenap_johari@schools.gov.sg</p>
 </td>
 </tr>
 </tbody>
