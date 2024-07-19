@@ -60,6 +60,9 @@ are supported by a qualified LSM teacher for all their Mathematics lessons.</p>
 </p>
 <p>Fun in Math programme aims to stimulate excitement and enthusiasm in Mathematics
 by engaging students in mathematics related games and activities.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fun_in_Math.png">
+</div>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>MATH SUPPORT PROGRAMME (Primary 1 to Primary 6)</strong>
