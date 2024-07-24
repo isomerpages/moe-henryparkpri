@@ -19,7 +19,7 @@ variant: tiptap
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Login Troubleshooting </a>
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Login Troubleshooting</a>
 </p>
 </li>
 <li>
