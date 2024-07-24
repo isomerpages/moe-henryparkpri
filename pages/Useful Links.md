@@ -19,6 +19,14 @@ variant: tiptap
 <p><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student iCON</a>&nbsp;</p>
 </li>
 <li>
+<p><a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">SLS Login Troubleshooting</a>
+</p>
+</li>
+<li>
+<p><a href="/files/MIMS_Student_Self_Reset_Password_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">MIMS Student Self Service Password Reset Guide</a>
+</p>
+</li>
+<li>
 <p><a href="https://myskillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
 </p>
 </li>
