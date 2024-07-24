@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Staff
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -199,7 +204,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Level Head (LH)/ Subject Head (SH)</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -313,17 +323,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Latiffah Maideen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Tamil</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>latiffah_mohamed_maideen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Norrehan Mohd Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -380,7 +379,12 @@ variant: tiptap
 </tbody>
 </table>
 <h3>Senior and Lead Teachers</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -392,17 +396,6 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Email Address</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Dr Evelyn Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>evelyn_tan_kim_choo@moe.edu.sg</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
