@@ -58,5 +58,9 @@ variant: tiptap
 <p><a href="/files/2024_P5_Term_2_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Term 2 Level Matters</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2024_P5_End_of_Year_Assessments___Revised_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 End of Year Assessments Revised Schedule</a>
+</p>
+</li>
 </ol>
 <p></p>
