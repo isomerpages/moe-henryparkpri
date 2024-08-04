@@ -487,7 +487,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chamanpreet Kaur</p>
-<p>Mdm Lee Miin Jiun</p>
+<p>Mdm Lee Miin Jiun, Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chamanpreet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chamanpreet_kaur@moe.edu.sg</a>
