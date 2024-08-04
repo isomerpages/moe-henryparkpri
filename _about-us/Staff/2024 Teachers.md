@@ -490,8 +490,7 @@ variant: tiptap
 <p>Mdm Lee Miin Jiun, Pauline</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chamanpreet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chamanpreet_kaur@moe.edu.sg</a>
-</p>
+<p>chamanpreet_kaur@moe.edu.sg</p>
 <p>lee_miin_jiun_pauline@moe.edu.sg</p>
 </td>
 </tr>
