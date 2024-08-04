@@ -25,4 +25,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2024_P4_Term_1_3_Assessment_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Terms 1 to 3 Assessment Schedule</a>
 </p>
+<p><a href="/files/2024_P4_Sem_2_Assessments_Letter_Revised_Schedule.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Semester 2 Assessment Schedule</a>
+</p>
 <p></p>

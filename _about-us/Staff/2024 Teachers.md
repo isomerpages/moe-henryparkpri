@@ -138,10 +138,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Glady Tan</p>
 <p>Ms Tai Siew Ngee</p>
+<p>Mdm Noor Azida Bte Abdul Rahman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_shuen_hwee_glady@moe.edu.sg</p>
-<p>tai_siew_ngee@moe.edu.sg</p>
+<p><a href="mailto:tai_siew_ngee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tai_siew_ngee@moe.edu.sg</a>
+</p>
+<p>noor_azida_abdul_rahman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -483,12 +486,13 @@ variant: tiptap
 <p>4 Boldness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Noor Azida Bte Abdul Rahman</p>
 <p>Mdm Chamanpreet Kaur</p>
+<p>Mdm Lee Miin Jiun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>noor_azida_abdul_rahman@moe.edu.sg</p>
-<p>chamanpreet_kaur@moe.edu.sg</p>
+<p><a href="mailto:chamanpreet_kaur@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chamanpreet_kaur@moe.edu.sg</a>
+</p>
+<p>lee_miin_jiun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
