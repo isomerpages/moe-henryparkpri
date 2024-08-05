@@ -26,10 +26,19 @@ and we hope that you will have an enjoyable day with your families.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>P6 Prelim Oral - 25 Jul 2024 (Thursday) to 26 July 2024 (Friday)</u></strong>
+<p><strong><u>National Day Celebrations on 8 Aug 2024, Thursday</u></strong>
 </p>
-<p>There is no school for our P1 to P5 students instead they will be having
-their Home-Based Learning on these 2 dates.</p>
+<p>Our General Office will close at 5pm on the eve of National Day, 8 Aug
+2024, Thursday.</p>
 </li>
 </ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>Teachers' Day Celebration on 29 Aug 2024, Thursday</u></strong>
+</p>
+</li>
+</ul>
+<p>All our staff will be out celebrating Teachers' Day on 29 Aug 2024, Thursday.
+Our General Office will close at 11am on this day.</p>
 <p></p>
