@@ -41,4 +41,3 @@ and we hope that you will have an enjoyable day with your families.</p>
 </ul>
 <p>All our staff will be out celebrating Teachers' Day on 29 Aug 2024, Thursday.
 Our General Office will close at 11am on this day.</p>
-<p></p>
