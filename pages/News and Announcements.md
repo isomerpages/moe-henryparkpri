@@ -53,12 +53,8 @@ and we hope that you will have an enjoyable day with your families</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>General Office will be close on 2 Sep 2024, Monday</u></strong>
+<p><strong><u>General Office will be close on 2 Sep 2024, Monday as our team will be attending W1 Cluster Event.</u></strong>
 </p>
-</li>
-<li>
-<p>Our General office will be close on 2 Sep 2024, Monday as our team will
-be attending our W1 Cluster Event.</p>
 </li>
 </ul>
 <p></p>
