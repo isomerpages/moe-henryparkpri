@@ -6,6 +6,33 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><u>Teachers' Day Celebration on 29 Aug 2024, Thursday</u></strong>
+</p>
+<p></p>
+<p>Dear HPPS Alumni,</p>
+<p>With Teachers' Day just around the corner, we know many of you might be
+planning to drop by and visit your HPPS teachers. It is always heartwarming
+to see familiar faces and catch up on how far you have come.</p>
+<p>On 29 August, our teachers will be out for a special lunch event and will
+not be available for visits at school.</p>
+<p>If you would still like to see your teachers, we encourage you to reach
+out to them directly via email to arrange another time that works for everyone.
+They would love to reconnect with you when they are available.</p>
+<p></p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>General Office Closing Hours on Teachers' Day Celebration - 29 Aug 2024, Thursday</u></strong>
+</p>
+<p></p>
+<p>All our staff will be out celebrating Teachers' Day on 29 Aug 2024, Thursday.
+Our General Office will close at 11am on this day.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong><u>Eat With Your Family Day (EWYFD)</u></strong>
 </p>
 <p>“Eat with Your Family Day” (EWYFD) is a nation-wide initiative led by
@@ -24,20 +51,3 @@ and we hope that you will have an enjoyable day with your families.</p>
 </li>
 </ul>
 <p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><u>National Day Celebrations on 8 Aug 2024, Thursday</u></strong>
-</p>
-<p>Our General Office will close at 5pm on the eve of National Day, 8 Aug
-2024, Thursday.</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><u>Teachers' Day Celebration on 29 Aug 2024, Thursday</u></strong>
-</p>
-</li>
-</ul>
-<p>All our staff will be out celebrating Teachers' Day on 29 Aug 2024, Thursday.
-Our General Office will close at 11am on this day.</p>
