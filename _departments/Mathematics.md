@@ -132,3 +132,10 @@ of three main themes: Mathematician Day where the students learn about
 different mathematicians and their contribution; Economy Day where the
 students learn about economy related concepts and ideas and Measurement
 Day where concepts and ideas relating to measurements are shared with students.</p>
+<p><strong>MATH NOTICEBOARD CHALLENGE</strong>
+</p>
+<p>The Math Noticeboard Challenge creates an opportunity for students to
+explore and enjoy math beyond the classroom. Conducted termly, it features
+different mathematical themes, such as Geometry and Measurement, and includes
+Math Fun Facts to spark curiosity and deepen students' interest.</p>
+<p></p>
