@@ -307,12 +307,12 @@ variant: tiptap
 <p>2 Joyfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Yong Yuan</p>
+<p>Ms Cassandra Sim</p>
 <p>Mrs Priscilla Heng</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_yong_yuan@moe.edu.sg</p>
+<p>sim_hui_lin_cassandra@moe.edu.sg</p>
 <p>ng_en_oi@moe.edu.sg</p>
 </td>
 </tr>
@@ -398,11 +398,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Chai Ee</p>
-<p>Mdm Ong Siew Bee</p>
+<p>Mr Tan Yong Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>goh_chai_ee@moe.edu.sg</p>
-<p>ong_siew_bee_a@moe.edu.sg</p>
+<p>tan_yong_yuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
