@@ -91,17 +91,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cassandra Sim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (ICT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sim_hui_lin_cassandra@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Chin Lian Mei</p>
 </td>
 <td rowspan="1" colspan="1">
