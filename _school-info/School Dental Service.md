@@ -8,16 +8,13 @@ variant: tiptap
 <p>Below are the opening dates for the school dental clinic for Aug 2024:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>1 Aug to 2 Aug 2024</p>
+<p>6 Sep 2024</p>
 </li>
 <li>
-<p>12 Aug 2024 (Closes at 12pm)</p>
+<p>9 Sep 2024 to 12 Sep 2024</p>
 </li>
 <li>
-<p>15 Aug to 16 Aug 2024</p>
-</li>
-<li>
-<p>26 to 30 Aug 2024</p>
+<p>23 Sep 2024 to 27 Sep 2024</p>
 <p></p>
 </li>
 </ul>
