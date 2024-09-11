@@ -1,78 +1,7451 @@
 ---
 title: HPPS Celebrates
-permalink: /hpps-experience/permalink/
-variant: markdown
+permalink: /hpps-experience/events/hpps-celebrates/
+variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-![](/images/HPPS_Celebrates.png)
-![](/images/congrats.png)
-
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl66 {font-size:14.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl67 {font-size:12.0pt; font-weight:700;} .xl68 {font-size:12.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl69 {font-size:12.0pt; font-weight:700; border:.5pt solid windowtext;} .xl70 {color:black; font-size:12.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext; white-space:normal;} .xl71 {font-size:12.0pt; font-weight:700; text-align:center; vertical-align:top; border:.5pt solid windowtext;} .xl72 {color:black; font-size:12.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl73 {color:black; font-size:12.0pt; font-weight:700; text-align:center; vertical-align:top; border:.5pt solid windowtext; white-space:normal;} -->
-
-<table style="border-collapse:
- collapse;width:449pt" width="598" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:49pt" width="65"> <col style="mso-width-source:userset;mso-width-alt:18594;width:400pt" width="533"></colgroup><tbody><tr style="height:18.5pt" height="25"><td style="height:18.5pt;width:449pt" width="598" class="xl66" height="25" colspan="2">Primary 1 Character Award Winners</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1A</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">ABIGAIL CHAN EN RUI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">ELIZABETH PAIGE LOW ZHI LING</td></tr><tr style="mso-height-source:userset;height:17.0pt" height="23"><td style="height:17.0pt;border-top:none" class="xl68" height="23">3</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">MIRZA ZHARFAN BIN MUHAMMAD LUQMAN NUL HAKIM</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">SAMI LEONG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">ALEXA ANG YAN YING</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">KWEK NGEE DENG, JONAS</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1B</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none" class="xl71">DECLAN TAN SHIYOU</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none" class="xl71">LIU RUICHEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none" class="xl71">NEAL ROY PRAVIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none" class="xl71">JAYLENE HU EN NING</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none" class="xl71">ELLIA KHO LE EN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none" class="xl71">ZELDYR TAN XUN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1C</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none" class="xl71">GOH YU XUAN KALEY</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none" class="xl71">CHARLOTTE TEO YUE EN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none" class="xl71">HU CHENGYI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none" class="xl71">LUKAS AIDEN WONG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none" class="xl71">ELHAM MAHSA MALIK</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none" class="xl71">NG XUAN YUN, CHELSEA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1D</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none" class="xl71">WONG SHI NING</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none" class="xl71">TEE RAY CHEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none" class="xl71">EU XIN YING JENISE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none" class="xl71">ELLIE HE SHUXIAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none" class="xl71">KYLEE YEO SHIU WEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none" class="xl71">TEH ZHEN PU BLAKE SERAPH</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1E</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none" class="xl71">MIRANDA TOH MEI EN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none" class="xl71">ERIN ANNE RUI-EN O'HARA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none" class="xl71">TAN YI AN PHOEBE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none" class="xl71">SIA JIA YING NATALIE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none" class="xl71">KOH CHENG JIE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none" class="xl71">DYLAN WANG HONG RUI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1F</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl72">NIKOL BRINKMANN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl72">GOH YAN FEI, NATALIE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl72">MEREDITH JANELLE TJOA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl72">CHRISTIAN LEW GUAN LIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl72">WU MINGHENG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl72">YAP SHIYI AUGUSTUS</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1G</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none" class="xl71">MELODY WANG WANQING</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none" class="xl71">LIN SHIKAI DEREK</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none" class="xl71">NG SHAN MIN LAUREN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none" class="xl71">IGNATIUS LIM YAN ZHANG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none" class="xl71">ELIZABETH SIM JIN XUAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none" class="xl71">VIVIAN THAM JING NI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1H</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none" class="xl71">CHONG YI YANG, LUTHER</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none" class="xl71">GUAN SUXIAN VICKY</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none" class="xl71">ADLEA BINTE SAIFULLIZAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none" class="xl71">EJAZ NAEL BIN ARZME</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none" class="xl71">NATALIE TAN XUAN WEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none" class="xl71">THEA TAY XUANEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1I</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl73">TAN KAI LYN MEGAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl73">CHIN XING TING</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl73">TIMOTHY MARC YONG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl73">HO CHEN XUAN VALERIE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl73">LOH JIA MIN ISABEL</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl73">LOY HNG KAI JOHN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl68" height="21" colspan="2">Primary 1J</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">No</td><td style="border-top:none;border-left:none" class="xl69">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">1</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">CAI RUI'EN CLAIRE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">2</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">CHUA BOON XUAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">3</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">ELIZABETH LEE EN-MIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">4</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">ESTELLE YAP EN XI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">5</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">CHEN LEJIONG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl68" height="21">6</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl70">RYO NG WU LIANG</td></tr></tbody></table>
-
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {font-size:14.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl66 {font-size:12.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl67 {font-size:12.0pt; font-weight:700; border:.5pt solid windowtext;} .xl68 {font-weight:700; text-align:left; vertical-align:middle; border:.5pt solid windowtext;} .xl69 {color:black; font-weight:700; text-align:left; border:.5pt solid windowtext; white-space:normal;} .xl70 {font-weight:700; text-align:left; vertical-align:middle; border-top:none; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} -->
-
-<table style="border-collapse:
- collapse;width:448pt" width="597" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:48pt" width="64"> <col style="mso-width-source:userset;mso-width-alt:18594;width:400pt" width="533"></colgroup><tbody><tr style="height:18.5pt" height="25"><td style="height:18.5pt;width:448pt" width="597" class="xl65" height="25" colspan="2">Primary 2 Character Award Winners</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2A</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none" class="xl68">LEIA SAFIYYAH BINTE MOHAMAD FAISAL</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none" class="xl68">HUANG QIANXUN, EMMA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none" class="xl68">YEE KAI XUAN BEATRICE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none" class="xl68">AVERY CHIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none" class="xl68">DYLAN LEE YIN LOK</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none" class="xl68">YEE JIA HUI EAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2B</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none" class="xl68">JACE RAPHAEL CHUA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none" class="xl68">IRIS ADA HO WAN HUI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none" class="xl68">NATALIE LIM FAN XI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none" class="xl68">YEO YAO SEN PHELIX</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none" class="xl68">ONG KAI LE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none" class="xl68">NG YU PENG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2C</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none" class="xl68">THEIA LEE TING XUAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none" class="xl68">TONG KEI AN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none" class="xl68">GRACE WANG ZIXIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none" class="xl68">CHUA JIN KAI OWEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none" class="xl68">CHUA JIN HAO EVAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none" class="xl68">KOH XUAN RONG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2D</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none" class="xl68">ALICE YAN ZILIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none" class="xl68">LEE JOSHUA JIYUL</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none" class="xl68">GREGORY TOH</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none" class="xl68">CHAN WAI YAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none" class="xl68">WEE TING YA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none" class="xl68">CHUA WEN HAN SINEAD</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2E</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl69">HEIDI VOO XIN YI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl69">KHOO YE XUN ETHAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl69">DEMIRA THAKUR</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl69">SEE JAY KIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl69">DRAVIN THAKUR</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none;width:400pt" width="533" class="xl69">CLAIRE ELIZABETH PEREIRA YIXIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2F</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-left:none" class="xl70">NATALIE CHAN MIN XUAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-left:none" class="xl70">IVAN WU ZI YEUNG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-left:none" class="xl70">HEIDI CHER XUAN YI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-left:none" class="xl70">MAURICE MICHAEL NGAY</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-left:none" class="xl70">SEOW JUN ZE, ZED</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-left:none" class="xl70">RYLEE TANG RUI YING</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2G</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none" class="xl68">LEVIA WONG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none" class="xl68">FAITH CHNG ZI XUAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none" class="xl68">JULIAN TAN JIA JUN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none" class="xl68">ANG JUN XI TREYVEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none" class="xl68">AU EN YU, MIA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none" class="xl68">WONG TZE SHUEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2H</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none" class="xl68">CHANG CI EN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none" class="xl68">CASSIE MONG MIN ZHEN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none" class="xl68">ZHUO QIAN YA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none" class="xl68">ABIGAIL LEE JIA EN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none" class="xl68">KOW SHAO FENG ETHAN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none" class="xl68">ALESSIA KWOK TING YING</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2I</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none" class="xl68">ELIZABETH RAE KAEGI</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none" class="xl68">LIM ENQI EMMA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none" class="xl68">SEBASTIAN TAN ZHAO YANG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none" class="xl68">NATASHA MEI SHAN MENON</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none" class="xl68">ETHAN CHENG YI TENG</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none" class="xl68">LIM SHU EN, LENA</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl66" height="21" colspan="2">Primary 2J</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">No</td><td style="border-top:none;border-left:none" class="xl67">Name</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">1</td><td style="border-top:none;border-left:none" class="xl68">EDWIN SIEW YI EN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">2</td><td style="border-top:none;border-left:none" class="xl68">WOO EMMA RUI MIN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">3</td><td style="border-top:none;border-left:none" class="xl68">CHLOE TEA TAN YONG ER</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">4</td><td style="border-top:none;border-left:none" class="xl68">CLARENCE CHOONG JIA JUN</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">5</td><td style="border-top:none;border-left:none" class="xl68">ONG SHILE</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">6</td><td style="border-top:none;border-left:none" class="xl68">LAUREN AMELIE WONG</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" height="19"></td><td></td></tr></tbody></table>
- 
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .25in .75in .25in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl63 {font-size:14.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl64 {font-size:12.0pt; font-weight:700;} .xl65 {font-size:12.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl66 {font-size:12.0pt; font-weight:700; border:.5pt solid windowtext;} .xl67 {font-size:12.0pt; font-weight:700; text-align:center; border-top:none; border-right:none; border-bottom:.5pt solid windowtext; border-left:none;} -->
-
-<table style="border-collapse:
- collapse;width:679pt" width="903" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1745;width:38pt" width="50"> <col style="mso-width-source:userset;mso-width-alt:14731;width:317pt" width="422"> <col style="mso-width-source:userset;mso-width-alt:15057;width:324pt" width="431"></colgroup><tbody><tr style="height:15.5pt" height="21"><td style="height:15.5pt;width:679pt" width="903" class="xl67" height="21" colspan="3">Primary 3 Award Winners<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">3 Attentiveness</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">1</td><td style="border-top:none;border-left:none" class="xl66">BETHANY MUN YAN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">2</td><td style="border-top:none;border-left:none" class="xl66">KAIA CHEONG JIAQI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">3</td><td style="border-top:none;border-left:none" class="xl66">SHEN HAOLING</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3A) &amp; Top Performer (3A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">4</td><td style="border-top:none;border-left:none" class="xl66">KOH SHUN JIE</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">5</td><td style="border-top:none;border-left:none" class="xl66">GUO YUTONG</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">6</td><td style="border-top:none;border-left:none" class="xl66">EMMA LOUISE</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3A)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">3 Boldness</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">7</td><td style="border-top:none;border-left:none" class="xl66">LIAM THEODORE TAN HONG RUI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">8</td><td style="border-top:none;border-left:none" class="xl66">NAURA SAKINAH BINTE MUHAMMAD IZWAN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">9</td><td style="border-top:none;border-left:none" class="xl66">NUR SARAH ALISYA BINTE SUKAIMI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">10</td><td style="border-top:none;border-left:none" class="xl66">ISABEL RANIA ROMI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">11</td><td style="border-top:none;border-left:none" class="xl66">CHIA MING ZHI JOSHUA</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">12</td><td style="border-top:none;border-left:none" class="xl66">FENG SHIRONG, CRISTIAN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">13</td><td style="border-top:none;border-left:none" class="xl66">LIM YING XUAN, CELESTIAL</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3B)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">3 Creativity</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">14</td><td style="border-top:none;border-left:none" class="xl66">LOW ZHAN LER MATTHEW</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3C) &amp; Top Performer (3C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">15</td><td style="border-top:none;border-left:none" class="xl66">CHIN WEI KAI HAMISH</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3C)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">16</td><td style="border-top:none;border-left:none" class="xl66">KHOR SWEE HING, VICTORIA</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3C)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">17</td><td style="border-top:none;border-left:none" class="xl66">GOH ZI WEI ASHLEY</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3C) &amp; Top Performer (3C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">18</td><td style="border-top:none;border-left:none" class="xl66">LI RENZE ISAAC</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3C)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">3 Diligence</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">19</td><td style="border-top:none;border-left:none" class="xl66">NIKKI WIDJAJA</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3D) &amp; Top Performer (3D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">20</td><td style="border-top:none;border-left:none" class="xl66">ARIELLE YAP HUI EN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">21</td><td style="border-top:none;border-left:none" class="xl66">CHARIS NG CHEUK YAN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">22</td><td style="border-top:none;border-left:none" class="xl66">JOY PEGGY WONG YUE EN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">23</td><td style="border-top:none;border-left:none" class="xl66">ANDREA JIROTMONTREE</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">24</td><td style="border-top:none;border-left:none" class="xl66">NI BINJIA</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3D)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">3 Enthusiasm</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">25</td><td style="border-top:none;border-left:none" class="xl66">ALIA BINTE MUHAMMAD LOKMAN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3E)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">26</td><td style="border-top:none;border-left:none" class="xl66">ANDREA KOON SZE KEI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3E) &amp; Top Performer (3E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">27</td><td style="border-top:none;border-left:none" class="xl66">LIU YICHEN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3E) &amp; Top Performer (3E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">28</td><td style="border-top:none;border-left:none" class="xl66">SIERRA EVE SHANG ZUYI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3E) &amp; Top Performer (3E)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">3 Flexibility</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">29</td><td style="border-top:none;border-left:none" class="xl66">ILIA ARISHA MOHAMAD SUFIAN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">30</td><td style="border-top:none;border-left:none" class="xl66">LIU JINYING, GILIA</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">31</td><td style="border-top:none;border-left:none" class="xl66">NG ZI HUI MELODY</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">32</td><td style="border-top:none;border-left:none" class="xl66">LEONG SI YUEN NATHANIEL</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">33</td><td style="border-top:none;border-left:none" class="xl66">CHUA RUI LING CHARLOTTE</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">34</td><td style="border-top:none;border-left:none" class="xl66">HUANG JIA'EN NATALIE</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">35</td><td style="border-top:none;border-left:none" class="xl66">PAN JIACHI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3F)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">3 Generosity</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">36</td><td style="border-top:none;border-left:none" class="xl66">JANIQUE LAM ZHI YING</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3G) &amp; Top Performer (3G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">37</td><td style="border-top:none;border-left:none" class="xl66">TAN JING XUAN (CHEN JINGXUAN)</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3G)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">38</td><td style="border-top:none;border-left:none" class="xl66">CAI ZHIHANG</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3G) &amp; Top Performer (3G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">39</td><td style="border-top:none;border-left:none" class="xl66">HASIF BIN SAIFULLIZAN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3G)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">40</td><td style="border-top:none;border-left:none" class="xl66">NGUYEN THUC LINH</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3G)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">3 Harmony</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">41</td><td style="border-top:none;border-left:none" class="xl66">NAREEN TAN JIA XUAN</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">42</td><td style="border-top:none;border-left:none" class="xl66">WANG ZIYUE</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3H) &amp; Top Performer (3H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">43</td><td style="border-top:none;border-left:none" class="xl66">AADEL YEO E-DA</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">44</td><td style="border-top:none;border-left:none" class="xl66">GRACE LIOM EN HUI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (3H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">45</td><td style="border-top:none;border-left:none" class="xl66">JAYDEN THAM JUN XI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">46</td><td style="border-top:none;border-left:none" class="xl66">GUO YUNLEI</td><td style="border-top:none;border-left:none" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (3H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl64" height="21"></td><td class="xl64"></td><td class="xl64"></td></tr></tbody></table>
- 
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.25in .25in .25in .25in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl63 {font-size:14.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl64 {font-size:12.0pt; font-weight:700;} .xl65 {font-size:12.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl66 {font-size:12.0pt; font-weight:700; text-align:left; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl67 {font-size:12.0pt; font-weight:700; text-align:left; vertical-align:top; border:.5pt solid windowtext; white-space:normal;} .xl68 {font-size:12.0pt; font-weight:700; text-align:left; border:.5pt solid windowtext;} .xl69 {font-size:14.0pt; font-weight:700; text-align:left; border:.5pt solid windowtext;} .xl70 {font-size:12.0pt; font-weight:700; text-align:left;} -->
-
-<table style="border-collapse:
- collapse;width:679pt" width="903" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1745;width:38pt" width="50"> <col style="mso-width-source:userset;mso-width-alt:14731;width:317pt" width="422"> <col style="mso-width-source:userset;mso-width-alt:15057;width:324pt" width="431"></colgroup><tbody><tr style="mso-height-source:userset;height:16.0pt" height="21"><td style="height:16.0pt;width:679pt" width="903" class="xl63" height="21" colspan="3">Primary 4 Award Winners</td></tr><tr style="mso-height-source:userset;height:15.0pt" height="20"><td style="height:15.0pt" class="xl63" height="20" colspan="3">4 Attentiveness</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">1</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">CLARA CHAN WEI SHAN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">2</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">NADIA CHENG JINXI</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">3</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">ONG JIA HUI ELIZABETH JANE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">4</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">NOAH TAN KAI EN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4A) &amp; Top Performer (4A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">5</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">SNG ENXUAN ARABELLE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">6</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">ELLIOTT WONG EN KAI</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4A)</td></tr><tr style="mso-height-source:userset;height:16.0pt" height="21"><td style="height:16.0pt" class="xl63" height="21" colspan="3">4 Boldness</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">7</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">FELICIA ZHANG LINGXUAN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4B) &amp; Top Performer (4B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">8</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">JEDD LAM ZHI HAO</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">9</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">ETHAN LEON HO JI QUAN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">10</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">JOSH LOW KAH YEE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">11</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">TAN JIAXUAN, CLARISSA</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">12</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">IAN MATTHIAS LEE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4B)</td></tr><tr style="mso-height-source:userset;height:16.0pt" height="21"><td style="height:16.0pt" class="xl63" height="21" colspan="3">4 Creativity</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">13</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">WOO NAOMI RUI YI</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4C)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">14</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">KHOR SWEE HUM, KAYLEE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4C) &amp; Top Performer (4C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">15</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">ELEANOR NG SI YU</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4C) &amp; Top Performer (4C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">16</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">YAN ZIWEN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4C)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">17</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">CHUA YI XUAN LINUS</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">18</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">GWEE JING KAI JAYDEN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4C)</td></tr><tr style="mso-height-source:userset;height:16.5pt" height="22"><td style="height:16.5pt" class="xl63" height="22" colspan="3">4 Diligence</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">19</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">ADEN LO JIAN XIANG</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">20</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">WONG EN XUAN, EMMA</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4D) &amp; Top Performer (4D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">21</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">GRACE SIM JIA EN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">22</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">NATASCHA BRINKMANN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">23</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">ZHANG HAOTIAN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">24</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">EU JIE EN JOASH</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4D)</td></tr><tr style="mso-height-source:userset;height:18.0pt" height="24"><td style="height:18.0pt" class="xl63" height="24" colspan="3">4 Enthusiasm</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">25</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">ARONIA NG HO NING</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4E)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">26</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">ISABELLE LIM EN XUAN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4E)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">27</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl67">JIA TIANMING</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4E)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">28</td><td style="border-top:none;border-left:none" class="xl68">TAN YING XIAN, CLAIRE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4E)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">29</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">KAYDEN CHEONG KAI RUI</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">30</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">YEO JUN XI JERALD</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">31</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">IAN CHEW SEOW HAN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4E)</td></tr><tr style="mso-height-source:userset;height:14.5pt" height="19"><td style="height:14.5pt" class="xl63" height="19" colspan="3">4 Flexibility</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">32</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">CHEW YUE-EN LINNEA</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4F) &amp; Top Performer (4F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">33</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">CHUA BOON XIN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">34</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">LOH JIA YIN ALISON</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4F) &amp; Top Performer (4F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">35</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">BU KEE CHONG</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">36</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">CHOO HENG LEE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4F)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">4 Generosity</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">37</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">DIONNE TIU YI WEI</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4G)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">38</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">EMEL ELIZ ALPER</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4G)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">39</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">XU KAI LIN CAITLIN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4G) &amp; Top Performer (4G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">40</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">NATHANIEL KARL YONG</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4G)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">41</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">WANG JUN WERN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">42</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">TONG HUI ERN ELIZABETH</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4G)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">4 Harmony</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">43</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">KOH RUI ZHI ESTEE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4H) &amp; Top Performer (4H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">44</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">LEONG KAI XUEN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4H) &amp; Top Performer (4H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">45</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">TAY JIAYI, JOANNE</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">46</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">MUDIL GUPTA</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl65" height="21">47</td><td style="border-top:none;border-left:none;width:317pt" width="422" class="xl66">NATALIE ROSE DEVAN</td><td style="border-top:none;border-left:none;width:324pt" width="431" class="xl66"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4H)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt" class="xl63" height="25" colspan="3">4 Initiative</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl63" height="25">48</td><td style="border-top:none;border-left:none" class="xl69">YANG XIAOFAN</td><td style="border-top:none;border-left:none" class="xl69"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4I)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl63" height="25">49</td><td style="border-top:none;border-left:none" class="xl69">HAYLEY CHOO YING</td><td style="border-top:none;border-left:none" class="xl69"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4I)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl63" height="25">50</td><td style="border-top:none;border-left:none" class="xl69">ZHOU ZHUOXUAN</td><td style="border-top:none;border-left:none" class="xl69"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4I) &amp; Top Performer (4I)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl63" height="25">51</td><td style="border-top:none;border-left:none" class="xl69">KAYENNE LIM WEN XUAN</td><td style="border-top:none;border-left:none" class="xl69"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (4I)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl63" height="25">52</td><td style="border-top:none;border-left:none" class="xl69">JOSEPH LIN JING CHENG</td><td style="border-top:none;border-left:none" class="xl69"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4I)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl63" height="25">53</td><td style="border-top:none;border-left:none" class="xl69">TAN WEIXIN</td><td style="border-top:none;border-left:none" class="xl69"><span style="mso-spacerun:yes">&nbsp; </span>Top Performer (4I)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl64" height="21"></td><td class="xl70"></td><td class="xl70"></td></tr></tbody></table>
- 
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .25in .75in .25in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl63 {font-weight:700; text-align:left; vertical-align:middle;} .xl64 {font-size:12.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext;} .xl65 {font-size:14.0pt; font-weight:700; text-align:left; vertical-align:middle;} .xl66 {font-size:12.0pt; font-weight:700; text-align:center; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl67 {font-size:12.0pt; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl68 {font-size:12.0pt; font-weight:700; text-align:left; vertical-align:middle; border:.5pt solid windowtext; background:white; mso-pattern:black none; white-space:normal;} .xl69 {font-weight:700; text-align:left; vertical-align:middle; background:white; mso-pattern:black none;} .xl70 {color:black; border-top:.5pt solid black; border-right:none; border-bottom:none; border-left:.5pt solid black; background:white; mso-pattern:black none;} .xl71 {font-size:12.0pt; vertical-align:middle; border:.5pt solid windowtext; background:white; mso-pattern:black none; white-space:normal;} .xl72 {font-size:12.0pt; border:.5pt solid windowtext; background:white; mso-pattern:black none;} .xl73 {color:black; font-size:12.0pt; border:.5pt solid windowtext; background:white; mso-pattern:black none;} .xl74 {vertical-align:middle; background:white; mso-pattern:black none;} .xl75 {font-size:12.0pt; font-weight:700; text-align:left; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl76 {font-size:12.0pt; text-align:left; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:none;} .xl77 {font-size:14.0pt; font-weight:700; text-align:left; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl78 {font-size:14.0pt; font-weight:700; text-align:left; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:none;} .xl79 {font-size:14.0pt; font-weight:700; text-align:left; vertical-align:middle; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl80 {font-size:14.0pt; font-weight:700; text-align:left; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl81 {font-size:14.0pt; font-weight:700; text-align:left; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:none;} .xl82 {font-size:14.0pt; font-weight:700; text-align:left; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl83 {font-size:14.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext;} .xl84 {font-size:12.0pt; font-weight:700; text-align:center; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} -->
-
-<table style="border-collapse:
- collapse;width:656pt" width="874" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1675;width:36pt" width="48"> <col style="mso-width-source:userset;mso-width-alt:13940;width:300pt" width="399"> <col style="mso-width-source:userset;mso-width-alt:14894;width:320pt" width="427"></colgroup><tbody><tr style="height:18.5pt" height="25"><td style="height:18.5pt;width:656pt" width="874" class="xl83" height="25" colspan="3">Primary 5 Award Winners</td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl77" height="25" colspan="3">5 Attentiveness</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">1</td><td class="xl70">GRACE LEE SZE TING</td><td style="border-top:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">2</td><td class="xl70">NEO ZHE KAI</td><td style="border-top:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">3</td><td class="xl70">KUAH JIUN KAI</td><td style="border-top:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5A) &amp; Top Performer (5A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">4</td><td class="xl70">TARA GAUTAM</td><td style="border-top:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5A)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl64" height="25">5</td><td class="xl70">CHEN YANBING</td><td style="border-top:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl64" height="25">6</td><td class="xl70">SHANNON ONG YUE EN</td><td style="border-top:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5A)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl80" height="25" colspan="3">5 Boldness</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl84" height="21">7</td><td style="border-top:none" class="xl76">CINDY YU XINYI</td><td style="border-top:none" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">8</td><td style="border-top:none;border-left:none;width:300pt" width="399" class="xl71">YU WENXUAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5B) &amp; Top Performer (5B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">9</td><td style="border-top:none;border-left:none;width:300pt" width="399" class="xl71">CHUA HIAN BOON</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">10</td><td style="border-top:none;border-left:none;width:300pt" width="399" class="xl71">RAY TAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">11</td><td style="border-top:none;border-left:none;width:300pt" width="399" class="xl71">GUO XIZHI OLIVIA</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">12</td><td style="border-top:none;border-left:none;width:300pt" width="399" class="xl71">RYAN LUIS TAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">13</td><td style="border-top:none;border-left:none;width:300pt" width="399" class="xl71">TAN KAI YI KIERAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5B)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl77" height="25" colspan="3">5 Creativity</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">14</td><td style="border-top:none;border-left:none" class="xl72">JANELLE KOO</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">15</td><td style="border-top:none;border-left:none" class="xl72">SOPHIE LOCK MEI HO</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">16</td><td style="border-top:none;border-left:none" class="xl72">WU KANGRUI</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5C) &amp; Top Performer (5C)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">17</td><td style="border-top:none;border-left:none" class="xl72">NI PEICHEN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">18</td><td style="border-top:none;border-left:none" class="xl72">JOSIAH GOH RUI HENG</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5C)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">19</td><td style="border-top:none;border-left:none" class="xl72">SIM YU ZE</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5C)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl77" height="25" colspan="3">5 Diligence</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">20</td><td style="border-top:none" class="xl72">MEGAN KAAN CEE WING</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">21</td><td style="border-top:none;border-left:none" class="xl72">KATELYN TAN JING YUN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">22</td><td style="border-top:none;border-left:none" class="xl72">IAN CHAN KAI EN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">23</td><td style="border-top:none" class="xl72">JAYDEN TEE MING KYLE</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">24</td><td style="border-top:none;border-left:none" class="xl72">TAN LE LING</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">25</td><td style="border-top:none;border-left:none" class="xl72">LEE JAY YEE</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl66" height="21">26</td><td style="border-top:none" class="xl72">JIANG HAOCHENG JASON</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5D)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl77" height="25" colspan="3">5 Enthusiasm</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">27</td><td style="border-top:none;border-left:none" class="xl72">OOI EN QI, RACHEL</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">28</td><td style="border-top:none;border-left:none" class="xl72">SWAN DENISE</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">29</td><td style="border-top:none;border-left:none" class="xl72">TAN WAN TONG</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5E) &amp; Top Performer (5E)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">30</td><td style="border-top:none;border-left:none" class="xl72">SELWYN MAH XIN JIE</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">31</td><td style="border-top:none;border-left:none" class="xl72">ONG YU KAI</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5E)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">32</td><td style="border-top:none;border-left:none" class="xl72">AIDAN LIM KAI HENG</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5E)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl77" height="25" colspan="3">5 Flexibility</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">33</td><td style="border-top:none;border-left:none" class="xl72">WONG YU BO</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5F) &amp; Top Performer (5F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">34</td><td style="border-top:none;border-left:none" class="xl72">ANG KAI SI ERICIA</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">35</td><td style="border-top:none;border-left:none" class="xl72">SNG YING XUAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5F)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl67" height="25">35</td><td style="border-top:none" class="xl72">JOSHUA CHANG YAO JIE</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">36</td><td style="border-top:none" class="xl72">BRADLEY PERREAU</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">37</td><td style="border-top:none" class="xl72">ANIKA SIVAKUMAR</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5F)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl77" height="25" colspan="3">5 Generosity</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl67" height="25">38</td><td style="border-top:none" class="xl73">MAEGAN FOO FANG EN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5G)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl67" height="25">39</td><td style="border-top:none" class="xl73">TAN CHENG WEI</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">40</td><td style="border-top:none" class="xl73">NAOMI AURELIE KUSUMA</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">41</td><td style="border-top:none" class="xl73">KOH JOSHUA</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">42</td><td style="border-top:none" class="xl73">NG RUI XUAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5G)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">43</td><td style="border-top:none" class="xl73">LI RUOXI GENEVIA</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5G)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">44</td><td style="border-top:none" class="xl73">CHUA MYN YEN ERIN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5G)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl77" height="25" colspan="3">5 Harmony</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">45</td><td style="border-top:none" class="xl72">EMMA LEE EN-HUI</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">46</td><td style="border-top:none" class="xl72">JULIUS JASON SENG</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">47</td><td style="border-top:none" class="xl72">YANG YIHAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5H) &amp; Top Performer (5H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">48</td><td style="border-top:none" class="xl72">CLAIRE CHER JIE YI</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">49</td><td style="border-top:none;border-left:none" class="xl72">NIU YUNHAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">50</td><td style="border-top:none;border-left:none" class="xl72">AMELIE SIM MING YUE</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">51</td><td style="border-top:none;border-left:none" class="xl72">NG GEN LONG</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5H)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl77" height="25" colspan="3">5 Initiative</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">52</td><td style="border-top:none" class="xl72">TANG ZHENG YUAN, LOUIS</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5I)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">53</td><td style="border-top:none" class="xl72">SERAPHINA WONG QING</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5I)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">54</td><td style="border-top:none;border-left:none" class="xl72">DEXTER CHOO</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5I)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">55</td><td style="border-top:none;border-left:none" class="xl72">ZHENG YUQI</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (5I) &amp; Top Performer (5I)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">56</td><td style="border-top:none;border-left:none" class="xl72">NEO ZHI HAN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5I)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl64" height="21">57</td><td style="border-top:none;border-left:none" class="xl72">LIU YICHEN</td><td style="border-top:none;border-left:none;width:320pt" width="427" class="xl68"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (5I)<span style="mso-spacerun:yes">&nbsp;</span></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl63" height="19"></td><td class="xl74">&nbsp;</td><td class="xl69">&nbsp;</td></tr></tbody></table>
-
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl63 {color:black; font-size:12.0pt; font-family:Arial, sans-serif; mso-font-charset:0;} .xl64 {color:black; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl65 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border:.5pt solid windowtext;} .xl66 {color:black; font-weight:700; border:.5pt solid windowtext;} .xl67 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; border:.5pt solid windowtext;} .xl68 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; mso-number-format:0; text-align:right; border:.5pt solid windowtext;} .xl69 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:left; border:.5pt solid windowtext;} .xl70 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border:.5pt solid windowtext;} .xl71 {color:black; font-weight:700; text-align:center; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl72 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:none;} .xl73 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl74 {color:black; font-weight:700; border-top:none; border-right:.5pt solid black; border-bottom:none; border-left:.5pt solid black;} .xl75 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; border-top:none; border-right:.5pt solid black; border-bottom:none; border-left:.5pt solid black;} .xl76 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border-top:none; border-right:.5pt solid black; border-bottom:none; border-left:.5pt solid black;} .xl77 {color:black; font-weight:700; text-align:center; border-top:.5pt solid black; border-right:none; border-bottom:.5pt solid black; border-left:.5pt solid black;} .xl78 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border-top:.5pt solid black; border-right:none; border-bottom:.5pt solid black; border-left:none;} .xl79 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border-top:.5pt solid black; border-right:.5pt solid black; border-bottom:.5pt solid black; border-left:none;} .xl80 {color:black; font-weight:700; border-top:.5pt solid black; border-right:.5pt solid black; border-bottom:none; border-left:.5pt solid black;} .xl81 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; border-top:.5pt solid black; border-right:.5pt solid black; border-bottom:none; border-left:.5pt solid black;} .xl82 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border-top:.5pt solid black; border-right:.5pt solid black; border-bottom:none; border-left:.5pt solid black;} .xl83 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; mso-number-format:0; text-align:right; border-top:.5pt solid black; border-right:none; border-bottom:none; border-left:.5pt solid black;} .xl84 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:left; border-top:.5pt solid black; border-right:none; border-bottom:none; border-left:.5pt solid black;} .xl85 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center; border-top:.5pt solid black; border-right:none; border-bottom:none; border-left:.5pt solid black;} -->
-
-<table style="border-collapse:
- collapse;width:446pt" width="595" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:48pt" width="64"> <col style="mso-width-source:userset;mso-width-alt:16290;width:350pt" width="467"> <col style="width:48pt" width="64"></colgroup><tbody><tr style="height:14.5pt" height="19"><td style="height:14.5pt;width:446pt" width="595" class="xl64" height="19" colspan="3">Top Performers in Chinese Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl66" height="19">No.</td><td style="border-top:none;border-left:none" class="xl67">Name</td><td style="border-top:none;border-left:none" class="xl65">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">1</td><td style="border-top:none;border-left:none" class="xl69">CHEN YANBING</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">2</td><td style="border-top:none;border-left:none" class="xl69">KUAH JIUN KAI</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">3</td><td style="border-top:none;border-left:none" class="xl69">LEE YU QI, SARAH</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">4</td><td style="border-top:none;border-left:none" class="xl69">DING ZIXIN EVANGELINE</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">5</td><td style="border-top:none;border-left:none" class="xl69">WANG ZINUO</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">6</td><td style="border-top:none;border-left:none" class="xl69">HUANG ZETIAN</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">7</td><td style="border-top:none;border-left:none" class="xl69">JAYDEN TEE MING KYLE</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">8</td><td style="border-top:none;border-left:none" class="xl69">LEE JAY YEE</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">9</td><td style="border-top:none;border-left:none" class="xl69">MEGAN KAAN CEE WING</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">10</td><td style="border-top:none;border-left:none" class="xl69">NG RUI XUAN</td><td style="border-top:none;border-left:none" class="xl70">P5-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">11</td><td style="border-top:none;border-left:none" class="xl69">AMELIE SIM MING YUE</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">12</td><td style="border-top:none;border-left:none" class="xl69">HOYEIN CAI HEYAN</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">13</td><td style="border-top:none;border-left:none" class="xl69">NIU YUNHAN</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">14</td><td style="border-top:none;border-left:none" class="xl69">LI XINYANG</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">15</td><td style="border-top:none;border-left:none" class="xl69">ZHENG YUQI</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:14.5pt" height="19"><td style="border-right:.5pt solid black;
-  height:14.5pt" class="xl71" height="19" colspan="3">Top Performers in English Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl66" height="19">No.</td><td style="border-top:none;border-left:none" class="xl67">Name</td><td style="border-top:none;border-left:none" class="xl65">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">1</td><td style="border-top:none;border-left:none" class="xl69">KUAH JIUN KAI</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">2</td><td style="border-top:none;border-left:none" class="xl69">AMELIE SIM MING YUE</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">3</td><td style="border-top:none;border-left:none" class="xl69">HOYEIN CAI HEYAN</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">4</td><td style="border-top:none;border-left:none" class="xl69">MAEGAN JUNE KANG</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">5</td><td style="border-top:none;border-left:none" class="xl69">NIU YUNHAN</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">6</td><td style="border-top:none;border-left:none" class="xl69">LEE ANDREA</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl64" height="19" colspan="3">Top Performers in Mathematics</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl74" height="19">No.</td><td style="border-left:none" class="xl75">Name</td><td style="border-left:none" class="xl76">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19">1</td><td style="border-left:none" class="xl69">IAIN LOW ZHONG-EN</td><td style="border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">2</td><td style="border-top:none;border-left:none" class="xl69">KUAH JIUN KAI</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">3</td><td style="border-top:none;border-left:none" class="xl69">ZHAO YIQUAN</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">4</td><td style="border-top:none;border-left:none" class="xl69">DUKE TAN WEI MING</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">5</td><td style="border-top:none;border-left:none" class="xl69">CHEN YANBING</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">6</td><td style="border-top:none;border-left:none" class="xl69">CALEB YEO HENG WU</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">7</td><td style="border-top:none;border-left:none" class="xl69">CHIN ZHI RUI</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">8</td><td style="border-top:none;border-left:none" class="xl69">KAIUS LEE TUNG JING</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">9</td><td style="border-top:none;border-left:none" class="xl69">SHANNON ONG YUE EN</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">10</td><td style="border-top:none;border-left:none" class="xl69">THADDEUS WONG</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">11</td><td style="border-top:none;border-left:none" class="xl69">LEE YU QI, SARAH</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">12</td><td style="border-top:none;border-left:none" class="xl69">YU WENXUAN</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">13</td><td style="border-top:none;border-left:none" class="xl69">KATE TAN KAI QI</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">14</td><td style="border-top:none;border-left:none" class="xl69">TAN KAI YI KIERAN</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">15</td><td style="border-top:none;border-left:none" class="xl69">CHIANG WEN QI EDAN</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">16</td><td style="border-top:none;border-left:none" class="xl69">LI JIEXI, EVAN</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">17</td><td style="border-top:none;border-left:none" class="xl69">GUO XIZHI OLIVIA</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">18</td><td style="border-top:none;border-left:none" class="xl69">RYAN LUIS TAN</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">19</td><td style="border-top:none;border-left:none" class="xl69">DECLAN LUM LYE CHUEN</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">20</td><td style="border-top:none;border-left:none" class="xl69">DENG ZHENGAN</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">21</td><td style="border-top:none;border-left:none" class="xl69">RAY TAN</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">22</td><td style="border-top:none;border-left:none" class="xl69">TEO JIA HAO JASON</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">23</td><td style="border-top:none;border-left:none" class="xl69">WU KANGRUI</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">24</td><td style="border-top:none;border-left:none" class="xl69">SIM YU ZE</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">25</td><td style="border-top:none;border-left:none" class="xl69">JOSIAH GOH RUI HENG</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">26</td><td style="border-top:none;border-left:none" class="xl69">MATHURAN MAYOORATHAN</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">27</td><td style="border-top:none;border-left:none" class="xl69">OH SHUI QIN JEFFREY</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">28</td><td style="border-top:none;border-left:none" class="xl69">DARSHAN MEHUL MOTANI</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">29</td><td style="border-top:none;border-left:none" class="xl69">TENG KAI XUAN</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">30</td><td style="border-top:none;border-left:none" class="xl69">CAYLEN EDRICK LIM</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">31</td><td style="border-top:none;border-left:none" class="xl69">CHONG LEIGH KEN, LIAM</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">32</td><td style="border-top:none;border-left:none" class="xl69">NI PEICHEN</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">33</td><td style="border-top:none;border-left:none" class="xl69">ROSSI CHAN ZI LONG</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">34</td><td style="border-top:none;border-left:none" class="xl69">JIANG HAOCHENG JASON</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">35</td><td style="border-top:none;border-left:none" class="xl69">PHEE YU-MIN, MEGAN</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">36</td><td style="border-top:none;border-left:none" class="xl69">HANA CHEE</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">37</td><td style="border-top:none;border-left:none" class="xl69">SEE TOH CHEE LENG HANNAH</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">38</td><td style="border-top:none;border-left:none" class="xl69">TAN LE LING</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">39</td><td style="border-top:none;border-left:none" class="xl69">OWEN SIAH</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">40</td><td style="border-top:none;border-left:none" class="xl69">JAYDEN TEE MING KYLE</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">41</td><td style="border-top:none;border-left:none" class="xl69">RAYAN WANG RUI YANG</td><td style="border-top:none;border-left:none" class="xl70">P5-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">42</td><td style="border-top:none;border-left:none" class="xl69">KHOO LAY HONG NATHAN</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">43</td><td style="border-top:none;border-left:none" class="xl69">NATHAN GOH EN KAI</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">44</td><td style="border-top:none;border-left:none" class="xl69">JULIUS JASON SENG</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">45</td><td style="border-top:none;border-left:none" class="xl69">AMELIE SIM MING YUE</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">46</td><td style="border-top:none;border-left:none" class="xl69">NOAH SEE JAY TSE</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">47</td><td style="border-top:none;border-left:none" class="xl69">MAEGAN JUNE KANG</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">48</td><td style="border-top:none;border-left:none" class="xl69">NIU YUNHAN</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">49</td><td style="border-top:none;border-left:none" class="xl69">THIAN GUI XIN ELENA</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">50</td><td style="border-top:none;border-left:none" class="xl69">HOYEIN CAI HEYAN</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">51</td><td style="border-top:none;border-left:none" class="xl69">ELIJAH SAIFUL SARONI</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">52</td><td style="border-top:none;border-left:none" class="xl69">OR LEE-YUAN, DONALD</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">53</td><td style="border-top:none;border-left:none" class="xl69">RACHEL TEO CHI LING</td><td style="border-top:none;border-left:none" class="xl70">P5-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">54</td><td style="border-top:none;border-left:none" class="xl69">TANG ZHENG YUAN, LOUIS</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">55</td><td style="border-top:none;border-left:none" class="xl69">BAI YING JIE</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">56</td><td style="border-top:none;border-left:none" class="xl69">ELIJAH GOH JIAN HENG</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">57</td><td style="border-top:none;border-left:none" class="xl69">ZHENG YUQI</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">58</td><td style="border-top:none;border-left:none" class="xl69">LI XINYANG</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">59</td><td style="border-top:none;border-left:none" class="xl69">LIANG JUNCHEN</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">60</td><td style="border-top:none;border-left:none" class="xl69">POON JUN ZACH</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">61</td><td style="border-top:none;border-left:none" class="xl69">TANG YUE JEE</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">62</td><td style="border-top:none;border-left:none" class="xl69">DEXTER CHOO</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">63</td><td style="border-top:none;border-left:none" class="xl69">ZHENG YULONG</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl64" height="19" colspan="3">Top Performers in Science</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl66" height="19">No.</td><td style="border-top:none;border-left:none" class="xl67">Name</td><td style="border-top:none;border-left:none" class="xl65">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">1</td><td style="border-top:none;border-left:none" class="xl69">KUAH JIUN KAI</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">2</td><td style="border-top:none;border-left:none" class="xl69">SHANNON ONG YUE EN</td><td style="border-top:none;border-left:none" class="xl70">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">3</td><td style="border-top:none;border-left:none" class="xl69">FENG YINGRUI, CLARICE</td><td style="border-top:none;border-left:none" class="xl70">P5-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">4</td><td style="border-top:none;border-left:none" class="xl69">WU KANGRUI</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">5</td><td style="border-top:none;border-left:none" class="xl69">JOSIAH GOH RUI HENG</td><td style="border-top:none;border-left:none" class="xl70">P5-C</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl68" height="19">6</td><td style="border-top:none;border-left:none" class="xl69">TANG ZHENG YUAN, LOUIS</td><td style="border-top:none;border-left:none" class="xl70">P5-I</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:14.5pt" height="19"><td style="border-right:.5pt solid black;
-  height:14.5pt" class="xl77" height="19" colspan="3">Top Performers in Higher Chinese</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl80" height="19">No.</td><td style="border-top:none;border-left:none" class="xl81">Name</td><td style="border-top:none;border-left:none" class="xl82">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl83" height="19">1</td><td class="xl84">KUAH JIUN KAI</td><td class="xl85">P5-A</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19">2</td><td style="border-left:none" class="xl69">AMELIE SIM MING YUE</td><td style="border-left:none" class="xl70">P5-H</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr><tr style="height:14.5pt" height="19"><td style="border-right:.5pt solid black;
-  height:14.5pt" class="xl77" height="19" colspan="3">Top Performer in Malay Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt;border-top:none" class="xl80" height="19">No.</td><td style="border-top:none;border-left:none" class="xl81">Name</td><td style="border-top:none;border-left:none" class="xl82">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19">1</td><td style="border-left:none" class="xl69">ARISSA IZDAANIA BINTE MOHAMMED FADZLIEGH</td><td style="border-left:none" class="xl70">P5-D</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt" class="xl63" height="21"></td><td class="xl63"></td><td class="xl63"></td></tr></tbody></table>
-
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .25in .75in .25in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl66 {color:windowtext; font-size:14.0pt; font-weight:700; text-align:left; vertical-align:middle; border:.5pt solid windowtext;} .xl67 {color:windowtext; font-weight:700; text-align:left; vertical-align:middle;} .xl68 {color:windowtext; font-size:14.0pt; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl69 {color:windowtext; font-size:14.0pt; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:none;} .xl70 {color:windowtext; font-size:14.0pt; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid windowtext; border-right:.5pt solid windowtext; border-bottom:.5pt solid windowtext; border-left:none;} .xl71 {color:windowtext; font-size:12.0pt; font-weight:700; text-align:center; vertical-align:middle; border:.5pt solid windowtext;} .xl72 {color:windowtext; font-size:12.0pt; font-weight:700; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl73 {color:windowtext; font-size:14.0pt; font-weight:700; text-align:left; vertical-align:middle;} .xl74 {color:windowtext; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid black; border-right:none; border-bottom:none; border-left:.5pt solid black;} .xl75 {color:windowtext; font-size:12.0pt; font-weight:700; vertical-align:middle; border:.5pt solid windowtext; white-space:normal;} .xl76 {color:windowtext; font-weight:700; text-align:center; border-top:.5pt solid black; border-right:none; border-bottom:none; border-left:.5pt solid black;} .xl77 {color:windowtext; font-size:12.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl78 {color:windowtext; font-size:12.0pt; font-weight:700; text-align:center; vertical-align:top; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl79 {color:windowtext; font-size:14.0pt; font-weight:700; text-align:center; vertical-align:middle;} .xl80 {color:windowtext; font-size:12.0pt; font-weight:700; text-align:center; vertical-align:middle; border-top:.5pt solid windowtext; border-right:none; border-bottom:.5pt solid windowtext; border-left:.5pt solid windowtext;} .xl81 {color:windowtext; font-size:12.0pt; font-weight:700; text-align:center; border-top:.5pt solid black; border-right:none; border-bottom:none; border-left:.5pt solid black;} .xl82 {color:windowtext; font-size:12.0pt; font-weight:700; text-align:center; border:.5pt solid windowtext;} .xl83 {color:windowtext; font-weight:700; text-align:center; vertical-align:middle;} .xl84 {color:windowtext; font-weight:700; vertical-align:middle;} -->
-
-<table style="border-collapse:
- collapse;width:735pt" width="979" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1675;width:36pt" width="48"> <col style="mso-width-source:userset;mso-width-alt:13847;width:298pt" width="397"> <col style="mso-width-source:userset;mso-width-alt:18641;width:401pt" width="534"></colgroup><tbody><tr style="height:18.5pt" height="25"><td style="height:18.5pt;width:735pt" width="979" class="xl66" height="25" colspan="3">Primary 6 Award Winners</td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl68" height="25" colspan="3">6 Attentiveness</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">1</td><td style="border-top:none;border-left:none" class="xl71">JEANNE LEE YIXUAN</td><td style="width:401pt" width="534" class="xl72"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">2</td><td style="border-top:none;border-left:none" class="xl71">POENAR COSMIN GEORGE XUANYU</td><td style="border-top:none;width:401pt" width="534" class="xl72"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">3</td><td style="border-top:none;border-left:none" class="xl71">LERROY POH YANG RUI</td><td style="border-top:none;width:401pt" width="534" class="xl72"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6A)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">4</td><td style="border-top:none;border-left:none" class="xl71">HANNA LIM XUAN TING</td><td style="border-top:none;width:401pt" width="534" class="xl72"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6A)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl71" height="25">5</td><td style="border-top:none;border-left:none" class="xl71">JORDANNE LIN</td><td style="border-top:none;width:401pt" width="534" class="xl72"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6A)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl71" height="25">6</td><td style="border-top:none;border-left:none" class="xl71">ISABELLE YEO YING QI</td><td style="border-top:none;width:401pt" width="534" class="xl72"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6A)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl71" height="25">7</td><td style="border-top:none;border-left:none" class="xl71">BRANDON CHIN LIXIAN</td><td style="border-top:none;width:401pt" width="534" class="xl72"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6A)</td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl68" height="25" colspan="3">6 Boldness</td></tr><tr style="mso-height-source:userset;height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl71" height="25">8</td><td class="xl74">LOW WEN XI, ANDREA</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">9</td><td class="xl76">KHOO SHENGZHE JUSTIN</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6B) &amp; Top Performer (6B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">10</td><td class="xl76">LI HAOYANG HOWARD</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6B) &amp; Top Performer (6B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">11</td><td class="xl76">TAN JIAXUAN, EVA</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6B)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">12</td><td style="border-left:none" class="xl77">ANDRI TAN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6B)</td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl68" height="25" colspan="3">6 Creativity</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">13</td><td style="border-top:none;border-left:none" class="xl77">EDEL ARVERUD SIREGAR</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">14</td><td style="border-top:none;border-left:none" class="xl77">NG SHI EN CHARLENE</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">15</td><td style="border-top:none;border-left:none" class="xl77">YAN ZIXUAN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6C) &amp; Top Performer (6C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">16</td><td style="border-top:none;border-left:none" class="xl77">J M JENITA</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">17</td><td style="border-top:none;border-left:none" class="xl77">ARDEN KEW JIN RUI</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6C)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">18</td><td style="border-top:none;border-left:none" class="xl77">CHUA RUI YANG</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6C)</td></tr><tr style="mso-height-source:userset;height:15.65pt" height="21"><td style="border-right:.5pt solid black;
-  height:15.65pt" class="xl68" height="21" colspan="3">6 Diligence</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">19</td><td style="border-top:none;border-left:none" class="xl77">TAY MING XUAN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6D) &amp; Top Performer (6D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">20</td><td style="border-top:none;border-left:none" class="xl77">DIANE KOO SI AI</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">21</td><td style="border-top:none;border-left:none" class="xl77">BISWAS ANUSHA</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">22</td><td style="border-top:none;border-left:none" class="xl77">ZACHARY A. JALALI</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">23</td><td style="border-top:none;border-left:none" class="xl77">CHEN KEMING GARETH</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6D)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">24</td><td style="border-top:none;border-left:none" class="xl77">GWENDOLYN NG</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6D)</td></tr><tr style="mso-height-source:userset;height:15.65pt" height="21"><td style="border-right:.5pt solid black;
-  height:15.65pt" class="xl68" height="21" colspan="3">6 Enthusiasm</td></tr><tr style="mso-height-source:userset;height:15.65pt" height="21"><td style="height:15.65pt;border-top:none" class="xl71" height="21">25</td><td style="border-top:none;border-left:none" class="xl77">JILLIAN LIN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">26</td><td style="border-top:none;border-left:none" class="xl77">LOW MEI QI ALYSSA</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl78" height="21">27</td><td style="border-top:none" class="xl77">LAU SHAW CHEN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75">Character Award (6E) &amp; Top Performer (6E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">28</td><td style="border-top:none;border-left:none" class="xl77">LEONG ZHI SHENG</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">29</td><td style="border-top:none;border-left:none" class="xl77">HU CHENGRUI</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6E)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl78" height="21">30</td><td style="border-top:none" class="xl77">TEO JUN WEI EDWARD</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6E)</td></tr><tr style="page-break-before:always;height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl68" height="25" colspan="3">6 Flexibility</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">31</td><td style="border-top:none;border-left:none" class="xl71">ADINA QISTY BINTE SULAIMAN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6F) &amp; Top Performer (6F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">32</td><td style="border-top:none;border-left:none" class="xl77">CLARA WON YING QI</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">33</td><td style="border-top:none;border-left:none" class="xl77">REBEKAH LEE</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6F)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">34</td><td style="border-top:none;border-left:none" class="xl77">JOSHUA YAM</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6F)</td></tr><tr style="mso-height-source:userset;height:16.0pt" height="21"><td style="height:16.0pt;border-top:none" class="xl71" height="21">35</td><td style="border-top:none;border-left:none" class="xl77">DEREK KER GEING LOK</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6F)</td></tr><tr style="mso-height-source:userset;height:16.0pt" height="21"><td style="height:16.0pt;border-top:none" class="xl71" height="21">36</td><td style="border-top:none;border-left:none" class="xl77">YEO CHEN XI KAYLEA</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6F)</td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl68" height="25" colspan="3">6 Generosity</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">37</td><td style="border-top:none;border-left:none" class="xl77">QIU YIFENG BRADEN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">38</td><td style="border-top:none;border-left:none" class="xl77">ZHANG JIARUI</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">39</td><td style="border-top:none;border-left:none" class="xl77">KOH YU ZHE, AZRIEL</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">40</td><td style="border-top:none;border-left:none" class="xl77">ENOCH TSE YI LE</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">41</td><td style="border-top:none;border-left:none" class="xl77">TAN YING EN ELYSIA</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6G)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">42</td><td style="border-top:none;border-left:none" class="xl77">YEO YING-YEN ESTELLE</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6G)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl68" height="25">43</td><td style="border-top:none" class="xl77">HANNAH WOO RUI EN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6G)</td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl68" height="25" colspan="3">6 Harmony</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl80" height="25">44</td><td class="xl81">SARAH ONG WAN ZHEN</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6H)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl80" height="25">45</td><td class="xl81">XU EN YU CLAIRE</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6H)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl80" height="25">46</td><td class="xl82">ELLA JASMINE COVE</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl80" height="21">47</td><td style="border-top:none" class="xl82">CLAYDEN TAN JOON HEN</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl80" height="21">48</td><td style="border-top:none" class="xl82">LUI ZI XUN</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl80" height="21">49</td><td style="border-top:none" class="xl82">XU EN YU CLAIRE</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6H)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl80" height="21">50</td><td style="border-top:none" class="xl82">CHLOE CHUA YING SHUEN</td><td style="border-top:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6H)</td></tr><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt" class="xl68" height="25" colspan="3">6 Initiative</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl80" height="25">51</td><td style="border-top:none" class="xl77">SNG HUI RU, NICOLE</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6I)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl80" height="25">52</td><td style="border-top:none" class="xl77">KOH YUE QI</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6I)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl80" height="21">53</td><td style="border-top:none" class="xl77">NADYA LAKSHMI KUMARASINGAM</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6I)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl80" height="21">54</td><td style="border-top:none" class="xl77">ASHER NG YU XIANG</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Character Award (6I)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl80" height="21">55</td><td style="border-top:none" class="xl77">WANG YUHAN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6I)</td></tr><tr style="height:18.5pt" height="25"><td style="height:18.5pt;border-top:none" class="xl68" height="25">56</td><td style="border-top:none" class="xl77">YAO JIA, JOYCELYN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6I)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl71" height="21">57</td><td style="border-top:none;border-left:none" class="xl77">YEE HONG SHYAN</td><td style="border-top:none;border-left:none;width:401pt" width="534" class="xl75"><span style="mso-spacerun:yes">&nbsp;</span>Top Performer (6I)</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl83" height="19"></td><td class="xl83"></td><td class="xl84"></td></tr></tbody></table>
-	
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; mso-number-format:0; text-align:right;} .xl66 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:left;} .xl67 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center;} .xl68 {color:black; font-weight:700; text-align:center;} .xl69 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center;} .xl70 {color:black; font-weight:700;} .xl71 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0;} .xl72 {text-align:center;} -->
-
-<table style="border-collapse:
- collapse;width:490pt" width="653" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:48pt" width="64"> <col style="mso-width-source:userset;mso-width-alt:18338;width:394pt" width="525"> <col style="width:48pt" width="64"></colgroup><tbody><tr style="height:14.5pt" height="19"><td style="height:14.5pt;width:490pt" width="653" class="xl68" height="19" colspan="3">Top Performers in Chinese Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl70" height="19">No.</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">KHOO SHENGZHE JUSTIN</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">LOW WEN XI, ANDREA</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">LI HAOYANG HOWARD</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">4</td><td class="xl66">ANDRI TAN</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">5</td><td class="xl66">NG HWEE MIN MIRANDA</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">6</td><td class="xl66">ZHAO BOYA</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">7</td><td class="xl66">WANG JIAQI</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">8</td><td class="xl66">BONITA BAI HANQIAN</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">9</td><td class="xl66">CHOONG BO CHENG LUCAS</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">10</td><td class="xl66">GWENDOLYN NG</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">11</td><td class="xl66">TAN LE XIN ELSIE</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">12</td><td class="xl66">SHEN YIPING</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">13</td><td class="xl66">TAY MING XUAN</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">14</td><td class="xl66">DIANE KOO SI AI</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">15</td><td class="xl66">HO RUI EN, GISELLE</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">16</td><td class="xl66">CLARA WON YING QI</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">17</td><td class="xl66">DEREK KER GEING LOK</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">18</td><td class="xl66">YAP LE TING</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">19</td><td class="xl66">YING TZE CHENG</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">20</td><td class="xl66">ASHLIE KHOR</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">21</td><td class="xl66">KYRA QUAH JINN XI</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">22</td><td class="xl66">LIU ENRUI, DAVID</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">23</td><td class="xl66">NG LE TING ESTELLE</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">24</td><td class="xl66">CHELSEA LAI HOI TONG</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">25</td><td class="xl66">SUN WENXUAN</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">26</td><td class="xl66">QIU YIFENG BRADEN</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">27</td><td class="xl66">SHA WENXIN</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">28</td><td class="xl66">ZHANG JIARUI</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">29</td><td class="xl66">CHLOE CHUA YING SHUEN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">30</td><td class="xl66">LOVASZ NG SHEAN RAY</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">31</td><td class="xl66">LUI ZI XUN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">32</td><td class="xl66">LYE KEI-YEN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">33</td><td class="xl66">XU EN YU CLAIRE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">34</td><td class="xl66">NG JUN XIANG</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">35</td><td class="xl66">HANNAH SIM XUAN AI</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">36</td><td class="xl66">CADEN CHUA YING SHIN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">37</td><td class="xl66">ASHER NG YU XIANG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">38</td><td class="xl66">KHOO SHENGJIA NATALIE</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">39</td><td class="xl66">ZHU JUNTING LYON</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">40</td><td class="xl66">SNG HUI RU, NICOLE</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" height="19"></td><td></td><td class="xl72"></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19" colspan="3">Top Performers in English Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl70" height="19">No.</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">KHOO SHENGZHE JUSTIN</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">TAN YING XUAN, ISABELLE</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">LOW WEN XI, ANDREA</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">4</td><td class="xl66">TAY MING XUAN</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">5</td><td class="xl66">DIANE KOO SI AI</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">6</td><td class="xl66">GWENDOLYN NG</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">7</td><td class="xl66">BISWAS ANUSHA</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">8</td><td class="xl66">CELINE LEE XIN RONG</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">9</td><td class="xl66">WANG JIAQI</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">10</td><td class="xl66">HO RUI EN, GISELLE</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">11</td><td class="xl66">CHEN KEMING GARETH</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">12</td><td class="xl66">KYRA QUAH JINN XI</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">13</td><td class="xl66">YEO CHEN XI KAYLEA</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">14</td><td class="xl66">ALEXA NG</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">15</td><td class="xl66">JUDAH WOON TIAN YI</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">16</td><td class="xl66">NATASHA NASYA GANDHI</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">17</td><td class="xl66">DEREK KER GEING LOK</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">18</td><td class="xl66">YING TZE CHENG</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">19</td><td class="xl66">KOH YU ZHE, AZRIEL</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">20</td><td class="xl66">LIM KAI XIN</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">21</td><td class="xl66">SOPHIA ALISA HASHIDY TEMBREVILLA</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">22</td><td class="xl66">ZHANG JIARUI</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">23</td><td class="xl66">LYE KEI-YEN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">24</td><td class="xl66">CHLOE CHUA YING SHUEN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">25</td><td class="xl66">LUI ZI XUN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">26</td><td class="xl66">HANNAH SIM XUAN AI</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">27</td><td class="xl66">LOVASZ NG SHEAN RAY</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">28</td><td class="xl66">SHANE PRAVIN THOMAS XUAN-YI</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">29</td><td class="xl66">ANTHEA CHUA EE ENN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">30</td><td class="xl66">CHAN JINGYE, KAI</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">31</td><td class="xl66">KHOO SHENGJIA NATALIE</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">32</td><td class="xl66">SNG HUI RU, NICOLE</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">33</td><td class="xl66">ASHLEY CHOO LEI</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">34</td><td class="xl66">ZHU JUNTING LYON</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">35</td><td class="xl66">CADEN CHUA YING SHIN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">36</td><td class="xl66">TIMOTHY CHAN YI KAI</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" height="19"></td><td></td><td class="xl72"></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19" colspan="3">Top Performers in Mathematics</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl70" height="19">No.</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">ANDRI TAN</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">LI HAOYANG HOWARD</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">KOH TRISTAN</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">4</td><td class="xl66">CHEN KEMING GARETH</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">5</td><td class="xl66">FOO TING WEI</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">6</td><td class="xl66">CELINE LEE XIN RONG</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">7</td><td class="xl66">ZHAO BOYA</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">8</td><td class="xl66">TAY MING XUAN</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">9</td><td class="xl66">HO RUI EN, GISELLE</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">10</td><td class="xl66">SHEN YIPING</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">11</td><td class="xl66">TAN LE XIN ELSIE</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">12</td><td class="xl66">ZACHARY A. JALALI</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">13</td><td class="xl66">BISWAS ANUSHA</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">14</td><td class="xl66">JOSHUA YAM</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">15</td><td class="xl66">DEREK KER GEING LOK</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">16</td><td class="xl66">YEO CHEN XI KAYLEA</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">17</td><td class="xl66">JUDAH WOON TIAN YI</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">18</td><td class="xl66">TOH PIN SHUO</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">19</td><td class="xl66">YAP LE TING</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">20</td><td class="xl66">QIU YIFENG BRADEN</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">21</td><td class="xl66">KOH YU ZHE, AZRIEL</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">22</td><td class="xl66">WEE SONG YI</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">23</td><td class="xl66">ZHANG JIARUI</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">24</td><td class="xl66">LAI HONG YU</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">25</td><td class="xl66">LEE HENG YU, JOSHUA</td><td class="xl67">P6-G</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">26</td><td class="xl66">LUI ZI XUN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">27</td><td class="xl66">ANTHEA CHUA EE ENN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">28</td><td class="xl66">JACOB SEBASTIAN DEVAN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">29</td><td class="xl66">XU EN YU CLAIRE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">30</td><td class="xl66">LOVASZ NG SHEAN RAY</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">31</td><td class="xl66">GIDEON SIM WEN TIN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">32</td><td class="xl66">SHANE PRAVIN THOMAS XUAN-YI</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">33</td><td class="xl66">ASHLEY CHOO LEI</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">34</td><td class="xl66">SHEN HAOXIANG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">35</td><td class="xl66">ZHU JUNTING LYON</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">36</td><td class="xl66">RAYDEN WOON WEI YANG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">37</td><td class="xl66">SNG HUI RU, NICOLE</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">38</td><td class="xl66">CADEN CHUA YING SHIN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">39</td><td class="xl66">NG LE SHAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">40</td><td class="xl66">ASHER NG YU XIANG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" height="19"></td><td></td><td class="xl72"></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19" colspan="3">Top Performers in Science</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl70" height="19">No.</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">ETHAN KEE HONG JUN</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">ZACHARY A. JALALI</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">GWENDOLYN NG</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">4</td><td class="xl66">BISWAS ANUSHA</td><td class="xl67">P6-D</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">5</td><td class="xl66">CHUA YUE YING AUDREY</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">6</td><td class="xl66">YEO CHEN XI KAYLEA</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">7</td><td class="xl66">JUDAH WOON TIAN YI</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">8</td><td class="xl66">CHLOE CHUA YING SHUEN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">9</td><td class="xl66">XU EN YU CLAIRE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">10</td><td class="xl66">JACOB SEBASTIAN DEVAN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">11</td><td class="xl66">LOVASZ NG SHEAN RAY</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">12</td><td class="xl66">LUI ZI XUN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">13</td><td class="xl66">ASHER NG YU XIANG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" height="19"></td><td></td><td class="xl72"></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19" colspan="3">Top Performers in Malay Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl70" height="19">No.</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">ANDREAS DAYYAN YUSUF</td><td class="xl67">P6-B</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">NATASHA NASYA GANDHI</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">ADINA QISTY BINTE SULAIMAN</td><td class="xl67">P6-F</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" height="19"></td><td></td><td class="xl72"></td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19" colspan="3">Top Performer in Tamil Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl70" height="19">No.</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">JACOB SEBASTIAN DEVAN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" height="19"></td><td></td><td class="xl72"></td></tr></tbody></table>   
-
-<!--table {mso-displayed-decimal-separator:"\\."; mso-displayed-thousand-separator:"\\,";} @page {margin:.75in .7in .75in .7in; mso-header-margin:.3in; mso-footer-margin:.3in;} tr {mso-height-source:auto;} col {mso-width-source:auto;} br {mso-data-placement:same-cell;} td {padding-top:1px; padding-right:1px; padding-left:1px; mso-ignore:padding; color:black; font-size:11.0pt; font-weight:400; font-style:normal; text-decoration:none; font-family:Calibri, sans-serif; mso-font-charset:0; mso-number-format:General; text-align:general; vertical-align:bottom; border:none; mso-background-source:auto; mso-pattern:auto; mso-protection:locked visible; white-space:nowrap; mso-rotate:0;} .xl65 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; mso-number-format:0; text-align:right;} .xl66 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:left;} .xl67 {color:black; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center;} .xl68 {color:black; font-weight:700; text-align:center;} .xl69 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0; text-align:center;} .xl70 {color:black; font-weight:700;} .xl71 {color:black; font-weight:700; font-family:CALIBRI; mso-generic-font-family:auto; mso-font-charset:0;} -->
-
-<table style="border-collapse:
- collapse;width:491pt" width="654" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="width:48pt" width="64"> <col style="mso-width-source:userset;mso-width-alt:18362;width:395pt" width="526"> <col style="width:48pt" width="64"></colgroup><tbody><tr style="height:14.5pt" height="19"><td style="height:14.5pt;width:491pt" width="654" class="xl68" height="19" colspan="3">GEP Top Performers in Chinese Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl70" height="19">No.</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">LOKE KEI NGA TRICIA</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">SIEW JING YE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">LEONG JIUN MING, WAYNE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">4</td><td class="xl66">YAO JIA, JOYCELYN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">5</td><td class="xl66">LI JUNHAO</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">6</td><td class="xl66">CHEN YANJUN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">7</td><td class="xl66">WANG YUHAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">8</td><td class="xl66">YEE HONG SHYAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">9</td><td class="xl66">ZHAO BOZHENG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">10</td><td class="xl66">KOH YUE QI</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl68" height="19" colspan="3">GEP Top Performers in English Language</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl70" height="19">No.</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">HUANG HEXIE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">ALICIA CHIA YEE TENG</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">LEONG JIUN MING, WAYNE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">4</td><td class="xl66">ELLA JASMINE COVE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">5</td><td class="xl66">ERICA GOH YU BEI</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">6</td><td class="xl66">LOKE KEI NGA TRICIA</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">7</td><td class="xl66">YEE HONG SHYAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">8</td><td class="xl66">YAO JIA, JOYCELYN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">9</td><td class="xl66">NADYA LAKSHMI KUMARASINGAM</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">10</td><td class="xl66">TEO LENG LOK, LUCAS</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">11</td><td class="xl66">ASHMITA SREEDHARAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">12</td><td class="xl66">KOH YUE QI</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">13</td><td class="xl66">ZHAO BOZHENG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl69" height="19" colspan="3">GEP Top Performers in Mathematics</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl71" height="19">Rank</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">SIEW JING YE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">CLAYDEN TAN JOON HEN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">RICHARD WU JUN ZHENG</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">4</td><td class="xl66">ERICA GOH YU BEI</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">5</td><td class="xl66">LEONG JIUN MING, WAYNE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">6</td><td class="xl66">LOKE KEI NGA TRICIA</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">7</td><td class="xl66">LUKE DANIELSON HO</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">8</td><td class="xl66">ELLA JASMINE COVE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">9</td><td class="xl66">HUANG HEXIE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">10</td><td class="xl66">CHEN YANJUN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">11</td><td class="xl66">CHEN YANJIA</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">12</td><td class="xl66">WANG RUNBO</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">13</td><td class="xl66">ZHAO BOZHENG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">14</td><td class="xl66">YAO JIA, JOYCELYN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">15</td><td class="xl66">YEE HONG SHYAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">16</td><td class="xl66">TEO LENG LOK, LUCAS</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">17</td><td class="xl66">NADYA LAKSHMI KUMARASINGAM</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">18</td><td class="xl66">WANG YUHAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">19</td><td class="xl66">ASHMITA SREEDHARAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl69" height="19" colspan="3">GEP Top Performers in Science</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl71" height="19">Rank</td><td class="xl71">Name</td><td class="xl69">Class</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">1</td><td class="xl66">HUANG HEXIE</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">2</td><td class="xl66">LOKE KEI NGA TRICIA</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">3</td><td class="xl66">XIE ZIJIAN</td><td class="xl67">P6-H</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">4</td><td class="xl66">WANG YUHAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">5</td><td class="xl66">ZHAO BOZHENG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">6</td><td class="xl66">ASHMITA SREEDHARAN</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">7</td><td class="xl66">KOH YUE QI</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">8</td><td class="xl66">KOUTA ALEXANDER ONO-WONG</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">9</td><td class="xl66">WANG RUNBO</td><td class="xl67">P6-I</td></tr><tr style="height:14.5pt" height="19"><td style="height:14.5pt" class="xl65" height="19">10</td><td class="xl66">YEE HONG SHYAN</td><td class="xl67">P6-I</td></tr></tbody></table>
-<table style="border-collapse:
- collapse;width:701pt" width="934" cellspacing="0" cellpadding="0" border="0"><colgroup><col style="mso-width-source:userset;mso-width-alt:1675;width:36pt" width="48"> <col style="mso-width-source:userset;mso-width-alt:12357;width:266pt" width="354"> <col style="mso-width-source:userset;mso-width-alt:18571;width:399pt" width="532"></colgroup><tbody><tr style="height:18.5pt" height="25"><td style="border-right:.5pt solid black;
-  height:18.5pt;width:701pt" width="934" class="xl71" height="25" colspan="3">Special Awards</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">1</td><td style="border-top:none;border-left:none" class="xl67">SUN WENXUAN (6G)</td><td style="border-top:none;border-left:none" class="xl68">Alumni Award Outstanding Sports Boy (P6)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">2</td><td style="border-top:none;border-left:none" class="xl67">TAN JIAXUAN (6B)</td><td style="border-top:none;border-left:none" class="xl68">Alumni Award Outstanding Sports Girl (P6)</td></tr><tr style="height:15.5pt" height="21"><td style="height:15.5pt;border-top:none" class="xl67" height="21">3</td><td style="border-top:none;border-left:none" class="xl67">ASHMITA SREEDHARAN (6I)</td><td style="border-top:none;border-left:none" class="xl68">Alumni Award P6 Outstanding Student<span style="mso-spacerun:yes">&nbsp;</span></td></tr></tbody></table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HPPS_Celebrates.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/congrats.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1 Character Award Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ABIGAIL CHAN EN RUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELIZABETH PAIGE LOW ZHI LING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MIRZA ZHARFAN BIN MUHAMMAD LUQMAN NUL HAKIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SAMI LEONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALEXA ANG YAN YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KWEK NGEE DENG, JONAS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DECLAN TAN SHIYOU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIU RUICHEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NEAL ROY PRAVIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAYLENE HU EN NING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELLIA KHO LE EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZELDYR TAN XUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH YU XUAN KALEY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHARLOTTE TEO YUE EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HU CHENGYI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUKAS AIDEN WONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELHAM MAHSA MALIK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG XUAN YUN, CHELSEA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG SHI NING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEE RAY CHEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EU XIN YING JENISE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELLIE HE SHUXIAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KYLEE YEO SHIU WEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEH ZHEN PU BLAKE SERAPH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MIRANDA TOH MEI EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ERIN ANNE RUI-EN O'HARA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YI AN PHOEBE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIA JIA YING NATALIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH CHENG JIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DYLAN WANG HONG RUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIKOL BRINKMANN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH YAN FEI, NATALIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MEREDITH JANELLE TJOA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHRISTIAN LEW GUAN LIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WU MINGHENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAP SHIYI AUGUSTUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MELODY WANG WANQING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIN SHIKAI DEREK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG SHAN MIN LAUREN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IGNATIUS LIM YAN ZHANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELIZABETH SIM JIN XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>VIVIAN THAM JING NI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHONG YI YANG, LUTHER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GUAN SUXIAN VICKY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADLEA BINTE SAIFULLIZAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EJAZ NAEL BIN ARZME</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATALIE TAN XUAN WEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THEA TAY XUANEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN KAI LYN MEGAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIN XING TING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TIMOTHY MARC YONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HO CHEN XUAN VALERIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOH JIA MIN ISABEL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOY HNG KAI JOHN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 1J</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAI RUI'EN CLAIRE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA BOON XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELIZABETH LEE EN-MIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ESTELLE YAP EN XI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN LEJIONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYO NG WU LIANG</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2 Character Award Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEIA SAFIYYAH BINTE MOHAMAD FAISAL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUANG QIANXUN, EMMA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEE KAI XUAN BEATRICE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AVERY CHIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DYLAN LEE YIN LOK</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEE JIA HUI EAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JACE RAPHAEL CHUA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IRIS ADA HO WAN HUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATALIE LIM FAN XI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO YAO SEN PHELIX</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG KAI LE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG YU PENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THEIA LEE TING XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TONG KEI AN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRACE WANG ZIXIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA JIN KAI OWEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA JIN HAO EVAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH XUAN RONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALICE YAN ZILIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE JOSHUA JIYUL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GREGORY TOH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN WAI YAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WEE TING YA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA WEN HAN SINEAD</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2E</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HEIDI VOO XIN YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOO YE XUN ETHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DEMIRA THAKUR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEE JAY KIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DRAVIN THAKUR</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLAIRE ELIZABETH PEREIRA YIXIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATALIE CHAN MIN XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IVAN WU ZI YEUNG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HEIDI CHER XUAN YI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MAURICE MICHAEL NGAY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEOW JUN ZE, ZED</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYLEE TANG RUI YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEVIA WONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FAITH CHNG ZI XUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JULIAN TAN JIA JUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANG JUN XI TREYVEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AU EN YU, MIA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG TZE SHUEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHANG CI EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CASSIE MONG MIN ZHEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHUO QIAN YA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ABIGAIL LEE JIA EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOW SHAO FENG ETHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALESSIA KWOK TING YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELIZABETH RAE KAEGI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM ENQI EMMA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEBASTIAN TAN ZHAO YANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATASHA MEI SHAN MENON</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETHAN CHENG YI TENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM SHU EN, LENA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Primary 2J</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EDWIN SIEW YI EN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WOO EMMA RUI MIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE TEA TAN YONG ER</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLARENCE CHOONG JIA JUN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG SHILE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAUREN AMELIE WONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Primary 3 Award Winners&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>3 Attentiveness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BETHANY MUN YAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAIA CHEONG JIAQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEN HAOLING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3A) &amp; Top Performer (3A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH SHUN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GUO YUTONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EMMA LOUISE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>3 Boldness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIAM THEODORE TAN HONG RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAURA SAKINAH BINTE MUHAMMAD IZWAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUR SARAH ALISYA BINTE SUKAIMI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISABEL RANIA ROMI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIA MING ZHI JOSHUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FENG SHIRONG, CRISTIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM YING XUAN, CELESTIAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>3 Creativity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW ZHAN LER MATTHEW</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3C) &amp; Top Performer (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIN WEI KAI HAMISH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3C)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOR SWEE HING, VICTORIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3C)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GOH ZI WEI ASHLEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3C) &amp; Top Performer (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI RENZE ISAAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>3 Diligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIKKI WIDJAJA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3D) &amp; Top Performer (3D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARIELLE YAP HUI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHARIS NG CHEUK YAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOY PEGGY WONG YUE EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANDREA JIROTMONTREE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NI BINJIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>3 Enthusiasm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALIA BINTE MUHAMMAD LOKMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3E)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANDREA KOON SZE KEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3E) &amp; Top Performer (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIU YICHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3E) &amp; Top Performer (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIERRA EVE SHANG ZUYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3E) &amp; Top Performer (3E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>3 Flexibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ILIA ARISHA MOHAMAD SUFIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIU JINYING, GILIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG ZI HUI MELODY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG SI YUEN NATHANIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA RUI LING CHARLOTTE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUANG JIA'EN NATALIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PAN JIACHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>3 Generosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JANIQUE LAM ZHI YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3G) &amp; Top Performer (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JING XUAN (CHEN JINGXUAN)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3G)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAI ZHIHANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3G) &amp; Top Performer (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HASIF BIN SAIFULLIZAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3G)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NGUYEN THUC LINH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>3 Harmony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAREEN TAN JIA XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG ZIYUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3H) &amp; Top Performer (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AADEL YEO E-DA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRACE LIOM EN HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (3H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAYDEN THAM JUN XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GUO YUNLEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (3H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Primary 4 Award Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Attentiveness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLARA CHAN WEI SHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADIA CHENG JINXI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG JIA HUI ELIZABETH JANE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NOAH TAN KAI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4A) &amp; Top Performer (4A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SNG ENXUAN ARABELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELLIOTT WONG EN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Boldness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FELICIA ZHANG LINGXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4B) &amp; Top Performer (4B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JEDD LAM ZHI HAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETHAN LEON HO JI QUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOSH LOW KAH YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JIAXUAN, CLARISSA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IAN MATTHIAS LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Creativity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WOO NAOMI RUI YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4C)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOR SWEE HUM, KAYLEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4C) &amp; Top Performer (4C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELEANOR NG SI YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4C) &amp; Top Performer (4C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAN ZIWEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4C)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA YI XUAN LINUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GWEE JING KAI JAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Diligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADEN LO JIAN XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG EN XUAN, EMMA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4D) &amp; Top Performer (4D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRACE SIM JIA EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATASCHA BRINKMANN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG HAOTIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EU JIE EN JOASH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Enthusiasm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARONIA NG HO NING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4E)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISABELLE LIM EN XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4E)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JIA TIANMING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4E)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YING XIAN, CLAIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4E)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAYDEN CHEONG KAI RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO JUN XI JERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IAN CHEW SEOW HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Flexibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEW YUE-EN LINNEA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4F) &amp; Top Performer (4F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA BOON XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOH JIA YIN ALISON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4F) &amp; Top Performer (4F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BU KEE CHONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHOO HENG LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Generosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DIONNE TIU YI WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4G)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EMEL ELIZ ALPER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4G)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU KAI LIN CAITLIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4G) &amp; Top Performer (4G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATHANIEL KARL YONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4G)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG JUN WERN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TONG HUI ERN ELIZABETH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Harmony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH RUI ZHI ESTEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4H) &amp; Top Performer (4H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG KAI XUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4H) &amp; Top Performer (4H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY JIAYI, JOANNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MUDIL GUPTA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATALIE ROSE DEVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>4 Initiative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YANG XIAOFAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4I)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HAYLEY CHOO YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4I)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHOU ZHUOXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4I) &amp; Top Performer (4I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>51</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAYENNE LIM WEN XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (4I)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOSEPH LIN JING CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>53</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN WEIXIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp; Top Performer (4I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Primary 5 Award Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Attentiveness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GRACE LEE SZE TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NEO ZHE KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KUAH JIUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5A) &amp; Top Performer (5A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TARA GAUTAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN YANBING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHANNON ONG YUE EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5A)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Boldness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CINDY YU XINYI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YU WENXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5B) &amp; Top Performer (5B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA HIAN BOON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAY TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GUO XIZHI OLIVIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYAN LUIS TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN KAI YI KIERAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5B)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Creativity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JANELLE KOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOPHIE LOCK MEI HO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WU KANGRUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5C) &amp; Top Performer (5C)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NI PEICHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOSIAH GOH RUI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5C)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIM YU ZE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5C)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Diligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MEGAN KAAN CEE WING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KATELYN TAN JING YUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IAN CHAN KAI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAYDEN TEE MING KYLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN LE LING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE JAY YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JIANG HAOCHENG JASON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5D)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Enthusiasm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OOI EN QI, RACHEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SWAN DENISE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN WAN TONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5E) &amp; Top Performer (5E)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SELWYN MAH XIN JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ONG YU KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5E)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AIDAN LIM KAI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5E)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Flexibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG YU BO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5F) &amp; Top Performer (5F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANG KAI SI ERICIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SNG YING XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOSHUA CHANG YAO JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRADLEY PERREAU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANIKA SIVAKUMAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5F)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Generosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MAEGAN FOO FANG EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN CHENG WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NAOMI AURELIE KUSUMA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH JOSHUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG RUI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5G)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI RUOXI GENEVIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5G)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA MYN YEN ERIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5G)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Harmony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EMMA LEE EN-HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JULIUS JASON SENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YANG YIHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5H) &amp; Top Performer (5H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLAIRE CHER JIE YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIU YUNHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AMELIE SIM MING YUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>51</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG GEN LONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5H)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>5 Initiative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANG ZHENG YUAN, LOUIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>53</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SERAPHINA WONG QING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>54</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DEXTER CHOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>55</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHENG YUQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (5I) &amp; Top Performer (5I)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>56</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NEO ZHI HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5I)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIU YICHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (5I)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN YANBING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KUAH JIUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE YU QI, SARAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DING ZIXIN EVANGELINE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG ZINUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUANG ZETIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAYDEN TEE MING KYLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE JAY YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MEGAN KAAN CEE WING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG RUI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AMELIE SIM MING YUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOYEIN CAI HEYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIU YUNHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI XINYANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHENG YUQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KUAH JIUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AMELIE SIM MING YUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOYEIN CAI HEYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MAEGAN JUNE KANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIU YUNHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE ANDREA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IAIN LOW ZHONG-EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KUAH JIUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO YIQUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DUKE TAN WEI MING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN YANBING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CALEB YEO HENG WU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIN ZHI RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAIUS LEE TUNG JING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHANNON ONG YUE EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THADDEUS WONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE YU QI, SARAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YU WENXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KATE TAN KAI QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN KAI YI KIERAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHIANG WEN QI EDAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI JIEXI, EVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GUO XIZHI OLIVIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RYAN LUIS TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DECLAN LUM LYE CHUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DENG ZHENGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAY TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO JIA HAO JASON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WU KANGRUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIM YU ZE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOSIAH GOH RUI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MATHURAN MAYOORATHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OH SHUI QIN JEFFREY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DARSHAN MEHUL MOTANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TENG KAI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CAYLEN EDRICK LIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHONG LEIGH KEN, LIAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NI PEICHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROSSI CHAN ZI LONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JIANG HAOCHENG JASON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PHEE YU-MIN, MEGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANA CHEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEE TOH CHEE LENG HANNAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN LE LING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OWEN SIAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JAYDEN TEE MING KYLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAYAN WANG RUI YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOO LAY HONG NATHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATHAN GOH EN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JULIUS JASON SENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AMELIE SIM MING YUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NOAH SEE JAY TSE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MAEGAN JUNE KANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NIU YUNHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THIAN GUI XIN ELENA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOYEIN CAI HEYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>51</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELIJAH SAIFUL SARONI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OR LEE-YUAN, DONALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>53</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RACHEL TEO CHI LING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>54</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANG ZHENG YUAN, LOUIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>55</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BAI YING JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>56</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELIJAH GOH JIAN HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHENG YUQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>58</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI XINYANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>59</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIANG JUNCHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>60</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>POON JUN ZACH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>61</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANG YUE JEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>62</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DEXTER CHOO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>63</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHENG YULONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KUAH JIUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHANNON ONG YUE EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FENG YINGRUI, CLARICE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WU KANGRUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOSIAH GOH RUI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-C</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TANG ZHENG YUAN, LOUIS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in Higher Chinese</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KUAH JIUN KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-A</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AMELIE SIM MING YUE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performer in Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARISSA IZDAANIA BINTE MOHAMMED FADZLIEGH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P5-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Primary 6 Award Winners</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Attentiveness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JEANNE LEE YIXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>POENAR COSMIN GEORGE XUANYU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LERROY POH YANG RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANNA LIM XUAN TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JORDANNE LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISABELLE YEO YING QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BRANDON CHIN LIXIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6A)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Boldness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW WEN XI, ANDREA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOO SHENGZHE JUSTIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6B) &amp; Top Performer (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI HAOYANG HOWARD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6B) &amp; Top Performer (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JIAXUAN, EVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANDRI TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6B)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Creativity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>EDEL ARVERUD SIREGAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG SHI EN CHARLENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAN ZIXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6C) &amp; Top Performer (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>J M JENITA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ARDEN KEW JIN RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA RUI YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6C)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Diligence</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY MING XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6D) &amp; Top Performer (6D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DIANE KOO SI AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BISWAS ANUSHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZACHARY A. JALALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN KEMING GARETH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GWENDOLYN NG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6D)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Enthusiasm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JILLIAN LIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW MEI QI ALYSSA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAU SHAW CHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Character Award (6E) &amp; Top Performer (6E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG ZHI SHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HU CHENGRUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO JUN WEI EDWARD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6E)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Flexibility</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADINA QISTY BINTE SULAIMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6F) &amp; Top Performer (6F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLARA WON YING QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>REBEKAH LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOSHUA YAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DEREK KER GEING LOK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO CHEN XI KAYLEA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6F)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Generosity</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QIU YIFENG BRADEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG JIARUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH YU ZHE, AZRIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ENOCH TSE YI LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>41</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YING EN ELYSIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>42</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO YING-YEN ESTELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>43</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANNAH WOO RUI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6G)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Harmony</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>44</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SARAH ONG WAN ZHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>45</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU EN YU CLAIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>46</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELLA JASMINE COVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>47</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLAYDEN TAN JOON HEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>48</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUI ZI XUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>49</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU EN YU CLAIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>50</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE CHUA YING SHUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6H)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>6 Initiative</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>51</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SNG HUI RU, NICOLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>52</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH YUE QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>53</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADYA LAKSHMI KUMARASINGAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>54</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHER NG YU XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Character Award (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>55</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG YUHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>56</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAO JIA, JOYCELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>57</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEE HONG SHYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Top Performer (6I)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOO SHENGZHE JUSTIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW WEN XI, ANDREA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI HAOYANG HOWARD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANDRI TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG HWEE MIN MIRANDA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO BOYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG JIAQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BONITA BAI HANQIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHOONG BO CHENG LUCAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GWENDOLYN NG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN LE XIN ELSIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEN YIPING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY MING XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DIANE KOO SI AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HO RUI EN, GISELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLARA WON YING QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DEREK KER GEING LOK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAP LE TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YING TZE CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHLIE KHOR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KYRA QUAH JINN XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIU ENRUI, DAVID</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG LE TING ESTELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHELSEA LAI HOI TONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUN WENXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QIU YIFENG BRADEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHA WENXIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG JIARUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE CHUA YING SHUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOVASZ NG SHEAN RAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUI ZI XUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LYE KEI-YEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU EN YU CLAIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG JUN XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANNAH SIM XUAN AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CADEN CHUA YING SHIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHER NG YU XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOO SHENGJIA NATALIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHU JUNTING LYON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SNG HUI RU, NICOLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOO SHENGZHE JUSTIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN YING XUAN, ISABELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOW WEN XI, ANDREA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY MING XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DIANE KOO SI AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GWENDOLYN NG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BISWAS ANUSHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CELINE LEE XIN RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG JIAQI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HO RUI EN, GISELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN KEMING GARETH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KYRA QUAH JINN XI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO CHEN XI KAYLEA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALEXA NG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JUDAH WOON TIAN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATASHA NASYA GANDHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DEREK KER GEING LOK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YING TZE CHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH YU ZHE, AZRIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM KAI XIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SOPHIA ALISA HASHIDY TEMBREVILLA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG JIARUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LYE KEI-YEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE CHUA YING SHUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUI ZI XUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANNAH SIM XUAN AI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOVASZ NG SHEAN RAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHANE PRAVIN THOMAS XUAN-YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANTHEA CHUA EE ENN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHAN JINGYE, KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KHOO SHENGJIA NATALIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SNG HUI RU, NICOLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHLEY CHOO LEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHU JUNTING LYON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CADEN CHUA YING SHIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TIMOTHY CHAN YI KAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANDRI TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI HAOYANG HOWARD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH TRISTAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN KEMING GARETH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FOO TING WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CELINE LEE XIN RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO BOYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAY MING XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HO RUI EN, GISELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEN YIPING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN LE XIN ELSIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZACHARY A. JALALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BISWAS ANUSHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JOSHUA YAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DEREK KER GEING LOK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO CHEN XI KAYLEA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JUDAH WOON TIAN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TOH PIN SHUO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAP LE TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>QIU YIFENG BRADEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH YU ZHE, AZRIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WEE SONG YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHANG JIARUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>24</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LAI HONG YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEE HENG YU, JOSHUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-G</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUI ZI XUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANTHEA CHUA EE ENN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JACOB SEBASTIAN DEVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU EN YU CLAIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOVASZ NG SHEAN RAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GIDEON SIM WEN TIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>32</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHANE PRAVIN THOMAS XUAN-YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>33</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHLEY CHOO LEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>34</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHEN HAOXIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>35</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHU JUNTING LYON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>36</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RAYDEN WOON WEI YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>37</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SNG HUI RU, NICOLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>38</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CADEN CHUA YING SHIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>39</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NG LE SHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>40</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHER NG YU XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ETHAN KEE HONG JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZACHARY A. JALALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GWENDOLYN NG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BISWAS ANUSHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-D</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA YUE YING AUDREY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO CHEN XI KAYLEA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JUDAH WOON TIAN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE CHUA YING SHUEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XU EN YU CLAIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JACOB SEBASTIAN DEVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOVASZ NG SHEAN RAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUI ZI XUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHER NG YU XIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performers in Malay Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ANDREAS DAYYAN YUSUF</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-B</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATASHA NASYA GANDHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ADINA QISTY BINTE SULAIMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-F</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Top Performer in Tamil Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>JACOB SEBASTIAN DEVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>GEP Top Performers in Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOKE KEI NGA TRICIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIEW JING YE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG JIUN MING, WAYNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAO JIA, JOYCELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LI JUNHAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN YANJUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG YUHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEE HONG SHYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO BOZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH YUE QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>GEP Top Performers in English Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>No.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUANG HEXIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALICIA CHIA YEE TENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG JIUN MING, WAYNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELLA JASMINE COVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ERICA GOH YU BEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOKE KEI NGA TRICIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEE HONG SHYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAO JIA, JOYCELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADYA LAKSHMI KUMARASINGAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO LENG LOK, LUCAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHMITA SREEDHARAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH YUE QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO BOZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>GEP Top Performers in Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rank</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SIEW JING YE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CLAYDEN TAN JOON HEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>RICHARD WU JUN ZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ERICA GOH YU BEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG JIUN MING, WAYNE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOKE KEI NGA TRICIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LUKE DANIELSON HO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ELLA JASMINE COVE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUANG HEXIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN YANJUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHEN YANJIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG RUNBO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO BOZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YAO JIA, JOYCELYN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEE HONG SHYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TEO LENG LOK, LUCAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NADYA LAKSHMI KUMARASINGAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG YUHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHMITA SREEDHARAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="3">
+<p>GEP Top Performers in Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Rank</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Class</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HUANG HEXIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LOKE KEI NGA TRICIA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>XIE ZIJIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-H</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG YUHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ZHAO BOZHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHMITA SREEDHARAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH YUE QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOUTA ALEXANDER ONO-WONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WANG RUNBO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEE HONG SHYAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6-I</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="3">
+<p>Special Awards</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SUN WENXUAN (6G)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alumni Award Outstanding Sports Boy (P6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JIAXUAN (6B)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alumni Award Outstanding Sports Girl (P6)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ASHMITA SREEDHARAN (6I)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Alumni Award P6 Outstanding Student&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
