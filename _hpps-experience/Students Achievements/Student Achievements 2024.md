@@ -30,5 +30,9 @@ third_nav_title: Students Achievements
 <p><a href="/files/SA_06_07_24__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">SA/06/2024</a>
 </p>
 </li>
+<li>
+<p><a href="/files/SA_07_24.pdf" rel="noopener nofollow" target="_blank">SA/07/2024</a>
+</p>
+</li>
 </ol>
 <p></p>
