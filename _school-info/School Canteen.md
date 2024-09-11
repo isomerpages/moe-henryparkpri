@@ -20,7 +20,7 @@ variant: tiptap
 <p>Western Stall - Halal or Non-Halal</p>
 </li>
 </ol>
-<p><strong>Closing Date for Application: 31 Aug 2024</strong>
+<p><strong>Closing Date for Application: 29 Nov 2024, Friday</strong>
 </p>
 <p><strong>Application Procedure</strong>
 </p>
