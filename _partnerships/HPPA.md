@@ -176,7 +176,7 @@ at <a rel="noopener noreferrer nofollow" target="_blank">http://linktr.ee/hppa.s
 </tr>
 </tbody>
 </table>
-<p><em>                                                                                                 Accurate as of March 2024</em>
+<p><em>Accurate as of March 2024</em>
 </p>
 <p></p>
 <p></p>
