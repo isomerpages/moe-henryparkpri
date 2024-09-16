@@ -36,7 +36,7 @@ experiences for the Henry Park family.</p>
 <p><strong>Stay Connected with HPPA!</strong>
 </p>
 <p>Visit our website, follow us on social media, and join the HPPA family
-at <a rel="noopener noreferrer nofollow" target="_blank">http://linktr.ee/hppa.sg</a>
+at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target="_blank">http://linktr.ee/hppa.sg</a>
 </p>
 <p><strong>We look forward to supporting one another in our journey!</strong>
 </p>
