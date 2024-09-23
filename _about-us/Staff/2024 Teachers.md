@@ -230,11 +230,11 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Li Yiming, Bernard</p>
-<p>Ms Constance Yap</p>
+<p>Ms Noorashikin Bte Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>li_yiming_bernard@moe.edu.sg</p>
-<p>yap_pei_ling_constance_a@moe.edu.sg</p>
+<p>noorashikin_yahya@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -436,11 +436,11 @@ variant: tiptap
 <p>3 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Parayanthal Veetil Moli</p>
+<p>Ms Koh Yanting</p>
 <p>Mr Yuan Kee King</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>parayanthal_veetil_moli@moe.edu.sg</p>
+<p>koh_yanting@moe.edu.sg</p>
 <p>yuan_kee_king@moe.edu.sg</p>
 </td>
 </tr>
@@ -551,11 +551,11 @@ variant: tiptap
 <p>4 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Sin Min Sherene</p>
+<p>Mdm Joyce Teo</p>
 <p>Mrs Chia Seow Wei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_sin_min@moe.edu.sg&nbsp;</p>
+<p>teo_gek_teng_joyce@moe.edu.sg&nbsp;</p>
 <p>oh_seow_wei@moe.edu.sg</p>
 </td>
 </tr>
