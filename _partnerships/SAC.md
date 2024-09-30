@@ -14,7 +14,7 @@ variant: markdown
 .tg .tg-nrix{text-align:center;vertical-align:middle}
 </style>
 
-    &lt;
+   
   <table class="tg">
 <thead>
   <tr>
