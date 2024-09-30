@@ -60,10 +60,6 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Dr Lee Kar Heng </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
     <td class="tg-nrix">Dr Tan Aik Ling </td>
   </tr>
   <tr>
