@@ -5,16 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h5>Dental Clinic Announcements</h5>
-<p>Below are the opening dates for the school dental clinic for Aug 2024:</p>
+<p>Below are the opening dates for the school dental clinic for Oct 2024:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>6 Sep 2024</p>
+<p>1 Oct 2024 to 3 Oct 2024</p>
 </li>
 <li>
-<p>9 Sep 2024 to 12 Sep 2024</p>
+<p>7 Oct 2024 to 11 Oct 2024</p>
 </li>
 <li>
-<p>23 Sep 2024 to 27 Sep 2024</p>
+<p>18 Oct 2024</p>
 <p></p>
 </li>
 </ul>
