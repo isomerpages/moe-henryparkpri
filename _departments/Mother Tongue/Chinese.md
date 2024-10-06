@@ -61,6 +61,10 @@ and programmes.&nbsp;</p>
 <p><a href="/files/Book_Recommendation__CPCLL__Primary_Term_3_2024.pdf" rel="noopener nofollow" target="_blank">September 2024</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Physical_Book_Recommendations__CPCLL__Primary___Oct_2024.pdf" rel="noopener nofollow" target="_blank">October 2024</a>
+</p>
+</li>
 </ul>
 <p>eBook Recommendation&nbsp;</p>
 <ul>
@@ -90,6 +94,10 @@ and programmes.&nbsp;</p>
 </li>
 <li>
 <p><a href="/files/Digital_Storytelling_Poster__Sep_2024_.pdf" rel="noopener nofollow" target="_blank">September 2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Oct_2024.pdf" rel="noopener nofollow" target="_blank">October 2024</a>
 </p>
 </li>
 </ul>
