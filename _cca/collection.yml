@@ -2,6 +2,7 @@ collections:
   cca:
     output: true
     order:
+      - Basketball.md
       - CCA Registration for 2024.md
       - CCA.md
       - Choir.md
