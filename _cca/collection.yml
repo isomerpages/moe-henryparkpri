@@ -2,7 +2,6 @@ collections:
   cca:
     output: true
     order:
-      - Floorball.md
       - CCA Registration for 2024.md
       - CCA.md
       - Art Club.md
@@ -16,6 +15,7 @@ collections:
       - String Ensemble.md
       - Badminton.md
       - Basketball.md
+      - Floorball.md
       - Football.md
       - Gymnastics.md
       - Multi Sports.md
