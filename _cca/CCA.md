@@ -73,6 +73,8 @@ level.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Badminton
+<br>Basketball
+<br>Floorball
 <br>Football
 <br>Gymnastics
 <br>Multi Sports
