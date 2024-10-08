@@ -1,6 +1,6 @@
 ---
 title: Choir
-permalink: /cca/permalink/
+permalink: /departments/pe-aesthetics-and-cca/cca/choir/
 description: ""
 variant: markdown
 ---
