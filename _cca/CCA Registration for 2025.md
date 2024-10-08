@@ -1,10 +1,10 @@
 ---
-title: CCA Registration for 2024
+title: CCA Registration for 2025
 permalink: /cca/permalink/
 description: ""
 variant: tiptap
 ---
-<p><strong>CCA Registration for 2024</strong>
+<p><strong>CCA Registration for 2025</strong>
 </p>
 <p><strong><u>Term 2</u></strong>
 </p>
