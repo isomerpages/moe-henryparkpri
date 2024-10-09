@@ -42,14 +42,15 @@ at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target=
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HPPS_New_Pic.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/HPPA_New_Pic.jpg">
 </div>
 <p><em>(Photo taken on 3rd&nbsp;October 2024 during HPPS Children’s Day Celebration - featuring our dedicated Parent Volunteers)</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/HHPA_Logo.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/HPPA_Logo_Outline_.png">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
