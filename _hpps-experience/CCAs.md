@@ -17,7 +17,7 @@ end after 4.15pm will have to make their own transport arrangement home.</p>
 CCA teachers in-charge.</p>
 <p>For generic CCA enquiry, please email Ms Chin Lian Mei (chin_lian_mei@moe.edu.sg)
 and Mr Jeremy Wan (wan_kerr_wen_jeremy@moe.edu.sg)</p>
-<p>Please click here for the CCA schedule and CCA Teacher(s) in-charge for
-2024.</p>
+<p>Please <a href="/files/CCA_schedule_2024_19_Mar_24.pdf" rel="noopener noreferrer nofollow" target="_blank">click here</a> for
+the CCA schedule and CCA Teacher(s) in-charge for 2024.</p>
 <p>You may also find a list of the CCAs offered in the school <a href="/files/CCA_schedule_2024_19_Mar_24.pdf" rel="noopener noreferrer nofollow" target="_blank">here.</a>
 </p>
