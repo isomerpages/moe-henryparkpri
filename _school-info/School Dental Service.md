@@ -12,9 +12,6 @@ variant: tiptap
 </li>
 <li>
 <p>7 Oct 2024 to 11 Oct 2024</p>
-</li>
-<li>
-<p>18 Oct 2024</p>
 <p></p>
 </li>
 </ul>
