@@ -83,7 +83,7 @@ variant: tiptap
 <p>Mr Vikneshwaren Nandakuma</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct ICT Manager</p>
+<p>ICT Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>vikneshwaren_nandakuma@schools.gov.sg</p>
@@ -105,7 +105,7 @@ variant: tiptap
 <p>Ms Judy Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Adjunct Corporate Support Officer</p>
+<p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>judy_ong_meow_kheng_a@schools.gov.sg
