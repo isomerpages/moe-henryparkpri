@@ -2,8 +2,8 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
-
 We are committed to help students develop a life-long interest in learning Science through a standards-based curriculum that includes inquiry, investigation and experimentation.
 
 ### Our goals
@@ -15,13 +15,13 @@ We are committed to help students develop a life-long interest in learning Scien
 
 ### Our programmes
 
-**PRIMARY 1 & 2**
+**PRIMARY 1 &amp; 2**
 
 *   Junior Science
 
-   This programme is mainly integrated into the Primary 1 and 2 curriculum. The JS programme taps on the natural 
+&nbsp; &nbsp;This programme is mainly integrated into the Primary 1 and 2 curriculum. The JS programme taps on the natural&nbsp;
 
-   curiosity of The Primary 1 and 2 students to further develop their Science skills and concepts. 
+&nbsp; &nbsp;curiosity of The&nbsp;Primary 1 and 2 students to further develop their Science skills and concepts.&nbsp;
 
   
 
@@ -29,23 +29,23 @@ We are committed to help students develop a life-long interest in learning Scien
 
 *   Fun with Variables
 
-    The Variables lesson package is an enrichment lesson for all Primary 3 students that was developed to teach basic process skills related to Science investigation.
+&nbsp; &nbsp; The Variables lesson package is an enrichment lesson for all Primary 3 students that was developed to teach basic process&nbsp;skills&nbsp;related to Science investigation.
 
 The features of the Fun with Variables package include the following:
 
-a) Use of stories to teach variables and fair experiment
+a)&nbsp;Use of stories to teach variables and fair experiment
 
-b) Explicit teaching of how to carry out simple experiments
+b)&nbsp;Explicit teaching of how to carry out simple experiments
 
-c) Followed by introduction of terms such as aim, hypothesis, variables and conclusion.
+c)&nbsp;Followed by introduction of terms such as aim, hypothesis, variables and conclusion.
 
-d) Hands-on activities related to simple investigation that the students carry out in groups
+d)&nbsp;Hands-on activities related to simple investigation that the students carry out in groups
 
-e) Students are assessed using a set of performance-based rubrics
+e)&nbsp;Students are assessed using a set of performance-based rubrics
 
   
-*   Every Child a Seed 
-*   Outdoor Learning 
+*   Every Child a Seed&nbsp;
+*   Outdoor Learning&nbsp;
 	* Fern and Flower Gardens, Greenhouse, Terrarium  
 	*  Learning Journey to Singapore Zoo  
 
@@ -55,8 +55,8 @@ e) Students are assessed using a set of performance-based rubrics
 
 *   Heat and Temperature Lesson at Singapore Science Centre
 
-*   Outdoor Learning 
-	*  Flower Garden   
+*   Outdoor Learning&nbsp;
+	*  Flower Garden&nbsp;  
 
 **PRIMARY 5**
 
@@ -64,10 +64,9 @@ e) Students are assessed using a set of performance-based rubrics
 
 *   W1 CLUSTER YI COMPETITION
 
-Talented Primary 5 students who have carried out outstanding Science investigations during the YIP programme take part in this competition that is conducted at the cluster level.
+Talented Primary 5 students who have carried out outstanding Science investigations during the YIP programme take&nbsp;part in&nbsp;this&nbsp;competition that is conducted at the cluster level.
 
-<img src="/images/Assembly.jpeg" 
-     style="width:65%">
+<img src="/images/Assembly.jpeg" style="width:65%">
 		 
 *   Diversity of Cells Lesson at Singapore Science Centre
 
@@ -80,44 +79,44 @@ Talented Primary 5 students who have carried out outstanding Science investigati
 
 *   Toy Car Project
 
-*   Outdoor Learning 
+*   Outdoor Learning&nbsp;
 	*  Eco Pond, Terrarium  
-	* Learning Journey to Sungei Buloh Wetland Reserve   
+	* Learning Journey to Sungei Buloh Wetland Reserve&nbsp;  
 
 **OTHERS**
 
 *   Excellence 2000 (E2K)
 
-To engage our high progress learners (from mainstream Primary 4 to 6) in scientific investigations involving more 
-advanced Science concepts. They foster independence in scientific inquiry in students as well as other important 21st Century Competencies such as resilience & resourcefulness, critical & inventive thinking, & effective communication skills. Lessons covered are either based on physical or life Sciences
+To engage our high progress learners (from mainstream Primary 4 to 6) in scientific investigations involving more&nbsp;
+advanced&nbsp;Science concepts. They foster independence in scientific inquiry in students as well as other important 21st&nbsp;Century&nbsp;Competencies such as resilience &amp; resourcefulness, critical &amp; inventive thinking, &amp; effective communication skills. Lessons&nbsp;covered are either based on physical or life Sciences
 
-*   Junior Da Vinci / Nobel / MCurie2 Science Workshops by NUS High School Primary 5 students are selected to participate in the Junior Da Vinci Programme by NUS High School. This programme helps to foster collaboration between the teachers of both schools, giving opportunities to explore other ways to nurture and develop our students’ competencies in the learning of Science especially with respect to the 21st Century Competencies
+*   Junior Da Vinci / Nobel / MCurie2 Science Workshops by NUS High School Primary 5 students are selected to participate in the Junior Da Vinci Programme by NUS High School. This programme&nbsp;helps to&nbsp;foster collaboration between the teachers of both schools, giving opportunities to explore other ways to nurture and develop&nbsp;our&nbsp;students’ competencies in the learning of Science especially with respect to the 21st Century Competencies
 
 *   Life Science Enrichment Workshop
 
-*   STEM Training 
+*   STEM Training&nbsp;
 
   
 
-**MORE ABOUT THE PROGRAMMES** 
+**MORE ABOUT THE PROGRAMMES**&nbsp;
 
 *   YOUNG INVESTIGATORS' PROJECT (YIP)
 
 Inquiry-based learning is greatly enhanced by the YIP programme carried out in Primary 4 and 5. It is conducted yearly over a period of five weeks. The Fun with Variables package done in Primary 3 prepares the students for this YIP programme.
 
-A YI resource package, consisting of proposal forms and roles & responsibilities is made available for teachers to refer to and use with their students. This helps to hone leadership and collaborative skills amongst the students. The project helps students to learn and practise critical thinking, inquiry and investigative skills.  It helps to foster imagination and creative thought. They learn to work with others as a team, learn discipline in project management and organisational skills. These are essential skills that students need to develop to succeed in life.
+A YI resource package, consisting of proposal forms and roles &amp; responsibilities is made available for teachers to refer to and use with their students. This helps to hone leadership and collaborative skills amongst the students. The project helps students to learn and practise critical thinking, inquiry and investigative skills.&nbsp; It helps to foster imagination and creative thought. They learn to work with others as a team, learn discipline in project management and organisational skills. These are essential skills that students need to develop to succeed in life.
 
   
 
 *   OUTDOOR LEARNING
 
-Learning of Science in HPPS is not bound by the walls of the classroom. Outdoor learning is infused into the curriculum to enrich their learning experiences.
+Learning of Science in HPPS is not bound by the walls of the classroom. Outdoor learning is infused into the curriculum&nbsp;to&nbsp;enrich their learning experiences.
 
   
 
 *   Learning Journey
 
-Our students get to see first-hand what they have been learning in class and interact actively with nature. The greatest take-away for our students is to be able to share the passion for nature that the teachers / guides have. Through that, they develop greater respect and care for the natural resources that we often take for granted.
+Our students get to see first-hand what they have been learning in class and interact actively with nature. The greatest&nbsp;take-away for our students is to be able to share the passion for nature that the teachers / guides have. Through that,&nbsp;they develop&nbsp;greater respect and care for the natural resources that we often take for granted.
 
   
 
@@ -126,8 +125,7 @@ Our students get to see first-hand what they have been learning in class and int
 
 As an extension to classroom experiences, students also attend lessons offered by the Singapore Science Centre that targets at specific topics covered in the syllabus.
 
-<img src="/images/At%20Sungei%20Buloh.jpeg" 
-     style="width:65%">
+<img src="/images/At%20Sungei%20Buloh.jpeg" style="width:65%">
 		 
 <h5>SCHEME OF WORK</h5>
 
@@ -213,21 +211,21 @@ With the above mentioned as guiding principles, HPPS capitalises on the followin
 
   
 
-A. Questioning
+A.&nbsp;Questioning
 
-In our day-to-day teaching of Science, our teachers focus on asking questions as well as encouraging students to ask relevant questions. Questioning strategy allows for a high degree of student participation as a good mix of low and high level cognitive questions are used. 
-
-  
-B. Self-Directed Learning (SDL) 
-
-Through SDL, the teaching and learning conditions targeted to meet the needs of our students are established. Here, students take initiatives, set their own goals for learning and follow personal instructional and planning strategies. 
+In our day-to-day teaching of Science, our teachers focus on asking questions as well as encouraging students to ask relevant questions. Questioning strategy allows for a high degree of student participation as a good mix of low and high level cognitive questions are used.&nbsp;
 
   
-C. Cooperative Learning (CoL) 
+B.&nbsp;Self-Directed Learning (SDL)&nbsp;
 
-CoL is a well-researched instructional strategy that has been reported to be highly successful in the classroom. It provides students with the tools to effectively work in a collaborative environment. Many of our Science investigations in the classroom provide opportunities for group work. 
+Through SDL, the teaching and learning conditions targeted to meet the needs of our students are established. Here, students take initiatives, set their own goals for learning and follow personal instructional and planning strategies.&nbsp;
 
-D. Problem Based Learning (PBL) 
+  
+C.&nbsp;Cooperative Learning (CoL)&nbsp;
+
+CoL is a well-researched instructional strategy that has been reported to be highly successful in the classroom. It provides students with the tools to effectively work in a collaborative environment. Many of our Science investigations in the classroom provide opportunities for group work.&nbsp;
+
+D.&nbsp;Problem Based Learning (PBL)&nbsp;
 
 PBL focuses on knowing and understanding issues, considering all possible factors, brainstorming for options and eventually deciding on the best solution. As all ideas are initially accepted, problem solving allows for students to find the best possible solution as opposed to the easiest solution or the first solution proposed.
 
@@ -293,4 +291,4 @@ These skills, ethics and attitudes are in line with the 21st Century Competencie
     <td class="tg-uomp"><a href="https://www.moe.gov.sg/education/syllabuses/sciences/"><span style="font-weight:600;text-decoration:none;color:#FF282A">MOE Primary Science Syllabus</span></a><br><a href="https://www.science.edu.sg/"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Science Centre</span></a><span style="font-weight:400;color:#241102"> </span><br><a href="https://www.sdc.com.sg/"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Discovery Centre</span></a><span style="font-weight:400;color:#241102"> </span><br><a href="https://www.wrs.com.sg/en/singapore-zoo/"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Zoo</span></a><span style="font-weight:400;color:#241102"> </span><br><a href="https://www.wrs.com.sg/en/jurong-bird-park/"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Bird Park</span></a><br><a href="https://www.nparks.gov.sg/sbg"><span style="font-weight:600;text-decoration:none;color:#FF282A">Singapore Botanic Gardens</span></a></td>
   </tr>
 </tbody>
-</table\
+</table>
