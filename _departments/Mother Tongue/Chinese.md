@@ -26,6 +26,8 @@ and programmes.&nbsp;</p>
 <h3>Book Recommendation by Committee to Promote Chinese Language Learning (CPCLL)</h3>
 <p><a href="/files/Digital_Storytelling_Poster__Jun_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Storytelling Poster June 2024</a>
 </p>
+<p><a href="/files/Digital_Storytelling_Poster__Dec_2024__compressed.pdf" rel="noopener nofollow" target="_blank">Digital Storytelling Poster Dec 2024</a>
+</p>
 <p></p>
 <p></p>
 <p>Physical Book Recommendation&nbsp;</p>
