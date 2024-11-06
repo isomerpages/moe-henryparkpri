@@ -3,35 +3,68 @@ title: GEP Chinese
 permalink: /departments/gifted-education-programme/gep-chinese/
 description: ""
 third_nav_title: Gifted Education Programme
-variant: markdown
+variant: tiptap
 ---
-### Our Goals
-
-*   Customised approaches for different CL ability groups
-*   Develop higher order, critical and creative thinking skills and strategies with Mindmapping, Bloom’s Taxonomy, Paul's Reasoning, etc.
-*   Increase awareness of the Chinese culture with P4 Reading Carnival &amp; Tea House Visit, P5 Language Camp, P5 &amp; 6 CL Learning Journey
-
-<figure>
-<img src="/images/p4%20reading%20carnival.JPG">
-<figcaption> <strong>P4 Reading Carnival with students from other GEP schools</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/p4%20visit%20to%20the%20tea%20house.JPG">
-<figcaption> <strong>Visit to the Tea House</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/p6%20mural%20trip%20to%20chinatown.JPG">
-<figcaption> <strong>P6 Mural Trip to Chinatown</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/GEP%20Events%204.png">
-<figcaption> <strong>Pupils enjoying the tea house visit learning journey</strong> </figcaption>
-</figure>
-
-<figure>
-<img src="/images/GEP%20Events%205.png">
-<figcaption> <strong>Learning the art of making Chinese tea</strong> </figcaption>
-</figure>
+<h3>Our Goals</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>Customised approaches for different CL ability groups</p>
+</li>
+<li>
+<p>Develop higher order, critical and creative thinking skills and strategies
+with Mindmapping, Bloom’s Taxonomy, Paul's Reasoning, etc.</p>
+</li>
+<li>
+<p>Increase awareness of the Chinese culture with P4 Reading Carnival &amp;
+Tea House Visit, P5 Language Camp, P5 &amp; 6 CL Learning Journey</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ready_for_Quiz_in_P4_CL_Reading_Carnival.jpg">
+</div>
+<p><strong>Ready for Quiz in P4 CL Reading Carnival</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Dress_as_book_characters_in_P4_CL_Reading_Carnival.jpg">
+</div>
+<p><strong>Dress as book characters in P4 CL Reading Carnival</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_students_enjoying_tea_together.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_students_visited_the_Tea_House.jpg">
+</div>
+<p><strong>P4 Students Visited the Tea House</strong>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Another_P5_student_posing_with_a_mural.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5I___do_not_use__inappropriate_.jpg">
+</div>
+<p><strong>P5 Students Enjoyed Mural Trip to Chinatown</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Students_visited_the_Singapore_Chinese_Cultural_Centre.jpg">
+</div>
+<p><strong>P6 Students visited the Singapore Chinese Cultural Centre</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Students_posing_in_front_of_a_signboard_at_SCCC.jpg">
+</div>
+<p><strong>P6 Students posing in front of a signboard at SCCC</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Students_at_an_interactive_booth.jpg">
+</div>
+<p>P6 Students at an interactive booth at SCCC</p>

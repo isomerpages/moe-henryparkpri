@@ -3,25 +3,26 @@ title: Gifted Education Programme
 permalink: /departments/gifted-education-programme/
 description: ""
 third_nav_title: Gifted Education Programme
+variant: markdown
 ---
-### Vision
+### What is the GEP?
 
-The vision of GEP is to make Gifted Education in Singapore a model of excellence. We will achieve this vision by providing professional expertise and exemplary resources to develop intellectual rigour, humane values and creativity in gifted youths to prepare them for responsible leadership and service to country and society.
+The GEP is a programme that caters for the needs of intellectually gifted students. Students are identified for the GEP through a 2-stage exercise in Primary 3. Selected students will be invited to join the programme in Primary 4.
 
-### Mission
+The GEP curriculum is an enriched curriculum designed to meet the needs of GEP students. The enriched curriculum covers the same content areas as those in the mainstream, but is extended in breadth and depth. GEP students will learn skills for independent inquiry and are encouraged to do explorations on self-selected areas of interest.
 
-The mission for GEP is to provide leadership in the education of the intellectually gifted. We are committed to nurturing gifted individuals to their full potential for the fulfilment of self and the betterment of society.
+GEP students have rich opportunities to interact with their schoolmates through school-wide activities, CCAs and Values-in-Action (VIA) programmes, where they learn, work and play together daily.
 
-### Goals
+### Goals of the GEP
+The goals of the GEP are to:
 
-*   Develop intellectual depth and higher level thinking
-*   Nurture productive creativity
-*   Develop attitudes for self-directed lifelong learning
-*   Enhance aspirations for individual excellence and fulfilment
-*   Develop a strong social conscience and commitment to serve society and nation
-*   Develop moral values and qualities for responsible leadership
+* Develop intellectual depth and higher level thinking.
+* Nurture productive creativity.
+* Develop attitudes for self-directed lifelong learning.
+* Enhance aspirations for individual excellence and fulfilment.
+* Develop a strong social conscience and commitment to serve society and the nation.
+* Develop moral values and qualities for responsible leadership.
 
-### Enrichment Model
 
-<img src="/images/rsz_enrichment.png" 
-     style="width:60%">
+
+
