@@ -47,7 +47,7 @@ Tea House Visit, P5 Language Camp, P5 &amp; 6 CL Learning Journey</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Another_P5_student_posing_with_a_mural.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5I___do_not_use__inappropriate_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_08_121219.png">
 </div>
 <p><strong>P5 Students Enjoyed Mural Trip to Chinatown</strong>
 </p>
