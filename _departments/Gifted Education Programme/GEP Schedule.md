@@ -29,7 +29,7 @@ variant: tiptap
 <p>Computing Enrichment Programme (CEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday 1415 - 1615</p>
+<p>Tuesday 1400 - 1600</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Computing Enrichment Programme (CEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday 1415 - 1615</p>
+<p>Thursday 1400 - 1600</p>
 </td>
 </tr>
 </tbody>
