@@ -15,26 +15,26 @@ and interests.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Joy_in_learning_together__P5_.jpg">
 </div>
-<p><strong>Joy in learning together (P5)</strong>
+<p><strong>Joy in learning together</strong>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_CEP_using_mBlock_and_mBot.jpg">
 </div>
-<p><strong>P4 CEP using mBlock and mBot</strong>
+<p><strong>Using mBlock and mBot</strong>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Presentation_Time__P5_.jpg">
 </div>
-<p><strong>Presentation Time (P5)</strong>
+<p><strong>Presentation Time</strong>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Putting_our_heads_together__P5_.jpg">
 </div>
-<p><strong>Putting our heads together (P5)</strong>
+<p><strong>Putting our heads together</strong>
 </p>
