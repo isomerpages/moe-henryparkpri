@@ -10,8 +10,8 @@ development as socially responsible citizens who contribute meaningfully
 to the community, through the learning and application of values, knowledge
 and skills. To develop qualities for responsible leadership and inspire
 commitment to serve society and nation, students work on VIA projects involving
-Persons with Disabilities, Animal Welfare, Children with Special Needs
-and Understanding the Elderly.</p>
+people with physical needs, understanding the elderly and caring for our
+school community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4s_Shopping_for_items_for_the_OSOs.jpg">
