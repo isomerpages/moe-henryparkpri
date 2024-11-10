@@ -8,7 +8,11 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7977.529385352103!2d103.784136!3d1.316783!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1a7ad360fdd1%3A0x84be576780039749!2sHenry%20Park%20Primary%20School!5e0!3m2!1sen!2sus!4v1677048386345!5m2!1sen!2sus"></iframe>
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -33,10 +37,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fax:</p>
+<p>E-mail:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6469 1840</p>
+<p>hpps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
