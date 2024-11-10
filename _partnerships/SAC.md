@@ -81,6 +81,10 @@ variant: markdown
   <tr>
     <td class="tg-nrix"> Member</td>
     <td class="tg-nrix">Dr Kwok Ying Christine </td>
-  </tr>
+		 </tr>
+  <tr>
+		<td class="tg-nrix"> Member</td>
+    <td class="tg-nrix">Dr Kui Swee Leng     
+  </td></tr>
 </tbody>
 </table>
