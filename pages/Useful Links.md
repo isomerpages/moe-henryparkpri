@@ -115,7 +115,7 @@ view the&nbsp;Group Personal Accident (GPA) Product factsheet</p>
 </p>
 </li>
 <li>
-<p><a href="http://w1121padmw00293.schools.moe.edu.sg/figi/" rel="noopener noreferrer nofollow" target="_blank">FIGI</a>
+<p><a href="http://w1121padmw01663.schools.moe.edu.sg/figi/" rel="noopener noreferrer nofollow" target="_blank">FIGI</a>
 </p>
 </li>
 <li>

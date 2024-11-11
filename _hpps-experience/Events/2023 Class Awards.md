@@ -65,6 +65,3 @@ third_nav_title: Events
 ![](/images/6G.png)
 ![](/images/6H.png)
 ![](/images/6I.png)
-
-
-
