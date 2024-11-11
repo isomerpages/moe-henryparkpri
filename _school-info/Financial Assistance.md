@@ -14,7 +14,7 @@ For more information on MOE FAS, please refer to the [MOE FAS Webpage](https://w
   
 Income Family Micro-Insurance and Savings Scheme (IFMISS) covers eligible families receiving financial assistance from  
 MOE FAS for Primary Schools in times of need when death or total and permanent disability occurs to a parent or guardian.  
-Please click [here](https://www.income.com.sg/about-us/sustainability/ifmis) for more information.  
+Please click [here](https://www.income.com.sg/orangeaid/ifmis) for more information.  
   
 
 Students who need additional help can approach General Office, email to [**hpps@moe.edu.sg**](mailto:hpps@moe.edu.sg) or contact the school at  6466 3600 for further financial assistance.
