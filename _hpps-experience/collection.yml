@@ -2,11 +2,11 @@ collections:
   hpps-experience:
     output: true
     order:
-      - Events/2024 Class Awards.md
       - Events/.keep
       - Events/Videos.md
       - Events/HPPS Celebrates.md
       - Events/2023 Class Awards.md
+      - Events/2024 Class Awards.md
       - CCAs.md
       - HPPS eYearbook.md
       - P5 Camp 2023.md
