@@ -14,9 +14,10 @@ description: ""
 <br><a href="/files/6__Educational_Technology_in_Learning_25.pdf" rel="noopener noreferrer nofollow" target="_blank">8. Educational Technology in Learning</a>
 <br><a href="/files/7__Programme_for_Active_Learning__PAL__25.pdf" rel="noopener noreferrer nofollow" target="_blank">9. Programme for Active Learning (PAL)</a>
 <br><a href="/files/8__Land_Transport_Authority__LTA__25.pdf" rel="noopener noreferrer nofollow" target="_blank">10. Land Transport Authority (LTA)</a>
-<br><a href="https://www.youtube.com/watch?v=cViy33s3Xi0" rel="noopener noreferrer nofollow" target="_blank">11. Life in HPPS</a>
+<br><a href="/files/9__POSB_Smart_Buddy_25.pdf" rel="noopener nofollow" target="_blank">11. POSB Smart Buddy</a>
 </p>
-<p><a href="/files/9__POSB_Smart_Buddy_25.pdf" rel="noopener nofollow" target="_blank">12. POSB Smart Buddy</a>
+<p><a href="https://www.youtube.com/watch?v=cViy33s3Xi0" rel="noopener noreferrer nofollow" target="_blank">12. Life in HPPS</a>
 </p>
+<p></p>
 <p></p>
 <p></p>
