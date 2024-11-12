@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <p><a href="/files/1__English_Language_25.pdf" rel="noopener noreferrer nofollow" target="_blank">1. English Language</a>
-<br><a href="/files/2__Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Mathematics</a>
+<br><a href="/files/2__Mathematic_25.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Mathematics</a>
 <br><a href="/files/3a__Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Chinese Language</a>
 <br><a href="/files/3b__Malay_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">4. Malay Language</a>
 <br><a href="/files/3c__Tamil_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">5. Tamil Language</a>
