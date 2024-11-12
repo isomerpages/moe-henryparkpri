@@ -6,21 +6,17 @@ description: ""
 ---
 <p><a href="/files/1__English_Language_25.pdf" rel="noopener noreferrer nofollow" target="_blank">1. English Language</a>
 <br><a href="/files/2__Mathematic_25.pdf" rel="noopener noreferrer nofollow" target="_blank">2. Mathematics</a>
-<br><a href="/files/3a__Chinese_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Chinese Language</a>
-<br><a href="/files/3b__Malay_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">4. Malay Language</a>
-<br><a href="/files/3c__Tamil_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">5. Tamil Language</a>
-<br><a href="/files/4__Learning_for_Life_Programme__LLP_.pdf" rel="noopener noreferrer nofollow" target="_blank">6. Learning for Life Programme</a>
-<br><a href="/files/5__Art_and_Music.pdf" rel="noopener noreferrer nofollow" target="_blank">7. Art and Music</a>
-<br><a href="/files/6__Programme_for_Active_Learning__PAL_.pdf" rel="noopener noreferrer nofollow" target="_blank">8. Programme for Active Learning</a>
-<br><a href="/files/P1_Orientation_Slides_ICT_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">9. Cyber Wellness </a>
-<br><a href="/files/7__Henry_Park_Parents__Association__HPPA_.pdf" rel="noopener noreferrer nofollow" target="_blank">10. Henry Park Parents Association (HPPA)</a>
-<br><a href="/files/8__POSB_Smart_Buddy_Programme.pdf" rel="noopener noreferrer nofollow" target="_blank">11. POSB Smart Buddy Programme</a>
-<br><a href="/files/9__Land_Transport_Authority__LTA_.pdf" rel="noopener noreferrer nofollow" target="_blank">12. Land Transport Authority (LTA)</a>
-<br><a href="https://www.youtube.com/watch?v=cViy33s3Xi0" rel="noopener noreferrer nofollow" target="_blank">13. Henry Park School Tour</a>
+<br><a href="/files/3a__Chinese_Language_25.pdf" rel="noopener noreferrer nofollow" target="_blank">3. Chinese Language</a>
+<br><a href="/files/3b__Malay_Language_25.pdf" rel="noopener noreferrer nofollow" target="_blank">4. Malay Language</a>
+<br><a href="/files/3c__Tamil_Language_25.pdf" rel="noopener noreferrer nofollow" target="_blank">5. Tamil Language</a>
+<br><a href="/files/4__Learning_for_Life_Programm__LLP__25.pdf" rel="noopener noreferrer nofollow" target="_blank">6. Learning for Life Programme</a>
+<br><a href="/files/5__Aesthetics_25.pdf" rel="noopener noreferrer nofollow" target="_blank">7. Aesthetics</a>
+<br><a href="/files/6__Educational_Technology_in_Learning_25.pdf" rel="noopener noreferrer nofollow" target="_blank">8. Educational Technology in Learning</a>
+<br><a href="/files/7__Programme_for_Active_Learning__PAL__25.pdf" rel="noopener noreferrer nofollow" target="_blank">9. Programme for Active Learning (PAL)</a>
+<br><a href="/files/8__Land_Transport_Authority__LTA__25.pdf" rel="noopener noreferrer nofollow" target="_blank">10. Land Transport Authority (LTA)</a>
+<br><a href="https://www.youtube.com/watch?v=cViy33s3Xi0" rel="noopener noreferrer nofollow" target="_blank">11. Life in HPPS</a>
 </p>
-<p><a href="/files/Principal_s_Address.pdf" rel="noopener noreferrer nofollow" target="_blank">14. Principal's Address</a>
+<p><a href="/files/9__POSB_Smart_Buddy_25.pdf" rel="noopener nofollow" target="_blank">12. POSB Smart Buddy</a>
 </p>
-<p><a href="/files/Sharing_by_Year_Head.pdf" rel="noopener noreferrer nofollow" target="_blank">15. Sharing by Year Head</a>
-</p>
-<p><a href="/files/2024_P1_MTL_Curriculum.pdf" rel="noopener noreferrer nofollow" target="_blank">16. 2024 P1 MTL Curriculum</a>
-</p>
+<p></p>
+<p></p>
