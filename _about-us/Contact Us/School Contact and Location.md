@@ -89,18 +89,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://fathers.com.sg/ewyfd/" rel="noopener noreferrer nofollow" target="_blank">Eat With Your Family Day (EWYFD)</a>
-</p>
-<p>HPPS and ACE@Work (Student Care Centre in HPPS) will be <strong>closed by 5 p.m.</strong> on
-these EWYFD dates.</p>
-<p>We seek the co-operation of our parents to make the necessary arrangements
-and we hope that you will have an enjoyable day with your families.</p>
+<p></p>
+<p>Bills &amp; Payment Collection Timings</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• 8 March 2024</p>
-<p>• 24 May 2024</p>
-<p>• 30 August 2024</p>
-<p>• 15 November 2024</p>
+<p>Monday - Friday</p>
+<p>7:00 a.m. – 2:00 p.m.</p>
+<p>(School Term)</p>
+<p></p>
+<p>Monday - Friday</p>
+<p>8:30 a.m. – 2:00 p.m.</p>
+<p>(School Holidays)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
