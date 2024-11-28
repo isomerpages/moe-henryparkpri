@@ -102,13 +102,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Judy Ong</p>
+<p>Ms Sharon Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>judy_ong_meow_kheng_a@schools.gov.sg
+<p>chan_mei_shan@schools.gov.sg
 <br>
 </p>
 </td>
