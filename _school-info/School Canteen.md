@@ -4,24 +4,7 @@ permalink: /school-info/permalink/canteen/
 description: ""
 variant: tiptap
 ---
-<p><strong>Opening for School Canteen Stalls</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Chinese Noodles Stall - Chinese Noodles</p>
-</li>
-<li>
-<p>Halal Noodles Stall - Halal Noodles</p>
-</li>
-<li>
-<p>Vegetarian Stall - Vegetarian</p>
-</li>
-<li>
-<p>Western Stall - Halal or Non-Halal</p>
-</li>
-</ol>
-<p><strong>Closing Date for Application: 29 Nov 2024, Friday</strong>
-</p>
+<p></p>
 <p><strong>Application Procedure</strong>
 </p>
 <ol data-tight="true" class="tight">
