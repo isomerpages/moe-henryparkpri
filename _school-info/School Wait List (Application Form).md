@@ -6,12 +6,12 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>2024 Wait List Application for Henry Park Primary School is now close.</strong>
+<p><strong>2024 School Wait List Application for Henry Park Primary School is now close.</strong>
 </p>
 <p></p>
 </li>
 <li>
-<p><strong>2025 Wait List Application link will be open by end of January 2025. </strong>
+<p><strong>2025 School Wait List Application link will be open by end of January 2025.</strong>
 </p>
 </li>
 </ul>
