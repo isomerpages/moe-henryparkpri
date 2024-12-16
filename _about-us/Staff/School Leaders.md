@@ -53,13 +53,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Chua Leng Yin</p>
+<p>Mdm Jean Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_leng_yin@schools.gov.sg</p>
+<p>lim_yi_jun@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
