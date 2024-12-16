@@ -4,10 +4,6 @@ permalink: /circulars-and-forms/principal-letter-to-parents/
 description: ""
 variant: tiptap
 ---
-<p><strong>2023</strong>
-</p>
-<p><a href="/files/annex%20a-%202024%20hpps%20uniform%20price%20list.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A - 2024 HPPS Uniform Price List</a>
-</p>
 <p><strong>2024</strong>
 </p>
 <ol data-tight="true" class="tight">
@@ -45,6 +41,10 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/THRIVE_09_2024.pdf" rel="noopener nofollow" target="_blank">TH.R.I.V.E_09_2024</a>
+</p>
+</li>
+<li>
+<p><a href="/files/THRIVE_10_2024.pdf" rel="noopener nofollow" target="_blank">TH.R.I.V.E_10_2024</a>
 </p>
 </li>
 </ol>
