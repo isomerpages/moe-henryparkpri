@@ -6,6 +6,12 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><u>20 Dec 2024 - Friday</u></strong>
+</p>
+<p>Our General Office is close in the morning due to staff development activity.</p>
+<p></p>
+</li>
+<li>
 <p><strong><u>Eat With Your Family Day (EWYFD)</u></strong>
 </p>
 <p>“Eat with Your Family Day” (EWYFD) is a nation-wide initiative led by
