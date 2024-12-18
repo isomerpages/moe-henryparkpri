@@ -8,7 +8,7 @@ variant: tiptap
 <li>
 <p><strong><u>20 Dec 2024 - Friday</u></strong>
 </p>
-<p>Our General Office is close in the morning due to staff development activity.</p>
+<p>The General Office will be closed in the morning due to staff training.</p>
 <p></p>
 </li>
 <li>
