@@ -36,11 +36,8 @@ variant: tiptap
 <p>Ms Fitri Kurniati Binte Sanib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">lee_tse_pei@moe.edu.sg</a>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">fitri_kurniati_sanib@moe.edu.sg</a>
-</p>
-<p></p>
+<p>lee_tse_pei@moe.edu.sg</p>
+<p>fitri_kurniati_sanib@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
