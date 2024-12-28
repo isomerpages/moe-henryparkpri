@@ -1024,14 +1024,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leo Siew Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leo_siew_hui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Li Qing Song</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1338,13 +1330,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Pei Shan</p>
+<p>Mdm Gwendolyn Natasha Bava</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chong_pei_shan@moe.edu.sg</p>
+<p>gwendolyn_natasha_bava@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
