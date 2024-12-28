@@ -1206,14 +1206,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Zhou Yu Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zhou_yujun@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Zou Wen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1258,14 +1250,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>latiffah_mohamed_maideen@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kandasamy Devi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>kandasamy_parvathi_devi@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -1331,14 +1315,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>yuan_wenjing@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Rosaidah Ghazali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>rosaidah_ghazali@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
