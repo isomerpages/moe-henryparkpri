@@ -61,7 +61,7 @@ variant: tiptap
 <p>Mrs Irene Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (GE 1)</p>
+<p>HOD (Curriculum, Assessment &amp; Pedagogy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>irene_tan_seng_chew@moe.edu.sg</p>
@@ -69,21 +69,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leo Siew Hui</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Student Well-being)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>leo_siew_hui@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Deepak David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (CCE)</p>
+<p>HOD (CCE Student Management)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>deepak_david@moe.edu.sg</p>
@@ -146,6 +135,39 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Siti Rashidah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD, Covering (CCE Curriculum)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_rashidah_abdul_rahi@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD, Covering (EdTech)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lim_jia_yi_michelle@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Darren Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD, Covering (GEP)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lau_kar_loong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Iris See</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -177,17 +199,6 @@ variant: tiptap
 <p>muhammad_sadhiq@moe.edu.sg
 <br>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Siti Rashidah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>AYH (P3)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>siti_rashidah_abdul_rahi@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
@@ -246,17 +257,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Darren Lau</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH - Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lau_kar_loong@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Claire Lim-Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,28 +279,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Michelle Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH -ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lim_jia_yi_michelle@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Sabrina Ayoob</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Student Well-being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>sabrina_ayoob@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Ong Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -319,17 +297,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>norrehan_mohamad_jabbar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Jeremy Wan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - PE &amp; LLP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>wan_kerr_wen_jeremy@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -388,17 +355,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Joo Nam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_joo_nam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Nora Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -417,17 +373,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_eng_peng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Zhou Yujun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>zhou_yujun@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
