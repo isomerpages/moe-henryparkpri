@@ -32,8 +32,180 @@ variant: tiptap
 <p>1 Attentiveness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Jiao Yang</p>
+<p>Ms Iris Koh</p>
+<p>Ms Fitri Kurniati Binte Sanib</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lee_tse_pei@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">fitri_kurniati_sanib@moe.edu.sg</a>
+</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Boldness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Stacy Tan</p>
+<p>Mrs Joyce Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_yizi_stacy@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">joyce_teh_meng_hwee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Creativity</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Ms Xu Chunshan</p>
+<p>Mdm Yan Lingli</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">xu_chunshan@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yan_lingli@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Diligence</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Wai Han, Jo</p>
+<p>Ms Zheng Yiting Sheila</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">tang_wai_han@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">zheng_yiting_sheila@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Enthusiasm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Chua</p>
+<p>Mdm Tan Hwee Tiang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chua_sow_ping_esther_a@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_hwee_tiang_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Flexibility</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yvonne Lim</p>
+<p>Mdm Yang Liman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">lim_lee_youn@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yang_liman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Generosity</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Aidilawati</p>
+<p>Mdm Tuan I Ching</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">aidilawati_ahmad@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tuan_i_ching@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Harmony</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Emily Tang</p>
+<p>Ms Noorashikin Bte Yahya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">emily_tang@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">noorashikin_yahya@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Initiative</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Saharah</p>
+<p>Ms Lam Yuen Kay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">lam_yuen_kay@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Joyfulness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Julia Wan</p>
+<p>Ms Tiow Jingmin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">julia_wan@moe.edu.sg</a>
+</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tiow_jingmin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Classes</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Form Teachers</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Email Addresses</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Attentiveness</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Fitri Kurniati Binte Sanib</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jiao_yang@moe.edu.sg</p>
