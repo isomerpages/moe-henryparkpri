@@ -2,20 +2,19 @@
 title: Cyber Wellness
 permalink: /departments/information-and-communication-technology/cyber-wellness/
 description: ""
-third_nav_title: ICT
+third_nav_title: EdTech
 ---
 ### What is Cyber Wellness
 
-Cyber Wellness (CW) refers to the positive well-being of Internet users. CW education aims to equip students with an understanding of online behaviour and enable them to be responsible for their own well-being in cyberspace. 
+Cyber Wellness (CW) refers to the positive well-being of Internet users. CW education aims to equip students with an understanding of online behaviour and enable them to be responsible for their own well-being in cyberspace.&nbsp;
 
-(Credit: MOE website: https://beta.moe.gov.sg/programmes/cyber-wellness/) 
+(Credit: MOE website:&nbsp;https://beta.moe.gov.sg/programmes/cyber-wellness/)&nbsp;
 
 ### HPPS Cyber Wellness Vision
 
 In HPPS, our vision is to empower our students to be future-ready and discerning digital citizens. To achieve this vision, our school believes in forging strong collaboration and partnerships with various stakeholders for effective and meaningful Cyber Wellness education in our students.
 
-<img src="/images/cyber%20wellness.png" 
-     style="width:70%">
+<img src="/images/cyber%20wellness.png" style="width:70%">
 		 
 ### HPPS Cyber Wellness Curriculum and Programmes
 
@@ -93,9 +92,9 @@ Our Cyber Wellness curriculum and school-wide programmes aim to equip our studen
 3) Cyber Wellness lessons  <br>
 4) Post-PSLE Cyber Wellness workshop  <br>
 5) Safer Internet Day  <br>
-6) Cyber Wellness Bazaar (held in conjunction with Kindness Bazaar)     
+6) Cyber Wellness Bazaar (held in conjunction with Kindness Bazaar)&nbsp; &nbsp;  
 
-These lessons and programmes are designed and implemented based on MOE’s Cyber Wellness framework. 
+These lessons and programmes are designed and implemented based on MOE’s Cyber Wellness framework.&nbsp;
 
 ### Cyber Wellness Student Ambassadors: HPPS Cyber Heroes
 
@@ -109,18 +108,16 @@ Guided by MOE’s Cyber Wellness Framework’s third principle – Positive Peer
 
 To complement the Cyber Wellness curriculum in HPPS, we encourage parents to:
 
-1. Establish ground rules for the use of digital devices and the Internet.
+1.&nbsp;Establish ground rules for the use of digital devices and the Internet.
 
-2. Talk to your child about his/her online experiences and discuss about the benefits and risks of the Internet.
+2.&nbsp;Talk to your child about his/her online experiences and discuss about the benefits and risks of the Internet.
 
-3. Get your child to share with you his/her favourite online websites and spend time online together doing family activities.
+3.&nbsp;Get your child to share with you his/her favourite online websites and spend time online together doing family activities.
 
-4. Reassure your child that he/she can ask you questions or talk to you if he/she runs into problems online.
+4.&nbsp;Reassure your child that he/she can ask you questions or talk to you if he/she runs into problems online.
 
  
 For more information and the latest update of Cyber Wellness issues and parental tips, please refer to the following resources.
 
-<img src="/images/cw1.png" 
-     style="width:60%">
-<img src="/images/cw%202.png" 
-     style="width:60%">
+<img src="/images/cw1.png" style="width:60%">
+<img src="/images/cw%202.png" style="width:60%">

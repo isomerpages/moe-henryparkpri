@@ -236,15 +236,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Tianli Joyce</p>
-<p>Ms Lim Jia Hui Crystal</p>
+<p>Ms Pauline Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zheng_tianli_joyce@moe.edu.sg</a>
 </p>
-<p><a href="mailto:lim_jia_hui_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_hui_crystal@moe.edu.sg</a>
+<p><a href="mailto:lee_miin_jiun_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_miin_jiun_pauline@moe.edu.sg</a>
 </p>
-<p></p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -342,12 +340,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Saifullizan Almashor</p>
-<p>Mrs Wong Ser Huay</p>
+<p>Mrs Siregar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">saifullizan_almashor@moe.edu.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">tan_ser_huay@moe.edu.sg</a>
+<p><a href="mailto:siregar_franklin_nee_tien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siregar_franklin_nee_tien@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -381,10 +379,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chamanpreet Kaur</p>
-<p>Sherene Tan</p>
+<p>Ms Sherene Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chamanpreet_kaur@moe.edu.sg</a>
+</p>
+<p><a href="mailto:tan_sin_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sin_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -424,12 +424,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Haslina Binte Hassan</p>
-<p>Ms Loo Ming Jia</p>
+<p>Ms Chong Suh In</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">haslina_hassan_a@moe.edu.sg</a>
 </p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">loo_ming_jia@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">chong_suh_in@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -523,12 +523,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Rebecca Lo Wai Yin</p>
-<p>Teo Ya Qi</p>
+<p>Ms Teo Ya Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">rebecca_lo_wai_yin@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
+<p><a href="mailto:teo_ya_qi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_ya_qi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -567,10 +568,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Peggy Choong</p>
-<p>Cynthia Ang</p>
+<p>Ms Cynthia Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_gek_hong_peggy@moe.edu.sg</a>
+</p>
+<p><a href="mailto:ang_lee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lee_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -581,7 +584,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Ling Lee Ching</p>
 <p></p>
-<p>Ramakrishnan Gowrishankar</p>
+<p>Mr Shankar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ho_lee_ching@moe.edu.sg</a>
@@ -595,7 +598,7 @@ variant: tiptap
 <p>4 Flexibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Suan Khim</p>
+<p>Ms Lee Suan Khim</p>
 <p>Mdm Siti Rashidah Binte Abdul Rahim</p>
 <p>&nbsp;</p>
 </td>
@@ -763,7 +766,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ong_li_ling@moe.edu.sg</a>
 </p>
-<p>&nbsp;<a href="mailto:poon_si_ying_averil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_si_ying_averil@moe.edu.sg</a>
+<p><a href="mailto:poon_si_ying_averil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_si_ying_averil@moe.edu.sg</a>
 </p>
 </td>
 </tr>
