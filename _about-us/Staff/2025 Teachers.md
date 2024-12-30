@@ -572,10 +572,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Ling Lee Ching</p>
+<p></p>
 <p>Ramakrishnan Gowrishankar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ho_lee_ching@moe.edu.sg</a>
+</p>
+<p><a href="mailto:Ramakrishnan_Gowrishankar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ramakrishnan_Gowrishankar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
