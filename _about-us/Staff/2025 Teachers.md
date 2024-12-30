@@ -600,8 +600,8 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p><a href="mailto:lee_suan_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_suan_khim@moe.edu.sg</a>
+</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">siti_rashidah_abdul_rahi@moe.edu.sg</a>
 </p>
 </td>
