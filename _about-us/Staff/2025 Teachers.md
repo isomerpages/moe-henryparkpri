@@ -757,12 +757,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Ong Li Ling</p>
+<p>Ms Averil Poon</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ong_li_ling@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
+<p>&nbsp;<a href="mailto:poon_si_ying_averil@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">poon_si_ying_averil@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
