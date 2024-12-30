@@ -152,11 +152,11 @@ variant: tiptap
 <p>1 Initiative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Saharah</p>
+<p>Ms Saharah Wong</p>
 <p>Ms Lam Yuen Kay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p><a href="mailto:saharah_wong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saharah_wong@moe.edu.sg</a>&nbsp;</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">lam_yuen_kay@moe.edu.sg</a>
 </p>
 </td>
@@ -225,6 +225,8 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">koh_choon_tiang@moe.edu.sg</a>
 </p>
+<p><a href="mailto:parayanthal_veetil_moli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parayanthal_veetil_moli@moe.edu.sg</a>
+</p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -234,11 +236,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zheng Tianli Joyce</p>
-<p>Lim Jia Hui Crystal</p>
+<p>Ms Lim Jia Hui Crystal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">zheng_tianli_joyce@moe.edu.sg</a>
 </p>
+<p><a href="mailto:lim_jia_hui_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_hui_crystal@moe.edu.sg</a>
+</p>
+<p></p>
 <p>&nbsp;</p>
 </td>
 </tr>
@@ -464,6 +469,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fathlon Tawfik</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">fathlon_mohd_tawfik@moe.edu.sg</a>
