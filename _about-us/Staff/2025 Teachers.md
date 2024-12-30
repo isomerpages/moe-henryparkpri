@@ -469,10 +469,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Fathlon Tawfik</p>
-<p>Ms</p>
+<p>Ms Chu Li Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">fathlon_mohd_tawfik@moe.edu.sg</a>
+</p>
+<p><a href="mailto:chu_li_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_li_xuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -679,10 +681,13 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lee Zi Xuan</p>
+<p>Ms Yu Ziling</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_zi_xuan@moe.edu.sg</a>
+</p>
+<p><a href="mailto:yu_ziling@mie.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_ziling@mie.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
@@ -707,10 +712,12 @@ variant: tiptap
 <p>5 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Wei Ling</p>
+<p>Ms Wong Wei Ling</p>
 <p>Mdm Kerina Maksin</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:wong_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ling@moe.edu.sg</a>
+</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">kerina_maksin@moe.edu.sg</a>
 </p>
 </td>
@@ -768,6 +775,8 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lim_xue_er_cheryl@moe.edu.sg</a>
+</p>
+<p><a href="mailto:go_han_serm@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_han_serm@moe.edu.s</a>
 </p>
 <p>&nbsp;</p>
 </td>
