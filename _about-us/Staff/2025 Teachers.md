@@ -568,10 +568,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mrs Peggy Choong</p>
-<p>Cynthia Ang</p>
+<p>Ms Cynthia Ang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">ng_gek_hong_peggy@moe.edu.sg</a>
+</p>
+<p><a href="mailto:ang_lee_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_lee_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
