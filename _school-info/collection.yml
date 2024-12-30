@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - Sch Info.md
       - Students Awards.md
       - School Canteen.md
       - Dismissal Timings, Pickup Points, Gate Opening Hours.md
