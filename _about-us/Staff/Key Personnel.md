@@ -337,7 +337,7 @@ variant: tiptap
 <p>Ms Lam Yuen Kay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (P1 &amp; 2)</p>
+<p>AYH (P1)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lam_yuen_kay@moe.edu.sg</p>
@@ -359,7 +359,7 @@ variant: tiptap
 <p>Ms Rajesheela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (P5 &amp; P6)</p>
+<p>AYH (P5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rajesheela_rajanthiran@moe.edu.sg</p>
