@@ -345,24 +345,25 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Rajesheela</p>
+<p>Mdm Norrehan Mohd Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (P3 &amp; P4)</p>
+<p>AYH (P3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>rajesheela_rajanthiran@moe.edu.sg</p>
+<p></p>
+<p>norrehan_mohamad_jabbar@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norrehan Mohd Jabbar</p>
+<p>Ms Rajesheela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH (P5 &amp; P6)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norrehan_mohamad_jabbar@moe.edu.sg</p>
+<p>rajesheela_rajanthiran@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
