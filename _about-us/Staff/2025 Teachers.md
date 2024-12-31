@@ -690,7 +690,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">lee_zi_xuan@moe.edu.sg</a>
 </p>
-<p><a href="mailto:yu_ziling@mie.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_ziling@mie.edu.sg</a>
+<p><a href="mailto:yu_ziling@mie.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yu_ziling@moe.edu.sg</a>
 </p>
 <p>&nbsp;</p>
 </td>
