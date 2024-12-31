@@ -4,7 +4,6 @@ permalink: /sch-info/e-learning-platforms-logins/
 variant: tiptap
 description: ""
 ---
-<h4><strong>e-Learning Platforms &amp; Logins</strong></h4>
 <p><strong><u>Student Learning Space (SLS)</u></strong>
 </p>
 <table style="minWidth: 50px">
