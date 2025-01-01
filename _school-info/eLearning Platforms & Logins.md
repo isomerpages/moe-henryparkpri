@@ -63,16 +63,8 @@ description: ""
 <td rowspan="1" colspan="1">
 <p><strong>Login Portal:</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>MIMS Username: Full_Name&gt;@<a rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a></strong>
+<p><strong>(Please use MIMS Username and Password provided in Student Diary)</strong>
 </p>
-</li>
-<li>
-<p><strong>Please use MIMS Username and Password provided in Student Diary</strong>
-</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
