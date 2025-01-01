@@ -1,8 +1,9 @@
 ---
 title: Cyber Wellness
-permalink: /departments/information-and-communication-technology/cyber-wellness/
+permalink: /departments/edtech/cyber-wellness/
 description: ""
 third_nav_title: EdTech
+variant: tiptap
 ---
 ### What is Cyber Wellness
 

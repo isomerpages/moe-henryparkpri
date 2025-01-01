@@ -1,6 +1,6 @@
 ---
 title: Educational Technology (EdTech)
-permalink: /departments/edtech/
+permalink: /departments/edtech/educational-technology/
 description: ""
 third_nav_title: EdTech
 variant: tiptap
