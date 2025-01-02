@@ -719,7 +719,7 @@ variant: tiptap
 <p>Mdm Kerina Maksin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ling@moe.edu.sg</a>
+<p><a href="mailto:wong_wei_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wei_ling_a@moe.edu.sg</a>
 </p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">kerina_maksin@moe.edu.sg</a>
 </p>
