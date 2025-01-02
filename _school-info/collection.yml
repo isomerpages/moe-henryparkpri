@@ -2,6 +2,7 @@ collections:
   school-info:
     output: true
     order:
+      - MOE Group Personal Accident (GPA) Insurance.md
       - eLearning Platforms & Logins.md
       - Students Awards.md
       - School Canteen.md
