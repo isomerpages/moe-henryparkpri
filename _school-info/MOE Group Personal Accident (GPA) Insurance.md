@@ -20,5 +20,5 @@ Plan for Students can be found on Income’s website at&nbsp;<a href="https://ww
 insurance coverage on the NTUC Income. <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>.</p>
 </li>
 </ol>
-<p><a href="https://www.income.com.sg/studentgpa" rel="noopener noreferrer nofollow" target="_blank"><u>https://studentgpa.incomegroupins.com.sg</u></a>
-</p>
+<p></p>
+<p></p>

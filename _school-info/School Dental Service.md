@@ -48,3 +48,13 @@ following dental clinics at 9115 1679 (Nan Hua Primary School) or 92707791
 <br>Tuesday &amp; Thursday
 <br>8:00 a.m. - 5:30 p.m.
 <br>(Lunch break: 12.30 p.m.-1.30 p.m.)</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
