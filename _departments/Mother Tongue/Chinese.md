@@ -24,87 +24,19 @@ and programmes.&nbsp;</p>
 </li>
 </ul>
 <h3>Book Recommendation by Committee to Promote Chinese Language Learning (CPCLL)</h3>
-<p><a href="/files/Digital_Storytelling_Poster__Jun_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">Digital Storytelling Poster June 2024</a>
-</p>
-<p><a href="/files/Digital_Storytelling_Poster__Dec_2024__compressed.pdf" rel="noopener nofollow" target="_blank">Digital Storytelling Poster Dec 2024</a>
-</p>
 <p></p>
 <p></p>
 <p>Physical Book Recommendation&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">January 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Feb_2024__1_.pdf" rel="noopener noreferrer nofollow" target="_blank">February 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Book_Recommendation__CPCLL__Primary_Term_1_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">March 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Apr_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">April 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/May___June_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">May June 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">July 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">August 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Book_Recommendation__CPCLL__Primary_Term_3_2024.pdf" rel="noopener nofollow" target="_blank">September 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Physical_Book_Recommendations__CPCLL__Primary___Oct_2024.pdf" rel="noopener nofollow" target="_blank">October 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Book_Recommendation__CPCLL__Primary_Term_4_2024.pdf" rel="noopener nofollow" target="_blank">Term 4 2024</a>
+<p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">January 2025</a>
 </p>
 </li>
 </ul>
 <p>eBook Recommendation&nbsp;</p>
 <ul>
 <li>
-<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">January 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Feb_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">February 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Digital_Storytelling_Poster__Mar_2024_.pdf" rel="noopener noreferrer nofollow" target="_blank">March 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Apr_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">April 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">July 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Aug_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">August 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Digital_Storytelling_Poster__Sep_2024_.pdf" rel="noopener nofollow" target="_blank">September 2024</a>
-</p>
-</li>
-<li>
-<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Oct_2024.pdf" rel="noopener nofollow" target="_blank">October 2024</a>
+<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">January 2025</a>
 </p>
 </li>
 </ul>
