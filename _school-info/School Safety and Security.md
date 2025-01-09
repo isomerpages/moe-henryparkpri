@@ -49,14 +49,14 @@ Strategically located CCTV cameras allow the school to monitor entrance and exit
 
   
 ##### Safe Route for Vehicles
-The routes vehicles are to use are described in&nbsp;**[[Appendix 1 (Traffic Flow Jan 2025)]
+The routes vehicles are to use are described in&nbsp;**[Appendix 1 HPPS Traffic Flow Jan 2025](/files/Appendix_1_HPPS_Traffic_Flow_Jan_2025.pdf)**  
 
 *   Vehicles enter from Gate 2 or Gate 4 during the stipulated hours. Buses enter from Gate 4.
 *   For vehicles coming in from Gate 2, students alight in front of the General Office. For vehicles coming in from Gate 4, drivers are to stop in front of the Security Guards or Traffic Marshalls at the bus bay.
 
 **Safe Routes for Pedestrians**  
 
-*   Pedestrians enter and leave the school through the route described in&nbsp;**[Appendix 2 (HPPS Safe Route)](/files/HPPS%20Safe%20Route_Appendix%202_amended%2019%20Apr.pdf)**  
+*   Pedestrians enter and leave the school through the route described in&nbsp;**[Appendix 2 HPPS Safe Route Jan 2025](/files/Appendix_2_HPPS_Safe_Route_Jan_2025.pdf)**  
     
 *   Pedestrians enter and exit the school via the sheltered walkway.
 
