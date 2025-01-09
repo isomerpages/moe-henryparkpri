@@ -1114,14 +1114,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Peggy Choong Gek Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1232,6 +1224,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>latiffah_mohamed_maideen@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kishen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>kishen_vijayan_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Shankar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ramakrishnan_gowrishankar@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
