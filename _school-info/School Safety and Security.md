@@ -56,7 +56,7 @@ The routes vehicles are to use are described in&nbsp;**[Appendix 1 HPPS Traffic 
 
 **Safe Routes for Pedestrians**  
 
-*   Pedestrians enter and leave the school through the route described in&nbsp;**[Appendix 2 (HPPS Safe Route)](/files/HPPS%20Safe%20Route_Appendix%202_amended%2019%20Apr.pdf)**  
+*   Pedestrians enter and leave the school through the route described in&nbsp;**[Appendix 2 HPPS Safe Route Jan 2025](/files/Appendix_2_HPPS_Safe_Route_Jan_2025.pdf)**  
     
 *   Pedestrians enter and exit the school via the sheltered walkway.
 
