@@ -84,23 +84,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Monday – Friday
-<br>9:00 a.m. – 5:00 p.m.</p>
+<br>8:00 a.m. – 5:00 p.m.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<p>Bills &amp; Payment Collection Timings</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday - Friday</p>
-<p>7:00 a.m. – 2:00 p.m.</p>
-<p>(School Term)</p>
-<p></p>
-<p>Monday - Friday</p>
-<p>8:30 a.m. – 2:00 p.m.</p>
-<p>(School Holidays)</p>
 <p></p>
 </td>
 </tr>
