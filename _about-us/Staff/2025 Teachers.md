@@ -1180,10 +1180,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zou Wen</p>
+<p>Mdm Yu Ziling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>zou_wen@moe.edu.sg</p>
+<p>yu_ziling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1301,10 +1301,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Seow Jian Jian</p>
+<p>Dr Celestine Seow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chin_jian_jian@moe.edu.sg</p>
+<p>seow_su_yi_celestine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
