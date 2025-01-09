@@ -42,7 +42,7 @@ email OR to the School's General Office.</p>
 <p>Address: 1 Holland Grove Road, Singapore 278790</p>
 <p>Contact No: 64663600</p>
 <p>Email: hpps@moe.edu.sg</p>
-<p>Contact Person: Mr Ang Tien Hock (Administration Manager)</p>
+<p>Contact Person: Administration Manager</p>
 </li>
 </ol>
 <p><strong>How to get here?</strong>
