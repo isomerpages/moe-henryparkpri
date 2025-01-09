@@ -1002,6 +1002,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Seah Wen Shuen, Agnes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>seah_wen_shuen_agnes@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Cheng Xiaoxi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1098,18 +1106,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Yinglin</p>
+<p>Ms Tiow Jingmin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>liu_yinglin@moe.edu.sg</p>
+<p>tiow_jingmin@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Loo Ming Jia</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>loo_ming_jia@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1331,6 +1339,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_sharah_amat_sam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Darren Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lau_kar_loong@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
