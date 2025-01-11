@@ -88,11 +88,16 @@ skills.</p>
 <p>&nbsp;</p>
 <p><strong><u>Other Programmes</u></strong>
 </p>
-<p><strong>THINKING@PLAY (Primary 1 to Primary 6)</strong>
+<p><strong>THINKING@PLAY</strong>
 </p>
-<p>Thinking@Play is an initiative aimed at providing the students with an
-opportunity to play mathematics-related games. Thinking@Play sessions are
-conducted during the various recesses.</p>
+<p>Thinking@Play aims to cultivate creative and critical thinking in students
+through Math games, helping them develop strategic thinking and problem-solving
+skills while being engaged in meaning play time.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_1.png">
+</div>
 <p><strong>MATHEMATICS OLYMPIAD COMPETITIONS</strong>
 </p>
 <p>Mathematics Olympiad competitions provide our students with the opportunities
