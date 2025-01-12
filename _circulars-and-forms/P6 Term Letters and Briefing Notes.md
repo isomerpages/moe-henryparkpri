@@ -7,68 +7,40 @@ variant: tiptap
 <h3>P6 Briefing Slides</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_P6_English_Language_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
-</p>
+<p>English Language</p>
 </li>
 <li>
-<p><a href="/files/P6_Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
-</p>
+<p>Mathematics</p>
 </li>
 <li>
-<p><a href="/files/P6_Foundation_Mathematics.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Mathematics</a>
-</p>
+<p>Foundation Mathematics</p>
 </li>
 <li>
-<p><a href="/files/P6_Science___Foundation_Science.pdf" rel="noopener noreferrer nofollow" target="_blank">Science and Foundation Science</a>
-</p>
+<p>Science and Foundation Science</p>
 </li>
 <li>
-<p><a href="/files/P6_Higher_Chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Language</a>
-</p>
+<p>Higher Chinese Language</p>
 </li>
 <li>
-<p><a href="/files/P6_Chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
-</p>
+<p>Chinese Language</p>
 </li>
 <li>
-<p><a href="/files/P6_Foundation_Chinese.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese</a>
-</p>
+<p>Foundation Chinese</p>
 </li>
 <li>
-<p><a href="/files/P6_Malay___Higher_Malay_Language.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay and Higher Malay Language</a>
-</p>
+<p>Malay and Higher Malay Language</p>
 </li>
 <li>
-<p><a href="/files/P6_Tamil.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
-</p>
+<p>Tamil Language</p>
 </li>
 <li>
-<p><a href="/files/SBB_and_DSA_Engagement_Session.pdf" rel="noopener noreferrer nofollow" target="_blank">SBB and DSA Engagement Session</a>
-</p>
+<p>SBB and DSA Engagement Session</p>
 </li>
 </ol>
-<h3>P6 Term Letters</h3>
+<h3>Level Matters and Assessment Schedule</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/2024_P6_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Term 1 Level Matters</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P6_Semester_1_Assessment.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Semester 1 Assessments</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_P6_Term_2_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Term 2 Level Matters</a>
-</p>
-</li>
-<li>
-<p><a href="/files/P6_Prelim_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Prelim Timetable</a>
-</p>
-</li>
-<li>
-<p><a href="/files/2024_PSLE_Timetable.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 PSLE Timetable</a>
-</p>
+<p>P6 Term 1 Level Matters</p>
 </li>
 </ol>
-<h3></h3>
 <p></p>
