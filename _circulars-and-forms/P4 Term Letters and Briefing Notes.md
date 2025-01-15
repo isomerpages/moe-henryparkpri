@@ -8,7 +8,7 @@ variant: tiptap
 <p></p>
 <h4>Subject Briefing Slides</h4>
 <p>English Language</p>
-<p>MAthematics</p>
+<p>Mathematics</p>
 <p>Science</p>
 <p>Chinese and Higher Chinese Language</p>
 <p>Malay Language</p>
