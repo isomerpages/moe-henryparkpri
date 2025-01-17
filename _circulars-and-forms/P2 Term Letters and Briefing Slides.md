@@ -29,11 +29,7 @@ variant: tiptap
 </ol>
 <p></p>
 <p>P2 Term Letters</p>
-<p><a href="/files/2024_P2_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Level Matters</a>
+<p><a href="/files/2025_P2_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Level Matters</a>
 </p>
-<p><a href="/files/2024_P2_Holistic_Development_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">P2 Holistic Development Plan</a>
-</p>
-<p><a href="/files/2024_P2_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Level Matters</a>
-</p>
-<p><a href="/files/2024_P2_Term_3_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Level Matters</a>
-</p>
+<p></p>
+<p></p>
