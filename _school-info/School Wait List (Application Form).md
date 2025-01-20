@@ -8,4 +8,5 @@ variant: tiptap
 </p>
 <p><strong>Submit </strong><a href="https://form.gov.sg/678dd0d5f68da207d7862024" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<p></p>
+<p><strong><u>Closing Date: 28 November 2025, 3pm.</u></strong>
+</p>
