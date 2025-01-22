@@ -42,7 +42,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">link</a> for more information
 on MOE Sexuality Education.</p>
-<h4><strong><br>Overview of Henry Park Primary School's Sexuality Education Programme for 2024</strong></h4>
+<h4><strong><br>Overview of Henry Park Primary School's Sexuality Education Programme for 2025</strong></h4>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -82,9 +82,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<h4><strong>At Henry Park Primary School, the following lessons from the Growing Years Programme will be taught in 2024:</strong></h4>
-<p><strong>&nbsp;Primary 5</strong>
-</p>
+<h4><strong>At Henry Park Primary School, the following lessons from the Growing Years Programme will be taught in 2025:</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -93,6 +91,21 @@ from sexuality-related risks.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>CCE(FTGP) THEME</strong>
@@ -130,7 +143,7 @@ affected, even when oneâ€™s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 2 Week 1</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +163,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 2</p>
 </td>
 </tr>
 <tr>
@@ -168,7 +181,36 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 8</p>
+<p>Term 2 Week 5</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -181,6 +223,21 @@ and how to seek help for themselves and their friends.</p>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Primary 6</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>CCE(FTGP) THEME</strong>
@@ -218,7 +275,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 10</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +292,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
