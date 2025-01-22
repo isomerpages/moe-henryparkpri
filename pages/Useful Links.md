@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://myskillsfuture.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary/about/myskillsfuture-for-students.html" rel="noopener noreferrer nofollow" target="_blank">MySkillsFuture Student Portal</a>
 </p>
 </li>
 <li>
