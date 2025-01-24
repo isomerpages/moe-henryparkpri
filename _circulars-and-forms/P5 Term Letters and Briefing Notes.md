@@ -38,7 +38,8 @@ variant: tiptap
 <h3>Level Matters and Assessment Schedule</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>P5 Term 1 Level Matters</p>
+<p><a href="/files/2025_P5_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Term 1 Level Matters</a>
+</p>
 </li>
 <li>
 <p><a href="/files/P5_Assessment_Schedule__Terms_1___3___Mainstream_students_only_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Assessment Schedule</a>
