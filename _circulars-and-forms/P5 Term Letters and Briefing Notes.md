@@ -40,5 +40,9 @@ variant: tiptap
 <li>
 <p>P5 Term 1 Level Matters</p>
 </li>
+<li>
+<p><a href="/files/P5_Assessment_Schedule__Terms_1___3___Mainstream_students_only_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Assessment Schedule</a>
+</p>
+</li>
 </ol>
 <p></p>
