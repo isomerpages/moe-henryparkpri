@@ -60,14 +60,14 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<th rowspan="1" colspan="1">
 <p><strong>Login Portal:</strong>
 </p>
 <p><strong>(Please use MIMS Username and Password provided in Student Diary)</strong>
 </p>
-</td>
+</th>
 <th rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
 </p>
 </th>
 </tr>
@@ -77,7 +77,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.henryparkpri.moe.edu.sg/files/MIMS_Student_Self_Reset_Password_Guide.pdf</a>
+<p><a href="https://www.henryparkpri.moe.edu.sg/files/MIMS_Student_Self_Reset_Password_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.henryparkpri.moe.edu.sg/files/MIMS_Student_Self_Reset_Password_Guide.pdf</a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>Please ensure that no other users are signed in. If there is other user,
-please log out or use “Guest Mode” to sign in.</p>
+please log out or user "Guest Mode" to sign in.</p>
 </li>
 <li>
 <p>Please do not save any passwords in the web browser to avoid login issues
