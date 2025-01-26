@@ -72,12 +72,8 @@ description: ""
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>MIMS Student Self-Service Password Reset Guide</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.henryparkpri.moe.edu.sg/files/MIMS_Student_Self_Reset_Password_Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">https://www.henryparkpri.moe.edu.sg/files/MIMS_Student_Self_Reset_Password_Guide.pdf</a>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.henryparkpri.moe.edu.sg/files/MIMS_Student_Self_Reset_Password_Guide.pdf" rel="noopener nofollow" target="_blank">MIMS Student Self-Service Password Reset Guide</a>
 </p>
 </td>
 </tr>
