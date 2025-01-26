@@ -60,16 +60,16 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p><strong>Login Portal:</strong>
 </p>
 <p><strong>(Please use MIMS Username and Password provided in Student Diary)</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,7 +91,7 @@ description: ""
 <ul data-tight="true" class="tight">
 <li>
 <p>Please ensure that no other users are signed in. If there is other user,
-please log out or user "Guest Mode" to sign in.</p>
+please log out or use “Guest Mode” to sign in.</p>
 </li>
 <li>
 <p>Please do not save any passwords in the web browser to avoid login issues
