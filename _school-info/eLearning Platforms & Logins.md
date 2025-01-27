@@ -67,17 +67,13 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
+<p><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">https://idp.mims.moe.gov.sg/nidp/app/login</a>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>MIMS Student Self-Service Password Reset Guide</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.henryparkpri.moe.edu.sg/files/MIMS_Student_Self_Reset_Password_Guide.pdf</a>
+<td rowspan="1" colspan="2">
+<p><a href="https://www.henryparkpri.moe.edu.sg/files/MIMS_Student_Self_Reset_Password_Guide.pdf" rel="noopener nofollow" target="_blank">MIMS Student Self-Service Password Reset Guide</a>
 </p>
 </td>
 </tr>
@@ -138,6 +134,80 @@ please log out or use “Guest Mode” to sign in.</p>
 <li>
 <p>Please do not save any passwords in the web browser to avoid login issues
 in school.</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong><u>Information for Technical Assistance</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Helplines</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Operating Hours</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Matters pertaining to:</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>School-based Helpline:</u></strong>
+</p>
+<p>Tel No.: 64663600</p>
+<p>*Please state child’s full name and form class.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>School operating hours:</strong>
+</p>
+<p>Mondays – Fridays:</p>
+<p>8.00 a.m. – 4.00 p.m.</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Password reset</p>
+</li>
+<li>
+<p>Unlock accounts</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>SLS Helpdesk:</u></strong>
+</p>
+<p>Tel No.: 67026513</p>
+<p>Email Address:</p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>
+</p>
+<p>*Please include full name, name of school and form class in the email.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Non-school operating hours:</strong>
+</p>
+<p>Mondays – Fridays:</p>
+<p>4.00 p.m. – 9.00 p.m.</p>
+<p>Saturdays:</p>
+<p>9.00 a.m. – 9.00 p.m.</p>
+<p>Close on Sundays &amp; Public Holidays</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Technical assistance</p>
 </li>
 </ul>
 </td>

@@ -1,6 +1,6 @@
 ---
 title: 2025 Teachers
-permalink: /about-us/staff/2023-teachers/
+permalink: /about-us/staff/teachers/
 description: ""
 third_nav_title: Staff
 variant: tiptap

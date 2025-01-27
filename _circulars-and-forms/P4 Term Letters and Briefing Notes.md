@@ -16,4 +16,6 @@ variant: tiptap
 <p></p>
 <h4>P4 Level Matters and Assessment Schedule</h4>
 <p>P4 Term 1 Level Matters</p>
+<p><a href="/files/P4_Assessment_Schedule__Terms_1_3_.pdf" rel="noopener nofollow" target="_blank">P4 Terms 1 to 3 Assessment Schedule</a>
+</p>
 <p></p>
