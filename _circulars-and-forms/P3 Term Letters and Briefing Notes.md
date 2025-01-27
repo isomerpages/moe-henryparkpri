@@ -16,4 +16,5 @@ variant: tiptap
 <p></p>
 <h4>Level Matters &amp; Assessment Schedule</h4>
 <p>P3 Term 1 Level Matters</p>
-<p></p>
+<p><a href="/files/2025_P3_Term_1_3_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 Terms 1 to 3 Assessment Schedule</a>
+</p>
