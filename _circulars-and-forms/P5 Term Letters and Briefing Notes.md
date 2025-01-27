@@ -10,28 +10,32 @@ variant: tiptap
 <p>English Language</p>
 </li>
 <li>
-<p>Mathematics</p>
+<p><a href="/files/P5_Math_Briefing_Slides_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+</p>
 </li>
 <li>
-<p>Science</p>
+<p><a href="/files/P5_Science_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
+</p>
 </li>
 <li>
-<p>Higher Chinese Language</p>
+<p><a href="/files/2025_P5_HCL_Briefing_slides_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Higher Chinese Language</a>
+</p>
 </li>
 <li>
-<p>Chinese Language</p>
+<p><a href="/files/P5_CL_Briefing_Slides_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
+</p>
 </li>
 <li>
-<p>Foundation Chinese Language</p>
+<p><a href="/files/2025_P5_FCL_Briefing_Slides_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Foundation Chinese Language</a>
+</p>
 </li>
 <li>
-<p>Malay and Higher Malay Language</p>
+<p><a href="/files/P5_ML___HML_Briefing_Slides_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay and Higher Malay Language</a>
+</p>
 </li>
 <li>
-<p>Tamil Language</p>
-</li>
-<li>
-<p>SBB and DSA Engagement Session</p>
+<p><a href="/files/P5_Tamil_Lang.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
+</p>
 <p></p>
 </li>
 </ol>
