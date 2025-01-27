@@ -7,7 +7,8 @@ variant: tiptap
 <h3>P5 Subject Briefing Slides</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>English Language</p>
+<p><a href="/files/2025_P5_English_Language_Briefing.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</p>
 </li>
 <li>
 <p><a href="/files/P5_Math_Briefing_Slides_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
