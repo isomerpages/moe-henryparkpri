@@ -11,7 +11,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/P5_Math_Briefing_Slides_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+<p><a href="/files/2025_P5_Math_Briefing_Slides_to_Parents____upd_27_Jan_.pdf" rel="noopener nofollow" target="_blank">Mathematics</a>
 </p>
 </li>
 <li>
