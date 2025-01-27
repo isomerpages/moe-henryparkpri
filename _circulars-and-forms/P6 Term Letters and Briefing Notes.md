@@ -19,7 +19,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/3__Science_P6_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a> 
+<p><a href="/files/3__Science_P6_25.pdf" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 </p>
 </li>
 <li>
@@ -46,7 +46,8 @@ variant: tiptap
 <h3>Level Matters and Assessment Schedule</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>P6 Term 1 Level Matters</p>
+<p><a href="/files/2025_P6_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Term 1 Level Matters</a>
+</p>
 </li>
 <li>
 <p><a href="/files/2025_P6_Assessment_Schedule___Sem_1.pdf" rel="noopener nofollow" target="_blank">P6 Sem 1 Assessment Schedule</a>
