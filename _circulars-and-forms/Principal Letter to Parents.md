@@ -19,5 +19,9 @@ variant: tiptap
 <p><a href="/files/THRIVE_01_2025.pdf" rel="noopener nofollow" target="_blank">TH.R.I.V.E_01_2025</a>
 </p>
 </li>
+<li>
+<p><a href="/files/THRIVE_02_2025.pdf" rel="noopener nofollow" target="_blank">TH.R.I.V.E_02_2025</a>
+</p>
+</li>
 </ol>
 <p></p>
