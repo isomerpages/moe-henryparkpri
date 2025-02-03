@@ -257,6 +257,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Wong Wei Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH - English</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>wong_wei_ling_a@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Claire Lim-Lee</p>
 </td>
 <td rowspan="1" colspan="1">
