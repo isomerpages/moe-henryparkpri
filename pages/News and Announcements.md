@@ -4,14 +4,8 @@ permalink: /news-and-announcements/
 description: ""
 variant: tiptap
 ---
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><u>28 Jan 2025, Tuesday - Chinese New Year Eve</u></strong>
-</p>
-<p>Our school will close at 2pm.</p>
-<p>Wishing all a Happy Chinese New Year!</p>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong><u>Eat With Your Family Day (EWYFD)</u></strong>
 </p>
