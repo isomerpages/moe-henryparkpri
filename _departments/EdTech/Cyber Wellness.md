@@ -5,120 +5,108 @@ description: ""
 third_nav_title: EdTech
 variant: tiptap
 ---
-### What is Cyber Wellness
-
-Cyber Wellness (CW) refers to the positive well-being of Internet users. CW education aims to equip students with an understanding of online behaviour and enable them to be responsible for their own well-being in cyberspace.&nbsp;
-
-(Credit: MOE website:&nbsp;https://beta.moe.gov.sg/programmes/cyber-wellness/)&nbsp;
-
-### HPPS Cyber Wellness Vision
-
-In HPPS, our vision is to empower our students to be future-ready and discerning digital citizens. To achieve this vision, our school believes in forging strong collaboration and partnerships with various stakeholders for effective and meaningful Cyber Wellness education in our students.
-
-<img src="/images/cyber%20wellness.png" style="width:70%">
-		 
-### HPPS Cyber Wellness Curriculum and Programmes
-
-Our Cyber Wellness curriculum and school-wide programmes aim to equip our students with discernment, new media literacy and necessary values to navigate online spaces safely and responsibly through the following initiatives:  <br>
-1) Termly assembly talks  <br>
-2) Termly classroom lessons
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2jea{background-color:#FEA;color:#241102;text-align:left;vertical-align:top}
-.tg .tg-6kfk{background-color:#F9F4F0;color:#241102;font-style:italic;text-align:left;vertical-align:top}
-.tg .tg-co5s{background-color:#F9F4F0;color:#241102;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-gulf{background-color:#FEA;color:#241102;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-6zfj{background-color:#F9F4F0;color:#241102;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-gulf">Term</th>
-    <th class="tg-gulf">Primary 1</th>
-    <th class="tg-gulf">Primary 2</th>
-    <th class="tg-gulf">Primary 3</th>
-    <th class="tg-gulf">Primary 4</th>
-    <th class="tg-gulf">Primary 5</th>
-    <th class="tg-gulf">Primary 6</th>
-  </tr>
-</thead>
+<h3>What is Cyber Wellness</h3>
+<p>Cyber Wellness (CW) refers to the positive well-being of Internet users.
+CW education aims to equip students with an understanding of online behaviour
+and enable them to be responsible for their own well-being in cyberspace.&nbsp;</p>
+<h3>HPPS Cyber Wellness Vision</h3>
+<p>In HPPS, our vision is to empower our students to be future-ready and
+discerning digital citizens. To achieve this vision, our school believes
+in forging strong collaboration and partnerships with various stakeholders
+for effective and meaningful Cyber Wellness education in our students.</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/cyber%20wellness.png">
+</div>
+<h3>HPPS Cyber Wellness Curriculum and Programmes</h3>
+<p>Our Cyber Wellness curriculum and school-wide programmes aim to equip
+our students with discernment, new media literacy and necessary values
+to navigate online spaces safely and responsibly through the following
+initiatives:
+<br>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Termly assembly talks
+<br>
+</p>
+</li>
+<li>
+<p>Termly Cyber Wellness lesson during Form Teacher Guidance Period (FTGP)
+<br>
+</p>
+</li>
+<li>
+<p>Post-PSLE Cyber Wellness workshop
+<br>
+</p>
+</li>
+<li>
+<p>Safer Internet Day
+<br>
+</p>
+</li>
+<li>
+<p>Cyber Wellness activities conducted by our Peer Support Leaders during
+Termly SHINE Day</p>
+</li>
+</ol>
+<p>These lessons and programmes are designed and implemented based on MOE’s
+Cyber Wellness framework.&nbsp;</p>
+<h3>Cyber Wellness Resources and Parental Tips</h3>
+<p>To complement the Cyber Wellness curriculum in HPPS, we encourage parents
+to:</p>
+<p>1.&nbsp;Establish ground rules for the use of digital devices and the
+Internet.</p>
+<p>2.&nbsp;Talk to your child about his/her online experiences and discuss
+about the benefits and risks of the Internet.</p>
+<p>3.&nbsp;Get your child to share with you his/her favourite online websites
+and spend time online together doing family activities.</p>
+<p>4.&nbsp;Reassure your child that he/she can ask you questions or talk
+to you if he/she runs into problems online.</p>
+<p>For more information and the latest update of Cyber Wellness issues and
+parental tips, please refer to the following resources:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-co5s">1</td>
-    <td class="tg-6zfj">Digital Devices</td>
-    <td class="tg-6zfj">Digital Footprint</td>
-    <td class="tg-6zfj">Digital Communication</td>
-    <td class="tg-6zfj">Online Communities</td>
-    <td class="tg-6zfj">Social Media</td>
-    <td class="tg-6zfj">The Internet</td>
-  </tr>
-  <tr>
-    <td class="tg-gulf">2</td>
-    <td class="tg-2jea">Creating Strong Passwords</td>
-    <td class="tg-2jea">Protecting Personal Information</td>
-    <td class="tg-2jea">Stranger Danger</td>
-    <td class="tg-2jea">Handling Inappropriate Online Content</td>
-    <td class="tg-2jea">Minimising Security Risks</td>
-    <td class="tg-2jea">Scams and Spams</td>
-  </tr>
-  <tr>
-    <td class="tg-co5s">3</td>
-    <td class="tg-6zfj">Healthy Use of Technology</td>
-    <td class="tg-6zfj">Managing Screen Time</td>
-    <td class="tg-6zfj">Cyber Bullying</td>
-    <td class="tg-6zfj">Gaming Addiction</td>
-    <td class="tg-6zfj">Online Identity</td>
-    <td class="tg-6zfj">Online Vigilantism</td>
-  </tr>
-  <tr>
-    <td class="tg-gulf">4</td>
-    <td class="tg-2jea">Surfing Safely</td>
-    <td class="tg-2jea">Introduction to Netiquette</td>
-    <td class="tg-2jea">Think Before You Post</td>
-    <td class="tg-2jea">The Power of Words</td>
-    <td class="tg-2jea">Cut &amp; Paste</td>
-    <td class="tg-2jea">Post-PSLE CW Engagement Talks</td>
-  </tr>
-  <tr>
-    <td class="tg-6kfk" colspan="7">HPPS Termly Classroom Lessons</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p><a href="https://www.csa.gov.sg/resources/tips-and-resources" rel="noopener nofollow" target="_blank">Cyber Security Agency (CSA)</a>
+</p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Provides information and resources on cyber safety and security when navigating
+online.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.nlb.gov.sg/main/site/sure-elevated" rel="noopener nofollow" target="_blank">National Library Board (NLB)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provides information and tips on identifying reliable and credible online
+sources.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.digitalforlife.gov.sg/learn/resources/all-resources/raising-children-in-the-digital-age?utm_source=infosheet&amp;utm_medium=website&amp;utm_campaign=SID2025" rel="noopener nofollow" target="_blank">IMDA Digital for Life</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Provides useful tips to equip parents with the knowledge and confidence
+to navigate the online realm with children.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><a href="/files/Safer_Internet_Day_2025_for_parents.pdf" rel="noopener nofollow" target="_blank">Safer Internet Day 2025: Information Sheet for Parents</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-3) Cyber Wellness lessons  <br>
-4) Post-PSLE Cyber Wellness workshop  <br>
-5) Safer Internet Day  <br>
-6) Cyber Wellness Bazaar (held in conjunction with Kindness Bazaar)&nbsp; &nbsp;  
-
-These lessons and programmes are designed and implemented based on MOE’s Cyber Wellness framework.&nbsp;
-
-### Cyber Wellness Student Ambassadors: HPPS Cyber Heroes
-
-
-Guided by MOE’s Cyber Wellness Framework’s third principle – Positive Peer Influence, our Cyber Wellness Student Ambassadors (CWSAs) enthusiastically champion school-wide Cyber Wellness outreach efforts in HPPS. Also affectionately known as the HPPS Cyber Heroes, these student leaders take on the role as advocates to share the messages of Cyber Wellness with their peers. With their leadership and service to the student community, efforts to create a safe and caring online community are amplified through peer influence.  
-  
-  
-
-### Cyber Wellness Resources and Parental Tips
-
-
-To complement the Cyber Wellness curriculum in HPPS, we encourage parents to:
-
-1.&nbsp;Establish ground rules for the use of digital devices and the Internet.
-
-2.&nbsp;Talk to your child about his/her online experiences and discuss about the benefits and risks of the Internet.
-
-3.&nbsp;Get your child to share with you his/her favourite online websites and spend time online together doing family activities.
-
-4.&nbsp;Reassure your child that he/she can ask you questions or talk to you if he/she runs into problems online.
-
- 
-For more information and the latest update of Cyber Wellness issues and parental tips, please refer to the following resources.
-
-<img src="/images/cw1.png" style="width:60%">
-<img src="/images/cw%202.png" style="width:60%">
+<p></p>
