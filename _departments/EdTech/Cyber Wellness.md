@@ -83,7 +83,7 @@ online.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.nlb.gov.sg/main/site/sure-elevated" rel="noopener nofollow" target="_blank">National Library Board (NLB)</a>
+<p><strong><a href="https://www.nlb.gov.sg/main/site/sure-elevated" rel="noopener nofollow" target="_blank">National Library Board (NLB)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,7 +93,7 @@ sources.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.digitalforlife.gov.sg/learn/resources/all-resources/raising-children-in-the-digital-age?utm_source=infosheet&amp;utm_medium=website&amp;utm_campaign=SID2025" rel="noopener nofollow" target="_blank">IMDA Digital for Life</a>
+<p><strong><a href="https://www.digitalforlife.gov.sg/learn/resources/all-resources/raising-children-in-the-digital-age?utm_source=infosheet&amp;utm_medium=website&amp;utm_campaign=SID2025" rel="noopener nofollow" target="_blank">IMDA Digital for Life</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,7 +103,7 @@ to navigate the online realm with children.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><a href="/files/Safer_Internet_Day_2025_for_parents.pdf" rel="noopener nofollow" target="_blank">Safer Internet Day 2025: Information Sheet for Parents</a>
+<p><strong><a href="/files/Safer_Internet_Day_2025_for_parents.pdf" rel="noopener nofollow" target="_blank">Safer Internet Day 2025: Information Sheet for Parents</a></strong>
 </p>
 </td>
 </tr>
