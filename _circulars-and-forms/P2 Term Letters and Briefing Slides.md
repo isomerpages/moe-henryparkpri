@@ -7,19 +7,24 @@ variant: tiptap
 <h3>P2 Briefing Slides</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>English Language</p>
+<p><a href="/files/2025_P2_English_Language_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
+</p>
 </li>
 <li>
-<p>Mathematics</p>
+<p><a href="/files/2025_P2_Mathematics_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
+</p>
 </li>
 <li>
-<p>Chinese Language</p>
+<p><a href="/files/2025_P2_Chinese_Language_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Chinese Language</a>
+</p>
 </li>
 <li>
-<p>Malay Language</p>
+<p><a href="/files/2025_P2_Malay_Language_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Malay Language</a>
+</p>
 </li>
 <li>
-<p>Tamil Language</p>
+<p><a href="/files/2025_P2_Tamil_Language_Briefing_Slides.pdf" rel="noopener noreferrer nofollow" target="_blank">Tamil Language</a>
+</p>
 <p></p>
 </li>
 </ol>
