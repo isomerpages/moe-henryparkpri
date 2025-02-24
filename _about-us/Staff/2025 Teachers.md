@@ -601,13 +601,10 @@ variant: tiptap
 <p>4 Flexibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Suan Khim</p>
 <p>Ms Siti Rashidah Binte Abdul Rahim</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_suan_khim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_suan_khim@moe.edu.sg</a>
-</p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">siti_rashidah_abdul_rahi@moe.edu.sg</a>
 </p>
 </td>
