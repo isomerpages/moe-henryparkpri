@@ -5,20 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h5>Dental Clinic Announcements</h5>
-<p>Below are the opening dates for the school dental clinic for February
-2025:</p>
+<p>Below are the opening dates for the school dental clinic for March 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>10 Feb 2025 to 14 Feb 2025</p>
+<p>10 Mar 2025 to 14 Mar 2025</p>
 </li>
 <li>
-<p>24 Feb 2025 to 28 Feb 2025</p>
-</li>
-<li>
-<p>27 Feb 2025 (Half-day - Will Close at 12pm)</p>
+<p>24 Mar 2025 to 28 Mar 2025</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <h6><strong><u>Dental Clinic Contact &amp; Opening Hours</u></strong></h6>
 <p>Tel : 9114 8656</p>
 <p>Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist).</p>
