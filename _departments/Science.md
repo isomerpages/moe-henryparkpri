@@ -463,10 +463,7 @@ to the nation.</p>
 <td rowspan="1" colspan="1">
 <p><strong><a href="http://www.sciencenewsforkids.org/" rel="noopener noreferrer nofollow" target="_blank">Science News for Kids</a></strong> 
 <br><strong><a href="http://www.geography4kids.com/" rel="noopener noreferrer nofollow" target="_blank">Earth Science for Kids</a></strong>
-<br><strong><a href="http://www.cosmos4kids.com/" rel="noopener noreferrer nofollow" target="_blank">Cosmos for Kids</a></strong>
 <br><strong><a href="http://www.chem4kids.com/" rel="noopener noreferrer nofollow" target="_blank">Chemistry for Kids</a></strong>
-<br><strong><a href="http://www.physics4kids.com/" rel="noopener noreferrer nofollow" target="_blank">Physics for Kids</a></strong>
-<br><strong><a href="http://www.biology4kids.com/" rel="noopener noreferrer nofollow" target="_blank">Biology for Kids</a></strong>
 </p>
 </td>
 </tr>
