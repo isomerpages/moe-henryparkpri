@@ -25,6 +25,8 @@ and programmes.&nbsp;</p>
 </ul>
 <h3>Book Recommendation by Committee to Promote Chinese Language Learning (CPCLL)</h3>
 <p></p>
+<p><a href="/files/Book_Recommendation__CPCLL__Primary_Term_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Recommendation (CPCLL) Primary Term 1 2025</a>
+</p>
 <p></p>
 <p>Physical Book Recommendation&nbsp;</p>
 <ul data-tight="true" class="tight">
