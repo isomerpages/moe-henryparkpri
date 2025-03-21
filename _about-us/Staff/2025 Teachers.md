@@ -894,10 +894,10 @@ variant: tiptap
 <p>4 Initiative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yip Yew Fei</p>
+<p>Mr Darren Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yip_yew_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yew_fei@moe.edu.sg</a>
+<p><a href="mailto:lau_kar_loong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kar_loong@moe.edu.sg</a>
 </p>
 </td>
 </tr>
