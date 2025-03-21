@@ -331,7 +331,8 @@ variant: tiptap
 <p>Ms Crystal Lim Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_jia_hui_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_hui_crystal@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
