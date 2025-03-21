@@ -903,7 +903,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Kevin Gee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -911,11 +911,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Celestine Seow</p>
+<p>Ms Karen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:seow_su_yi_celestine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_su_yi_celestine@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
