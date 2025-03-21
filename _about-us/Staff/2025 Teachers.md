@@ -328,11 +328,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Lee</p>
+<p>Ms Crystal Lim Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_miin_jiun_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_miin_jiun_pauline@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
