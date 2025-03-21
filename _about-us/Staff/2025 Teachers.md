@@ -1350,10 +1350,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Dr Evelyn Tan</p>
+<p>Ms Irene Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:evelyn_tan_kim_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_tan_kim_choo@moe.edu.sg</a>
+<p><a href="mailto:evelyn_tan_kim_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_tan_seng_chew@moe.edu.sg</a>
 </p>
 </td>
 </tr>
