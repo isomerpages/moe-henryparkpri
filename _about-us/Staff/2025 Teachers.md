@@ -593,10 +593,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chong Suh In</p>
+<p>Ms Loo Ming Jia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chong_suh_in@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_suh_in@moe.edu.sg</a>
+<p><a href="mailto:loo_ming_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_ming_jia</a>
+<a href="mailto:chong_suh_in@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
 </p>
 </td>
 </tr>
