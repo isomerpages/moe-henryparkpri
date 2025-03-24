@@ -1776,7 +1776,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:shahana_shereene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_shereene@moe.edu.sg</a> 
-<br>
 </p>
 </td>
 </tr>
@@ -1881,7 +1880,7 @@ variant: tiptap
 <p>Ms Choo Yan Zeng, Ashley</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (Untrained)</p>
+<p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -1895,7 +1894,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Shulian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Shulian@schools.gov.sg</a>
+<p><a href="mailto:Lee_Shulian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Shulian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
