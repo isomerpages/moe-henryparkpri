@@ -856,7 +856,7 @@ variant: tiptap
 <p><a href="mailto:siti_rashidah_abdul_rahi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rashidah_abdul_rahi@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:muhammad_hafizul_haziq_m@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafizul_haziq_m@moe.edu.sg</a> 
+<p><a href="mailto:muhammad_hafizul_haziq_m@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafizul_haziq_m@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1874,6 +1874,40 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharmini_nair_g_prabhakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_nair_g_prabhakaran@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Choo Yan Zeng, Ashley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer (Untrained)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Shulian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lee_Shulian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Shulian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sangeetha Thamizhvanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
