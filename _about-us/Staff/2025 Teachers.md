@@ -315,7 +315,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,6 +323,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zheng_tianli_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_tianli_joyce@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pauline Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_miin_jiun_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_miin_jiun_pauline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1775,7 +1784,7 @@ variant: tiptap
 <p>Miss Shahana Shereene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahana_shereene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_shereene@moe.edu.sg</a> 
+<p><a href="mailto:shahana_shereene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_shereene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
