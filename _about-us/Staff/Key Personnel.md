@@ -271,7 +271,7 @@ variant: tiptap
 <p>Ms Claire Lim-Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH-Mathematics</p>
+<p>LH - Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_bee_yee@moe.edu.sg</p>
@@ -399,6 +399,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Loo Ming Jia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher - Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>loo_ming_jia@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nora Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -417,28 +428,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_eng_peng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Loo Ming Jia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lead Teacher - Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>loo_ming_jia@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Collin Sebastian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>collin_keith_sebastian@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
