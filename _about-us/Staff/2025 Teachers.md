@@ -1892,7 +1892,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Choo_Yan_Zeng_Ashley@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">choo_Yan_Zeng_Ashley@schools.gov.sg</a>
 </p>
 </td>
 </tr>
