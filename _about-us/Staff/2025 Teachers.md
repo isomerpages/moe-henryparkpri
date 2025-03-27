@@ -1892,7 +1892,8 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Choo_Yan_Zeng_Ashley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Choo_Yan_Zeng_Ashley@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1915,7 +1916,8 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Sangeetha_Thamizhvanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sangeetha_Thamizhvanan@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
