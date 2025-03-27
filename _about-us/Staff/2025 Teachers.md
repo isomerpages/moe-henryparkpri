@@ -1856,7 +1856,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_lee_yanmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_lee_yanmei@moe.edu.sg</a>
+<p><a href="mailto:samantha_lee_yanmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_lee_yanmei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1868,7 +1868,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yang_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yang_ling@moe.edu.sg</a>
+<p><a href="mailto:tan_yang_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yang_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1880,7 +1880,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharmini_nair_g_prabhakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_nair_g_prabhakaran@moe.edu.sg</a>
+<p><a href="mailto:sharmini_nair_g_prabhakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_nair_g_prabhakaran@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1892,7 +1892,8 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Choo_Yan_Zeng_Ashley@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1903,7 +1904,7 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lee_Shulian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Shulian@moe.edu.sg</a>
+<p><a href="mailto:Lee_Shulian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Shulian@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1915,7 +1916,8 @@ variant: tiptap
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Sangeetha_Thamizhvanan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
