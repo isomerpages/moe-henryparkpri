@@ -315,7 +315,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -323,6 +323,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zheng_tianli_joyce@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_tianli_joyce@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Pauline Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_miin_jiun_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_miin_jiun_pauline@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -856,7 +865,7 @@ variant: tiptap
 <p><a href="mailto:siti_rashidah_abdul_rahi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rashidah_abdul_rahi@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="mailto:muhammad_hafizul_haziq_m@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafizul_haziq_m@moe.edu.sg</a> 
+<p><a href="mailto:muhammad_hafizul_haziq_m@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafizul_haziq_m@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1775,8 +1784,7 @@ variant: tiptap
 <p>Miss Shahana Shereene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shahana_shereene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_shereene@moe.edu.sg</a> 
-<br>
+<p><a href="mailto:shahana_shereene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shahana_shereene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1848,7 +1856,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samantha_lee_yanmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_lee_yanmei@moe.edu.sg</a>
+<p><a href="mailto:samantha_lee_yanmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_lee_yanmei@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1860,7 +1868,7 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yang_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yang_ling@moe.edu.sg</a>
+<p><a href="mailto:tan_yang_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yang_ling@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -1872,7 +1880,43 @@ variant: tiptap
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sharmini_nair_g_prabhakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_nair_g_prabhakaran@moe.edu.sg</a>
+<p><a href="mailto:sharmini_nair_g_prabhakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_nair_g_prabhakaran@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Choo Yan Zeng, Ashley</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Choo_Yan_Zeng_Ashley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Choo_Yan_Zeng_Ashley@schools.gov.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Shulian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Lee_Shulian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Lee_Shulian@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sangeetha Thamizhvanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sangeetha_Thamizhvanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sangeetha_Thamizhvanan@schools.gov.sg</a> 
 </p>
 </td>
 </tr>
