@@ -859,7 +859,7 @@ variant: tiptap
 <td rowspan="3" colspan="1">
 <p>Ms Siti Rashidah Binte Abdul Rahim</p>
 <p></p>
-<p>Muhammad Hafizul Haziq</p>
+<p>Mr Muhammad Hafizul Haziq</p>
 </td>
 <td rowspan="3" colspan="1">
 <p><a href="mailto:siti_rashidah_abdul_rahi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rashidah_abdul_rahi@moe.edu.sg</a>
@@ -1383,7 +1383,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Tay</p>
+<p>Mrs Irene Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:evelyn_tan_kim_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_tan_seng_chew@moe.edu.sg</a>
