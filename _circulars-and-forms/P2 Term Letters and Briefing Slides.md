@@ -31,5 +31,6 @@ variant: tiptap
 <p>P2 Term Letters</p>
 <p><a href="/files/2025_P2_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 1 Level Matters</a>
 </p>
-<p></p>
+<p><a href="/files/2025_P2_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 2 Level Matters</a>
+</p>
 <p></p>
