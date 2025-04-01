@@ -483,10 +483,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Tan Ser Huay</p>
+<p>Mrs Wong Ser Huay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siregar_franklin_nee_tien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Tan_Ser_Huay@moe.edu.sg</a>
+<p><a href="mailto:siregar_franklin_nee_tien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ser_huay@moe.edu.sg</a>
 </p>
 </td>
 </tr>
