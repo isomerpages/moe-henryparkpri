@@ -1886,18 +1886,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Yan Zeng, Ashley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Choo_Yan_Zeng_Ashley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Choo_Yan_Zeng_Ashley@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lee Shulian</p>
 </td>
 <td rowspan="1" colspan="1">
