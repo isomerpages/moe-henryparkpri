@@ -9,5 +9,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_P1_Holistic_Development_Plan.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Holistic Development Plan</a>
 </p>
-<p></p>
+<p><a href="/files/2025_P1_Term_2_Letter.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 Term 2 Level Matters</a>
+</p>
 <p></p>
