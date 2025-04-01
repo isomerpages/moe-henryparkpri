@@ -914,18 +914,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Initiative</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr Darren Lau</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lau_kar_loong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_kar_loong@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Kevin Gee</p>
 </td>
@@ -1881,18 +1872,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sharmini_nair_g_prabhakaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_nair_g_prabhakaran@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Choo Yan Zeng, Ashley</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Choo_Yan_Zeng_Ashley@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Choo_Yan_Zeng_Ashley@schools.gov.sg</a>
 </p>
 </td>
 </tr>
