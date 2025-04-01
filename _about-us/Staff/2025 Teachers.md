@@ -930,7 +930,7 @@ variant: tiptap
 <p>Mr Kevin Gee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Gee_Sheng_Hin_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Gee_Sheng_Hin_A@moe.edu.sg</a>
+<p><a href="mailto:Gee_Sheng_Hin_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_sheng_hin_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -939,7 +939,7 @@ variant: tiptap
 <p>Ms Karen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ang_Suar_Sian_Karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ang_Suat_Sian_Karen@moe.edu.sg</a>
+<p><a href="mailto:Ang_Suar_Sian_Karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_suat_sian_karen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
