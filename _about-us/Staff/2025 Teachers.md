@@ -853,24 +853,26 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Flexibility</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Ms Siti Rashidah Binte Abdul Rahim</p>
-<p></p>
-<p>Mr Muhammad Hafizul Haziq</p>
 </td>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p><a href="mailto:siti_rashidah_abdul_rahi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_rashidah_abdul_rahi@moe.edu.sg</a>
 </p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Hafizul Haziq</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="mailto:muhammad_hafizul_haziq_m@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_hafizul_haziq_m@moe.edu.sg</a>
 </p>
 </td>
 </tr>
-<tr></tr>
-<tr></tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p>4 Generosity</p>
