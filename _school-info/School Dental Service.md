@@ -5,13 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h5>Dental Clinic Announcements</h5>
-<p>Below are the opening dates for the school dental clinic for March 2025:</p>
+<p>Below are the opening dates for the school dental clinic for April 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>10 Mar 2025 to 14 Mar 2025</p>
+<p>7 Apr 2025 to 11 Apr 2025</p>
 </li>
 <li>
-<p>24 Mar 2025 to 28 Mar 2025</p>
+<p>22 Apr 2025 to 25 Apr 2025</p>
 <p></p>
 </li>
 </ul>
@@ -32,6 +32,9 @@ following dental clinics:</p>
 </li>
 <li>
 <p>Boon Lay Garden Primary School - 9114 1896</p>
+</li>
+<li>
+<p>Qifa Primary School - 97855361</p>
 </li>
 </ul>
 <p></p>
