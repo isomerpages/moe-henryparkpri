@@ -4,7 +4,7 @@ permalink: /circulars-and-forms/p6-term-letters-and-briefing-notes/
 description: ""
 variant: tiptap
 ---
-<h3>P6 Briefing Slides</h3>
+<h3>P6 Subject Briefing Slides</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/1__English_Language_P6_25.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
@@ -51,6 +51,17 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/2025_P6_Assessment_Schedule___Sem_1.pdf" rel="noopener nofollow" target="_blank">P6 Sem 1 Assessment Schedule</a>
+</p>
+</li>
+</ol>
+<h4>Direct School Admissions for Secondary Schools (DSA-sec) and Full Subject-Based Banding (Full SBB)</h4>
+<ol data-tight="true" class="tight">
+<li>
+<p><a href="/files/Parents_Briefing_Slides_on_DSA_and_Full_SBB.pdf" rel="noopener nofollow" target="_blank">Parents Briefing Slides on DSA and Full SBB</a>
+</p>
+</li>
+<li>
+<p><a href="/files/DSA_and_Full_SBB_FAQs.pdf" rel="noopener nofollow" target="_blank">DSA and Full SBB FAQs</a>
 </p>
 </li>
 </ol>
