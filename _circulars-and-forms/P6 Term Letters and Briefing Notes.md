@@ -4,7 +4,7 @@ permalink: /circulars-and-forms/p6-term-letters-and-briefing-notes/
 description: ""
 variant: tiptap
 ---
-<h3>P6 Subject Briefing Slides</h3>
+<h4>P6 Subject Briefing Slides</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/1__English_Language_P6_25.pdf" rel="noopener noreferrer nofollow" target="_blank">English Language</a>
@@ -43,7 +43,7 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<h3>Level Matters and Assessment Schedule</h3>
+<h4>Level Matters and Assessment Schedule</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="/files/2025_P6_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Term 1 Level Matters</a>
