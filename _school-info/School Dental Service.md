@@ -17,7 +17,7 @@ variant: tiptap
 </ul>
 <h6><strong><u>Dental Clinic Contact &amp; Opening Hours</u></strong></h6>
 <p>Tel : 9114 8656</p>
-<p>Staff I/C: Ms Ahshikha and Mr Raiyan (Dental Therapist).</p>
+<p>Staff I/C: Ms Ahshikha (Dental Therapist).</p>
 <p><u>Monday , Wednesday &amp; Friday </u>
 <br>8:00 a.m. - 5:00 p.m.
 <br>(Lunch break: 12.30 p.m.-1.30 p.m.)
