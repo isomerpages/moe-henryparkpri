@@ -1262,10 +1262,10 @@ variant: tiptap
 <p>6 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Hui Lin Cassandra</p>
+<p>Mrs Esther Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_hui_lin_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_lin_cassandra@moe.edu.sg</a>
+<p><a href="mailto:chia_swee_lin_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_swee_lin_esther@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1367,10 +1367,10 @@ variant: tiptap
 <p>6 Initiative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Collin Keith Sebastian</p>
+<p>Mrs Chloe Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:collin_keith_sebastian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">collin_keith_sebastian@moe.edu.sg</a>
+<p><a href="mailto:chua_hwee_tuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hwee_tuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
