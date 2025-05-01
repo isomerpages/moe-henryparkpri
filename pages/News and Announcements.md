@@ -10,7 +10,7 @@ variant: tiptap
 <p><strong><u>On 2 May 2025, Friday</u></strong>
 </p>
 <p>Our General Office closes at 1.30pm for the setting-up leading to the
-General Election as our school is one of the Polling &amp; Counting Centres.</p>
+General Election, as our school is one of the Polling &amp; Counting Centres.</p>
 </li>
 </ul>
 <p></p>
