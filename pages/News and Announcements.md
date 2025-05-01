@@ -4,6 +4,15 @@ permalink: /news-and-announcements/
 description: ""
 variant: tiptap
 ---
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>Notice of Early Closure on 2 May 2025, Friday</u></strong>
+</p>
+<p></p>
+<p>Our General Office will be closed at 1:30 PM on Friday, 2 May 2025, to
+allow for the preparation of school premises for the General Elections.</p>
+</li>
+</ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
