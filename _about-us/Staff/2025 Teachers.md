@@ -1258,18 +1258,9 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p>6 Diligence</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mrs Esther Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chia_swee_lin_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_swee_lin_esther@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Patrick Hiap Lee Ann</p>
 </td>
