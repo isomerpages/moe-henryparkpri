@@ -7,6 +7,15 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><u>On 2 May 2025, Friday</u></strong>
+</p>
+<p>Our General Office closes at 1.30pm for the setting-up leading to the
+General Election as our school is one of the Polling Stations.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong><u>Eat With Your Family Day (EWYFD)</u></strong>
 </p>
 <p>“Eat with Your Family Day” (EWYFD) is a nation-wide initiative led by
