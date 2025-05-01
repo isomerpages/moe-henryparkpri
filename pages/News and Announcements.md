@@ -11,10 +11,16 @@ variant: tiptap
 <p></p>
 <p>Our General Office will be closed at 1:30 PM on Friday, 2 May 2025, to
 allow for the preparation of school premises for the General Elections.</p>
-</li>
-</ul>
 <p></p>
-<ul data-tight="true" class="tight">
+</li>
+<li>
+<p><strong><u>School Holiday &amp; Designated Day Off-in-lieu on 5 May 2025, Monday</u></strong>
+</p>
+<p>As Polling Day, 3 May 2025, is a Public Holiday and falls on a Saturday,
+the following Monday, 5 May 2025 will be a School Holiday and a designated
+Off-in-Lieu. School will resume on Tuesday, 6 May 2025.</p>
+<p></p>
+</li>
 <li>
 <p><strong><u>Eat With Your Family Day (EWYFD)</u></strong>
 </p>
