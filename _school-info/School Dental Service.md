@@ -15,7 +15,6 @@ variant: tiptap
 </li>
 </ul>
 <p></p>
-<p></p>
 <h6><strong><u>Dental Clinic Contact &amp; Opening Hours</u></strong></h6>
 <p>Tel : 9114 8656</p>
 <p>Staff I/C: Ms Ahshikha (Dental Therapist).</p>
@@ -38,7 +37,6 @@ following dental clinics:</p>
 <p>Qifa Primary School - 97855361</p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
