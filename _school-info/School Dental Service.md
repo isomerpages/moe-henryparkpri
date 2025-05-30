@@ -5,23 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h5>Dental Clinic Announcements</h5>
-<p>Below are the opening dates for the school dental clinic for April &amp;
-May 2025:</p>
+<p>Below are the opening dates for the school dental clinic for Jun 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>7 Apr 2025 to 11 Apr 2025</p>
+<p>6 Jun 2025</p>
 </li>
 <li>
-<p>22 Apr 2025 to 25 Apr 2025</p>
-</li>
-<li>
-<p>6 May 2025 to 9 May 2025</p>
-</li>
-<li>
-<p>19 May 2025 to 23 May 2025</p>
+<p>17 Jun 2025 to 20 Jun 2025</p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <h6><strong><u>Dental Clinic Contact &amp; Opening Hours</u></strong></h6>
 <p>Tel : 9114 8656</p>
@@ -45,7 +37,6 @@ following dental clinics:</p>
 <p>Qifa Primary School - 97855361</p>
 </li>
 </ul>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
