@@ -402,7 +402,7 @@ variant: tiptap
 <p>Ms Toh Mei Siew</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher (English Language)</p>
+<p>Senior Teacher - English Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>toh_mei_siew@moe.edu.sg</p>
@@ -421,17 +421,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Eng Peng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - Chinese</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ng_eng_peng@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Wong Ser Huay</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -439,6 +428,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>tan_ser_huay@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Eng Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - Chinese</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ng_eng_peng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
