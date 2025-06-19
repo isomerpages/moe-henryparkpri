@@ -462,8 +462,6 @@ to the nation.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="http://www.sciencenewsforkids.org/" rel="noopener noreferrer nofollow" target="_blank">Science News for Kids</a></strong> 
-<br><strong><a href="http://www.geography4kids.com/" rel="noopener noreferrer nofollow" target="_blank">Earth Science for Kids</a></strong>
-<br><strong><a href="http://www.chem4kids.com/" rel="noopener noreferrer nofollow" target="_blank">Chemistry for Kids</a></strong>
 </p>
 </td>
 </tr>
