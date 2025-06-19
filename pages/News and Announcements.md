@@ -6,19 +6,19 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>Notice of Early Closure on 2 May 2025, Friday</u></strong>
+<p><strong><u>Notice on General Office on  7 Jul 2025, Monday.</u></strong>
 </p>
 <p></p>
-<p>Our General Office will be closed at 1:30 PM on Friday, 2 May 2025, to
-allow for the preparation of school premises for the General Elections.</p>
+<p>Our General Office will close on 7 Jul 2025, Monday, for a School Cluster
+Event.</p>
 <p></p>
 </li>
 <li>
-<p><strong><u>School Holiday &amp; Designated Day Off-in-lieu on 5 May 2025, Monday</u></strong>
+<p><strong><u>School Holiday &amp; Designated Day Off-in-lieu on 11 Aug 2025, Monday</u></strong>
 </p>
-<p>As Polling Day, 3 May 2025, is a Public Holiday and falls on a Saturday,
-the following Monday, 5 May 2025 will be a School Holiday and a designated
-Off-in-Lieu. School will resume on Tuesday, 6 May 2025.</p>
+<p>As National Day is on 9 Aug 2025 and falls on a Saturday, and is a Public
+Holiday, the following Monday, 11 Aug 2025 will be a School Holiday and
+a designated Off-in-Lieu. School will resume on Tuesday, 12 Aug 2025.</p>
 <p></p>
 </li>
 <li>
