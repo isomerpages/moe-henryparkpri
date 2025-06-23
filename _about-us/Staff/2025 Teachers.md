@@ -914,7 +914,7 @@ variant: tiptap
 <p>Mr Yip Yew Fei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yip_yew_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yew_fei@moe.edu.sg</a> 
+<p><a href="mailto:yip_yew_fei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yip_yew_fei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1249,14 +1249,23 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>6 Diligence</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Ms Claire Lim-Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_bee_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_bee_yee@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Patrick Hiap Lee Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:patrick_hiap_lee_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patrick_hiap_lee_ann@moe.edu.sg</a>
+<p><a href="mailto:patrick_hiap_lee_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patrick_hiap_lee_ann@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -1349,10 +1358,10 @@ variant: tiptap
 <p>6 Initiative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Chloe Tay</p>
+<p>Mr Collin Keith Sebastian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_hwee_tuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_hwee_tuan@moe.edu.sg</a>
+<p><a href="mailto:collin_keith_sebastian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">collin_keith_sebastian@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
