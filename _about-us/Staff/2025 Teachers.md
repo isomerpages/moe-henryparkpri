@@ -860,7 +860,7 @@ variant: tiptap
 <p>Ms Yeo Jiemin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_hafizul_haziq_m@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:yeo_jie_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_jie_min@moe.edu.sg</a>
 </p>
 </td>
 </tr>
