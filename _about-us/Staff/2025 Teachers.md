@@ -1256,7 +1256,7 @@ variant: tiptap
 <p>Ms Claire Lim-Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_bee_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_bee_yee@moe.edu.sg</a> 
+<p><a href="mailto:lee_bee_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_bee_yee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1265,7 +1265,7 @@ variant: tiptap
 <p>Mr Patrick Hiap Lee Ann</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:patrick_hiap_lee_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patrick_hiap_lee_ann@moe.edu.sg</a> 
+<p><a href="mailto:patrick_hiap_lee_ann@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">patrick_hiap_lee_ann@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1361,7 +1361,7 @@ variant: tiptap
 <p>Mr Collin Keith Sebastian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:collin_keith_sebastian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">collin_keith_sebastian@moe.edu.sg</a> 
+<p><a href="mailto:collin_keith_sebastian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">collin_keith_sebastian@moe.edu.sg</a>
 </p>
 </td>
 </tr>
