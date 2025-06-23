@@ -124,10 +124,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siti Rashidah</p>
+<p>Mdm Siti Rashidah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD, Covering (CCE Curriculum)</p>
+<p>HOD (CCE Curriculum)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_rashidah_abdul_rahi@moe.edu.sg</p>
@@ -138,7 +138,7 @@ variant: tiptap
 <p>Ms Michelle Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD, Covering (EdTech)</p>
+<p>HOD (EdTech)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lim_jia_yi_michelle@moe.edu.sg</p>
@@ -149,7 +149,7 @@ variant: tiptap
 <p>Mr Darren Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD, Covering (GEP)</p>
+<p>HOD (GEP)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_kar_loong@moe.edu.sg</p>
