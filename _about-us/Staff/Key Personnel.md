@@ -399,6 +399,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Joyce Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher - Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>joyce_teh_meng_hwee@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Toh Mei Siew</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -450,19 +461,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>teo_gek_teng_joyce@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Joyce Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher - PE/CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>joyce_teh_meng_hwee@moe.edu.sg
-<br>
-</p>
 </td>
 </tr>
 <tr>
