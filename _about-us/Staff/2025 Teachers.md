@@ -315,7 +315,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -333,14 +333,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_miin_jiun_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_miin_jiun_pauline@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -729,7 +721,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Attentiveness</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -746,15 +738,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_sin_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sin_min@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Goh Han Serm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_Han_Serm_A@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_han_serm_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
