@@ -47,17 +47,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lenny Phoebe</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administrative Executive</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lenny_Phoebe@schools.gov.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Yeong Wai Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -87,6 +76,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>vikneshwaren_nandakuma@schools.gov.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lenny Phoebe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lenny_Phoebe@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
