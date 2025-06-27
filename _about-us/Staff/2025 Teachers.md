@@ -669,7 +669,7 @@ variant: tiptap
 <p>Ms Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chu_li_xuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:kandasamy_parvathi_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kandasamy_parvathi_devi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
