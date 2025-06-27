@@ -340,8 +340,7 @@ variant: tiptap
 <p>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jia_hui_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -441,11 +440,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms (NEW)</p>
+<p>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fam_poh_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
