@@ -104,7 +104,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ms Fam Poh Ling</p>
+<p>Ms Fam Poh Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:fam_poh_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fam_poh_ling@moe.edu.sg</a>
