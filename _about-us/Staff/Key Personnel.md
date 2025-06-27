@@ -149,7 +149,7 @@ variant: tiptap
 <p>Mr Darren Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (GEP)</p>
+<p>HOD (Gifted Education)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_kar_loong@moe.edu.sg</p>
