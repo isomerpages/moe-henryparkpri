@@ -440,10 +440,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>.</p>
+<p>Ms Huzaimah Bte Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:huzaimah_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huzaimah_ahmad@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -905,7 +906,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4 Initiative</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -922,6 +923,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_wai_liong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wai_liong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chai Siew Lan Teresa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chai_siew_lan_teresa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_siew_lan_teresa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
