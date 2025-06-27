@@ -475,7 +475,7 @@ variant: tiptap
 <p>Ms Karen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ang_Suar_Sian_Karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_suat_sian_karen@moe.edu.sg</a>
+<p><a href="mailto:ang_siew_karen_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_siew_karen_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -667,7 +667,7 @@ variant: tiptap
 <p>Ms Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kandasamy_parvathi_devi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kandasamy_parvathi_devi@moe.edu.sg</a>
+<p><a href="mailto:kandasamy_parvathi_devi_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kandasamy_parvathi_devi_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1060,7 +1060,7 @@ variant: tiptap
 <p>Mrs Siregar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siregar_franklin_nee_tien@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siregar_franklin_nee_tien@moe.edu.sg</a>
+<p><a href="mailto:siregar_johnnie_franklin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siregar_johnnie_franklin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
