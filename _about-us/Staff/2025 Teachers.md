@@ -337,10 +337,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms (NEW)</p>
+<p>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jia_hui_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:lim_jia_hui_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 </td>
 </tr>
@@ -474,10 +474,10 @@ variant: tiptap
 <p>2 Joyfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Saifullizan Almashor</p>
+<p>Ms Karen Ang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:saifullizan_almashor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saifullizan_almashor@moe.edu.sg</a>
+<p><a href="mailto:Ang_Suar_Sian_Karen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_suat_sian_karen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
