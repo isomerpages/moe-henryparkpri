@@ -1837,18 +1837,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Yang Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yang_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yang_ling@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Sharmini Nair</p>
 </td>
 <td rowspan="1" colspan="1">
