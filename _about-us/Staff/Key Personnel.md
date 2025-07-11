@@ -365,6 +365,72 @@ variant: tiptap
 <p>rajesheela_rajanthiran@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Zi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH Maths (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Deng Mingyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH EdTEch (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CCA &amp; LLP (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Song Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH PE &amp; PAL (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Sharah Bte Amat Samsuri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH GE (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yang Liman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH CCE Curriculum (covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Senior and Lead Teachers</h3>
