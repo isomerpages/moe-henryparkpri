@@ -370,11 +370,10 @@ variant: tiptap
 <p>Mdm Yang Liman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Covering CCE Curr</p>
+<p>SH - Covering CCE Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yang_liman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_liman@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -396,8 +395,7 @@ variant: tiptap
 <p>SH - Covering CCA &amp; LLP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yong_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_yuan@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -408,7 +406,7 @@ variant: tiptap
 <p>SH - Covering PE &amp; PAL</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>chua_song_wei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -419,8 +417,7 @@ variant: tiptap
 <p>SH - covering EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:deng_mingyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deng_mingyang@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -431,7 +428,7 @@ variant: tiptap
 <p>LH - Covering Math</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>lee_zi_xuan@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
