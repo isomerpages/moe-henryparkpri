@@ -414,7 +414,7 @@ variant: tiptap
 <p>Mr Andy Deng Mingyang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - covering EdTech</p>
+<p>SH - Covering EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>deng_mingyang@moe.edu.sg</p>
@@ -425,7 +425,7 @@ variant: tiptap
 <p>Ms Lee Zi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH - Covering Math</p>
+<p>LH - Covering Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lee_zi_xuan@moe.edu.sg</p>
