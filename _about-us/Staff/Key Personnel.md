@@ -373,7 +373,8 @@ variant: tiptap
 <p>SH - Covering CCE Curr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:yang_liman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_liman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -395,7 +396,8 @@ variant: tiptap
 <p>SH - Covering CCA &amp; LLP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:tan_yong_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_yuan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -417,7 +419,8 @@ variant: tiptap
 <p>SH - covering EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:deng_mingyang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deng_mingyang@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
