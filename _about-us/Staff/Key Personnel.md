@@ -367,43 +367,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Zi Xuan</p>
+<p>Mdm Yang Liman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH Maths (covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Andy Deng Mingyang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH EdTEch (covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yong Yuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH CCA &amp; LLP (covering)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Song Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH PE &amp; PAL (covering)</p>
+<p>SH - Covering CCE Curr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -414,7 +381,7 @@ variant: tiptap
 <p>Ms Siti Sharah Bte Amat Samsuri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH GE (Covering)</p>
+<p>SH - Covering GEP</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -422,10 +389,43 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yang Liman</p>
+<p>Mr Tan Yong Yuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH CCE Curriculum (covering)</p>
+<p>SH - Covering CCA &amp; LLP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Song Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Covering PE &amp; PAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Deng Mingyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - covering EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Zi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH - Covering Math</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
