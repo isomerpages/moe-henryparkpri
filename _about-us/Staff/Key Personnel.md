@@ -373,7 +373,7 @@ variant: tiptap
 <p>SH - Covering CCE Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>yang_liman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -384,7 +384,7 @@ variant: tiptap
 <p>SH - Covering GEP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>siti_sharah_amat_sam@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -395,7 +395,7 @@ variant: tiptap
 <p>SH - Covering CCA &amp; LLP</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>tan_yong_yuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -417,7 +417,7 @@ variant: tiptap
 <p>SH - covering EdTech</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>deng_mingyang@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
