@@ -365,6 +365,72 @@ variant: tiptap
 <p>rajesheela_rajanthiran@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Liman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Covering CCE Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yang_liman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Siti Sharah Bte Amat Samsuri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Covering GEP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>siti_sharah_amat_sam@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Covering CCA &amp; LLP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yong_yuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Song Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Covering PE &amp; PAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_song_wei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Andy Deng Mingyang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Covering EdTech</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>deng_mingyang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Zi Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH - Covering Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>lee_zi_xuan@moe.edu.sg</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Senior and Lead Teachers</h3>
