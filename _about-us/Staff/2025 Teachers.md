@@ -468,7 +468,7 @@ variant: tiptap
 <p>Mr Saifullizan Almashor Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_siew_karen_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saifullizan_almashor_ahmad@moe.edu.sg</a>
+<p><a href="saifullizan_almashor_ahmad@moe.edu.sg" rel="noopener nofollow" target="_blank">saifullizan_almashor_ahmad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
