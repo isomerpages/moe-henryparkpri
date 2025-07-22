@@ -6,14 +6,6 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>Notice on General Office on  7 Jul 2025, Monday.</u></strong>
-</p>
-<p></p>
-<p>Our General Office will close on 7 Jul 2025, Monday, for a School Cluster
-Event.</p>
-<p></p>
-</li>
-<li>
 <p><strong><u>School Holiday &amp; Designated Day Off-in-lieu on 11 Aug 2025, Monday</u></strong>
 </p>
 <p>As National Day is on 9 Aug 2025 and falls on a Saturday, and is a Public
