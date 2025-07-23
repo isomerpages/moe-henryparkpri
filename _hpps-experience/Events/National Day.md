@@ -151,3 +151,4 @@ third_nav_title: Events
 </table>
 <p></p>
 <p></p>
+<p>SG6o Celebrating Stories of Boldness: Past to Possibilities</p>
