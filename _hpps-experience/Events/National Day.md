@@ -153,21 +153,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1J_Charlie.jpg">
 </div>
-<p>Charlie, 1J</p>
+<p><strong>Charlie, 1J</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2A_Fan_Si_Yan.jpg">
 </div>
-<p>Fan Si Yan, 2A</p>
+<p><strong>Fan Si Yan, 2A</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2A_Samuel_Ong_Kai.jpg">
 </div>
-<p>Samuel Ong Kai, 2A</p>
+<p><strong>Samuel Ong Kai, 2A</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -176,21 +179,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2B_Aurora_Hui_En.jpg">
 </div>
-<p>Aurora Hui En, 2B</p>
+<p><strong>Aurora Hui En, 2B</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2C_Itaman.jpg">
 </div>
-<p>Itaman, 2C</p>
+<p><strong>Itaman, 2C</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2D_Alyssa_Lee_Kai_Xuan.jpg">
 </div>
-<p>Alyssa Lee Kai Xuan, 2D</p>
+<p><strong>Alyssa Lee Kai Xuan, 2D</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -199,21 +205,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2E_Tracy_Wang.jpg">
 </div>
-<p>Tracy Wang, 2E</p>
+<p><strong>Tracy Wang, 2E</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2F_Emily_Tan.jpg">
 </div>
-<p>Emily Tan, 2F</p>
+<p><strong>Emily Tan, 2F</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2G_Bellevy.jpg">
 </div>
-<p>Bellevy, 2G</p>
+<p><strong>Bellevy, 2G</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -222,21 +231,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2G_Merilyn.jpg">
 </div>
-<p>Merilyn, 2G</p>
+<p><strong>Merilyn, 2G</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2H_Charlotte_Ng.jpg">
 </div>
-<p>Charlotte Ng, 2H</p>
+<p><strong>Charlotte Ng, 2H</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2I_Tan_Zhi_Yu.jpg">
 </div>
-<p>Tan Zhi Yu, 2I</p>
+<p><strong>Tan Zhi Yu, 2I</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -245,21 +257,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2J_Megan_Chua.jpg">
 </div>
-<p>Megan Chua, 2J</p>
+<p><strong>Megan Chua, 2J</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3A_Beth.jpg">
 </div>
-<p>Beth, 3A</p>
+<p><strong>Beth, 3A</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3A_Lauren_Ng.jpg">
 </div>
-<p>Lauren Ng, 3A</p>
+<p><strong>Lauren Ng, 3A</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -268,21 +283,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3B_Xinying.jpg">
 </div>
-<p>Xinying, 3B</p>
+<p><strong>Xinying, 3B</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3C_Faith_Tan.jpg">
 </div>
-<p>Faith Tan. 3C</p>
+<p><strong>Faith Tan. 3C</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3D_Natalie_Goh.jpg">
 </div>
-<p>Natalie Goh, 3D</p>
+<p><strong>Natalie Goh, 3D</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -291,21 +309,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3D_Yunge_Cai.jpg">
 </div>
-<p>Yunge Cai, 3D</p>
+<p><strong>Yunge Cai, 3D</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3E_Chloe.jpg">
 </div>
-<p>Chloe, 3E</p>
+<p><strong>Chloe, 3E</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3F_Jaylene_Hu_En_Ning.jpg">
 </div>
-<p>Jaylene Hu En Ning,3F</p>
+<p><strong>Jaylene Hu En Ning,3F</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -314,21 +335,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3G_Calynn_Tan.jpg">
 </div>
-<p>Calynn Tan, 3G</p>
+<p><strong>Calynn Tan, 3G</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4A_Catherine_Leow_Yi_Ying.jpg">
 </div>
-<p>Catherine Leow Yi Xing, 4A</p>
+<p><strong>Catherine Leow Yi Xing, 4A</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4B_Abigail.jpg">
 </div>
-<p>Abigail, 4B</p>
+<p><strong>Abigail, 4B</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -337,21 +361,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4E_Dionne_Wong.jpg">
 </div>
-<p>Dionne Wong, 4E</p>
+<p><strong>Dionne Wong, 4E</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4F_Rayner_Tan_Yen_Kai.jpg">
 </div>
-<p>Rayner Tan Yen Kai, 4F</p>
+<p><strong>Rayner Tan Yen Kai, 4F</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4G_Victoria.jpg">
 </div>
-<p>Victoria, 4G</p>
+<p><strong>Victoria, 4G</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -360,21 +387,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4H_Beatrice_Yee.jpg">
 </div>
-<p>Beatrice Yee, 4H</p>
+<p><strong>Beatrice Yee, 4H</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4I_Ruby_Goh.jpg">
 </div>
-<p>Ruby Goh, 4I</p>
+<p><strong>Ruby Goh, 4I</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5B_Ern_Ying.jpg">
 </div>
-<p>Ern Ying, 5B</p>
+<p><strong>Ern Ying, 5B</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -383,21 +413,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5B_Esmeralda_Santos_Rivas.jpg">
 </div>
-<p>Esmeralda Santos Rivas, 5B</p>
+<p><strong>Esmeralda Santos Rivas, 5B</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5B_Kayla_Yow.jpg">
 </div>
-<p>Kayla Yow, 5B</p>
+<p><strong>Kayla Yow, 5B</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5C_Tang_Gaa_Hing.jpg">
 </div>
-<p>Tang Gaa Hing, 5C</p>
+<p><strong>Tang Gaa Hing, 5C</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -406,21 +439,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5D_Fabien_Ho_Dee_Yin.jpg">
 </div>
-<p>Fabian Ho Dee Yin, 5D</p>
+<p><strong>Fabian Ho Dee Yin, 5D</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5D_Hannah_Wong.jpg">
 </div>
-<p>Hannah Wong, 5D</p>
+<p><strong>Hannah Wong, 5D</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5D_Sierra_Shang.jpg">
 </div>
-<p>Sierra Shang, 5D</p>
+<p><strong>Sierra Shang, 5D</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -429,43 +465,76 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5E_Matthias.jpg">
 </div>
-<p>Matthias, 5E</p>
+<p><strong>Matthias, 5E</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5E_Michael_Ng.jpg">
 </div>
-<p>Michael Ng, 5E</p>
+<p><strong>Michael Ng, 5E</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5F_Sofia_Laaden.jpg">
 </div>
-<p>Sofia Laadan, 5F</p>
+<p><strong>Sofia Laadan, 5F</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6C_Ee_Zhi_Lin.jpg">
+</div>
+<p><strong>Ee Zhi Lin, 6C</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6C_Nadia_Cheng.jpg">
+</div>
+<p><strong>Nadia Cheng, 6C</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6D_Loy_Jing_Hsuen.jpg">
+</div>
+<p><strong>Loy Jing Hsuen, 6D</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6E_Rukia_Chan.jpg">
+</div>
+<p><strong>Rukia Chan, 6E</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6H_Koh_Rui_Zhi_Estee.jpg">
+</div>
+<p><strong>Koh Rui Zhi Estee, 6H</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/6I_Hayley_Choo_Ying.jpg">
+</div>
+<p><strong>Hayley Choo Ying, 6I</strong>
+</p>
 </td>
 </tr>
 </tbody>
