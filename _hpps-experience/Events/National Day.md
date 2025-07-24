@@ -16,21 +16,20 @@ third_nav_title: Events
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1F_HPPS_Nathan_Loh.jpg">
 </div>
+<p></p>
 <p>Nathan Loh, 1F</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2G_HPPS_Yap_Jun_Cheng.jpg">
 </div>
+<p></p>
 <p>Yap Jun Cheng, 2G</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3H_HPPS_Colette_Chye_Zhi_Xuan.jpg">
 </div>
@@ -75,22 +74,22 @@ third_nav_title: Events
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1E_Nikki.jpg">
 </div>
+<p>Nikki, 1E</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1G_Alexis.jpg">
 </div>
+<p>Alexis, 1G</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2F_Emily_Tan.jpg">
 </div>
+<p>Emily Tan, 2F</p>
 </th>
 </tr>
 <tr>
@@ -99,18 +98,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2J_Megan_Chua.jpg">
 </div>
+<p><strong>Megan Chua, 2J</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3B_Xinying.jpg">
 </div>
+<p><strong>Xinying, 3B</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3C_Faith_Tan.jpg">
 </div>
+<p><strong>Faith Tan, 3B</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -119,18 +124,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4A_Catherine_Leow_Yi_Ying.jpg">
 </div>
+<p><strong>Catherine Leow Yi Ying, 4A</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4H_Beatrice_Yee.jpg">
 </div>
+<p><strong>Beatrice Yee, 4H</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5C_Tang_Gaa_Hing.jpg">
 </div>
+<p><strong>Tang Gaa Hing, 5C</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,18 +150,24 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5F_Sofia_Laaden.jpg">
 </div>
+<p><strong>Sofia Laadan, 5F</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6C_Ee_Zhi_Lin.jpg">
 </div>
+<p><strong>Ee Zhi Lin, 6C</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/6H_Koh_Rui_Zhi_Estee.jpg">
 </div>
+<p><strong>Koh Rui Zhi Estee, 6H</strong>
+</p>
 </td>
 </tr>
 </tbody>
