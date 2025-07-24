@@ -5,7 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Events
 ---
-<h3></h3>
 <h3>HPPS Contest: Design SG City Landscape</h3>
 <h3>Winners</h3>
 <table style="minWidth: 75px">
@@ -57,8 +56,6 @@ third_nav_title: Events
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
 <h3>Shortlisted Pieces</h3>
 <table style="minWidth: 75px">
 <colgroup>
