@@ -417,17 +417,33 @@ third_nav_title: Events
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5D_Sierra_Shang.jpg">
+</div>
+<p>Sierra Shang, 5D</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5E_Matthias.jpg">
+</div>
+<p>Matthias, 5E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5E_Michael_Ng.jpg">
+</div>
+<p>Michael Ng, 5E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5F_Sofia_Laaden.jpg">
+</div>
+<p>Sofia Laadan, 5F</p>
 </td>
 </tr>
 <tr>
@@ -459,5 +475,6 @@ third_nav_title: Events
 <h3><a href="/files/SG60_Celebrating_Stories_of_Boldness_Exhibit__for_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">SG60 Celebrating Stories of Boldness: Past to Possibilities</a></h3>
 <p></p>
 <h3><a href="https://www.youtube.com/watch?v=hIHf2ctRBF8" rel="noopener nofollow" target="_blank">SG60 Celebrating Stories of Boldness: Past to Possibilities Interview videos</a></h3>
+<p></p>
 <p></p>
 <p></p>
