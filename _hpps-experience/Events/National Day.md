@@ -143,7 +143,7 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1I_Amelia_Gho.jpg">
 </div>
-<p><strong>Amelia Gho, 1J</strong>
+<p><strong>Amelia Gho, 1e</strong>
 </p>
 </td>
 </tr>
@@ -481,7 +481,7 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5F_Sofia_Laaden.jpg">
 </div>
-<p><strong>Sofia Laadan, 5F</strong>
+<p><strong>Sofia Laaden, 5F</strong>
 </p>
 </td>
 </tr>
