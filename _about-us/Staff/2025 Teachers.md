@@ -1649,15 +1649,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kishen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kishen_vijayan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kishen_vijayan_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Shankar</p>
 </td>
 <td rowspan="1" colspan="1">
