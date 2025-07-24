@@ -143,7 +143,7 @@ third_nav_title: Events
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1I_Amelia_Gho.jpg">
 </div>
-<p><strong>Amelia Gho, 1e</strong>
+<p><strong>Amelia Gho, 1E</strong>
 </p>
 </td>
 </tr>
