@@ -39,4 +39,7 @@ variant: tiptap
 </p>
 <p><a href="/files/P4_Assessment_Schedule__Terms_1_3_.pdf" rel="noopener nofollow" target="_blank">P4 Terms 1 to 3 Assessment Schedule</a>
 </p>
+<p><a href="/files/2025_P4_Term_3_and_4_End_Of_Year__EOY__Examinations.pdf" rel="noopener nofollow" target="_blank">P4 Terms 3 and 4 End of Year Examinations</a>
+</p>
+<p></p>
 <p></p>
