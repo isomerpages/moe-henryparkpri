@@ -25,7 +25,6 @@ regularly (<a href="http://fathers.com.sg/ewyfd/" rel="noopener noreferrer nofol
 in HPPS) will be closed by 5 p.m. on the following EWYFD dates:</p>
 <p>• 14 March 2025</p>
 <p>• 30 May 2025</p>
-<p>• 5 September 2025</p>
 <p>• 21 November 2025&nbsp;</p>
 <p>We seek the co-operation of our parents to make the necessary arrangements
 and we hope that you will have an enjoyable day with your families.</p>
