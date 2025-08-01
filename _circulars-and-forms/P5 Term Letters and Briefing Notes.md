@@ -50,6 +50,10 @@ variant: tiptap
 <p><a href="/files/P5_Assessment_Schedule__Terms_1___3___Mainstream_students_only_.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Assessment Schedule</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2025_P5_End_of_Year_Assessments.pdf" rel="noopener nofollow" target="_blank">P5 End of Year Assessments</a>
+</p>
+</li>
 </ol>
 <h4>Direct School Admissions for Secondary Schools (DSA-sec) and Full Subject-Based Banding (Full SBB)</h4>
 <ol data-tight="true" class="tight">
