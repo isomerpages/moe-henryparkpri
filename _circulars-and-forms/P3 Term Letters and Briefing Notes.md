@@ -39,5 +39,5 @@ variant: tiptap
 </p>
 <p><a href="/files/2025_P3_Term_1_3_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 Terms 1 to 3 Assessment Schedule</a>
 </p>
-<p><a href="/files/2025_Primary_3_End_Of_Year__EOY__Examination_in_Term_3_and_4__1_.pdf" rel="noopener nofollow" target="_blank">P3 End of Year Examinations</a>
+<p><a href="/files/2025_Primary_3_End_Of_Year__EOY__Examination_in_Term_3_and_4__1_.pdf" rel="noopener nofollow" target="_blank">P3 Terms 3 and 4 End of Year Examinations</a>
 </p>
