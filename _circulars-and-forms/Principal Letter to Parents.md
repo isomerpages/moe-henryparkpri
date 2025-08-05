@@ -32,7 +32,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/THRIVE_07_2025.pdf" rel="noopener nofollow" target="_blank">TH.R.I.V.E_07_2025</a>
+<p><a href="/files/THRIVE_07_2025.pdf" rel="noopener nofollow" target="_blank">TH.RI.V.E_07_2025</a>
 </p>
 </li>
 </ol>
