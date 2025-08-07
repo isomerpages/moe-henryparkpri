@@ -11,10 +11,7 @@ theme “Building Our Singapore Together”. At Henry Park, we are proud to
 commemorate this milestone with a range of meaningful activities leading
 up to National Day. A design contest inspired by Singapore’s iconic cityscape
 was held.</p>
-<p>You may view the winning designs in our online exhibition at https://sg60hpps.my.canva.site/</p>
-<a class="isomer-image-wrapper" href="https://sg60hpps.my.canva.site/">
-<img style="width: 100%" height="auto" width="100%" alt="Design SG City Landscape Canva Site" src="/images/SG60_HPPS.png">
-</a>
+<p>You may view the winning designs in our <a href="https://sg60hpps.my.canva.site/" rel="noopener nofollow" target="_blank">online exhibition</a>!</p><a class="isomer-image-wrapper" href="https://sg60hpps.my.canva.site/"><img style="width: 100%" height="auto" width="100%" alt="Design SG City Landscape Canva Site" src="/images/SG60_HPPS.png"></a>
 <h3>Winners</h3>
 <table style="minWidth: 75px">
 <colgroup>
