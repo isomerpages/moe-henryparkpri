@@ -6,6 +6,15 @@ description: ""
 third_nav_title: Events
 ---
 <h3>HPPS Contest: Design SG City Landscape</h3>
+<p>This year marks Singapore’s 60th year of independence, with the national
+theme “Building Our Singapore Together”. At Henry Park, we are proud to
+commemorate this milestone with a range of meaningful activities leading
+up to National Day. A design contest inspired by Singapore’s iconic cityscape
+was held.</p>
+<p>You may view the winning designs in our online exhibition at https://sg60hpps.my.canva.site/</p>
+<a class="isomer-image-wrapper" href="https://sg60hpps.my.canva.site/">
+<img style="width: 100%" height="auto" width="100%" alt="Design SG City Landscape Canva Site" src="/images/SG60_HPPS.png">
+</a>
 <h3>Winners</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -540,7 +549,6 @@ third_nav_title: Events
 </tbody>
 </table>
 <p></p>
-<h3><a href="https://sg60hpps.my.canva.site/" rel="noopener nofollow" target="_blank">Design SG City Landscape Interview and Artist Statements</a></h3>
 <h3><a href="/files/SG60_Celebrating_Stories_of_Boldness_Exhibit__for_website_.pdf" rel="noopener noreferrer nofollow" target="_blank">SG60 Celebrating Stories of Boldness: Past to Possibilities</a></h3>
 <p></p>
 <h3><a href="https://www.youtube.com/watch?v=hIHf2ctRBF8" rel="noopener nofollow" target="_blank">SG60 Celebrating Stories of Boldness: Past to Possibilities Interview videos</a></h3>
