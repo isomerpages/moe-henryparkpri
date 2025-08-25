@@ -45,13 +45,6 @@ they will be available to meet you.
 <br>
 <br>Thank you.</p>
 <p></p>
-</li>
-<li>
-<p><strong><u>School Holiday &amp; Designated Day Off-in-lieu on 11 Aug 2025, Monday</u></strong>
-</p>
-<p>As National Day is on 9 Aug 2025 and falls on a Saturday, and is a Public
-Holiday, the following Monday, 11 Aug 2025 will be a School Holiday and
-a designated Off-in-Lieu. School will resume on Tuesday, 12 Aug 2025.</p>
 <p></p>
 </li>
 </ul>
