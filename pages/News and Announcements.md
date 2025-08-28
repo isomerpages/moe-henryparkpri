@@ -9,7 +9,8 @@ variant: tiptap
 <p><strong><u>29 Aug 2025, Friday</u></strong>
 </p>
 <p></p>
-<p>Our school landline phone has been rectified and working now.</p>
+<p>Our school landline phone has been rectified and working as at 29 Aug
+2025, Friday.</p>
 <p></p>
 <p>Thank you for your patience on this matter.</p>
 </li>
