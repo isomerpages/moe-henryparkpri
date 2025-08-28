@@ -6,6 +6,21 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><u>28 Aug 2025, Thursday</u></strong>
+</p>
+<p></p>
+<p>Our school landline phone is currently unavailable at the moment. For
+urgent matters, you can contact 96571008 or email hpps@moe.edu.sg.</p>
+<p></p>
+<p>We will post an update on the school's website in the News &amp; Announcements
+section once the issue is resolved.</p>
+<p></p>
+<p>Thank you for your understanding on this matter.</p>
+</li>
+</ul>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
 <p><strong><u>Teachers' Day 2025 - 4 Sep 2025, Thursday</u></strong>
 </p>
 <p></p>
