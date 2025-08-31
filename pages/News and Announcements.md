@@ -6,13 +6,13 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><u>29 Aug 2025, Friday</u></strong>
+<p><strong><u>3 September 2025, Wednesday</u></strong>
 </p>
 <p></p>
-<p>Our school landline phone has been rectified and working as at 29 Aug
-2025, Friday.</p>
+<p>Dear Parents &amp; Guardians,</p>
 <p></p>
-<p>Thank you for your patience on this matter.</p>
+<p>Our General Office will be closed at 1.30pm on 3 September 2025, Wednesday
+for a school event.</p>
 </li>
 </ul>
 <p></p>
