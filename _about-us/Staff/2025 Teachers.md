@@ -776,10 +776,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kevin Gee</p>
+<p>Ms Fatimatus Sakinah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gee_sheng_hin_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gee_sheng_hin_a@moe.edu.sg</a>
+<p><a href="mailto:Fatimatus_Sakinah_Muhammad_Faris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fatimatus_Sakinah_Muhammad_Faris@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1022,18 +1022,19 @@ variant: tiptap
 <p>5 Enthusiasm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Johannah Fong Yun Wen</p>
+<p>Mdm Nora Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:johannah_fong_yun_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johannah_fong_yun_wen@moe.edu.sg</a>&nbsp;</p>
+<p><a href="mailto:nora_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ibrahim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Siregar</p>
+<p>Ms Johannah Fong Yun Wen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siregar_johnnie_franklin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siregar_johnnie_franklin@moe.edu.sg</a>
+<p><a href="mailto:johannah_fong_yun_wen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">johannah_fong_yun_wen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
