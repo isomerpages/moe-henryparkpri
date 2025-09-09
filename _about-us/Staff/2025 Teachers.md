@@ -889,7 +889,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4 Initiative</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -902,11 +902,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Dr Celestine Seow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:seow_su_yi_celestine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">seow_su_yi_celestine@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Wong Wai Liong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_wai_liong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_wai_liong@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
