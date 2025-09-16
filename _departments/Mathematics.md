@@ -60,11 +60,15 @@ are supported by a qualified LSM teacher for all their Mathematics lessons.</p>
 </p>
 <p>Fun in Math programme aims to stimulate excitement and enthusiasm in Mathematics
 by engaging students in mathematics related games and activities.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fun_in_Math.png">
-</div>
 <p><strong>&nbsp;</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fun_in_Math_Pic_1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fun_in_Math_Pic_2.png">
+</div>
 <p><strong>MATH SUPPORT PROGRAMME (Primary 1 to Primary 6)</strong>
 </p>
 <p>There are 2 programmes designed to cater to the learning needs of our
@@ -137,12 +141,14 @@ of three main themes: Mathematician Day where the students learn about
 different mathematicians and their contribution; Economy Day where the
 students learn about economy related concepts and ideas and Measurement
 Day where concepts and ideas relating to measurements are shared with students.</p>
-<p><strong>MATH NOTICEBOARD CHALLENGE</strong>
+<p><strong>MATH CHALLENGE</strong>
 </p>
-<p>The Math Noticeboard Challenge creates an opportunity for students to
-explore and enjoy math beyond the classroom. Conducted termly, it features
-different mathematical themes, such as Geometry and Measurement, and includes
-Math Fun Facts to spark curiosity and deepen students' interest.</p>
+<p>The Math Challenge creates an opportunity for students to explore and
+enjoy Math beyond the classroom. Conducted termly, it features different
+mathematical themes, such as Geometry and Measurement, and includes Math
+Fun Facts to spark curiosity and deepen students' interest.</p>
+<p><strong>MATH CHALLENGE 2025</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,15 +157,15 @@ Math Fun Facts to spark curiosity and deepen students' interest.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Pic_1_jpg.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAth_Challenge_1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Pic_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Challenge_2.png">
 </div>
 </td>
 </tr>
@@ -167,14 +173,11 @@ Math Fun Facts to spark curiosity and deepen students' interest.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Math_Dept_Pic_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Challenge_3.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Dept_Pic_4.png">
-</div>
 </td>
 </tr>
 </tbody>
