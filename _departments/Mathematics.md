@@ -66,6 +66,9 @@ by engaging students in mathematics related games and activities.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fun_in_Math_Pic_1.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Fun_in_Math_Pic_2.png">
+</div>
 <p><strong>MATH SUPPORT PROGRAMME (Primary 1 to Primary 6)</strong>
 </p>
 <p>There are 2 programmes designed to cater to the learning needs of our
@@ -153,14 +156,23 @@ Fun Facts to spark curiosity and deepen students' interest.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MAth_Challenge_1.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Challenge_2.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_Challenge_3.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
