@@ -147,6 +147,8 @@ Day where concepts and ideas relating to measurements are shared with students.<
 enjoy Math beyond the classroom. Conducted termly, it features different
 mathematical themes, such as Geometry and Measurement, and includes Math
 Fun Facts to spark curiosity and deepen students' interest.</p>
+<p><strong>MATH CHALLENGE 2025</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
