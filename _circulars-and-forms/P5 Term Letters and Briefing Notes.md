@@ -54,6 +54,10 @@ variant: tiptap
 <p><a href="/files/2025_P5_End_of_Year_Assessments.pdf" rel="noopener nofollow" target="_blank">P5 End of Year Assessments</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2025_P5_Term_4_Letter.pdf" rel="noopener nofollow" target="_blank">P5 Term 4 Level Matters</a>
+</p>
+</li>
 </ol>
 <h4>Direct School Admissions for Secondary Schools (DSA-sec) and Full Subject-Based Banding (Full SBB)</h4>
 <ol data-tight="true" class="tight">
