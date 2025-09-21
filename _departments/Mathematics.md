@@ -98,6 +98,13 @@ skills.</p>
 through Math games, helping them develop strategic thinking and problem-solving
 skills while being engaged in meaning play time.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ThinkingatPlayPic1.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ThinkingatPlayPic2.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_1.png">
