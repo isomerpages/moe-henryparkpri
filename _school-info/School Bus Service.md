@@ -112,7 +112,7 @@ via sms.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Period: 1 Jan 2026 to 31 Dec 2027 </strong>
+<p><strong>Period: 1 Jan 2026 to 31 Dec 2027</strong>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
