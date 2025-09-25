@@ -9,7 +9,7 @@ variant: tiptap
 <p>Please contact Senior Manager, Mr Patrick Chua on School Bus transport
 matters.
 <br>If you are unable to contact Patrick via call, please send him a message
-via sms.</p>
+via SMS.</p>
 <p>HP: 81012700</p>
 <p>Email:&nbsp;<strong><a href="mailto:henryparktpt@gmail.com" rel="noopener noreferrer nofollow" target="_blank">henryparktpt@gmail.com</a></strong>
 </p>
