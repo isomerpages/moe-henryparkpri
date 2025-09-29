@@ -106,9 +106,6 @@ skills while being engaged in meaning play time.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ThinkingatPlayPic2.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Math_1.png">
-</div>
 <p><strong>MATHEMATICS OLYMPIAD COMPETITIONS</strong>
 </p>
 <p>Mathematics Olympiad competitions provide our students with the opportunities
