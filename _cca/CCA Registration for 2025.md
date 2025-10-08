@@ -11,5 +11,6 @@ variant: tiptap
 and online CCA registration form would be sent to parents via the Parents’
 Gateway (PG) by 10 Oct 2025, 6pm.&nbsp;</p>
 <p>Parents can read up on the various CCAs and check the 2026 Tentative CCA
-schedule (click here) on the school website before submitting the online
-CCA registration form on the All Ears Form Builder.</p>
+schedule (<a href="/files/CCA_tentative_schedule_for_2026.pdf" rel="noopener nofollow" target="_blank">click here</a>)
+on the school website before submitting the online CCA registration form
+on the All Ears Form Builder.</p>
