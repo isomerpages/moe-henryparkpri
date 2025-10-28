@@ -29,6 +29,10 @@ and programmes.&nbsp;</p>
 </p>
 <p><a href="/files/Book_Recommendation__CPCLL__Primary_Term_1_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Recommendation (CPCLL) Primary Term 2 2025</a>
 </p>
+<p><a href="/files/Book_Recommendation__CPCLL__Primary_Term_3_2025.pdf" rel="noopener nofollow" target="_blank">Book Recommendation (CPCLL) Primary Term 3 2025</a>
+</p>
+<p><a href="/files/Book_Recommendation__CPCLL__Primary_Term_4_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Book Recommendation (CPCLL) Primary Term 4 2025</a>
+</p>
 <p></p>
 <p>Physical Book Recommendation&nbsp;</p>
 <ul data-tight="true" class="tight">
@@ -56,6 +60,10 @@ and programmes.&nbsp;</p>
 <p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">August 2025</a>
 </p>
 </li>
+<li>
+<p><a href="/files/Physical_Book_Recommendation__CPCLL__Primary___Oct_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">October 2025</a>
+</p>
+</li>
 </ul>
 <p>eBook Recommendation&nbsp;</p>
 <ul>
@@ -81,6 +89,10 @@ and programmes.&nbsp;</p>
 </li>
 <li>
 <p><a href="/files/eBook_Recommendation__CPCLL__Primary___Aug_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">August 2025</a>
+</p>
+</li>
+<li>
+<p><a href="/files/eBook_Recommendation__CPCLL__Primary___Oct_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">October 2025</a>
 </p>
 </li>
 </ul>
