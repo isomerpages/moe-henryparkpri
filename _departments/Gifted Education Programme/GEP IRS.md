@@ -23,15 +23,29 @@ experiential learning – completing a research project of their interest.</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Interview_Skills.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Interview_Skills.jpg">
 </div>
 <p><strong>P4 Interview Skills</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Observational_Field_Study_2.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Observational_Field_Study.jpg">
 </div>
 <p><strong>P4 Observational Field Study</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passion_Talk_3.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Passion_Talk_1.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Passion_Talks.jpg">
 </div>
@@ -44,28 +58,22 @@ experiential learning – completing a research project of their interest.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/irs%20presentation%20to%20panel%20of%20judges%20via%20zoom.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_IRS_Presentation.png">
 </div>
-<p><strong>P5 IRS Presentation to panel of judges via Zoom</strong>
-</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_IRS_Presentation.jpg">
 </div>
 <p><strong>P5 IRS Presentation</strong>
 </p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teachers_sharing_Passions.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/teachers%20sharing%20about%20their%20passion.jpeg">
 </div>
 <p><strong>Teachers sharing about their Passion</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/teachers%20sharing%20artefacts%20about%20their%20passion.jpeg">
-</div>
-<p><strong>Teachers sharing artefacts about their passion</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/students%20participating%20in%20an%20interactive%20session.jpeg">
-</div>
-<p><strong>Students participating in an interactive session</strong>
-</p>
+<p></p>
 <p></p>
