@@ -31,6 +31,12 @@ variant: tiptap
 <p><strong>Sharing about Myself (P4)</strong>
 </p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_map_creation.jpg">
+</div>
+<p><strong>Map creation activity (P5)</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Creating_a_new_National_Anthem__P5_.jpg">
 </div>
@@ -38,19 +44,7 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/p5%20group%20discussions%20and%20research%20on%20case%20study.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_ancient_civilisations.jpg">
 </div>
-<p><strong>Group discussions and research on case study (P5 )</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_SS___Poem_presentation_on_Roman_legacies.jpg">
-</div>
-<p><strong>Poem presentation on Roman legacies (P6)</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_SS___Preparing_their_diorama___many_hands_make_light_work.jpg">
-</div>
-<p><strong>Preparing their diorama - many hands make light work (P6)</strong>
+<p><strong>Presentation on legacies of ancient civilisations (P6))</strong>
 </p>
