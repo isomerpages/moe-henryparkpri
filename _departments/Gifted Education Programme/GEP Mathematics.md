@@ -24,50 +24,68 @@ problems</p>
 </li>
 </ul>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Math_ICT_lesson.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Math_game.jpg">
 </div>
-<p><strong>P4 Math ICT lesson</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Math_lesson_on_nets.jpg">
-</div>
-<p><strong>P4 Math lesson on nets</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/gepmath1.jpg">
-</div>
-<p><strong>Students playing Mathematics game</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/playing%20math%20games1.jpeg">
-</div>
-<p><strong>Students playing Mathematics game</strong>
+<p><strong>P4 students playing Math game together</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Traffic_Statistics.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_nets_of_a_cube.jpg">
 </div>
-<p><strong>Students observing the traffic to learn about statistics</strong>
+<p><strong>P4 students working together to find the nets of a cube</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_playing_game_for_revision.jpg">
+</div>
+<p><strong>P4 students playing game for revision</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Pie_Graph.jpg">
+</div>
+<p><strong>P4 students using ICT and M&amp;M candies for learning Pie Graph</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Math_Scrabble.jpg">
+</div>
+<p><strong>P5 students playing Math Scrabble</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/3math%20group%20discussion1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_collaboration_and_inquiry.jpg">
 </div>
-<p><strong>Group discussion during Mathematics lesson</strong>
+<p><strong>P5 students working together to find solutions — learning through collaboration and inquiry.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/3math%20groupdiscussion2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Math_games.jpg">
 </div>
-<p><strong>Group discussion during Mathematics lesson</strong>
+<p><strong>P5 students playing Math games</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/4hands-on%20math%20activity1.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Self_exploration.jpg">
 </div>
-<p><strong>Hands-On Math Activity</strong>
+<p><strong>P6 Self Exploration</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/4handson%20math%20activity2.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Math_puzzles.jpg">
 </div>
+<p><strong>P6 Math Puzzle</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Lesson_on_Nets.jpg">
+</div>
+<p><strong>P6 Lesson on Nets</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Math_practice.jpg">
+</div>
+<p><strong>P6 Math Practice using ICT</strong>
+</p>
 <p><strong>Hands-On Math Activity</strong>
 </p>
