@@ -15,12 +15,15 @@ variant: tiptap
 with Mindmapping, Bloom’s Taxonomy, Paul's Reasoning, etc.</p>
 </li>
 <li>
-<p>Increase awareness of the Chinese culture with P4 Reading Carnival &amp;
-Tea House Visit, P5 Language Camp, P5 &amp; 6 CL Learning Journey</p>
+<p>Increase awareness of the Chinese culture with P4 Reading Carnival, P5
+Language Camp, P5 &amp; 6 CL Learning Journey</p>
 </li>
 </ul>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5088__1_.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ready_for_Quiz_in_P4_CL_Reading_Carnival.jpg">
 </div>
@@ -44,18 +47,9 @@ Tea House Visit, P5 Language Camp, P5 &amp; 6 CL Learning Journey</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Another_P5_student_posing_with_a_mural.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5188.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_11_08_121219.png">
-</div>
-<p><strong>P5 Students Enjoyed Mural Trip to Chinatown</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Students_visited_the_Singapore_Chinese_Cultural_Centre.jpg">
-</div>
-<p><strong>P6 Students visited the Singapore Chinese Cultural Centre</strong>
+<p><strong>P4 Students visited the Singapore Chinese Cultural Centre</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -65,6 +59,6 @@ Tea House Visit, P5 Language Camp, P5 &amp; 6 CL Learning Journey</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Students_at_an_interactive_booth.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_HCL_students_visit_to_Singapore_Chinese_Cultural_Centre.jpg">
 </div>
 <p>P6 Students at an interactive booth at SCCC</p>
