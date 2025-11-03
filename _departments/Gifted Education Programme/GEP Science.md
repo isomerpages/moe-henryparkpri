@@ -24,25 +24,31 @@ various ICT platforms</p>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Students_providing_peer_feedback_during__group_presentation.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_ecosystem.jpg">
 </div>
-<p><strong>P6 Students providing peer feedback during  group presentation</strong>
+<p><strong>P6 students observing the different organisms that make up the ecosystem in the school field</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Science_to_Excite_Experiments.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_electromagnets.jpg">
 </div>
-<p><strong>P6 Science to Excite Experiments</strong>
+<p><strong>P6 students testing their electromagnets</strong>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Observing_a_praying_mantis_during_field_studies.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_evaporative_cooling.jpg">
 </div>
-<p><strong>P6 Observing a praying mantis during field studies</strong>
+<p><strong>P5 students testing out their evaporative cooling device</strong>
 </p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Crab_dissection.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_water_cycle.jpg">
 </div>
-<p><strong>P6 Crab dissection</strong>
+<p><strong>P5 students observing their mini ‘water cycle’ model</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Students_working_on_their_light_kits.jpg">
 </div>
@@ -53,6 +59,13 @@ various ICT platforms</p>
 </div>
 <p><strong>P5 Pre-light activity using energy sticks</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Tinker_Activity.jpg">
+</div>
+<p><strong>P4 students presenting their product from the Tinker Activity</strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_Students_observing_plant_part_samples.jpg">
 </div>
