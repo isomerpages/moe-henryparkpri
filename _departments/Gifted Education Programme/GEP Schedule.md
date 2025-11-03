@@ -29,7 +29,7 @@ variant: tiptap
 <p>Computing Enrichment Programme (CEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday 1400 - 1600</p>
+<p>Thursday 1400 - 1600</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ variant: tiptap
 <p>Higher Chinese Language (HCL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday 1415 - 1515</p>
+<p>Thursday 1400 - 1500</p>
 </td>
 </tr>
 <tr>
@@ -74,7 +74,7 @@ variant: tiptap
 <p>Computing Enrichment Programme (CEP)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday 1400 - 1600</p>
+<p>Tuesday 1400 - 1600</p>
 </td>
 </tr>
 </tbody>
@@ -103,7 +103,7 @@ variant: tiptap
 <p>Higher Chinese Language (HCL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tuesday 1415 - 1515</p>
+<p>Thursday 1400 - 1500</p>
 </td>
 </tr>
 </tbody>
