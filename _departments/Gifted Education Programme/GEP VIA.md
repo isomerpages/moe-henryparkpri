@@ -14,38 +14,72 @@ people with physical needs, understanding the elderly and caring for our
 school community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4s_Shopping_for_items_for_the_OSOs.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_canteen_stall.jpg">
 </div>
-<p><strong>P4 students shopping for items to give away in their goody bags for the tea party</strong>
+<p><strong>P4 students checking in with canteen stall holders</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_students_interacting_with_OSOs.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_bookmarks.jpg">
 </div>
-<p><strong>P4 students interacting with the OSOs in a tea party they organised for them</strong>
+<p><strong>P4 students sharing bookmarks with fellow students</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_VIA_for_OSOs.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P4_school_OSO.jpg">
 </div>
-<p><strong>Group photo of P4 students and OSOs at the end of tea party</strong>
+<p><strong>P4 students interviewing our school OSO to understand his challenges</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_students_helping_SAVH_clients_at_the_Touch_Art_Centre.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Lion_Befrienders.jpg">
 </div>
-<p><strong>P5 students helping SAVH clients at the Touch Art Centre</strong>
+<p><strong>P5 students playing games with the elderly from Lion Befrienders</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_students_walking_down_stairs_with_their_eyes_closed_at_SAVH.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Lion_Befrienders_1.jpg">
 </div>
-<p><strong>P5 students walking down stairs with their eyes closed at SAVH</strong>
+<p><strong>P5 students making photo frames with the elderly from Lion Befrienders</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_Interaction_with_Elderly_from_Lions_Befrienders.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_bus_uncles_2.jpg">
 </div>
-<p><strong>P6 students interaction with Elderly from Lions Befrienders</strong>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_bus_uncles_1.jpg">
+</div>
+<p><strong>P5 students expressing their thanks to bus uncles and aunties and giving out goody bags to them</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Buddy_Readers_1.jpg">
+</div>
+<p><strong>P5 Buddy Readers assessing their mentees</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P5_Buddy_Readers_2.jpg">
+</div>
+<p><strong>P5 Buddy Readers observing Buddy Reading</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_St_Claire_1.jpg">
+</div>
+<p><strong>P6 students conducting light exploration for students from St Claire</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_St_Claire_2.jpg">
+</div>
+<p><strong>P6 students serving food to the students from St Claire</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P6_St_Claire_3.jpg">
+</div>
+<p><strong>P6 students teaching sandwich making to the students from St Claire</strong>
+</p>
+<p></p>
+<p></p>
 <p></p>

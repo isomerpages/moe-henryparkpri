@@ -36,8 +36,3 @@ Questioning</p>
 </div>
 <p><strong>Group work with use of ICT and presentation during EL lessons</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/EL%20Picture2_1.jpg">
-</div>
-<p><strong>Students with Sandwich Book Report</strong>
-</p>
