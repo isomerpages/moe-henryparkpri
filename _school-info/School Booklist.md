@@ -19,22 +19,20 @@ variant: tiptap
 </p>
 <p><strong>Primary Four</strong>
 </p>
-<p><a href="/files/P4_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P4 Booklist</a>
+<p><a href="/files/P4_2026.pdf" rel="noopener nofollow" target="_blank">P4 Booklist</a>
 </p>
-<p><a href="/files/P4__GEP__BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P4 GEP Booklist</a>
+<p><a href="/files/P4__GEP__2026.pdf" rel="noopener nofollow" target="_blank">P4 GEP Booklist</a>
 </p>
 <p><strong>Primary Five</strong>
 </p>
-<p><a href="/files/P5_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P5 Booklist</a>
+<p><a href="/files/P5_2026.pdf" rel="noopener nofollow" target="_blank">P5 Booklist</a>
 </p>
-<p><a href="/files/P5__GEP__BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P5 GEP Booklist</a>
+<p><a href="/files/P5__GEP__2026.pdf" rel="noopener nofollow" target="_blank">P5 GEP Booklist</a>
 </p>
 <p><strong>Primary Six</strong>
 </p>
-<p><a href="/files/P6_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P6 Booklist</a>
+<p><a href="/files/P6_2026.pdf" rel="noopener nofollow" target="_blank">P6 Booklist</a>
 </p>
-<p><a href="/files/P6__GEP__BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P6 GEP Booklist</a>
+<p><a href="/files/P6__GEP__2026.pdf" rel="noopener nofollow" target="_blank">P6 GEP Booklist</a>
 </p>
-<p><a href="/files/P6_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Booklist</a> 
-<a href="/files/P6__GEP__2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 GEP Booklist</a>
-</p>
+<p></p>
