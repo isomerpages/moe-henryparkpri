@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 <p><strong>Primary Three</strong>
 </p>
-<p><a href="/files/P3_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
+<p><a href="/files/P3_2026.pdf" rel="noopener nofollow" target="_blank">P3 Booklist</a>
 </p>
 <p><strong>Primary Four</strong>
 </p>
