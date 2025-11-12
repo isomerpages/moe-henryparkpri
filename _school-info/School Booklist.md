@@ -4,7 +4,7 @@ permalink: /school-info/school-booklist/
 description: ""
 variant: tiptap
 ---
-<h3>2025</h3>
+<h3>2026</h3>
 <p><strong>Primary One</strong>
 </p>
 <p><a href="/files/P1_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
