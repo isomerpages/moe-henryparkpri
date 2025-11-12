@@ -7,8 +7,7 @@ variant: tiptap
 <h3>2025</h3>
 <p><strong>Primary One</strong>
 </p>
-<p><a href="/files/P1_2026.pdf" rel="noopener nofollow" target="_blank">P1 Book</a>
-<a href="/files/P1_BOOKLIST_2025.pdf" rel="noopener nofollow" target="_blank">list</a>
+<p><a href="/files/P1_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist</a>
 </p>
 <p><strong>Primary Two</strong>
 </p>
