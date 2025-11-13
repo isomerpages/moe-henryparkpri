@@ -17,9 +17,6 @@ third_nav_title: Events
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /1C_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /1C_2025.jpg">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /1D_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -119,6 +116,9 @@ third_nav_title: Events
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /4H_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /4I_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /5A_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
@@ -141,6 +141,9 @@ third_nav_title: Events
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /5H_2025.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /5I_2025.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025 Class Awards /6A_2025.jpg">
