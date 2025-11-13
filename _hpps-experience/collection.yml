@@ -2,10 +2,10 @@ collections:
   hpps-experience:
     output: true
     order:
-      - Events/2025 Class Based Awards.md
-      - Events/National Day.md
       - Events/.keep
+      - Events/National Day.md
       - Events/Videos.md
+      - Events/2025 Class Based Awards.md
       - Events/2024 Best in Subjects.md
       - Events/2024 Class Awards.md
       - Events/2023 Class Awards.md
