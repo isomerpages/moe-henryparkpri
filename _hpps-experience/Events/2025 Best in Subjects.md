@@ -163,6 +163,116 @@ Enriched Social Studies (GEP)</p>
 <p>P5 Best in Mathematics (GEP)</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SEET KAI LIN LAURA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in English (Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>IHSAN HAKIM MALIK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Malay (Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6D</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KAYDEN CHEONG KAI RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Science (Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LEONG HAO XUAN, ISAAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Mathematics (Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6H</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH RUI ZHI ESTEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Mathematics (GEP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WINSTON ZHOU TINGKUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Chinese (Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NATALIE ROSE DEVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Tamil (Level)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WINSTON ZHOU TINGKUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Higher Chinese (Level) &amp; Best in English (GEP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>WONG ZE RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Science (GEP)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6I</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISAAC CHAN ZHE RUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>P6 Best in Enriched Social Studies (GEP)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
