@@ -53,6 +53,18 @@ description: ""
 <li>
 <p><a href="https://www.youtube.com/watch?v=cViy33s3Xi0" rel="noopener noreferrer nofollow" target="_blank">Life in HPPS</a>
 </p>
+</li>
+<li>
+<p><a href="/files/P1 2026 Orientation Resources/13__Principal_s_Address.pdf" rel="noopener nofollow" target="_blank">Principal's Address</a>
+</p>
+</li>
+<li>
+<p><a href="/files/P1 2026 Orientation Resources/14__Support_System_in_HPPS.pdf" rel="noopener nofollow" target="_blank">Support System in HPPS</a>
+</p>
+</li>
+<li>
+<p><a href="/files/P1 2026 Orientation Resources/15__Year_Head_Briefing.pdf" rel="noopener nofollow" target="_blank">Year Head Briefing</a>
+</p>
 <p></p>
 </li>
 </ol>
