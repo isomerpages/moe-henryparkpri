@@ -7,22 +7,27 @@ variant: tiptap
 <h5>Dental Clinic Announcements</h5>
 <p>Below are the opening dates for the school dental clinic for Oct &amp;
 Nov 2025:</p>
-<p></p>
 <ul data-tight="true" class="tight">
-<li>
-<p>6 Oct 2025 to 10 Oct 2025</p>
-</li>
-<li>
-<p>21 Oct 2025 to 24 Oct 2025</p>
-</li>
 <li>
 <p>3 Nov 2025 to 7 Nov 2025</p>
 </li>
 <li>
 <p>17 Nov 2025 to 21 Nov 2025</p>
 </li>
-</ul>
+<li>
+<p>10 Dec 2025 to 12 Dec 2025</p>
+</li>
+<li>
+<p>15 Dec 2025 to 19 Dec 2025</p>
+</li>
+<li>
+<p>22 Dec 2025</p>
+</li>
+<li>
+<p>24 Dec 2025 (Close at 1130am)</p>
 <p></p>
+</li>
+</ul>
 <h6><strong><u>Dental Clinic Contact &amp; Opening Hours</u></strong></h6>
 <p>Tel : 9114 8656</p>
 <p>Staff I/C: Ms Ahshikha (Dental Therapist).</p>
