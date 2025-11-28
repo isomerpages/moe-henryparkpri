@@ -21,10 +21,13 @@ Nov 2025:</p>
 <p>15 Dec 2025 to 19 Dec 2025</p>
 </li>
 <li>
-<p>22 Dec 2025</p>
+<p>22 Dec 2025 to 23 Dec 2025</p>
 </li>
 <li>
 <p>24 Dec 2025 (Close at 1130am)</p>
+</li>
+<li>
+<p>26 Dec 2025</p>
 <p></p>
 </li>
 </ul>
