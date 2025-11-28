@@ -4,12 +4,18 @@ permalink: /school-info/school-wait-list-application-form/
 description: ""
 variant: tiptap
 ---
-<p><strong>2025 School Wait List Application.</strong>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>2025 School Wait List Application is now closed.</strong>
 </p>
-<p><strong>Submit </strong><a href="https://form.gov.sg/678dd0d5f68da207d7862024" rel="noopener nofollow" target="_blank">here.</a>
+<p></p>
+</li>
+<li>
+<p><strong>For 2026 Application, you can visit our site by end Feb 2026.</strong>
 </p>
-<p><strong><u>Closing Date: 28 November 2025, 3pm.</u></strong>
-</p>
+</li>
+</ul>
+<p></p>
 <p>Note: International students can seek admission to primary and secondary
 schools through the <a href="https://www.moe.gov.sg/international-students/aeis" rel="noopener noreferrer nofollow" target="_blank">AEIS</a>&nbsp;or
 <a href="https://www.moe.gov.sg/international-students/s-aeis" rel="noopener noreferrer nofollow" target="_blank">S-AEIS</a>. All AEIS and S-AEIS tests are conducted in Singapore. For
