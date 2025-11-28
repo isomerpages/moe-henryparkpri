@@ -6,8 +6,9 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>2025 School Wait List Application is now close. </strong>
+<p><strong>2025 School Wait List Application is now closed.</strong>
 </p>
+<p></p>
 </li>
 <li>
 <p><strong>For 2026 Application, you can visit our site by end Feb 2026.</strong>
