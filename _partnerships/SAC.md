@@ -2,89 +2,115 @@
 title: SAC
 permalink: /partnerships/sac/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-feqv{background-color:#DDD;color:#666;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-nrix{text-align:center;vertical-align:middle}
-</style>
-
-   
-  <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-feqv" colspan="2"><span style="color:#666;background-color:#DDD">School Advisory Committee (SAC)</span></th>
-  </tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-nrix">Chairman</td>
-    <td class="tg-nrix">Mr Bruce Ngam</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Secretary</td>
-    <td class="tg-nrix">Mr Charles Chan</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Member</td>
-    <td class="tg-nrix">Mdm Aidaroyani Bte Adam</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Member</td>
-    <td class="tg-nrix">Mr Lau Boon Ping</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix"> Mr Jason Chiam</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Dr Chin Chee Yang</td>
-  </tr>
-  <tr>
-    
-  </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Mr Chua Teck Wee</td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Mr Kelvin Tong </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Dr Tan Aik Ling </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix">Member<br></td>
-    <td class="tg-nrix">Dr Thio Fu Wang</td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Ms Vidhya Maheanthanran </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Mr Yee Ping Yi </td>
-		 </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Dr Sandra Wu </td>
-  </tr>
-  <tr>
-    <td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Dr Kwok Ying Christine </td>
-		 </tr>
-  <tr>
-		<td class="tg-nrix"> Member</td>
-    <td class="tg-nrix">Dr Kui Swee Leng     
-  </td></tr>
+<tr>
+<th rowspan="1" colspan="2">
+<p>School Advisory Committee (SAC)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Bruce Ngam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secretary</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Charles Chan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lau Boon Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Jason Chiam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Teck Wee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Kelvin Tong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Thio Fu Wang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Vidhya Maheanthanran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yee Ping Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Sandra Wu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Kwok Ying Christine</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Kui Swee Leng</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
