@@ -224,7 +224,7 @@ third_nav_title: Staff
 <p>Sim Hui Lin Cassandra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_hui_lin_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_lin_cassandra@moe.edu.sg</a> 
+<p><a href="mailto:sim_hui_lin_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_lin_cassandra@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -391,7 +391,7 @@ third_nav_title: Staff
 <p>Ms Zheng Yiting Sheila</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zheng_yiting_sheila@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_yiting_sheila@moe.edu.sg</a> 
+<p><a href="mailto:zheng_yiting_sheila@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zheng_yiting_sheila@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -760,7 +760,7 @@ third_nav_title: Staff
 <p>Mr Dominic Sy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sy_sian_khye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sy_sian_khye@moe.edu.sg</a> 
+<p><a href="mailto:sy_sian_khye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sy_sian_khye@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -781,7 +781,7 @@ third_nav_title: Staff
 <p>Ms Loo Ming Jia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loo_ming_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_ming_jia@moe.edu.sg</a> 
+<p><a href="mailto:loo_ming_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_ming_jia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -790,7 +790,7 @@ third_nav_title: Staff
 <p>Ms Haslina Binte Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:haslina_hassan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslina_hassan_a@moe.edu.sg</a> 
+<p><a href="mailto:haslina_hassan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslina_hassan_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
