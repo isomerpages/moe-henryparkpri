@@ -91,13 +91,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Joo Lee</p>
+<p>Mrs Claire Lim-Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Innovation &amp; Data Management)</p>
+<p>HOD (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_joo_lee@moe.edu.sg</p>
+<p>lee_bee_yee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -168,13 +168,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dominic Sy</p>
+<p>Mrs Angela Loy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 &amp; P4)</p>
+<p>Year Head (P3 covering) &amp; SH - CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sy_sian_khye@moe.edu.sg</p>
+<p>ang_ha_ngek@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -257,13 +257,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Claire Lim-Lee</p>
+<p>Ms Lee Zi Xuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH - Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_bee_yee@moe.edu.sg</p>
+<p>lee_zi_xuan@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -323,13 +323,46 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Angela Loy</p>
+<p>Ms Athena Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - CCE</p>
+<p>SH - Partnership &amp; Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ang_ha_ngek@moe.edu.sg</p>
+<p>atherna_choo@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yang Liman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - CCE Curriculum</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>yang_liman@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Yong Yuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - CCA &amp; LLP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tan_yong_yuan@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Song Wei</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - PE &amp; PAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>chua_song_wei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -348,7 +381,7 @@ variant: tiptap
 <p>Mdm Norrehan Mohd Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (P3)</p>
+<p>AYH (P4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>norrehan_mohamad_jabbar@moe.edu.sg</p>
@@ -359,21 +392,10 @@ variant: tiptap
 <p>Ms Rajesheela</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (P6)</p>
+<p>AYH (P5)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>rajesheela_rajanthiran@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yang Liman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Covering CCE Curriculum</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>yang_liman@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -385,28 +407,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_sharah_amat_sam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Yong Yuan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Covering CCA &amp; LLP</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>tan_yong_yuan@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chua Song Wei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Covering PE &amp; PAL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chua_song_wei@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
