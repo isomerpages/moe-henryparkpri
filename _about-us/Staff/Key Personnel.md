@@ -411,7 +411,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Deng Mingyang</p>
+<p>Mr Deng Mingyang Andy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH - Covering EdTech</p>
@@ -422,13 +422,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Zi Xuan</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH - Covering Mathematics</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_zi_xuan@moe.edu.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -487,6 +487,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm K. Sunitha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Nora Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -516,6 +527,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ng_eng_peng@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siau Li Juan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher - Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
