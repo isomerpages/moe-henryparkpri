@@ -4,7 +4,7 @@ permalink: /school-canteen-stall-menu/
 variant: tiptap
 description: ""
 ---
-<p><strong>Canteen Stalls Nenu with Pricing (from Jan 2026)</strong>
+<p><strong>Canteen Stalls Menu with Pricing (from Jan 2026)</strong>
 </p>
 <p>(* Note - Items and prices are subject to changes)</p>
 <p><a href="/files/HPPS_canteen_menu__2026_.pdf" rel="noopener nofollow" target="_blank">HPPS Canteen Menu 2026</a>
