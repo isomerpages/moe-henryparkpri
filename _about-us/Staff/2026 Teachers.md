@@ -539,10 +539,11 @@ third_nav_title: Staff
 <p>3 Boldness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms K. Sunitha</p>
+<p>Mdm K. Sunitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sunita_kumari_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sunita_kumari_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -623,7 +624,8 @@ third_nav_title: Staff
 <p>Ms Athena Choo Jia Yee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:athena_choo_jia_yee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">athena_choo_jia_yee@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -728,7 +730,8 @@ third_nav_title: Staff
 <p>Ms Siau Li Juan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siau_li_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siau_li_juan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
