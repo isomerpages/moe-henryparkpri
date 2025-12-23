@@ -2,7 +2,6 @@ collections:
   school-info:
     output: true
     order:
-      - School Canteen Stall Menu.md
       - School Rules and Regulations (Updated on 9 Feb 2021).md
       - Dismissal Timings, Pickup Points, Gate Opening Hours.md
       - School Safety and Security.md
@@ -12,6 +11,7 @@ collections:
       - School Booklist.md
       - Student Care Centre (Ace@Work).md
       - School Canteen Advertisement.md
+      - School Canteen Stall Menu.md
       - MOE Student Details Form Online Portal.md
       - Updating of Student's Address.md
       - MOE Group Personal Accident (GPA) Insurance.md
