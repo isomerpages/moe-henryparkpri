@@ -47,35 +47,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Tan</p>
+<p>Mrs Claire Lim-Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD (Curriculum, Assessment &amp; Pedagogy)</p>
+<p>HOD (Mathematics)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>irene_tan_seng_chew@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Deepak David</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (CCE Student Management)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>deepak_david@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chin Lian Mei</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (PE / CCA)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>chin_lian_mei@moe.edu.sg</p>
+<p>lee_bee_yee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -91,17 +69,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Claire Lim-Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD (Mathematics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>lee_bee_yee@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Tan Shi Qi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -113,13 +80,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jeanette Ong</p>
+<p>Ms Chin Lian Mei</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Staff Developer (SSD)</p>
+<p>HOD (PE / CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ong_kang_nee_jeanette@moe.edu.sg</p>
+<p>chin_lian_mei@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Deepak David</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (CCE Student Management)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>deepak_david@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Irene Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD (Curriculum, Assessment &amp; Pedagogy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>irene_tan_seng_chew@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -153,6 +142,17 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>lau_kar_loong@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jeanette Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer (SSD)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ong_kang_nee_jeanette@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
