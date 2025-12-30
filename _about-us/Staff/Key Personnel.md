@@ -290,17 +290,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norrehan Mohd Jabbar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Malay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>norrehan_mohamad_jabbar@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Amy Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -370,7 +359,7 @@ variant: tiptap
 <p>Ms Lam Yuen Kay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH (P1)</p>
+<p>AYH (P2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>lam_yuen_kay@moe.edu.sg</p>
@@ -403,7 +392,7 @@ variant: tiptap
 <p>Ms Siti Sharah Bte Amat Samsuri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Covering GEP</p>
+<p>SH - GEP, Covering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_sharah_amat_sam@moe.edu.sg</p>
@@ -411,13 +400,35 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Deng Mingyang Andy</p>
+<p>Mr Deng Ming Yang Andy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH - Covering EdTech</p>
+<p>SH - EdTech, Covering</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>deng_mingyang@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Johannah Fong Yun Wen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - EdTech, Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shahana Shereen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - SWB, Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
