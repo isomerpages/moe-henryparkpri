@@ -17,7 +17,7 @@ Plan for Students can be found on Income’s website at&nbsp;<a href="https://ww
 </li>
 <li>
 <p>Please read the product fact sheet for the terms and conditions of the
-insurance coverage on the NTUC Income. <a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>.</p>
+insurance coverage on the NTUC Income. <a href="/files/Product_Fact_Sheet__Year_2026_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet</a>.</p>
 </li>
 </ol>
 <p></p>
