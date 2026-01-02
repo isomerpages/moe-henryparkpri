@@ -1391,7 +1391,8 @@ third_nav_title: Staff
 <p>Senior Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gwendolyn_natasha_bava@schools.gov.sg</p>
+<p><a href="mailto:gwendolyn_natasha_bava@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gwendolyn_natasha_bava@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1402,7 +1403,8 @@ third_nav_title: Staff
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>samantha_lee_yanmei@moe.edu.sg</p>
+<p><a href="mailto:samantha_lee_yanmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_lee_yanmei@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1413,7 +1415,8 @@ third_nav_title: Staff
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sharmini_nair_g_prabhakaran@moe.edu.sg</p>
+<p><a href="mailto:sharmini_nair_g_prabhakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_nair_g_prabhakaran@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1424,7 +1427,8 @@ third_nav_title: Staff
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fan_Xinyi_Ebellia_D@schools.gov.sg</p>
+<p><a href="mailto:Fan_Xinyi_Ebellia_D@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fan_Xinyi_Ebellia_D@schools.gov.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -1435,7 +1439,8 @@ third_nav_title: Staff
 <p>School Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sangeetha _Thamizhvanan@schools.gov.sg</p>
+<p><a href="mailto:Sangeetha_Thamizhvanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sangeetha_Thamizhvanan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
