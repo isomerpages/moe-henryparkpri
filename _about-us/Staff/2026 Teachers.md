@@ -781,7 +781,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -799,6 +799,14 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haslina_hassan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslina_hassan_a@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Chunxiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>to be advise</p>
 </td>
 </tr>
 <tr>
@@ -1082,7 +1090,7 @@ third_nav_title: Staff
 <p>5 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Lum</p>
+<p>Mrs Esther Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:esther_lum_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther_lum_hui_shan@moe.edu.sg</a>
@@ -1340,6 +1348,99 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yang_lan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yang_lan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Special Educational Needs Officer (SENO) / School Counsellor</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Teachers</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p><strong>Email Addresses</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Gwendolyn Natasha Bava</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:gwendolyn_natasha_bava@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gwendolyn_natasha_bava@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Samantha Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samantha_lee_yanmei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_lee_yanmei@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharmini Nair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sharmini_nair_g_prabhakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sharmini_nair_g_prabhakaran@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Fan Xinyi, Ebellia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Fan_Xinyi_Ebellia_D@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fan_Xinyi_Ebellia_D@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sangeetha Thamizhvanan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Sangeetha_Thamizhvanan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Sangeetha_Thamizhvanan@schools.gov.sg</a>
 </p>
 </td>
 </tr>
