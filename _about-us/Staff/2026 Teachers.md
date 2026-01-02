@@ -289,7 +289,8 @@ third_nav_title: Staff
 <p>Ms Huang Yuxin , Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Huang_Yuxin_Joyce_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Huang_Yuxin_Joyce_A@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +310,8 @@ third_nav_title: Staff
 <p>Lim Sze Hui, Sylvia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lim_sze_hui_sylvia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sze_hui_sylvia@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -329,7 +331,7 @@ third_nav_title: Staff
 <p>Ms Leong Soak Wai&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>to be advise</p>
 </td>
 </tr>
 <tr>
@@ -475,7 +477,8 @@ third_nav_title: Staff
 <p>Ms Lau Hui Miang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lau_hui_miang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_hui_miang@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -569,10 +572,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lemaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>to be advise</p>
 </td>
 </tr>
 <tr>
@@ -592,7 +595,8 @@ third_nav_title: Staff
 <p>Choo Bee Lang Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Choo_Bee_Lang_Michelle_A@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -675,7 +679,7 @@ third_nav_title: Staff
 <p>Ms Goh Ser Ling Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>to be advise</p>
 </td>
 </tr>
 <tr>
@@ -856,7 +860,8 @@ third_nav_title: Staff
 <p>Mr Lim Chin Sang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Lim_Chin_Sang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Chin_Sang@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
