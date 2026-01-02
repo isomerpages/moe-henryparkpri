@@ -400,6 +400,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Seow Su Yi Celestine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Science, Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>seow_su_yi_celestine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Deng Ming Yang Andy</p>
 </td>
 <td rowspan="1" colspan="1">
