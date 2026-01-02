@@ -781,7 +781,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>4 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -799,6 +799,14 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:haslina_hassan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslina_hassan_a@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Wang Chunxiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>to be advise</p>
 </td>
 </tr>
 <tr>
