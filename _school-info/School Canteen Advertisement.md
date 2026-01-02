@@ -1,5 +1,5 @@
 ---
-title: School Canteen
+title: School Canteen Advertisement
 permalink: /school-info/permalink/canteen/
 description: ""
 variant: tiptap

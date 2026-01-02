@@ -2,20 +2,21 @@ collections:
   school-info:
     output: true
     order:
-      - MOE Group Personal Accident (GPA) Insurance.md
-      - eLearning Platforms & Logins.md
-      - Students Awards.md
-      - School Canteen.md
-      - Dismissal Timings, Pickup Points, Gate Opening Hours.md
-      - MOE Student Details Form Online Portal.md
-      - School Booklist.md
       - School Rules and Regulations (Updated on 9 Feb 2021).md
+      - Dismissal Timings, Pickup Points, Gate Opening Hours.md
       - School Safety and Security.md
       - School Bus Service.md
       - School Dental Service.md
       - School Bookshop and Uniform.md
+      - School Booklist.md
       - Student Care Centre (Ace@Work).md
-      - Financial Assistance.md
-      - School Wait List (Application Form).md
-      - Leave of Absence.md
+      - School Canteen Advertisement.md
+      - School Canteen Stall Menu.md
+      - MOE Student Details Form Online Portal.md
       - Updating of Student's Address.md
+      - MOE Group Personal Accident (GPA) Insurance.md
+      - Financial Assistance.md
+      - eLearning Platforms & Logins.md
+      - Students Awards.md
+      - Leave of Absence.md
+      - School Wait List (Application Form).md
