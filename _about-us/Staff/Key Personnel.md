@@ -417,7 +417,7 @@ variant: tiptap
 <p>SH - EdTech, Covering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>johannah_fong_yun_wen@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -428,7 +428,7 @@ variant: tiptap
 <p>SH - SWB, Covering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>shahana_shereene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
