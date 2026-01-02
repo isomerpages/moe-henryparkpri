@@ -1082,7 +1082,7 @@ third_nav_title: Staff
 <p>5 Harmony</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Lum</p>
+<p>Mrs Esther Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:esther_lum_hui_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther_lum_hui_shan@moe.edu.sg</a>
