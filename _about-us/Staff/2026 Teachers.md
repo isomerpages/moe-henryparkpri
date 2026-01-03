@@ -432,7 +432,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Devi</p>
+<p>Mdm Devi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kandasamy_parvathi_devi_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kandasamy_parvathi_devi_b@moe.edu.sg</a>
