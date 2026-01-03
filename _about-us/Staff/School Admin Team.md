@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Li Khim Agnes</p>
+<p>Ms Agnes Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager</p>
