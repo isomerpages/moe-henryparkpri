@@ -160,7 +160,7 @@ variant: tiptap
 <p>Ms Iris See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P1 &amp; P2)</p>
+<p>Year Head (Lower Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>see_siao_jun_iris@moe.edu.sg</p>
@@ -171,7 +171,7 @@ variant: tiptap
 <p>Mrs Angela Loy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P3 covering) &amp; SH - CCE</p>
+<p>Year Head (Middle Primary) - Covering &amp; SH - CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ang_ha_ngek@moe.edu.sg</p>
@@ -182,7 +182,7 @@ variant: tiptap
 <p>Mr Muhammad Sadhiq</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (P5 &amp; P6)</p>
+<p>Year Head (Upper Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>muhammad_sadhiq@moe.edu.sg
@@ -400,6 +400,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Seow Su Yi Celestine</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH - Science, Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>seow_su_yi_celestine@moe.edu.sg</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Deng Ming Yang Andy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -433,13 +444,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Dr Celestine Seow</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH - Science, Covering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>seow_su_yi_celestine@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
