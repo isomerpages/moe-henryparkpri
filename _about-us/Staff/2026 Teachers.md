@@ -546,7 +546,7 @@ third_nav_title: Staff
 <p>Mdm K. Sunitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sunita_kumari_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sunita_kumari_a@moe.edu.sg</a>
+<p><a href="mailto:k_sunitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">k_sunitha@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -801,18 +801,9 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Diligence</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Loo Ming Jia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loo_ming_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_ming_jia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Haslina Binte Hassan</p>
 </td>
@@ -826,7 +817,8 @@ third_nav_title: Staff
 <p>Wang Chunxiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>to be advise</p>
+<p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Chunxiao@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -843,10 +835,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Eugene Yong Sheng Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Eugene_Yong_Sheng_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eugene_Yong_Sheng_Yi@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1270,10 +1263,10 @@ third_nav_title: Staff
 <p>6 Enthusiasm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nora Ibrahim</p>
+<p>Ms Lee Wai Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nora_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ibrahim@moe.edu.sg</a>
+<p><a href="mailto:lee_wai_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wai_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
