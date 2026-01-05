@@ -86,7 +86,7 @@ third_nav_title: Staff
 <p>Mr Shankar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ramakrishnan_Gowrishankar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ramakrishnan_Gowrishankar@moe.edu.sg</a>
+<p><a href="mailto:Ramakrishnan_Gowrishankar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ramakrishnan_gowrishankar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -289,7 +289,7 @@ third_nav_title: Staff
 <p>Ms Huang Yuxin , Joyce</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Huang_Yuxin_Joyce_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Huang_Yuxin_Joyce_A@moe.edu.sg</a>
+<p><a href="mailto:Huang_Yuxin_Joyce_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_yuxin_joyce_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -331,7 +331,7 @@ third_nav_title: Staff
 <p>Ms Leong Soak Wai&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong_Soak_Wai_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Leong_Soak_Wai_D@moe.edu.sg</a>
+<p><a href="mailto:Leong_Soak_Wai_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_soak_wai_d@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -576,7 +576,7 @@ third_nav_title: Staff
 <p>Ms Evelyn Wang Tih Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Evelyn_Wang_Tih_Hoon_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Evelyn_Wang_Tih_Hoon_D@moe.edu.sg</a>
+<p><a href="mailto:Evelyn_Wang_Tih_Hoon_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_wang_tih_hoon_d@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -585,7 +585,7 @@ third_nav_title: Staff
 <p>Ms Lemaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>to be advise</p>
+<p>To be updated.</p>
 </td>
 </tr>
 <tr>
@@ -614,7 +614,7 @@ third_nav_title: Staff
 <p>Choo Bee Lang Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Choo_Bee_Lang_Michelle_A@moe.edu.sg</a>
+<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_bee_lang_michelle_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -698,7 +698,7 @@ third_nav_title: Staff
 <p>Ms Goh Ser Ling Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_Ser_Ling_Nicole_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Ser_Ling_Nicole_A@moe.edu.sg</a>
+<p><a href="mailto:Goh_Ser_Ling_Nicole_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ser_ling_nicole_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -817,7 +817,7 @@ third_nav_title: Staff
 <p>Wang Chunxiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Chunxiao@moe.edu.sg</a>
+<p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chunxiao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -838,7 +838,7 @@ third_nav_title: Staff
 <p>Mr Eugene Yong Sheng Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Eugene_Yong_Sheng_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eugene_Yong_Sheng_Yi@moe.edu.sg</a>
+<p><a href="mailto:Eugene_Yong_Sheng_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eugene_yong_sheng_yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -880,7 +880,7 @@ third_nav_title: Staff
 <p>Mr Lim Chin Sang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Chin_Sang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Lim_Chin_Sang@moe.edu.sg</a>
+<p><a href="mailto:Lim_Chin_Sang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_sang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
