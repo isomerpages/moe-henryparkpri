@@ -137,7 +137,7 @@ third_nav_title: Staff
 <p>1 Flexibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Judy Koh</p>
+<p>Mrs Judy Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_mei_lin_judy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mei_lin_judy@moe.edu.sg</a>
@@ -331,7 +331,8 @@ third_nav_title: Staff
 <p>Ms Leong Soak Wai&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>to be advise</p>
+<p><a href="mailto:Leong_Soak_Wai_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Leong_Soak_Wai_D@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -545,7 +546,7 @@ third_nav_title: Staff
 <p>Mdm K. Sunitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sunita_kumari_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sunita_kumari_a@moe.edu.sg</a>
+<p><a href="mailto:k_sunitha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">k_sunitha@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -559,7 +560,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -572,6 +573,15 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Evelyn Wang Tih Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Evelyn_Wang_Tih_Hoon_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Evelyn_Wang_Tih_Hoon_D@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lemaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -579,7 +589,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -587,6 +597,15 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:parayanthal_veetil_moli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parayanthal_veetil_moli@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norrehan Bte Mohamad Jabbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrehan_mohamad_jabbar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -679,7 +698,8 @@ third_nav_title: Staff
 <p>Ms Goh Ser Ling Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>to be advise</p>
+<p><a href="mailto:Goh_Ser_Ling_Nicole_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Ser_Ling_Nicole_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -781,18 +801,9 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>4 Diligence</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Loo Ming Jia</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loo_ming_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_ming_jia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Haslina Binte Hassan</p>
 </td>
@@ -806,7 +817,8 @@ third_nav_title: Staff
 <p>Wang Chunxiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>to be advise</p>
+<p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Chunxiao@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -823,10 +835,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norrehan Bte Mohamad Jabbar</p>
+<p>Mr Eugene Yong Sheng Yi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrehan_mohamad_jabbar@moe.edu.sg</a>
+<p><a href="mailto:Eugene_Yong_Sheng_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Eugene_Yong_Sheng_Yi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1251,10 +1263,10 @@ third_nav_title: Staff
 <p>6 Enthusiasm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nora Ibrahim</p>
+<p>Ms Lee Wai Ching</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nora_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ibrahim@moe.edu.sg</a>
+<p><a href="mailto:lee_wai_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wai_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
