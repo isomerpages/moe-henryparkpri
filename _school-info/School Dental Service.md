@@ -9,25 +9,10 @@ variant: tiptap
 Nov 2025:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3 Nov 2025 to 7 Nov 2025</p>
+<p>13 Jan 2026 to 16 Jan 2026</p>
 </li>
 <li>
-<p>17 Nov 2025 to 21 Nov 2025</p>
-</li>
-<li>
-<p>10 Dec 2025 to 12 Dec 2025</p>
-</li>
-<li>
-<p>15 Dec 2025 to 19 Dec 2025</p>
-</li>
-<li>
-<p>22 Dec 2025 to 23 Dec 2025</p>
-</li>
-<li>
-<p>24 Dec 2025 (Close at 1130am)</p>
-</li>
-<li>
-<p>26 Dec 2025</p>
+<p>26 Jan 2026 to 30 Jan 2026</p>
 <p></p>
 </li>
 </ul>
