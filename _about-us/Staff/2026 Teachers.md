@@ -817,7 +817,7 @@ third_nav_title: Staff
 <p>Wang Chunxiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Chunxiao@moe.edu.sg</a> 
+<p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Wang_Chunxiao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
