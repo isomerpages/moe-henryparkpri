@@ -331,7 +331,8 @@ third_nav_title: Staff
 <p>Ms Leong Soak Wai&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>to be advise</p>
+<p><a href="mailto:Leong_Soak_Wai_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Leong_Soak_Wai_D@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -559,7 +560,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -572,6 +573,15 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Evelyn Wang Tih Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Evelyn_Wang_Tih_Hoon_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Evelyn_Wang_Tih_Hoon_D@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Lemaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -579,7 +589,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -587,6 +597,15 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:parayanthal_veetil_moli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parayanthal_veetil_moli@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Norrehan Bte Mohamad Jabbar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrehan_mohamad_jabbar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -679,7 +698,8 @@ third_nav_title: Staff
 <p>Ms Goh Ser Ling Nicole</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>to be advise</p>
+<p><a href="mailto:Goh_Ser_Ling_Nicole_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Goh_Ser_Ling_Nicole_A@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -823,11 +843,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norrehan Bte Mohamad Jabbar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrehan_mohamad_jabbar@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
