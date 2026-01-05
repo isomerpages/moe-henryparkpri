@@ -24,6 +24,6 @@ end after 4.15pm will have to</p>
 <p>For enquiries pertaining to specific CCA, please email the respective
 CCA teachers in-charge.</p>
 <p>For generic CCA enquiry, please email Mr Tan Yong Yuan (<a href="mailto:tan_yong_yuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yong_yuan@moe.edu.sg</a>).</p>
-<p>Please click here for the CCA schedule and CCA Teacher(s) in-charge for
-2026.</p>
-<p>You can also find a list of the CCAs offered in the school here.</p>
+<p>Please click <a href="/files/CCA_Schedule_for_2026__Semester_1_.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the CCA schedule and CCA Teacher(s) in-charge for 2026.</p>
+<p>You can also find a list of the CCAs offered in the school <a href="/files/List_of_CCAs_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
