@@ -137,7 +137,7 @@ third_nav_title: Staff
 <p>1 Flexibility</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Judy Koh</p>
+<p>Mrs Judy Toh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_mei_lin_judy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_mei_lin_judy@moe.edu.sg</a>
