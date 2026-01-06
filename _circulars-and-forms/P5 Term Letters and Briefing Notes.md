@@ -16,6 +16,10 @@ variant: tiptap
 <p></p>
 </li>
 </ol>
+<h4>Triple P (Positive Parenting Programme)</h4>
+<p><a href="https://drive.google.com/file/d/1fQxi0LraZkghB82HLL8pJHGLz8GIcnbk/view?usp=sharing" rel="noopener nofollow" target="_blank">Triple P Introduction 2026</a>
+</p>
+<p></p>
 <h4>Direct School Admissions for Secondary Schools (DSA-sec) and Full Subject-Based Banding (Full SBB)</h4>
 <ol data-tight="true" class="tight">
 <li>
