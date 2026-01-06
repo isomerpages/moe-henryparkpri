@@ -442,6 +442,17 @@ variant: tiptap
 <p>seow_su_yi_celestine@moe.edu.sg</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Senior and Lead Teachers</h3>
