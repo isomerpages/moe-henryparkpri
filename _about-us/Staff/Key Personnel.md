@@ -318,7 +318,7 @@ variant: tiptap
 <p>SH - Partnership &amp; Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>atherna_choo@moe.edu.sg</p>
+<p>athena_choo@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -396,17 +396,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>siti_sharah_amat_sam@moe.edu.sg</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Seow Su Yi Celestine</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH - Science, Covering</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>seow_su_yi_celestine@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
