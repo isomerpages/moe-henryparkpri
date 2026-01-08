@@ -6,13 +6,6 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>General Office will close on 24 Nov 2025, Monday as our staff will be attending a school event.</strong>
-</p>
-</li>
-</ul>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong><u>Eat With Your Family Day (EWYFD)</u></strong>
 </p>
 </li>
@@ -26,16 +19,16 @@ regularly (<a href="http://fathers.com.sg/ewyfd/" rel="noopener noreferrer nofol
 in HPPS) will be closed by 5 p.m. on the following EWYFD dates:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>14 March 2025</p>
+<p>13 March 2026</p>
 </li>
 <li>
-<p>30 May 2025</p>
+<p>29 May 2026</p>
 </li>
 <li>
-<p>5 Sep 2025</p>
+<p>4 September 2026</p>
 </li>
 <li>
-<p>21 November 2025</p>
+<p>20 November 2026</p>
 <p></p>
 </li>
 </ul>
