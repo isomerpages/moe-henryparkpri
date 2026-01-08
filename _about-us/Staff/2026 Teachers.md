@@ -328,7 +328,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Leong Soak Wai&nbsp;</p>
+<p>Mdm Leong Soak Wai&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Leong_Soak_Wai_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_soak_wai_d@moe.edu.sg</a>
