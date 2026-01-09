@@ -21,7 +21,12 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p></p>
+<p><a href="/files/2026_P3_CL__HCL_Briefing_Slides_to_Parents.pdf" rel="noopener nofollow" target="_blank">Chinese and Higher Chinese</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_P3_TL___HTL_Parent_s_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Tamil and Higher Tamil</a>
+</p>
 </li>
 </ol>
 <p></p>
