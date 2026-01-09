@@ -6,6 +6,9 @@ variant: tiptap
 ---
 <h3>P3 Term Letters and Briefing Notes</h3>
 <p></p>
+<h4>Level Matters &amp; Assessment Schedule</h4>
+<p><a href="/files/2026_P3_Term_1_Level_Matters.pdf" rel="noopener nofollow" target="_blank">P3 Term 1 Level Matters</a>
+</p>
 <h4>Subject Briefing Slides</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -30,6 +33,5 @@ variant: tiptap
 </li>
 </ol>
 <p></p>
-<h4>Level Matters &amp; Assessment Schedule</h4>
-<p><a href="/files/2026_P3_Term_1_Level_Matters.pdf" rel="noopener nofollow" target="_blank">P3 Term 1 Level Matters</a>
-</p>
+<h4></h4>
+<p></p>
