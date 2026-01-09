@@ -4,10 +4,6 @@ permalink: /circulars-and-forms/p5-term-letters-and-briefing-notes/
 description: ""
 variant: tiptap
 ---
-<h4>P5 Subject Briefing Slides</h4>
-<p><strong>Updates coming soon</strong>
-</p>
-<p></p>
 <h4>Level Matters and Assessment Schedule</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -16,6 +12,10 @@ variant: tiptap
 <p></p>
 </li>
 </ol>
+<h4>P5 Subject Briefing Slides</h4>
+<p><strong>Updates coming soon</strong>
+</p>
+<p></p>
 <h4>Triple P (Positive Parenting Programme)</h4>
 <p><a href="https://drive.google.com/file/d/1fQxi0LraZkghB82HLL8pJHGLz8GIcnbk/view?usp=sharing" rel="noopener nofollow" target="_blank">Triple P Introduction 2026</a>
 </p>
