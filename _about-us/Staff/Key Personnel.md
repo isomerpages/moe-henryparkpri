@@ -318,7 +318,7 @@ variant: tiptap
 <p>SH - Partnership &amp; Engagement</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>athena_choo@moe.edu.sg</p>
+<p>athena_choo_jia_yee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
