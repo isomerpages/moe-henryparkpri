@@ -221,7 +221,7 @@ third_nav_title: Staff
 <p>1 Joyfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sim Hui Lin Cassandra</p>
+<p>Ms Sim Hui Lin Cassandra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_hui_lin_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_lin_cassandra@moe.edu.sg</a>
