@@ -221,7 +221,7 @@ third_nav_title: Staff
 <p>1 Joyfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sim Hui Lin Cassandra</p>
+<p>Ms Sim Hui Lin Cassandra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sim_hui_lin_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_lin_cassandra@moe.edu.sg</a>
@@ -307,7 +307,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Sze Hui, Sylvia</p>
+<p>Ms Lim Sze Hui, Sylvia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_sze_hui_sylvia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sze_hui_sylvia@moe.edu.sg</a>
@@ -611,7 +611,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choo Bee Lang Michelle</p>
+<p>Ms Choo Bee Lang Michelle</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_bee_lang_michelle_a@moe.edu.sg</a>
@@ -814,7 +814,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wang Chunxiao</p>
+<p>Ms Wang Chunxiao</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chunxiao@moe.edu.sg</a>
