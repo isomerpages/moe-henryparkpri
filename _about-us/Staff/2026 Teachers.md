@@ -560,7 +560,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -573,19 +573,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Evelyn Wang Tih Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:Evelyn_Wang_Tih_Hoon_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">evelyn_wang_tih_hoon_d@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Lemaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>To be updated.</p>
+<p><a href="mailto:lemaine_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lemaine_lee@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
