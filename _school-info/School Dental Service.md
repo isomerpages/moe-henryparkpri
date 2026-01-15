@@ -12,6 +12,9 @@ variant: tiptap
 </li>
 <li>
 <p>26 Jan 2026 to 30 Jan 2026</p>
+</li>
+<li>
+<p>⚠️ 29 Jan 2026: Closed from 1:00pm to 5:30pm</p>
 <p></p>
 </li>
 </ul>
