@@ -576,7 +576,7 @@ third_nav_title: Staff
 <p>Ms Lemaine Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lemaine_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lemaine_lee@moe.edu.sg</a> 
+<p><a href="mailto:lemaine_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lemaine_lee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -743,7 +743,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Siau Li Juan</p>
+<p>Mrs Huang Li Juan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:siau_li_juan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siau_li_juan@moe.edu.sg</a>
