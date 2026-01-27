@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - CCE   Curriculum/Character and Citizenship Education.md
-      - CCE   Curriculum/.keep
       - English.md
       - Mathematics.md
       - Science.md
@@ -26,6 +24,8 @@ collections:
       - EdTech/.keep
       - EdTech/Educational Technology (EdTech).md
       - EdTech/Cyber Wellness.md
+      - CCE   Curriculum/.keep
+      - CCE   Curriculum/Character and Citizenship Education.md
       - Student Well Being/.keep
       - Student Well Being/Student Well–Being.md
       - Student Well Being/Sexuality Education.md
