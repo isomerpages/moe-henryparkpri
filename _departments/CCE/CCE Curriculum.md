@@ -23,8 +23,12 @@ and future challenges confidently.</p>
 realities and constraints, care about others, and are motivated to contribute
 to the community and build a better future for society.</p>
 <h3>Our Programmes</h3>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; National Education (NE)</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>National Education (NE)</strong>
 </p>
+</li>
+</ol>
 <p>National Education (NE) is part of holistic education. It aims to foster
 national cohesion and boost students’ confidence in our nation’s future.
 It also emphasises on cultivating a sense of belonging and emotional rootedness
@@ -83,4 +87,98 @@ In the process, developing their own citizenship dispositions.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong> Values in Action (VIA)</strong>
+</p>
+</li>
+</ol>
+<p>Values in Action (VIA) is an integral part of our school’s Character and
+Citizenship Education (CCE) curriculum, which seeks to nurture students
+to become concerned citizens with a strong sense of social responsibility.
+Through VIA, students are provided with purposeful opportunities to apply
+RICE values in authentic contexts, contribute meaningfully to their families,
+school, and the wider community, and develop character, resilience, and
+civic consciousness.</p>
+<p>&nbsp;The VIA webpage shows students’ VIA projects and efforts, reflecting
+their learning, contributions, and impact as they put values into action.</p>
+<p><a href="https://sites.google.com/moe.edu.sg/hppsvia/home" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/hppsvia/home</a>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA2.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIA3.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Education and Career Guidance (ECG)</strong>
+</p>
+</li>
+</ol>
+<p>Education and Career Guidance (ECG) supports students in developing a
+sense of purpose and direction in life. Through ECG, students build self-awareness,
+cultivate self-directed learning, and develop a growth mindset, adaptability,
+and resilience. In our school, students explore education pathways through
+secondary school open houses and are exposed to a wide range of careers
+through career talks and interactive booth activities, helping them appreciate
+the value of all occupations. Students are also encouraged to access resources
+such as the <strong>SkillsFuture website</strong>  <em>[link to <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary.html</a>]</em> to
+further explore education and career opportunities and prepare confidently
+for the future.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG3.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
