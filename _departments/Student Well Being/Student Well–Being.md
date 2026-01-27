@@ -31,7 +31,12 @@ students flourish.</p>
 <p>The school supports our students’ holistic development through explicit
 classroom teaching, assembly programs as well as engaging activities in
 collaboration with the different departments and external agencies.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -95,7 +100,11 @@ and emotional competencies are:</p>
 <p>c) Self-Management</p>
 <p>d) Relationship Management</p>
 <p>e) Responsible Decision-making</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -188,7 +197,11 @@ and Confidence.</p>
 &amp; Games and Outdoor Education, as well as Performing Arts and Visual
 Arts. These modules offer students a wide range of engaging experiences,
 allowing them to broaden their horizons and discover new interests.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -234,9 +247,7 @@ seminars to enhance their parenting skills, knowledge and confidence.</p>
 <p>Seminar 1 – Positive Parenting</p>
 <p>Seminar 2 – Raising Confident and Competent Children</p>
 <p>Seminar 3 – Raising Resilient Children</p>
-<p>The school also organizes other parenting workshops rooted in positive
-psychology to engage our parents in our Positive Education initiative and
-assist them along their parenting path.</p>
+<p></p>
 <p></p>
 <h3>Peer Support</h3>
 <div class="isomer-image-wrapper">
@@ -267,7 +278,12 @@ to equip them with the knowledge and skills to spread this culture of care
 through peer bonding, peer helping and peer influencing. PSLs also assume
 roles in school events to be advocates for Kindness Programmes and undertake
 projects to spread care and gratitude amongst their peers.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -326,5 +342,56 @@ projects to spread care and gratitude amongst their peers.</p>
 </tbody>
 </table>
 <p></p>
+<p><strong>Tier 3</strong>
+</p>
+<p>Tier 3 Peer Support Leaders are role models of peer support within the
+school. Building on their experience as Peer Supporter Leaders, they take
+on whole-school leadership roles by actively participating in school programmes,
+supporting the planning and implementation of peer support initiatives,
+and mentoring younger Peer Supporters. As the first line of peer support,
+they listen with empathy, provide practical help, and promote positive
+behaviour and early help-seeking, contributing to a caring, inclusive,
+and resilient school community.</p>
+<p></p>
+<h3>Grow Well SG (GWSG)</h3>
+<p>Grow Well SG is a national health promotion strategy led by MOH, MOE,
+and MSF to enhance preventive care and promote healthy lifestyles among
+children and adolescents. It supports parents and schools in nurturing
+healthy habits from a young age through a whole-of-government approach.</p>
+<p>The strategy focuses on four key areas: Eat Well, Sleep Well, Learn Well,
+and Exercise Well. Our school progressively introduces these concepts and
+practices to help students develop balanced, healthy routines that support
+their overall well-being and learning.</p>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GWSG3.png">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GWSG2.png">
+</div>
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GWSG1.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>

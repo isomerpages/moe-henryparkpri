@@ -82,7 +82,7 @@ to make wise, informed and responsible decisions to keep themselves safe
 from sexuality-related risks.</p>
 </li>
 </ol>
-<h4><strong>At Henry Park Primary School, the following lessons from the Growing Years Programme will be taught in 2025:</strong></h4>
+<h4><strong>At Henry Park Primary School, the following lessons from the Growing Years Programme will be taught in 2026:</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -163,7 +163,7 @@ own responses when they encounter pornography by applying the strategy <strong>â
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 2 Week 3</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +181,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 4</p>
 <p></p>
 <p></p>
 <p></p>
@@ -275,7 +275,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 8</p>
+<p>Term 1 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -292,7 +292,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 1 Week 9</p>
+<p>Term 1 Week 8</p>
 </td>
 </tr>
 </tbody>
@@ -307,8 +307,8 @@ supplementary Sexuality Education programmes by MOE-approved external providers.
 <li>
 <p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated
-&nbsp;to parents at the start of the year and is also downloadable <a href="/files/ANNEX_A__Opt_out_Form__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The completed opt-out form is to be submitted by 07/02/2025.</p>
+&nbsp;to parents at the start of the year and is also downloadable <a href="/files/ANNEX_A__Opt_out_Form__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The completed opt-out form is to be submitted by 09/02/2026.</p>
 </li>
 <li>
 <p>Parents can contact the school at 6466 3600 for discussion or to seek
