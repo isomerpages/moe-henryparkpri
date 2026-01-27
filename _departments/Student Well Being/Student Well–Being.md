@@ -373,7 +373,7 @@ their overall well-being and learning.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GWSG1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GWSG3.png">
 </div>
 <p></p>
 </td>
@@ -386,8 +386,9 @@ their overall well-being and learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GWSG3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/GWSG1.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
