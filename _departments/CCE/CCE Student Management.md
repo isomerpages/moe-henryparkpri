@@ -56,17 +56,32 @@ Work.</p>
 <p>To Be Educated with the Right Knowledge, Skills and Values</p>
 </li>
 <li>
-<p>To be Enabled wi</p>
-<p>th the Means, Platforms and Ability to Serve</p>
+<p>To be Enabled with the Means, Platforms and Ability to Serve</p>
 </li>
 <li>
 <p>To be Empowered with the Autonomy and Opportunities and the Right Spirit
 to Connect with Others and Contribute Back to Society</p>
 </li>
 </ol>
+<p><strong>Student Leadership Tiers</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Student Learship Opportunities" src="/images/Std_Leadership_Opportunities.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Std_Leadership_Opportunities.jpg">
 </div>
 <p></p>
-<p></p>
+<p><strong>Student Leadership Opportunities</strong>
+</p>
+<p>The Tiering System allows students to progress up the scale of leadership
+according to their level of competence and the degree of responsibility
+given to them through their respective leadership opportunities.</p>
+<blockquote>
+<p><sub>Note:</sub>
+</p>
+<p><sub>Each tier has its own selection criteria and expectations.</sub>
+</p>
+<p><sub>Student Leadership Committee will have a generic training for all Student Leaders so they understand and are aligned in expectations of their position</sub>
+</p>
+<p><sub>Tier 2 and above, departments will add on specific trainings for students to hone specific skills related to their position.</sub>
+</p>
+</blockquote>
 <p></p>
