@@ -85,3 +85,33 @@ given to them through their respective leadership opportunities.</p>
 </p>
 </blockquote>
 <p></p>
+<p>The primary focus of the Henry Park Primary School Leadership Framework
+which is aligned to the School’s Vision is to mentor and guide students
+towards becoming exemplary Leaders of Character, serving with their unique
+talents. The concept of leading with character encompasses specific nuances,
+including the school's core values of Respect, Integrity, Care and Excellence.</p>
+<p>Drawing certain references from the Leadership Challenge Model (Kouzes
+and Posner), we&nbsp; belief that leadership is a skill that can be harnessed
+with sufficient knowledge and practice. This model leverages the 5 Practices
+of Exemplary Leadership — model the way, inspire a shared vision, challenge
+the process, enable others to act, and encourage the heart which we have
+tweaked to align to our schools needs and abilities.</p>
+<p>Throughout their engagement with various key areas of leadership development,
+including leadership training, significant leadership experiences, leadership
+assessment, mentoring, and the application of skills in assigned responsibilities,
+students are consistently reminded of the significance of the school's
+values and social-emotional learning (SEL) competencies.</p>
+<p><strong>3 E Tiered Approach</strong>
+</p>
+<p>Following the 3 E (Educate, Enable, and Empower) tiered approach), the
+framework emphasizes creating opportunities for students to apply the values
+they've learned in serving the school and society, thereby contributing
+to the improvement of their environment. This is aligned to both the Leadership
+Tiered Approach and the Tiered Training Approach. This alignment across
+the school to achieve the desired outcomes.</p>
+<p>Throughout their engagement with various key areas of leadership development,
+including leadership training, significant leadership experiences, leadership
+assessment, mentoring, and the application of skills in assigned responsibilities,
+students are consistently reminded of the significance of the school's
+values and social-emotional learning (SEL) competencies</p>
+<p>&nbsp;</p>
