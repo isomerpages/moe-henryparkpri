@@ -10,6 +10,10 @@ variant: tiptap
 <p><a href="/files/2026_P6_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Term 1 Level Matters</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2026_P6_Sem_1_Assessment_Schedule__Mainstream_.pdf" rel="noopener nofollow" target="_blank">Semester 1 Assessment Schedule</a>
+</p>
+</li>
 </ol>
 <p></p>
 <h4>P6 Subject Briefing Slides</h4>
