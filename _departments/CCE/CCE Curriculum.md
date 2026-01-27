@@ -90,7 +90,7 @@ In the process, developing their own citizenship dispositions.</p>
 <p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
-<p><strong> Values in Action (VIA)</strong>
+<p><strong>Values in Action (VIA)</strong>
 </p>
 </li>
 </ol>
