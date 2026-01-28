@@ -42,7 +42,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>&nbsp;You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">link</a> for more information
 on MOE Sexuality Education.</p>
-<h4><strong><br>Overview of Henry Park Primary School's Sexuality Education Programme for 2025</strong></h4>
+<h4><strong><br>Overview of Henry Park Primary School's Sexuality Education Programme for 2026</strong></h4>
 <ol start="4">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
