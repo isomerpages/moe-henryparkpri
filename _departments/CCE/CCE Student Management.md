@@ -61,8 +61,14 @@ Work.</p>
 <li>
 <p>To be Empowered with the Autonomy and Opportunities and the Right Spirit
 to Connect with Others and Contribute Back to Society</p>
+<p></p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Std_Leadership_Framework.jpg">
+</div>
+<p></p>
+<p></p>
 <p><strong>Student Leadership Tiers</strong>
 </p>
 <div class="isomer-image-wrapper">
