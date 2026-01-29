@@ -98,7 +98,7 @@ third_nav_title: Staff
 <p>Mr Saifullizan Almashor Bin Ahmad</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="saifullizan_almashor_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saifullizan_almashor_ahmad@moe.edu.sg</a>
+<p><a href="saifullizan_almashor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saifullizan_almashor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
