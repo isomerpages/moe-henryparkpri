@@ -603,10 +603,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Choo Bee Lang Michelle</p>
+<p>Ms Pauline Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">choo_bee_lang_michelle_a@moe.edu.sg</a>
+<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pauline_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1255,10 +1255,10 @@ third_nav_title: Staff
 <p>6 Enthusiasm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Wai Ching</p>
+<p>Mdm Nora Ibrahim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_wai_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wai_ching@moe.edu.sg</a>
+<p><a href="mailto:nora_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nora_ibrahim@moe.edu.sg</a>
 </p>
 </td>
 </tr>
