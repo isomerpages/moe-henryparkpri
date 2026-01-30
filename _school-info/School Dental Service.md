@@ -5,16 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h5>Dental Clinic Announcements</h5>
-<p>Below are the opening dates for the school dental clinic for Jan 2026:</p>
+<p>Below are the opening dates for the school dental clinic for Feb 2026:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>13 Jan 2026 to 16 Jan 2026</p>
+<p>9 Feb 2026 to 13 Feb 2026</p>
 </li>
 <li>
-<p>26 Jan 2026 to 30 Jan 2026</p>
-</li>
-<li>
-<p>⚠️ 29 Jan 2026: Closed from 1:00pm to 5:30pm</p>
+<p>23 Feb 2026 to 27 Feb 2026</p>
 <p></p>
 </li>
 </ul>
@@ -23,10 +20,10 @@ variant: tiptap
 <p>Staff I/C: Ms Ahshikha (Dental Therapist).</p>
 <p><u>Monday , Wednesday &amp; Friday </u>
 <br>8:00 a.m. - 5:00 p.m.
-<br>(Lunch break: 12.30 p.m.-1.30 p.m.)
+<br>(Lunch break: 1.00 p.m.- 2.00 p.m.)
 <br><u>Tuesday &amp; Thursday </u>
 <br>8:00 a.m. - 5:30 p.m.
-<br>(Lunch break: 12.30 p.m.-1.30 p.m.)</p>
+<br>(Lunch break: 1.00 p.m.- 2.00 p.m.)</p>
 <p>In case of dental emergencies during clinic closure, please contact the
 following dental clinics:</p>
 <ul data-tight="true" class="tight">
