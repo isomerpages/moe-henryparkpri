@@ -51,7 +51,6 @@ of Thoranam and story-telling.</p>
 patterns and methods in which the traditional fabric was decorated. They
 were then encouraged to explore and create their own fabric pattern via
 the “Block printing” method.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -99,14 +98,56 @@ the “Block printing” method.</p>
 </tr>
 </tbody>
 </table>
-<h3>Decorating of Kolam</h3>
-<p>During recess, booth activities were set up for students to try out on
-decorating Kolam.&nbsp;&nbsp;Many students did a good job in decorating
-different Kolams. The Japanese students, who were visiting our school also
-took part in Kolam decorating activity.</p>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRtxibKfJ3OActnvdHfZTtFHmAraij8ly5h5EtWkC_sEACyncRZLXyKzfBTFbEkKTgzXbBCSxcChuRn/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<h3>Creating of Thoranam</h3>
+<p>During recess, students were able to visit the Thoranam booth and learned
+about crafting Thoranams, a traditional décor. The history behind this
+craft and various types of Thoranams were shown to the students. Students
+of all races and ethnicities took part in creating these Thoranams themselves
+and learned about them through experiential learning.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thoranam_1.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thoranam_2.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thoranam_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thoranam_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Learning Journeys</h3>
 <p>Primary 5 and 6 students attended&nbsp;the Tamil Language Learning Festival
 organised by Umar Pulavar Tamil Language Centre (UPTLC). They took part&nbsp;in
