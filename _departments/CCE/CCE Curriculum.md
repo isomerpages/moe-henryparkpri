@@ -151,9 +151,8 @@ the value of all occupations. Students are also encouraged to access resources
 such as the <strong>SkillsFuture website</strong>  <em>[link to <a href="https://www.myskillsfuture.gov.sg/content/student/en/primary.html" rel="noopener noreferrer nofollow" target="_blank">https://www.myskillsfuture.gov.sg/content/student/en/primary.html</a>]</em> to
 further explore education and career opportunities and prepare confidently
 for the future.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -162,19 +161,13 @@ for the future.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG3.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG2.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG3.jpg">
 </div>
 </td>
 </tr>
