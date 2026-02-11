@@ -9,6 +9,14 @@ variant: tiptap
 <li>
 <p><a href="/files/2026_P5_Term_1_Level_Matters.pdf" rel="noopener noreferrer nofollow" target="_blank">P5 Term 1 Level Matters</a>
 </p>
+</li>
+<li>
+<p><a href="/files/2026_P5_Terms_1_3_Assessment_Schedule__Mainstream_Students_only_.pdf" rel="noopener nofollow" target="_blank">Terms 1 to 3 Assessment Schedule</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_P5_Camp_LTP.pdf" rel="noopener nofollow" target="_blank">P5 Camp Matters</a>
+</p>
 <p></p>
 </li>
 </ol>
