@@ -461,7 +461,7 @@ to the nation.</p>
 <p>Science for Kids!</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://www.sciencenewsforkids.org/" rel="noopener noreferrer nofollow" target="_blank">Science News for Kids</a></strong> 
+<p><strong><a href="http://www.sciencenewsforkids.org/" rel="noopener noreferrer nofollow" target="_blank">Science News for Kids</a></strong>
 </p>
 </td>
 </tr>
@@ -470,8 +470,7 @@ to the nation.</p>
 <p>Others</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://www.moe.gov.sg/education/syllabuses/sciences/" rel="noopener noreferrer nofollow" target="_blank">MOE Primary Science Syllabus</a></strong>
-<br><strong><a href="https://www.science.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Science Centre</a></strong> 
+<p><strong><a href="https://www.science.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Science Centre</a></strong> 
 <br><strong><a href="https://www.sdc.com.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Discovery Centre</a></strong> 
 <br><strong><a href="https://www.wrs.com.sg/en/singapore-zoo/" rel="noopener noreferrer nofollow" target="_blank">Singapore Zoo</a></strong> 
 <br><strong><a href="https://www.wrs.com.sg/en/jurong-bird-park/" rel="noopener noreferrer nofollow" target="_blank">Singapore Bird Park</a></strong>
