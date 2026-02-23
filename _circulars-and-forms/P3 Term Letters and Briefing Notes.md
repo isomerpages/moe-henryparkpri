@@ -9,6 +9,8 @@ variant: tiptap
 <h4>Level Matters &amp; Assessment Schedule</h4>
 <p><a href="/files/2026_P3_Term_1_Level_Matters.pdf" rel="noopener nofollow" target="_blank">P3 Term 1 Level Matters</a>
 </p>
+<p><a href="/files/2026_P3_Term_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 Assessment Schedule</a>
+</p>
 <h4>Subject Briefing Slides</h4>
 <ol data-tight="true" class="tight">
 <li>
@@ -28,7 +30,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/2026_P3_ML___HML_Parent_s_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Malay and Higher Malay </a>
+<p><a href="/files/2026_P3_ML___HML_Parent_s_Briefing_Slides.pdf" rel="noopener nofollow" target="_blank">Malay and Higher Malay</a>
 </p>
 </li>
 <li>
