@@ -1,6 +1,6 @@
 ---
 title: CCE Curriculum
-permalink: /cce-student-management/
+permalink: /cce-curriculum/
 variant: tiptap
 description: ""
 third_nav_title: CCE
