@@ -59,7 +59,7 @@ at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target=
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>HPPA Executive Committee Members 2025</strong>
+<p><strong>HPPA Executive Committee Members 2026</strong>
 </p>
 </td>
 </tr>
@@ -76,7 +76,7 @@ at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target=
 <p>Vice Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chua Yinglin</p>
+<p>Tiffany Hor</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target=
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Karlyn Goh</p>
+<p>Chua Yinglin</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target=
 <p>Assistant Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tiffany Hor</p>
+<p>Lin Cuidan Janice</p>
 </td>
 </tr>
 <tr>
@@ -108,39 +108,7 @@ at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target=
 <p>Assistant Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Dawn Koh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Exco Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Farha'an&nbsp;Bin Ismail</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Exco Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lee Kien Meng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Exco Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohamed Badrulhisham</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Exco Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Zhang Shan Shan</p>
+<p>Stephanie Wong Suk Yee</p>
 </td>
 </tr>
 <tr>
@@ -156,12 +124,28 @@ at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target=
 <p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lin Cuidan Janice</p>
+<p>Farha'an&nbsp;Bin Ismail</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Honorary Auditor</p>
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Zhang Shan Shan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Kien Meng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Exco Member</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Natasha Sawhney</p>
@@ -169,15 +153,31 @@ at <a href="http://linktr.ee/hppa.sg" rel="noopener noreferrer nofollow" target=
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Exco Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cloelle Lim</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Honorary Auditor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Stephanie Wong Suk Yee</p>
+<p>Karlyn Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Honorary Auditor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cindy Ling</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>Accurate as of 28 February 2025</em>
+<p><em>Accurate as of 27 February 2026</em>
 </p>
 <p></p>
 <p></p>
