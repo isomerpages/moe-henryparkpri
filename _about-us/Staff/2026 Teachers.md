@@ -286,10 +286,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Yuxin , Joyce</p>
+<p>Ms Iris Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Huang_Yuxin_Joyce_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_yuxin_joyce_a@moe.edu.sg</a>
+<p><a href="mailto:lee_tse_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tse_pei@moe.edu.sg</a>
+<a href="mailto:Huang_Yuxin_Joyce_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
@@ -307,10 +308,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Sze Hui, Sylvia</p>
+<p>Mrs Joyce Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_sze_hui_sylvia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sze_hui_sylvia@moe.edu.sg</a>
+<p><a href="mailto:joyce_teh_meng_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_teh_meng_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
