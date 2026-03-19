@@ -290,7 +290,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lee_tse_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tse_pei@moe.edu.sg</a>
-<a href="mailto:Huang_Yuxin_Joyce_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 </p>
 </td>
 </tr>
@@ -604,10 +603,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Chua</p>
+<p>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pauline_a@moe.edu.sg</a>
+<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.</a>
 </p>
 </td>
 </tr>
@@ -807,10 +806,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Chunxiao</p>
+<p>Ms Loo Mingjia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chunxiao@moe.edu.sg</a>
+<p><a href="mailto:loo_ming_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_ming_jia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -828,10 +827,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Yong Sheng Yi</p>
+<p>Ms Chu Pau Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Eugene_Yong_Sheng_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eugene_yong_sheng_yi@moe.edu.sg</a>
+<p><a href="mailto:Chu_Pau_Leng_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chu_Pau_Leng_B@moe.edu.sg </a>
 </p>
 </td>
 </tr>
@@ -870,11 +869,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chin Sang</p>
+<p>.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Chin_Sang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_sang@moe.edu.sg</a>
-</p>
+<p>.</p>
 </td>
 </tr>
 <tr>
