@@ -286,10 +286,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Huang Yuxin , Joyce</p>
+<p>Ms Iris Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Huang_Yuxin_Joyce_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_yuxin_joyce_a@moe.edu.sg</a>
+<p><a href="mailto:lee_tse_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tse_pei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -307,10 +307,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lim Sze Hui, Sylvia</p>
+<p>Mrs Joyce Wee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_sze_hui_sylvia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_sze_hui_sylvia@moe.edu.sg</a>
+<p><a href="mailto:joyce_teh_meng_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">joyce_teh_meng_hwee@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -594,20 +594,19 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norrehan Bte Mohamad Jabbar</p>
+<p>Ms Iris See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrehan_mohamad_jabbar@moe.edu.sg</a>
+<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_siao_jun_iris@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Pauline Chua</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_pauline_a@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -806,10 +805,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wang Chunxiao</p>
+<p>Ms Loo Mingjia</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Wang_Chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chunxiao@moe.edu.sg</a>
+<p><a href="mailto:loo_ming_jia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loo_ming_jia@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -827,10 +826,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Eugene Yong Sheng Yi</p>
+<p>Ms Chu Pau Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Eugene_Yong_Sheng_Yi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eugene_yong_sheng_yi@moe.edu.sg</a>
+<p><a href="mailto:Chu_Pau_Leng_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chu_Pau_Leng_B@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -869,10 +868,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Chin Sang</p>
+<p>Mdm Norrehan Bte Mohamad Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Lim_Chin_Sang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_chin_sang@moe.edu.sg</a>
+<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrehan_mohamad_jabbar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -902,10 +901,10 @@ third_nav_title: Staff
 <p>4 Initiative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Tan</p>
+<p>Mrs Norah Idil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:evelyn_tan_kim_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_tan_seng_chew@moe.edu.sg</a>
+<p><a href="mailto:shariffah_norah_abdul_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_norah_abdul_kadir@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -916,6 +915,17 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:collin_keith_sebastian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">collin_keith_sebastian@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
