@@ -475,10 +475,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lau Hui Miang</p>
+<p>Ms Noorashikin Bte Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lau_hui_miang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lau_hui_miang@moe.edu.sg</a>
+<p><a href="mailto:noorashikin_yahya@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">noorashikin_yahya@moe.edu.sg</a>
 </p>
 </td>
 </tr>
