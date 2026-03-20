@@ -594,20 +594,19 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Norrehan Bte Mohamad Jabbar</p>
+<p>Ms Iris See</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrehan_mohamad_jabbar@moe.edu.sg</a>
+<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_siao_jun_iris@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Choo_Bee_Lang_Michelle_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">.</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -830,7 +829,7 @@ third_nav_title: Staff
 <p>Ms Chu Pau Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chu_Pau_Leng_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chu_Pau_Leng_B@moe.edu.sg </a>
+<p><a href="mailto:Chu_Pau_Leng_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chu_Pau_Leng_B@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -869,10 +868,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>.</p>
+<p>Mdm Norrehan Bte Mohamad Jabbar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>.</p>
+<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norrehan_mohamad_jabbar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -901,10 +901,10 @@ third_nav_title: Staff
 <p>4 Initiative</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Irene Tan</p>
+<p>Mrs Norah Idil</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:evelyn_tan_kim_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irene_tan_seng_chew@moe.edu.sg</a>
+<p><a href="mailto:shariffah_norah_abdul_kadir@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shariffah_norah_abdul_kadir@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -915,6 +915,17 @@ third_nav_title: Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:collin_keith_sebastian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">collin_keith_sebastian@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
