@@ -17,5 +17,5 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      background: /images/04_IMG_7941_Cass_Agnes_Edited.jpg
+      background: /images/2026_Term_2.jpg
 ---
