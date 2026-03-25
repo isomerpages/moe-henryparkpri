@@ -17,5 +17,5 @@ sections:
         - title: Useful Links
           description: ""
           url: /useful-links/
-      background: /images/2026_Term_2.jpg
+      background: /images/2026Term_2.jpg
 ---
