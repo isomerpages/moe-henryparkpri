@@ -6,24 +6,16 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>The application for 2025 Parent Volunteer Scheme (for SC/SPR children born between 2 Jan 2021 to 1 Jan 2022) is now closed. </strong>
+<p><strong>The application for 2026 Parent Volunteer Scheme (for SC/SPR children born between 2 Jan 2022 to 1 Jan 2023) is now open.</strong>
 </p>
 <p></p>
-</li>
-<li>
-<p><strong>For 2026 application, do visit our site by end of Apr 2026.</strong>
-</p>
 </li>
 </ul>
-<p></p>
-<p>Refer to the flowchart below.</p>
-<p></p>
-<p></p>
+<p>Refer to the flowchart below. Click <a href="https://form.gov.sg/698da388fdbda51452761555" rel="noopener nofollow" target="_blank">here</a> for the form.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2025 PV Flowchart" src="/images/PV_Flowchart_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Appln_for_2026_Parent_Volunteer_Scheme.jpg">
 </div>
-<p></p>
-<p>The school is under no obligation to respond to queries on reasons of
-non-selection/ non-shortlisting.</p>
+<p><em>The school is under no obligation to respond to queries on reasons of non-selection/ non-shortlisting.</em>
+</p>
 <p></p>
