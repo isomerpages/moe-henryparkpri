@@ -19,5 +19,9 @@ variant: tiptap
 <p><a href="/files/TH_R_I_V_E___Mar_2026.pdf" rel="noopener nofollow" target="_blank">TH.R.I.V.E_Mar 2026</a>
 </p>
 </li>
+<li>
+<p><a href="/files/TH_R_I_V_E___Apr_2026.pdf" rel="noopener nofollow" target="_blank">TH.R.IV.E_Apr 2026</a>
+</p>
+</li>
 </ol>
 <p></p>
