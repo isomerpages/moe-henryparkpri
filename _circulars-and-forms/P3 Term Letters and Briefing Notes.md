@@ -9,6 +9,8 @@ variant: tiptap
 <h4>Level Matters &amp; Assessment Schedule</h4>
 <p><a href="/files/2026_P3_Term_1_Level_Matters.pdf" rel="noopener nofollow" target="_blank">P3 Term 1 Level Matters</a>
 </p>
+<p><a href="/files/2026_P3_Term_2_Level_Matters.pdf" rel="noopener nofollow" target="_blank">P3 Term 2 Level Matters</a>
+</p>
 <p><a href="/files/2026_P3_Term_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 Assessment Schedule</a>
 </p>
 <h4>Subject Briefing Slides</h4>
