@@ -64,6 +64,7 @@ variant: tiptap
 </p>
 <p></p>
 <h4>Direct School Admissions for Secondary Schools (DSA-sec) and Full Subject-Based Banding (Full SBB)</h4>
-<p></p>
-<p><strong>Updates coming soon.</strong>
+<p><a href="/files/DSA_and_SBB_Slides_2026.pdf" rel="noopener nofollow" target="_blank">DSA &amp; SBB Slides</a>
+</p>
+<p><a href="/files/FAQ_2026.pdf" rel="noopener nofollow" target="_blank">DSA &amp; SBB FAQ</a>
 </p>
