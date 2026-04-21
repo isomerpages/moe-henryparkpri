@@ -9,4 +9,6 @@ variant: tiptap
 </p>
 <p><a href="/files/2026_P2_Holistic_Development_Plan.pdf" rel="noopener nofollow" target="_blank">P2 Holistic Development Plan</a>
 </p>
+<p><a href="/files/2026_P2_Term_2_Letter.pdf" rel="noopener nofollow" target="_blank">Term 2 Level Matters</a>
+</p>
 <p></p>
