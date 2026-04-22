@@ -826,11 +826,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chu Pau Leng</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Chu_Pau_Leng_B@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chu_Pau_Leng_B@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
