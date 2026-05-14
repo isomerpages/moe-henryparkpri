@@ -699,10 +699,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Ser Ling Nicole</p>
+<p>Mrs Angela Loy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_Ser_Ling_Nicole_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ser_ling_nicole_a@moe.edu.sg</a>
+<p><a href="mailto:ang_ha_ngek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ha_ngek@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1455,7 +1455,7 @@ third_nav_title: Staff
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_shu_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shu_ning@moe.edu.sg</a> 
+<p><a href="mailto:chew_shu_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shu_ning@moe.edu.sg</a>
 </p>
 </td>
 </tr>
