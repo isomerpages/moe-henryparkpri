@@ -1449,13 +1449,13 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fan Xinyi, Ebellia</p>
+<p>Ms Chew Shu Ning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Fan_Xinyi_Ebellia_D@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fan_Xinyi_Ebellia_D@schools.gov.sg</a>
+<p><a href="mailto:chew_shu_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shu_ning@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
