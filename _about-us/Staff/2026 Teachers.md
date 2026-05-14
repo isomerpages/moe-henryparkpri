@@ -826,10 +826,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Macus Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:macus_rouis_quek_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">macus_rouis_quek_weng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
