@@ -699,10 +699,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Angela Loy</p>
+<p>Mrs Deepak David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ang_ha_ngek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ha_ngek@moe.edu.sg</a>
+<p><a href="mailto:deepak_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deepak_david@moe.edu.sg</a>
 </p>
 </td>
 </tr>
