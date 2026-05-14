@@ -340,10 +340,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Soak Wai&nbsp;</p>
+<p>Ms Xu Chunshan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong_Soak_Wai_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_soak_wai_d@moe.edu.sg</a>
+<p><a href="mailto:xu_chunshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_chunshan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
