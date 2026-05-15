@@ -221,15 +221,6 @@ third_nav_title: Staff
 <p>1 Joyfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Hui Lin Cassandra</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:sim_hui_lin_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_lin_cassandra@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Crystal Lim Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -238,9 +229,6 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Ms Siswati</p>
 </td>
@@ -593,7 +581,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -601,15 +589,6 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:parayanthal_veetil_moli@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">parayanthal_veetil_moli@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Iris See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_siao_jun_iris@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -665,7 +644,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -673,6 +652,15 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_pei_ling_constance_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_pei_ling_constance_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Angela Loy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_ha_ngek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ha_ngek@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -699,10 +687,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Deepak David</p>
+<p>Ms Koh Yanting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:deepak_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deepak_david@moe.edu.sg</a>
+<p><a href="mailto:koh_yanting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yanting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
