@@ -221,19 +221,19 @@ third_nav_title: Staff
 <p>1 Joyfulness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sim Hui Lin Cassandra</p>
+<p>Ms Crystal Lim Jia Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_hui_lin_cassandra@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_hui_lin_cassandra@moe.edu.sg</a>
+<p><a href="mailto:lim_jia_hui_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_hui_crystal@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Crystal Lim Jia Hui</p>
+<p>Ms Siswati</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_jia_hui_crystal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_jia_hui_crystal@moe.edu.sg</a>
+<p><a href="mailto:siswati_samad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siswati_samad@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -328,10 +328,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Soak Wai&nbsp;</p>
+<p>Ms Xu Chunshan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Leong_Soak_Wai_D@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_soak_wai_d@moe.edu.sg</a>
+<p><a href="mailto:xu_chunshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_chunshan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -581,7 +581,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3 Diligence</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -594,19 +594,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Iris See</p>
+<p>Mrs Png Lai Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norrehan_mohamad_jabbar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_siao_jun_iris@moe.edu.sg</a>
+<p><a href="mailto:yeap_lai_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeap_lai_leng@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -652,7 +644,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>3 Generosity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -660,6 +652,15 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yap_pei_ling_constance_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yap_pei_ling_constance_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Angela Loy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ang_ha_ngek@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_ha_ngek@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -686,10 +687,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Ser Ling Nicole</p>
+<p>Ms Koh Yanting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Goh_Ser_Ling_Nicole_A@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ser_ling_nicole_a@moe.edu.sg</a>
+<p><a href="mailto:koh_yanting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_yanting@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -826,10 +827,11 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Macus Quek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:macus_rouis_quek_weng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">macus_rouis_quek_weng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1435,13 +1437,13 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fan Xinyi, Ebellia</p>
+<p>Ms Chew Shu Ning</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Fan_Xinyi_Ebellia_D@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Fan_Xinyi_Ebellia_D@schools.gov.sg</a>
+<p><a href="mailto:chew_shu_ning@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_shu_ning@moe.edu.sg</a>
 </p>
 </td>
 </tr>
