@@ -289,7 +289,7 @@ third_nav_title: Staff
 <p>Ms Iris Koh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_tse_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_tse_pei@moe.edu.sg</a>
+<p><a href="mailto:Iris_lee_tse_pei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Iris_lee_tse_pei@moe.edu.sg</a>
 </p>
 </td>
 </tr>
