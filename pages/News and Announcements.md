@@ -6,6 +6,12 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
+<p><strong>6 Jul 2026, Monday</strong>
+</p>
+<p>Our General Office is close on 6 Jul 2026, Monday for Staff Training event.</p>
+<p></p>
+</li>
+<li>
 <p><strong><u>Eat With Your Family Day (EWYFD)</u></strong>
 </p>
 </li>
