@@ -41,11 +41,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Fatimatus Sakinah</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:fatimatus_sakinah_muhammad_faris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">fatimatus_sakinah_muhammad_faris@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
