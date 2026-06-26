@@ -108,9 +108,7 @@ variant: tiptap
 <p>Corporate Support Officer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chan_mei_shan@schools.gov.sg
-<br>
-</p>
+<p>chan_mei_shan@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +138,7 @@ variant: tiptap
 <p>Mdm Jenap Johari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
+<p>Operation Support Officer (Office)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>jenap_johari@schools.gov.sg</p>
