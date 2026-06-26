@@ -135,17 +135,6 @@ variant: tiptap
 <p>ng_bee_tin@schools.gov.sg</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Jenap Johari</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>jenap_johari@schools.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
