@@ -41,7 +41,7 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Loh Yu Chze</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -314,7 +314,7 @@ third_nav_title: Staff
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p>2 Creativity</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -331,6 +331,15 @@ third_nav_title: Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:xu_chunshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">xu_chunshan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wang Chunxiao</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:xu_chunshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chunxiao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -978,10 +987,10 @@ third_nav_title: Staff
 <p>5 Boldness</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Mei Siew</p>
+<p>Mrs Deepak David</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:toh_mei_siew@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_mei_siew@moe.edu.sg</a>
+<p><a href="mailto:deepak_david@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">deepak_david@moe.edu.sg</a>
 </p>
 </td>
 </tr>
