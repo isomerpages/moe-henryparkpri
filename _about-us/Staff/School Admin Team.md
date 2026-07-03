@@ -135,13 +135,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Jenap Johari</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operation Support Officer (Office)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>jenap_johari@schools.gov.sg</p>
+<p></p>
 </td>
 </tr>
 </tbody>
