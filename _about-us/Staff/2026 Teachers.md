@@ -44,7 +44,8 @@ third_nav_title: Staff
 <p>Mr Loh Yu Chze</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loh_yu_chze_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yu_chze_b@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -339,7 +340,7 @@ third_nav_title: Staff
 <p>Ms Wang Chunxiao</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:xu_chunshan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chunxiao@moe.edu.sg</a>
+<p><a href="mailto:wang_chunxiao@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_chunxiao@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1480,4 +1481,5 @@ third_nav_title: Staff
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="mailto:loh_yu_chze_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yu_chze_b@moe.edu.sg</a>
+</p>
