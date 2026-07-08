@@ -36,7 +36,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>24 June 2026</strong>
+<p><strong>3 September 2026</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
