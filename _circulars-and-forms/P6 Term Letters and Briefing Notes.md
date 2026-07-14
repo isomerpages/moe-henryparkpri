@@ -14,6 +14,14 @@ variant: tiptap
 <p><a href="/files/2026_P6_Sem_1_Assessment_Schedule__Mainstream_.pdf" rel="noopener nofollow" target="_blank">Semester 1 Assessment Schedule</a>
 </p>
 </li>
+<li>
+<p><a href="/files/2026_P6_Prelim_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 Prelim Timetable</a>
+</p>
+</li>
+<li>
+<p><a href="/files/2026_PSLE_Timetable.pdf" rel="noopener nofollow" target="_blank">2026 PSLE Timetable</a>
+</p>
+</li>
 </ol>
 <p></p>
 <h4>P6 Subject Briefing Slides</h4>
