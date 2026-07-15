@@ -13,6 +13,8 @@ variant: tiptap
 </p>
 <p><a href="/files/2026_P3_Term_Assessment_Schedule.pdf" rel="noopener nofollow" target="_blank">P3 Assessment Schedule</a>
 </p>
+<p><a href="/files/2026_P3_EOY_Examinations.pdf" rel="noopener nofollow" target="_blank">P3 EOY Examination Schedule</a>
+</p>
 <h4>Subject Briefing Slides</h4>
 <ol data-tight="true" class="tight">
 <li>
