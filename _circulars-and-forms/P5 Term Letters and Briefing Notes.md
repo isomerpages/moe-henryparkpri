@@ -17,6 +17,10 @@ variant: tiptap
 <li>
 <p><a href="/files/2026_P5_Camp_LTP.pdf" rel="noopener nofollow" target="_blank">P5 Camp Matters</a>
 </p>
+</li>
+<li>
+<p><a href="/files/2026_P5_EOY_Assessments.pdf" rel="noopener nofollow" target="_blank">P5 EOY Assessments</a>
+</p>
 <p></p>
 </li>
 </ol>
