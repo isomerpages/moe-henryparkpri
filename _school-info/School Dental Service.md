@@ -9,9 +9,6 @@ variant: tiptap
 Jul 2026.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>30 Jun 2026</p>
-</li>
-<li>
 <p>1 Jul 2026 to 3 Jul 2026</p>
 </li>
 <li>
@@ -19,6 +16,13 @@ Jul 2026.</p>
 </li>
 <li>
 <p>27 Jul 2026 to 31 Jul 2026</p>
+</li>
+<li>
+<p>10 Aug 2026 to 12 Aug 2026</p>
+</li>
+<li>
+<p>24 Aug 2026 to 28 Aug 2026</p>
+<p></p>
 <p></p>
 </li>
 </ul>
