@@ -567,7 +567,7 @@ variant: tiptap
 <p>Ms Noorashikin Bte Yahya</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher - Special Education Nereds (SEN)</p>
+<p>Senior Teacher - Special Education Needs (SEN)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>noorashikin_yahya@moe.edu.sg</p>
