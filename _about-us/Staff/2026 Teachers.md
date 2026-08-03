@@ -41,11 +41,10 @@ third_nav_title: Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Yu Chze</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_yu_chze_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_yu_chze_b@moe.edu.sg</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
