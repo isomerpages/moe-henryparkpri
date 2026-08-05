@@ -35,5 +35,9 @@ variant: tiptap
 <p><a href="/files/TH_R_I_V_E___Jul_2026.pdf" rel="noopener nofollow" target="_blank">TH.R.I.V.E_Jul 2026</a>
 </p>
 </li>
+<li>
+<p><a href="/files/TH_R_I_V_E___Aug_2026.pdf" rel="noopener nofollow" target="_blank">TH.R.I.V.E_Aug 2026</a>
+</p>
+</li>
 </ol>
 <p></p>
