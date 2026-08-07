@@ -6,9 +6,9 @@ variant: tiptap
 ---
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>6 Jul 2026, Monday</strong>
+<p><strong>7 Aug 2026, Friday</strong>
 </p>
-<p>Our General Office is close on 6 Jul 2026, Monday for Staff Training event.</p>
+<p>Our General Office will close at 4.30pm on 7 Aug 2026, Friday.</p>
 <p></p>
 </li>
 <li>
